@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-kuayazip", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["8ab8b5a77bcc04d8931d1f5bc1f453c96be481dc813be226dcf05f1ab11bc84c"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "快压zip", "description": "分组 partK · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "8ab8b5a77bcc04d8931d1f5bc1f453c96be481dc813be226dcf05f1ab11bc84c", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-kuayazip",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8ab8b5a77bcc04d8931d1f5bc1f453c96be481dc813be226dcf05f1ab11bc84c"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "快压zip",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "8ab8b5a77bcc04d8931d1f5bc1f453c96be481dc813be226dcf05f1ab11bc84c",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "kuaizip.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

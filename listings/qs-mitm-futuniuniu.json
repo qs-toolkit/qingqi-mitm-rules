@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-futuniuniu", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["494915d52e877ca8713a94e5d60207006a30e02dd35217d89a1b6631ca6cbb26"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "富途牛牛", "description": "分组 partF · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "494915d52e877ca8713a94e5d60207006a30e02dd35217d89a1b6631ca6cbb26", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-futuniuniu",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "494915d52e877ca8713a94e5d60207006a30e02dd35217d89a1b6631ca6cbb26"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "富途牛牛",
+  "description": "拦截 1 个域名 · 5 条改写",
+  "scope": [],
+  "revisionId": "494915d52e877ca8713a94e5d60207006a30e02dd35217d89a1b6631ca6cbb26",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api*.futunn.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

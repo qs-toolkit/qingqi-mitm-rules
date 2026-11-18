@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-chaoxingxuexitong", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["e2d9352e25151f1c63df253330819c50e97126532de368cd61c3a0c41a71e197"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "超星学习通", "description": "分组 partC · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "e2d9352e25151f1c63df253330819c50e97126532de368cd61c3a0c41a71e197", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-chaoxingxuexitong",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e2d9352e25151f1c63df253330819c50e97126532de368cd61c3a0c41a71e197"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "超星学习通",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "e2d9352e25151f1c63df253330819c50e97126532de368cd61c3a0c41a71e197",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "learn.chaoxing.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

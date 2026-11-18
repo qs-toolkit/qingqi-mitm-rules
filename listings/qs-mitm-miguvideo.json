@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-miguvideo", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["4b1272773df54637ebdb5b13153ef24873e7041fe5ea3b945379c4fc1d46330d"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "咪咕视频", "description": "分组 partM · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "4b1272773df54637ebdb5b13153ef24873e7041fe5ea3b945379c4fc1d46330d", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-miguvideo",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4b1272773df54637ebdb5b13153ef24873e7041fe5ea3b945379c4fc1d46330d"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "咪咕视频",
+  "description": "拦截 8 个域名 · 7 条改写 · 1 个脚本 · 8 条分流规则",
+  "scope": [],
+  "revisionId": "4b1272773df54637ebdb5b13153ef24873e7041fe5ea3b945379c4fc1d46330d",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ggc.miguvideo.com",
+    "public-deliver9.miguvideo.com",
+    "display*-sc.miguvideo.com",
+    "recommend-dy.miguvideo.com",
+    "app-sc.miguvideo.com",
+    "common-sc.miguvideo.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

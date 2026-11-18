@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-pinduoduo", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["e4bb0ad0f174292767ed7a718281d9426965ee5d784d75c3f0f26e5acc744b29"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "拼多多", "description": "分组 partP · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "e4bb0ad0f174292767ed7a718281d9426965ee5d784d75c3f0f26e5acc744b29", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-pinduoduo",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e4bb0ad0f174292767ed7a718281d9426965ee5d784d75c3f0f26e5acc744b29"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "拼多多",
+  "description": "拦截 3 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "e4bb0ad0f174292767ed7a718281d9426965ee5d784d75c3f0f26e5acc744b29",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.pinduoduo.com",
+    "api.yangkeduo.com",
+    "mobile.yangkeduo.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-gamersky", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["42101e5b9d5493bfab7e2a8cc3b07265d51a3734019735e5f640c8e56f95c23f"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "游民星空", "description": "分组 partY · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "42101e5b9d5493bfab7e2a8cc3b07265d51a3734019735e5f640c8e56f95c23f", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-gamersky",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "42101e5b9d5493bfab7e2a8cc3b07265d51a3734019735e5f640c8e56f95c23f"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "游民星空",
+  "description": "拦截 1 个域名 · 3 条改写 · 2 条分流规则",
+  "scope": [],
+  "revisionId": "42101e5b9d5493bfab7e2a8cc3b07265d51a3734019735e5f640c8e56f95c23f",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "*.gamersky.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

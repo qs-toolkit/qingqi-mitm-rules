@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-baidu", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["76baa8951362d00bb6987cd989995779f6c500fd5716d6dc0083837905e0f1a1"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "百度", "description": "分组 partB · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "76baa8951362d00bb6987cd989995779f6c500fd5716d6dc0083837905e0f1a1", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-baidu",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "76baa8951362d00bb6987cd989995779f6c500fd5716d6dc0083837905e0f1a1"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "百度",
+  "description": "拦截 12 个域名 · 14 条改写 · 148 条分流规则",
+  "scope": [],
+  "revisionId": "76baa8951362d00bb6987cd989995779f6c500fd5716d6dc0083837905e0f1a1",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "www.baidu.com",
+    "fcvbjbcebos.baidu.com",
+    "cover.baidu.com",
+    "baichuan.baidu.com",
+    "api*.tuisong.baidu.com",
+    "afd.baidu.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

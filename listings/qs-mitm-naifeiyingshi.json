@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-naifeiyingshi", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["75dabbe278adb97ab726b4038af4a6fc7e4a120e3572514d65a3b711ed6c2159"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "奈菲影视", "description": "分组 partN · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "75dabbe278adb97ab726b4038af4a6fc7e4a120e3572514d65a3b711ed6c2159", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-naifeiyingshi",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "75dabbe278adb97ab726b4038af4a6fc7e4a120e3572514d65a3b711ed6c2159"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "奈菲影视",
+  "description": "拦截 1 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "75dabbe278adb97ab726b4038af4a6fc7e4a120e3572514d65a3b711ed6c2159",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "www.nfmovies.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

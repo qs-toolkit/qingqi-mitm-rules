@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-fanliwang", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["a3d10f85082337864ed6821ef301f50572fadb984fbe476b3a073e7fdb4802a7"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "返利网", "description": "分组 partF · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "a3d10f85082337864ed6821ef301f50572fadb984fbe476b3a073e7fdb4802a7", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-fanliwang",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a3d10f85082337864ed6821ef301f50572fadb984fbe476b3a073e7fdb4802a7"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "返利网",
+  "description": "拦截 1 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "a3d10f85082337864ed6821ef301f50572fadb984fbe476b3a073e7fdb4802a7",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "l*.51fanli.net"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

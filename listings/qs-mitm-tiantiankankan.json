@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-tiantiankankan", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["e5d00ad46598a2d393b6d8e39282acb1128fa9d64a21af06683a509dc1eadcf0"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "天天看看", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "e5d00ad46598a2d393b6d8e39282acb1128fa9d64a21af06683a509dc1eadcf0", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tiantiankankan",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e5d00ad46598a2d393b6d8e39282acb1128fa9d64a21af06683a509dc1eadcf0"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "天天看看",
+  "description": "拦截 7 条分流规则",
+  "scope": [],
+  "revisionId": "e5d00ad46598a2d393b6d8e39282acb1128fa9d64a21af06683a509dc1eadcf0",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "biz5.kankan.com",
+    "distf.kankan.com",
+    "float.kankan.com",
+    "kkpgv.kankan.com",
+    "kkpgv2.kankan.com",
+    "cpm.cm.kankan.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

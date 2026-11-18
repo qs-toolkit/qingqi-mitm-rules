@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-meituan", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["92cc3c57b0fb1ab2d5482fc7288b517b777515370923f9302654e96b3a2423ff"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "美团", "description": "分组 partM · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "92cc3c57b0fb1ab2d5482fc7288b517b777515370923f9302654e96b3a2423ff", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-meituan",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "92cc3c57b0fb1ab2d5482fc7288b517b777515370923f9302654e96b3a2423ff"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "美团",
+  "description": "拦截 10 条分流规则",
+  "scope": [],
+  "revisionId": "92cc3c57b0fb1ab2d5482fc7288b517b777515370923f9302654e96b3a2423ff",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "meituan.xn",
+    "meituan.yoga",
+    "meituangov.cn",
+    "report.meituan.com",
+    "analytics.meituan.net",
+    "wmlog.meituan.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

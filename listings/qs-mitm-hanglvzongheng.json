@@ -1,1 +1,24 @@
-{"listingId": "qs-mitm-hanglvzongheng", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["244df3048c9bed47e475e9838abb8a88cd1176690443a3354715d9e88bdc4979"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "航旅纵横", "description": "分组 partH · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "244df3048c9bed47e475e9838abb8a88cd1176690443a3354715d9e88bdc4979", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-hanglvzongheng",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "244df3048c9bed47e475e9838abb8a88cd1176690443a3354715d9e88bdc4979"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "航旅纵横",
+  "description": "拦截 4 个域名 · 2 条改写 · 1 个脚本",
+  "scope": [],
+  "revisionId": "244df3048c9bed47e475e9838abb8a88cd1176690443a3354715d9e88bdc4979",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "home.umetrip.com",
+    "discardrp.umetrip.com",
+    "startup.umetrip.com",
+    "oss.umetrip.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-ningju", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["62cb188c9622eeac939180b444d8eb24d75e63b770784018a229a32b1a4a2740"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "宁聚", "description": "分组 partN · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "62cb188c9622eeac939180b444d8eb24d75e63b770784018a229a32b1a4a2740", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-ningju",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "62cb188c9622eeac939180b444d8eb24d75e63b770784018a229a32b1a4a2740"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "宁聚",
+  "description": "拦截 1 个域名 · 2 条改写",
+  "scope": [],
+  "revisionId": "62cb188c9622eeac939180b444d8eb24d75e63b770784018a229a32b1a4a2740",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.nj.nbtv.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

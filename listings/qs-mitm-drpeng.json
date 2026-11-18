@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-drpeng", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["002dbd31a804061efb1a8adfb71a2d7e4c3f92f74227a050f48d093c42292815"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Dr.Peng", "description": "分组 partD · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "002dbd31a804061efb1a8adfb71a2d7e4c3f92f74227a050f48d093c42292815", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-drpeng",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "002dbd31a804061efb1a8adfb71a2d7e4c3f92f74227a050f48d093c42292815"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Dr.Peng",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "002dbd31a804061efb1a8adfb71a2d7e4c3f92f74227a050f48d093c42292815",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "211.161.101.110/32"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

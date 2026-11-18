@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-zhigongpuhui", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["ff4f36a5e8be3e872cff34a32b3569a6c74b782f39fc517e608ff7ed5e3ee94b"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "职工普惠", "description": "分组 partZ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "ff4f36a5e8be3e872cff34a32b3569a6c74b782f39fc517e608ff7ed5e3ee94b", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-zhigongpuhui",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ff4f36a5e8be3e872cff34a32b3569a6c74b782f39fc517e608ff7ed5e3ee94b"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "职工普惠",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "ff4f36a5e8be3e872cff34a32b3569a6c74b782f39fc517e608ff7ed5e3ee94b",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "preprod.cdzghome.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

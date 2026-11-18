@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-zheliban", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["ac879bb11551fe6a3ea63f61d7eacf449bb3b864f853cc8ac5d0dd3f42d9a5bb"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "浙里办", "description": "分组 partZ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "ac879bb11551fe6a3ea63f61d7eacf449bb3b864f853cc8ac5d0dd3f42d9a5bb", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-zheliban",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ac879bb11551fe6a3ea63f61d7eacf449bb3b864f853cc8ac5d0dd3f42d9a5bb"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "浙里办",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "ac879bb11551fe6a3ea63f61d7eacf449bb3b864f853cc8ac5d0dd3f42d9a5bb",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "portal.zjzwfw.gov.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

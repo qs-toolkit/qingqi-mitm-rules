@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-hema", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["477efdd04c86820382342eabed39ad971fa8e4dd93d83eea21f2ffefbb193f2c"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "盒马", "description": "分组 partH · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "477efdd04c86820382342eabed39ad971fa8e4dd93d83eea21f2ffefbb193f2c", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-hema",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "477efdd04c86820382342eabed39ad971fa8e4dd93d83eea21f2ffefbb193f2c"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "盒马",
+  "description": "拦截 2 个域名 · 6 条改写 · 1 个脚本",
+  "scope": [],
+  "revisionId": "477efdd04c86820382342eabed39ad971fa8e4dd93d83eea21f2ffefbb193f2c",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "acs.m.taobao.com",
+    "acs-m.freshippo.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

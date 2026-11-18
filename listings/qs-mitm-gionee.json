@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-gionee", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["0aaefa047e757177c5b80598ff564565a3e7ef6db3b12f5862c1681f404431d8"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "金立 (Gionee)", "description": "分组 partJ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "0aaefa047e757177c5b80598ff564565a3e7ef6db3b12f5862c1681f404431d8", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-gionee",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0aaefa047e757177c5b80598ff564565a3e7ef6db3b12f5862c1681f404431d8"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "金立 (Gionee)",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "0aaefa047e757177c5b80598ff564565a3e7ef6db3b12f5862c1681f404431d8",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "pdl.gionee.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

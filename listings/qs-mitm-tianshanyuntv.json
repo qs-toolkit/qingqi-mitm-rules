@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-tianshanyuntv", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["414305f1d65ff0bdcef3fd767224d428c6aaa898a713193eab81bc0e32e5736c"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "天山云TV", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "414305f1d65ff0bdcef3fd767224d428c6aaa898a713193eab81bc0e32e5736c", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tianshanyuntv",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "414305f1d65ff0bdcef3fd767224d428c6aaa898a713193eab81bc0e32e5736c"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "天山云TV",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "414305f1d65ff0bdcef3fd767224d428c6aaa898a713193eab81bc0e32e5736c",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "www.tsytv.com.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

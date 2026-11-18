@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-bing", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["57ce2fa1ebf02d0250ece206e0bbf4bd3d8ddc8788411d804349fff53aef17e9"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Bing", "description": "分组 partB · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "57ce2fa1ebf02d0250ece206e0bbf4bd3d8ddc8788411d804349fff53aef17e9", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-bing",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "57ce2fa1ebf02d0250ece206e0bbf4bd3d8ddc8788411d804349fff53aef17e9"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Bing",
+  "description": "拦截 2 条分流规则",
+  "scope": [],
+  "revisionId": "57ce2fa1ebf02d0250ece206e0bbf4bd3d8ddc8788411d804349fff53aef17e9",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "bat.bing.com",
+    "c.bing.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

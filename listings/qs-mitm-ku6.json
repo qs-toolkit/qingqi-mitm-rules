@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-ku6", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["a45bfb77e9cc2214291df657dcd9e46467e574b95cc7900d66028d4df08cb87c"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "酷6网", "description": "分组 partK · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "a45bfb77e9cc2214291df657dcd9e46467e574b95cc7900d66028d4df08cb87c", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-ku6",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a45bfb77e9cc2214291df657dcd9e46467e574b95cc7900d66028d4df08cb87c"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "酷6网",
+  "description": "拦截 7 条分流规则",
+  "scope": [],
+  "revisionId": "a45bfb77e9cc2214291df657dcd9e46467e574b95cc7900d66028d4df08cb87c",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "st.vq.ku6.cn",
+    "addata.ku6.com",
+    "pvdata.ku6.com",
+    "static.ku6.com",
+    "gug.ku6cdn.com",
+    "vi1.ku6img.net"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

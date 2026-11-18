@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-tuanyou", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["d6de879f0116caf6ffffe8754febec9f08eb02443ef2ba6f42fc31540b36f539"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "团油", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "d6de879f0116caf6ffffe8754febec9f08eb02443ef2ba6f42fc31540b36f539", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tuanyou",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d6de879f0116caf6ffffe8754febec9f08eb02443ef2ba6f42fc31540b36f539"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "团油",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "d6de879f0116caf6ffffe8754febec9f08eb02443ef2ba6f42fc31540b36f539",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "img1.czb365.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

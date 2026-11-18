@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-360childguard", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["f2fc1df0a5d41d39980d63e55c8c01873903d060f712ea70f9465d27da39c540"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "360儿童卫士", "description": "分组 part3 · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "f2fc1df0a5d41d39980d63e55c8c01873903d060f712ea70f9465d27da39c540", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-360childguard",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f2fc1df0a5d41d39980d63e55c8c01873903d060f712ea70f9465d27da39c540"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "360儿童卫士",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "f2fc1df0a5d41d39980d63e55c8c01873903d060f712ea70f9465d27da39c540",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ad.life.360.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

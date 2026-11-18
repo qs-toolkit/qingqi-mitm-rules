@@ -1,1 +1,25 @@
-{"listingId": "qs-mitm-51job", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["58809bcad8bf84b9fadb4c4da5adc74fc363f90f1435c9655cbca1b0a54337c4"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "前程无忧 51Job", "description": "分组 partQ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "58809bcad8bf84b9fadb4c4da5adc74fc363f90f1435c9655cbca1b0a54337c4", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-51job",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "58809bcad8bf84b9fadb4c4da5adc74fc363f90f1435c9655cbca1b0a54337c4"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "前程无忧 51Job",
+  "description": "拦截 5 个域名 · 11 条改写 · 3 个脚本",
+  "scope": [],
+  "revisionId": "58809bcad8bf84b9fadb4c4da5adc74fc363f90f1435c9655cbca1b0a54337c4",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "appapi.51job*.com",
+    "cupid.51job*.comhostname",
+    "=",
+    "img01.51jobcdn.com",
+    "cupid.51job*.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

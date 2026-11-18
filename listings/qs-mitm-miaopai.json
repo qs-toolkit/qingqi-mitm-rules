@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-miaopai", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["a0eb21126868d346bb34bd26033ed3b155dd38e9d701f6ce1487c7b4173b78c1"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "秒拍", "description": "分组 partM · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "a0eb21126868d346bb34bd26033ed3b155dd38e9d701f6ce1487c7b4173b78c1", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-miaopai",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a0eb21126868d346bb34bd26033ed3b155dd38e9d701f6ce1487c7b4173b78c1"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "秒拍",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "a0eb21126868d346bb34bd26033ed3b155dd38e9d701f6ce1487c7b4173b78c1",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "b-api.ins.miaopai.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

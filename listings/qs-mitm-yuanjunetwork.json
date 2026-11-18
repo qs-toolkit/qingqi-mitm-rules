@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-yuanjunetwork", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["6cf14302029d256556f1dc11b03e9fee85cf4907bf9ec849588813f61998bb7c"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "元聚网络（漫画岛，追书神器，甜瓜小说）", "description": "分组 partY · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "6cf14302029d256556f1dc11b03e9fee85cf4907bf9ec849588813f61998bb7c", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-yuanjunetwork",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6cf14302029d256556f1dc11b03e9fee85cf4907bf9ec849588813f61998bb7c"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "元聚网络（漫画岛，追书神器，甜瓜小说）",
+  "description": "拦截 9 条分流规则",
+  "scope": [],
+  "revisionId": "6cf14302029d256556f1dc11b03e9fee85cf4907bf9ec849588813f61998bb7c",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "d.1391.com",
+    "lyapi.1391.com",
+    "lyjk.1391.com",
+    "mhd.1391.com",
+    "mhdpay.1391.com",
+    "mhdtestks3.1391.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

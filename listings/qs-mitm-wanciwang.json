@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-wanciwang", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["36909f2a496c9e774b9bc2d31fa05ad62fb84ac95829e5f5e72e37b1db06964e"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "万词王", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "36909f2a496c9e774b9bc2d31fa05ad62fb84ac95829e5f5e72e37b1db06964e", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-wanciwang",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "36909f2a496c9e774b9bc2d31fa05ad62fb84ac95829e5f5e72e37b1db06964e"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "万词王",
+  "description": "拦截 2 个域名 · 4 条改写",
+  "scope": [],
+  "revisionId": "36909f2a496c9e774b9bc2d31fa05ad62fb84ac95829e5f5e72e37b1db06964e",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "wanciwangdata.oss-cn-beijing.aliyuncs.com",
+    "recite.perfectlingo.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

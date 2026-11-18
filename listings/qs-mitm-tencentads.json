@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-tencentads", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["7a6dfee34842c915f0a8c1af8e16e48b9505f66f7553128b5df038b996931f2a"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "腾讯广告", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "7a6dfee34842c915f0a8c1af8e16e48b9505f66f7553128b5df038b996931f2a", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tencentads",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7a6dfee34842c915f0a8c1af8e16e48b9505f66f7553128b5df038b996931f2a"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "腾讯广告",
+  "description": "拦截 17 个域名",
+  "scope": [],
+  "revisionId": "7a6dfee34842c915f0a8c1af8e16e48b9505f66f7553128b5df038b996931f2a",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "btrace.qq.com",
+    "api2.helper.qq.com",
+    "*.beacon.qq.com",
+    "mi.gdt.qq.com",
+    "lives.l.qq.com",
+    "imgcache.qq.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

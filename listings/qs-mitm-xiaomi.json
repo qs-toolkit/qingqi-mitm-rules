@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-xiaomi", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["48334c088c181983a6a83eda5632a6eaffdf9ec570a551a7c9eb7b11d0433acb"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "小米", "description": "分组 partX · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "48334c088c181983a6a83eda5632a6eaffdf9ec570a551a7c9eb7b11d0433acb", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-xiaomi",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "48334c088c181983a6a83eda5632a6eaffdf9ec570a551a7c9eb7b11d0433acb"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "小米",
+  "description": "拦截 57 条分流规则",
+  "scope": [],
+  "revisionId": "48334c088c181983a6a83eda5632a6eaffdf9ec570a551a7c9eb7b11d0433acb",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "XiaoQiang",
+    "ad.mi.com",
+    "ad1.xiaomi.com",
+    "admob.xiaomi.com",
+    "shenghuo.xiaomi.com",
+    "xmpush.xiaomi.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

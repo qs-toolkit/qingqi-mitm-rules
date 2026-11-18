@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-wifimasterkey", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["4befeb8c8f58fade9d4b2a469433cd0c5f5075e60283a9b42952529a829dedfe"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "WiFi万能钥匙", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "4befeb8c8f58fade9d4b2a469433cd0c5f5075e60283a9b42952529a829dedfe", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-wifimasterkey",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4befeb8c8f58fade9d4b2a469433cd0c5f5075e60283a9b42952529a829dedfe"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "WiFi万能钥匙",
+  "description": "拦截 1 个域名 · 1 条改写 · 20 条分流规则",
+  "scope": [],
+  "revisionId": "4befeb8c8f58fade9d4b2a469433cd0c5f5075e60283a9b42952529a829dedfe",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "cds.wifi188.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

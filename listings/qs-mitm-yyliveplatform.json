@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-yyliveplatform", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["b140a813ac325055ce15c28d96c6478c34ece69db4ad7937814118945b9df6ea"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "YY直播平台", "description": "分组 partY · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "b140a813ac325055ce15c28d96c6478c34ece69db4ad7937814118945b9df6ea", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-yyliveplatform",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b140a813ac325055ce15c28d96c6478c34ece69db4ad7937814118945b9df6ea"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "YY直播平台",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "b140a813ac325055ce15c28d96c6478c34ece69db4ad7937814118945b9df6ea",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "gt.yy.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

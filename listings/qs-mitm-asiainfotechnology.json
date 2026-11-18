@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-asiainfotechnology", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["75c36c344f319014a50ace000c9a669683e7a19d2a472c9b9dcdfea01b3d9da3"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "亚信科技", "description": "分组 partY · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "75c36c344f319014a50ace000c9a669683e7a19d2a472c9b9dcdfea01b3d9da3", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-asiainfotechnology",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "75c36c344f319014a50ace000c9a669683e7a19d2a472c9b9dcdfea01b3d9da3"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "亚信科技",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "75c36c344f319014a50ace000c9a669683e7a19d2a472c9b9dcdfea01b3d9da3",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ad.asiainfo.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

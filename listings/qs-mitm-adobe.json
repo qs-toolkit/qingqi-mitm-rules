@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-adobe", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["83753e14b860f02efef1771570db508d12fc9367d00305da9a58bf587efc43e6"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Adobe", "description": "分组 partA · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "83753e14b860f02efef1771570db508d12fc9367d00305da9a58bf587efc43e6", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-adobe",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "83753e14b860f02efef1771570db508d12fc9367d00305da9a58bf587efc43e6"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Adobe",
+  "description": "拦截 26 条分流规则",
+  "scope": [],
+  "revisionId": "83753e14b860f02efef1771570db508d12fc9367d00305da9a58bf587efc43e6",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "3dns-2.adobe.com",
+    "3dns-3.adobe.com",
+    "activate.adobe.com",
+    "activate-sea.adobe.com",
+    "activate-sjc0.adobe.com",
+    "adobe-dns.adobe.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

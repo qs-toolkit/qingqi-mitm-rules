@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-kandongfang", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["0773a1af8faa611f38640f94ee8dcb7462341b2d64164b598b2ec3d04732afd8"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "看东方（百视TV）", "description": "分组 partK · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "0773a1af8faa611f38640f94ee8dcb7462341b2d64164b598b2ec3d04732afd8", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-kandongfang",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0773a1af8faa611f38640f94ee8dcb7462341b2d64164b598b2ec3d04732afd8"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "看东方（百视TV）",
+  "description": "拦截 2 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "0773a1af8faa611f38640f94ee8dcb7462341b2d64164b598b2ec3d04732afd8",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "bp-api.bestv.com.cn",
+    "bp-api.bestv.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

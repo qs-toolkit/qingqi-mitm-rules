@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-zhangshanglol", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["248f675e039a9774ff70f74f67b3af8ab326ec20e6e190b6e9b4461f20eef118"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "掌上英雄联盟", "description": "分组 partZ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "248f675e039a9774ff70f74f67b3af8ab326ec20e6e190b6e9b4461f20eef118", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-zhangshanglol",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "248f675e039a9774ff70f74f67b3af8ab326ec20e6e190b6e9b4461f20eef118"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "掌上英雄联盟",
+  "description": "拦截 3 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "248f675e039a9774ff70f74f67b3af8ab326ec20e6e190b6e9b4461f20eef118",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "us.l.qq.com",
+    "ossweb-img.qq.com",
+    "mlol.qt.qq.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

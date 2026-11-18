@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-yinshengxiaoymanager", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["d2901b9b6aaebaca275b7603a2ff532295b96415a9a08ed2333fdd755f7a6c50"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "银盛小Y管家", "description": "分组 partY · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "d2901b9b6aaebaca275b7603a2ff532295b96415a9a08ed2333fdd755f7a6c50", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-yinshengxiaoymanager",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d2901b9b6aaebaca275b7603a2ff532295b96415a9a08ed2333fdd755f7a6c50"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "银盛小Y管家",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "d2901b9b6aaebaca275b7603a2ff532295b96415a9a08ed2333fdd755f7a6c50",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ads.ysepay.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

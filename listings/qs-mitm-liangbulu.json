@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-liangbulu", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["281441041ea1b98c96760a47a72913180c5e697c6ead4a9057f21b34e7e07153"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "两步路", "description": "分组 partL · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "281441041ea1b98c96760a47a72913180c5e697c6ead4a9057f21b34e7e07153", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-liangbulu",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "281441041ea1b98c96760a47a72913180c5e697c6ead4a9057f21b34e7e07153"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "两步路",
+  "description": "拦截 1 条改写 · 1 条分流规则",
+  "scope": [],
+  "revisionId": "281441041ea1b98c96760a47a72913180c5e697c6ead4a9057f21b34e7e07153",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "admobile.top"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-tencentgamescommunity", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["38909168b4739d3546c893a93262608ab9300773a10e4c653db07b9de387fae4"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "腾讯游戏社区", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "38909168b4739d3546c893a93262608ab9300773a10e4c653db07b9de387fae4", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tencentgamescommunity",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "38909168b4739d3546c893a93262608ab9300773a10e4c653db07b9de387fae4"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "腾讯游戏社区",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "38909168b4739d3546c893a93262608ab9300773a10e4c653db07b9de387fae4",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "static.gameplus.qq.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

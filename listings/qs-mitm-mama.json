@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-mama", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["940ae6076111edfcf027c2f0c97b08e771abc37804bbe0a7b80f22d0a27f685d"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "妈妈网", "description": "分组 partM · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "940ae6076111edfcf027c2f0c97b08e771abc37804bbe0a7b80f22d0a27f685d", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-mama",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "940ae6076111edfcf027c2f0c97b08e771abc37804bbe0a7b80f22d0a27f685d"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "妈妈网",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "940ae6076111edfcf027c2f0c97b08e771abc37804bbe0a7b80f22d0a27f685d",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ad.mama.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

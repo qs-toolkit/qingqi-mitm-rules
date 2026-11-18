@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-csdn", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["6ad9e23118cabae5ba2a48a05b2c7c6f9a9f64ead638480c02baa3719d896244"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "CSDN", "description": "分组 partC · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "6ad9e23118cabae5ba2a48a05b2c7c6f9a9f64ead638480c02baa3719d896244", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-csdn",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6ad9e23118cabae5ba2a48a05b2c7c6f9a9f64ead638480c02baa3719d896244"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "CSDN",
+  "description": "拦截 2 个域名 · 3 条改写 · 5 条分流规则",
+  "scope": [],
+  "revisionId": "6ad9e23118cabae5ba2a48a05b2c7c6f9a9f64ead638480c02baa3719d896244",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "app-gw.csdn.net",
+    "gw.csdn.net"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

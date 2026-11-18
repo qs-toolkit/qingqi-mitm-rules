@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-qimaonovel", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["1c879bda11b612974424bc337d14f05f544d0d44449f40f206ef818ac89fe042"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "七猫小说", "description": "分组 partQ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "1c879bda11b612974424bc337d14f05f544d0d44449f40f206ef818ac89fe042", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-qimaonovel",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1c879bda11b612974424bc337d14f05f544d0d44449f40f206ef818ac89fe042"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "七猫小说",
+  "description": "拦截 8 个域名 · 7 条改写 · 7 条分流规则",
+  "scope": [],
+  "revisionId": "1c879bda11b612974424bc337d14f05f544d0d44449f40f206ef818ac89fe042",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "open.e.kuaishou.cn",
+    "api-access.pangolin-sdk-toutiao-b.com",
+    "api-access.pangolin-sdk-toutiao.com",
+    "api-access.pangolin-sdk-toutiao1.com",
+    "dsp-x.jd.com",
+    "api-cfg.wtzw.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-amazon", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["6fa64094ed73b4499e1cdc120bf7ead950e3a91f7877907b792b8011643fc494"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Amazon", "description": "分组 partA · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "6fa64094ed73b4499e1cdc120bf7ead950e3a91f7877907b792b8011643fc494", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-amazon",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6fa64094ed73b4499e1cdc120bf7ead950e3a91f7877907b792b8011643fc494"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Amazon",
+  "description": "拦截 1 个域名 · 2 条改写 · 10 条分流规则",
+  "scope": [],
+  "revisionId": "6fa64094ed73b4499e1cdc120bf7ead950e3a91f7877907b792b8011643fc494",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api-cslp-emt.amazon.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

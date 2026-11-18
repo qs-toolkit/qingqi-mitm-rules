@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-xueqiu", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["0ee29c31ecd3b0109eefc2756f77bd8fbafa96d677fdcbaa87f9aa56e5021c00"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "雪球", "description": "分组 partX · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "0ee29c31ecd3b0109eefc2756f77bd8fbafa96d677fdcbaa87f9aa56e5021c00", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-xueqiu",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0ee29c31ecd3b0109eefc2756f77bd8fbafa96d677fdcbaa87f9aa56e5021c00"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "雪球",
+  "description": "拦截 12 个域名 · 12 条改写 · 1 条分流规则",
+  "scope": [],
+  "revisionId": "0ee29c31ecd3b0109eefc2756f77bd8fbafa96d677fdcbaa87f9aa56e5021c00",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.xueqiu.com",
+    "open.xueqiu.com",
+    "stock.xueqiu.com",
+    "39.103.79.14",
+    "39.106.97.84",
+    "47.95.49.75"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

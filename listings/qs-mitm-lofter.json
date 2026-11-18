@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-lofter", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["2760954274b0feff22f6829e871d92a012fab3133d0a158b07397d4f5d2c182a"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "lofter", "description": "分组 partL · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "2760954274b0feff22f6829e871d92a012fab3133d0a158b07397d4f5d2c182a", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-lofter",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2760954274b0feff22f6829e871d92a012fab3133d0a158b07397d4f5d2c182a"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "lofter",
+  "description": "拦截 3 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "2760954274b0feff22f6829e871d92a012fab3133d0a158b07397d4f5d2c182a",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ad.lofter.com",
+    "images.pinduoduo.com",
+    "lofter.lf127.net"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

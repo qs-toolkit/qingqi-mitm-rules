@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-chinaguangfabank", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["33ade66dfe6de79f82e4b4f6e0aa1092f0bdafb7fdb0fade97f039e435c48b59"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "广发银行", "description": "分组 partG · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "33ade66dfe6de79f82e4b4f6e0aa1092f0bdafb7fdb0fade97f039e435c48b59", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-chinaguangfabank",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "33ade66dfe6de79f82e4b4f6e0aa1092f0bdafb7fdb0fade97f039e435c48b59"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "广发银行",
+  "description": "拦截 2 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "33ade66dfe6de79f82e4b4f6e0aa1092f0bdafb7fdb0fade97f039e435c48b59",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "static.95508.com",
+    "mps.95508.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

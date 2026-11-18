@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-hao123", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["24125588734e7c20ebcee2ea1ea096da044212218f8f78c74a53c23ef3f8c6d0"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Hao123", "description": "分组 partH · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "24125588734e7c20ebcee2ea1ea096da044212218f8f78c74a53c23ef3f8c6d0", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-hao123",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "24125588734e7c20ebcee2ea1ea096da044212218f8f78c74a53c23ef3f8c6d0"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Hao123",
+  "description": "拦截 3 条分流规则",
+  "scope": [],
+  "revisionId": "24125588734e7c20ebcee2ea1ea096da044212218f8f78c74a53c23ef3f8c6d0",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "hao123rt.com",
+    "1.hao123.com",
+    "mini.hao123.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

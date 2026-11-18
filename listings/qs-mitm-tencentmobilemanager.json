@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-tencentmobilemanager", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["f3f721ad0ecb0acba3d50c8a7fefede5d5f61fa80c0e58d4c2a010999ff8dbcf"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "腾讯手机管家", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "f3f721ad0ecb0acba3d50c8a7fefede5d5f61fa80c0e58d4c2a010999ff8dbcf", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tencentmobilemanager",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f3f721ad0ecb0acba3d50c8a7fefede5d5f61fa80c0e58d4c2a010999ff8dbcf"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "腾讯手机管家",
+  "description": "拦截 1 个域名",
+  "scope": [],
+  "revisionId": "f3f721ad0ecb0acba3d50c8a7fefede5d5f61fa80c0e58d4c2a010999ff8dbcf",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "otheve.beacon.qq.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

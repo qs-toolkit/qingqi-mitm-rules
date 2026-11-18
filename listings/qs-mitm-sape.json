@@ -1,1 +1,24 @@
-{"listingId": "qs-mitm-sape", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["29b3837632523e58cd492bd46476bd8725b5669c4df453c58551348be0946edf"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Sape", "description": "分组 partS · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "29b3837632523e58cd492bd46476bd8725b5669c4df453c58551348be0946edf", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-sape",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "29b3837632523e58cd492bd46476bd8725b5669c4df453c58551348be0946edf"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Sape",
+  "description": "拦截 4 条分流规则",
+  "scope": [],
+  "revisionId": "29b3837632523e58cd492bd46476bd8725b5669c4df453c58551348be0946edf",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "sape.ru",
+    "cdn-rtb.sape.ru",
+    "dispenser-rtb.sape.ru",
+    "ssp-rtb.sape.ru"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

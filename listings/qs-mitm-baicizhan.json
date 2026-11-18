@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-baicizhan", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["31805d7a1e4f164f014702d8bccc2b824bc9377f889126d282ea1818f149dd7d"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "百词斩", "description": "分组 partB · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "31805d7a1e4f164f014702d8bccc2b824bc9377f889126d282ea1818f149dd7d", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-baicizhan",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "31805d7a1e4f164f014702d8bccc2b824bc9377f889126d282ea1818f149dd7d"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "百词斩",
+  "description": "拦截 2 条分流规则",
+  "scope": [],
+  "revisionId": "31805d7a1e4f164f014702d8bccc2b824bc9377f889126d282ea1818f149dd7d",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "advertise.baicizhan.com",
+    "advertise.baicizhan.org"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

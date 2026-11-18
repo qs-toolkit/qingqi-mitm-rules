@@ -1,1 +1,24 @@
-{"listingId": "qs-mitm-hupu", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["1c93a7be649d797f772d27eee13f5dd01c780e4031c5ebd7a072b185cf6dbc34"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "虎扑", "description": "分组 partH · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "1c93a7be649d797f772d27eee13f5dd01c780e4031c5ebd7a072b185cf6dbc34", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-hupu",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1c93a7be649d797f772d27eee13f5dd01c780e4031c5ebd7a072b185cf6dbc34"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "虎扑",
+  "description": "拦截 4 个域名 · 8 条改写 · 5 条分流规则",
+  "scope": [],
+  "revisionId": "1c93a7be649d797f772d27eee13f5dd01c780e4031c5ebd7a072b185cf6dbc34",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "games.mobileapi.hupu.com",
+    "du.hupucdn.com",
+    "i*.hoopchina.com.cn",
+    "goblin.hupu.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

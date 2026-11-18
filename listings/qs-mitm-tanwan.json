@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-tanwan", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["d8bd0524c113dc1ddb8dc41cc4b64a62c48da1d6e40dd6b5403f4f9abd3f3f8c"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Tanwan (贪玩)", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "d8bd0524c113dc1ddb8dc41cc4b64a62c48da1d6e40dd6b5403f4f9abd3f3f8c", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tanwan",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d8bd0524c113dc1ddb8dc41cc4b64a62c48da1d6e40dd6b5403f4f9abd3f3f8c"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Tanwan (贪玩)",
+  "description": "拦截 12 条分流规则",
+  "scope": [],
+  "revisionId": "d8bd0524c113dc1ddb8dc41cc4b64a62c48da1d6e40dd6b5403f4f9abd3f3f8c",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "mytanwan.com",
+    "tanwanyx.com",
+    "app.tanwan.com",
+    "wap.tanwan.com",
+    "gafxa.code.mytanwan.com",
+    "ldpgl.code.mytanwan.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

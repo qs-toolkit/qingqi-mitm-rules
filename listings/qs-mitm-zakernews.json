@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-zakernews", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["7e63d1a575bf4d21a00531ab1684128d23438a2b8bf295441be65da8d3a6efda"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "ZAKER新闻", "description": "分组 partZ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "7e63d1a575bf4d21a00531ab1684128d23438a2b8bf295441be65da8d3a6efda", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-zakernews",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7e63d1a575bf4d21a00531ab1684128d23438a2b8bf295441be65da8d3a6efda"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "ZAKER新闻",
+  "description": "拦截 3 条分流规则",
+  "scope": [],
+  "revisionId": "7e63d1a575bf4d21a00531ab1684128d23438a2b8bf295441be65da8d3a6efda",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "adm.myzaker.com",
+    "ggs.myzaker.com",
+    "push-android.myzaker.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

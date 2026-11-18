@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-neteasedashen", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["a7f98847ea642da336e421beb63043dd1d7b7eaa62f771c753fec5105ca67fc9"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "网易大神", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "a7f98847ea642da336e421beb63043dd1d7b7eaa62f771c753fec5105ca67fc9", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-neteasedashen",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a7f98847ea642da336e421beb63043dd1d7b7eaa62f771c753fec5105ca67fc9"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "网易大神",
+  "description": "拦截 2 个域名 · 3 条改写 · 10 条分流规则",
+  "scope": [],
+  "revisionId": "a7f98847ea642da336e421beb63043dd1d7b7eaa62f771c753fec5105ca67fc9",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "god.gameyw.netease.com",
+    "app-conf.ds.163.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

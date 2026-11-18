@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-ceb", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["a77f915812430ca089c13f63981ba69f476abbe84ef80f463b27ad5a9457d0d5"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "光大银行", "description": "分组 partG · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "a77f915812430ca089c13f63981ba69f476abbe84ef80f463b27ad5a9457d0d5", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-ceb",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a77f915812430ca089c13f63981ba69f476abbe84ef80f463b27ad5a9457d0d5"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "光大银行",
+  "description": "拦截 2 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "a77f915812430ca089c13f63981ba69f476abbe84ef80f463b27ad5a9457d0d5",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "mobile.cebbank.com",
+    "yghsh.cebbank.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

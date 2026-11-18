@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-youshu", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["8cea60b6a636debdbb794d93d07cb18a7cf90bf9a5aebbd84e94c9fd3e36c059"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "优书", "description": "分组 partY · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "8cea60b6a636debdbb794d93d07cb18a7cf90bf9a5aebbd84e94c9fd3e36c059", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-youshu",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8cea60b6a636debdbb794d93d07cb18a7cf90bf9a5aebbd84e94c9fd3e36c059"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "优书",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "8cea60b6a636debdbb794d93d07cb18a7cf90bf9a5aebbd84e94c9fd3e36c059",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "gongdu.youshu.cc"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

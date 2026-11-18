@@ -1,1 +1,25 @@
-{"listingId": "qs-mitm-wostore", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["ab17a060ba056b1be8bdf74fbaef9c2894c37a1466b9d686d574f0c6fa9c5f74"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Wostore (联通沃商店)", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "ab17a060ba056b1be8bdf74fbaef9c2894c37a1466b9d686d574f0c6fa9c5f74", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-wostore",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ab17a060ba056b1be8bdf74fbaef9c2894c37a1466b9d686d574f0c6fa9c5f74"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Wostore (联通沃商店)",
+  "description": "拦截 5 条分流规则",
+  "scope": [],
+  "revisionId": "ab17a060ba056b1be8bdf74fbaef9c2894c37a1466b9d686d574f0c6fa9c5f74",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "appspromote.wostore.cn",
+    "secpay.wostore.cn",
+    "unilog.wostore.cn",
+    "unipaydl.wostore.cn",
+    "unipayupg.wostore.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

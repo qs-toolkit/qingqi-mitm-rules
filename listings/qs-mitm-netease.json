@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-netease", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["e35100c9a16ea70b0e1b5934eee1fcbcbfc813898456d49fa662e9fc03a04bae"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "网易", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "e35100c9a16ea70b0e1b5934eee1fcbcbfc813898456d49fa662e9fc03a04bae", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-netease",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e35100c9a16ea70b0e1b5934eee1fcbcbfc813898456d49fa662e9fc03a04bae"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "网易",
+  "description": "拦截 93 条分流规则",
+  "scope": [],
+  "revisionId": "e35100c9a16ea70b0e1b5934eee1fcbcbfc813898456d49fa662e9fc03a04bae",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "dsp.youdao.com",
+    "union.youdao.com",
+    "ad.bn.netease.com",
+    "ad.yixin.im",
+    "admusicpic.music.126.net",
+    "g1.163.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-turn", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["1be48694a9a41fcfcb9f601999d64d8d3cf833b0ad9ccc41dda3b959e3a52274"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Turn", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "1be48694a9a41fcfcb9f601999d64d8d3cf833b0ad9ccc41dda3b959e3a52274", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-turn",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1be48694a9a41fcfcb9f601999d64d8d3cf833b0ad9ccc41dda3b959e3a52274"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Turn",
+  "description": "拦截 2 条分流规则",
+  "scope": [],
+  "revisionId": "1be48694a9a41fcfcb9f601999d64d8d3cf833b0ad9ccc41dda3b959e3a52274",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ad.turn.com",
+    "d.turn.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

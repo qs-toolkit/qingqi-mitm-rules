@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-autohome", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["f508254fadb76295f740a30c0043ffd165610cadf896e6a8abd6472b4d154e75"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "汽车之家", "description": "分组 partQ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "f508254fadb76295f740a30c0043ffd165610cadf896e6a8abd6472b4d154e75", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-autohome",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f508254fadb76295f740a30c0043ffd165610cadf896e6a8abd6472b4d154e75"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "汽车之家",
+  "description": "拦截 2 个域名 · 2 条改写 · 33 条分流规则",
+  "scope": [],
+  "revisionId": "f508254fadb76295f740a30c0043ffd165610cadf896e6a8abd6472b4d154e75",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "adproxy.autohome.com.cn",
+    "app2.autoimg.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

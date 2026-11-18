@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-meizu", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["7b99e11c25277ded90f8722b9f76778371a0c7e3ec480fb7cec7449e19ce9545"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "魅族 (Meizu)", "description": "分组 partM · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "7b99e11c25277ded90f8722b9f76778371a0c7e3ec480fb7cec7449e19ce9545", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-meizu",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7b99e11c25277ded90f8722b9f76778371a0c7e3ec480fb7cec7449e19ce9545"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "魅族 (Meizu)",
+  "description": "拦截 21 条分流规则",
+  "scope": [],
+  "revisionId": "7b99e11c25277ded90f8722b9f76778371a0c7e3ec480fb7cec7449e19ce9545",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api-flow.flyme.cn",
+    "bro.flyme.cn",
+    "t-e.flyme.cn",
+    "t-flow.flyme.cn",
+    "aider-res.meizu.com",
+    "api-game.meizu.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

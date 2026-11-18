@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-chinadaily", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["e8f8464d93964cce3edadea7140a9db96c0c7581264b3b8e49289bcf96bd6070"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "中国日报", "description": "分组 partZ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "e8f8464d93964cce3edadea7140a9db96c0c7581264b3b8e49289bcf96bd6070", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-chinadaily",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e8f8464d93964cce3edadea7140a9db96c0c7581264b3b8e49289bcf96bd6070"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "中国日报",
+  "description": "拦截 2 条分流规则",
+  "scope": [],
+  "revisionId": "e8f8464d93964cce3edadea7140a9db96c0c7581264b3b8e49289bcf96bd6070",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "same.chinadaily.com.cn",
+    "usercollection.chinadaily.com.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

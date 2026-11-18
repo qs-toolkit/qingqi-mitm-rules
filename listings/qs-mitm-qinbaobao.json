@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-qinbaobao", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["5fdb22e396b206d57684e184c8309857288341cc737c574b78f1ea4bb59d3fc8"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "亲宝宝", "description": "分组 partQ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "5fdb22e396b206d57684e184c8309857288341cc737c574b78f1ea4bb59d3fc8", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-qinbaobao",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5fdb22e396b206d57684e184c8309857288341cc737c574b78f1ea4bb59d3fc8"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "亲宝宝",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "5fdb22e396b206d57684e184c8309857288341cc737c574b78f1ea4bb59d3fc8",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.qbb6.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

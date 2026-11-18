@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-adalliance", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["b5136096e2318fb835b05f795dcb53945bb0273901aaac75d31e70e528cc6ab0"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "快手联盟,优量汇,穿山甲「广告联盟」", "description": "分组 partK · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "b5136096e2318fb835b05f795dcb53945bb0273901aaac75d31e70e528cc6ab0", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-adalliance",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b5136096e2318fb835b05f795dcb53945bb0273901aaac75d31e70e528cc6ab0"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "快手联盟,优量汇,穿山甲「广告联盟」",
+  "description": "拦截 3 个域名 · 1 个脚本",
+  "scope": [],
+  "revisionId": "b5136096e2318fb835b05f795dcb53945bb0273901aaac75d31e70e528cc6ab0",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api-access.pangolin-sdk-toutiao.com",
+    "mi.gdt.qq.com",
+    "open.e.kuaishou.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

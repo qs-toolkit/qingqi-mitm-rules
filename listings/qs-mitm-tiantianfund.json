@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-tiantianfund", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["854e27a7b9bba37cbe0126dd92f40d0086f4e8f258b8d704ac2b5fce40b88e63"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "天天基金", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "854e27a7b9bba37cbe0126dd92f40d0086f4e8f258b8d704ac2b5fce40b88e63", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tiantianfund",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "854e27a7b9bba37cbe0126dd92f40d0086f4e8f258b8d704ac2b5fce40b88e63"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "天天基金",
+  "description": "拦截 2 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "854e27a7b9bba37cbe0126dd92f40d0086f4e8f258b8d704ac2b5fce40b88e63",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "j5.dfcfw.com",
+    "appactive.1234567.com.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

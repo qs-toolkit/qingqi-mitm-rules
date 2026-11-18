@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-baidumaps", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["167a8987c13fa0d629aefd2afc41297efa90e6ca9628a189c58cc2d597762d1b"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "百度地图", "description": "分组 partB · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "167a8987c13fa0d629aefd2afc41297efa90e6ca9628a189c58cc2d597762d1b", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-baidumaps",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "167a8987c13fa0d629aefd2afc41297efa90e6ca9628a189c58cc2d597762d1b"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "百度地图",
+  "description": "拦截 6 个域名 · 6 条改写 · 1 个脚本 · 4 条分流规则",
+  "scope": [],
+  "revisionId": "167a8987c13fa0d629aefd2afc41297efa90e6ca9628a189c58cc2d597762d1b",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "dss0.bdstatic.com",
+    "tb1.bdstatic.com",
+    "tb2.bdstatic.com",
+    "ss0.bdstatic.com",
+    "gss0.bdstatic.com",
+    "newclient.map.baidu.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

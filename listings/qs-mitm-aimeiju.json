@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-aimeiju", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["d04b37db6f5bc477899810862cf97d3a70902d67b64eac47952bfba969fd6408"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "爱美剧", "description": "分组 partA · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "d04b37db6f5bc477899810862cf97d3a70902d67b64eac47952bfba969fd6408", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-aimeiju",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d04b37db6f5bc477899810862cf97d3a70902d67b64eac47952bfba969fd6408"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "爱美剧",
+  "description": "拦截 1 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "d04b37db6f5bc477899810862cf97d3a70902d67b64eac47952bfba969fd6408",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.bjxkhc.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

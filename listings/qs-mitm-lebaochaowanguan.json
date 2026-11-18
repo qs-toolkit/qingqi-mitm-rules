@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-lebaochaowanguan", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["eb686117aa0b29d35994166e6f444cfda4550651036436f503d2cbb491e75256"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "乐堡潮玩馆小程序", "description": "分组 partL · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "eb686117aa0b29d35994166e6f444cfda4550651036436f503d2cbb491e75256", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-lebaochaowanguan",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "eb686117aa0b29d35994166e6f444cfda4550651036436f503d2cbb491e75256"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "乐堡潮玩馆小程序",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "eb686117aa0b29d35994166e6f444cfda4550651036436f503d2cbb491e75256",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "tbgapplet.carlsberg.asia"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

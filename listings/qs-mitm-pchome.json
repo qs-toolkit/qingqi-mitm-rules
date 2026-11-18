@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-pchome", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["8d27e6f3cc41c8c33e009a3fd6544553c3f76e0e1f1bd92adc548d79d08070e8"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "电脑之家", "description": "分组 partD · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "8d27e6f3cc41c8c33e009a3fd6544553c3f76e0e1f1bd92adc548d79d08070e8", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-pchome",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8d27e6f3cc41c8c33e009a3fd6544553c3f76e0e1f1bd92adc548d79d08070e8"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "电脑之家",
+  "description": "拦截 6 条分流规则",
+  "scope": [],
+  "revisionId": "8d27e6f3cc41c8c33e009a3fd6544553c3f76e0e1f1bd92adc548d79d08070e8",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "btn.pchome.net",
+    "js-1.pchome.net",
+    "pf.pchome.net",
+    "pf-2.pchome.net",
+    "ad.pchome.com.tw",
+    "adcl.pchome.com.tw"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,24 @@
-{"listingId": "qs-mitm-maidanba", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["ab0aaa7b29f5fa38fb2a97262eda324f9f114e649577668c15384d86c6cbe2db"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "买单吧", "description": "分组 partM · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "ab0aaa7b29f5fa38fb2a97262eda324f9f114e649577668c15384d86c6cbe2db", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-maidanba",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ab0aaa7b29f5fa38fb2a97262eda324f9f114e649577668c15384d86c6cbe2db"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "买单吧",
+  "description": "拦截 4 个域名 · 3 条改写 · 1 个脚本 · 1 条分流规则",
+  "scope": [],
+  "revisionId": "ab0aaa7b29f5fa38fb2a97262eda324f9f114e649577668c15384d86c6cbe2db",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "creditcardapp.bankcomm.cn",
+    "creditcardapp.bankcomm.com",
+    "creditcard.bankcomm.cn",
+    "creditcard.bankcomm.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

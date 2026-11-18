@@ -1,1 +1,24 @@
-{"listingId": "qs-mitm-xiachufang", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["66de489f9809a657143174b06ed233d27f0a24c15af36652dbc290a54c38588d"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "下厨房", "description": "分组 partX · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "66de489f9809a657143174b06ed233d27f0a24c15af36652dbc290a54c38588d", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-xiachufang",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "66de489f9809a657143174b06ed233d27f0a24c15af36652dbc290a54c38588d"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "下厨房",
+  "description": "拦截 4 个域名 · 5 条改写",
+  "scope": [],
+  "revisionId": "66de489f9809a657143174b06ed233d27f0a24c15af36652dbc290a54c38588d",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "*.pglstatp-toutiao.com",
+    "res1.hubcloud.com.cnhostname",
+    "=",
+    "api.xiachufang.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

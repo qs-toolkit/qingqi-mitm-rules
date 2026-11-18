@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-xcarauto", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["eb5a62817a6a054d1e38ddae9dd0f26dd567005dcb8fbc1131a7bcb7507e4524"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "爱卡汽车网", "description": "分组 partA · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "eb5a62817a6a054d1e38ddae9dd0f26dd567005dcb8fbc1131a7bcb7507e4524", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-xcarauto",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "eb5a62817a6a054d1e38ddae9dd0f26dd567005dcb8fbc1131a7bcb7507e4524"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "爱卡汽车网",
+  "description": "拦截 3 条分流规则",
+  "scope": [],
+  "revisionId": "eb5a62817a6a054d1e38ddae9dd0f26dd567005dcb8fbc1131a7bcb7507e4524",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "d0.xcar.com.cn",
+    "dw.xcar.com.cn",
+    "pv.xcar.com.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

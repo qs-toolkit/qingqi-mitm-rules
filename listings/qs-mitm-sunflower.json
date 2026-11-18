@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-sunflower", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["3084dc3a3910c8d4b5b55abe00744383f6f3c3397574e2378d260d32a4f3a7ec"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "向日葵", "description": "分组 partX · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "3084dc3a3910c8d4b5b55abe00744383f6f3c3397574e2378d260d32a4f3a7ec", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-sunflower",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3084dc3a3910c8d4b5b55abe00744383f6f3c3397574e2378d260d32a4f3a7ec"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "向日葵",
+  "description": "拦截 1 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "3084dc3a3910c8d4b5b55abe00744383f6f3c3397574e2378d260d32a4f3a7ec",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "client-api-v2.oray.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

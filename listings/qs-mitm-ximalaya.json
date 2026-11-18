@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-ximalaya", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["cd741738b2927300c6b97d4194b8b460ff055206b0e7b0e1444373eca8a57386"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "喜马拉雅", "description": "分组 partX · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "cd741738b2927300c6b97d4194b8b460ff055206b0e7b0e1444373eca8a57386", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-ximalaya",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "cd741738b2927300c6b97d4194b8b460ff055206b0e7b0e1444373eca8a57386"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "喜马拉雅",
+  "description": "拦截 8 个域名 · 22 条改写 · 9 条分流规则",
+  "scope": [],
+  "revisionId": "cd741738b2927300c6b97d4194b8b460ff055206b0e7b0e1444373eca8a57386",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "gslbali.ximalaya.com",
+    "search.ximalaya.com",
+    "searchwsa.ximalaya.com",
+    "mobile.ximalaya.com",
+    "mobilehera.ximalaya.com",
+    "mobwsa.ximalaya.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

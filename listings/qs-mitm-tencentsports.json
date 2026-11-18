@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-tencentsports", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["078ee497036904aa880d56260d2b413c5a7b592a9b1a709a87ef4050f3ea937c"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "腾讯体育", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "078ee497036904aa880d56260d2b413c5a7b592a9b1a709a87ef4050f3ea937c", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tencentsports",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "078ee497036904aa880d56260d2b413c5a7b592a9b1a709a87ef4050f3ea937c"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "腾讯体育",
+  "description": "拦截 2 个域名 · 2 条改写",
+  "scope": [],
+  "revisionId": "078ee497036904aa880d56260d2b413c5a7b592a9b1a709a87ef4050f3ea937c",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "news.ssp.qq.com",
+    "sports3.gtimg.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

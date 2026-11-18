@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-pipixia", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["a0bab8798460a3df5370ec5b598f2cf984c4b76ce9287e50cda94ba549e59526"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "皮皮虾", "description": "分组 partP · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "a0bab8798460a3df5370ec5b598f2cf984c4b76ce9287e50cda94ba549e59526", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-pipixia",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a0bab8798460a3df5370ec5b598f2cf984c4b76ce9287e50cda94ba549e59526"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "皮皮虾",
+  "description": "拦截 3 条分流规则",
+  "scope": [],
+  "revisionId": "a0bab8798460a3df5370ec5b598f2cf984c4b76ce9287e50cda94ba549e59526",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "log-api.pangolin-sdk-toutiao-b.com",
+    "log-api.pangolin-sdk-toutiao.com",
+    "api-access.pangolin-sdk-toutiao.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

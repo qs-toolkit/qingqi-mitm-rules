@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-tencent", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["344a112d85660f76f9b50c8bb7215991c0a48eca91dcb3fdd940936cfd841e66"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "腾讯系", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "344a112d85660f76f9b50c8bb7215991c0a48eca91dcb3fdd940936cfd841e66", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tencent",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "344a112d85660f76f9b50c8bb7215991c0a48eca91dcb3fdd940936cfd841e66"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "腾讯系",
+  "description": "拦截 39 条分流规则",
+  "scope": [],
+  "revisionId": "344a112d85660f76f9b50c8bb7215991c0a48eca91dcb3fdd940936cfd841e66",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "activeqq.3g.qq.com",
+    "ad.qq.com",
+    "adping.qq.com",
+    "adpm.app.qq.com",
+    "adrdir.qq.com",
+    "adsclick.qq.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

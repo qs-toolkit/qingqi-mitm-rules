@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-renrenvideo", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["c344b0056fb6b779327b5305c29330b9895e0a0ece73180d241bcd95cf61eff1"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "人人视频", "description": "分组 partR · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "c344b0056fb6b779327b5305c29330b9895e0a0ece73180d241bcd95cf61eff1", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-renrenvideo",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c344b0056fb6b779327b5305c29330b9895e0a0ece73180d241bcd95cf61eff1"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "人人视频",
+  "description": "拦截 1 个域名 · 2 条改写 · 9 个脚本 · 7 条分流规则",
+  "scope": [],
+  "revisionId": "c344b0056fb6b779327b5305c29330b9895e0a0ece73180d241bcd95cf61eff1",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.rr.tv"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

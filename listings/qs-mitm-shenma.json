@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-shenma", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["a71374ea1eb510f1a859f2faab6828381521c405afaca5fe6113f60f6110f161"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "神马", "description": "分组 partS · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "a71374ea1eb510f1a859f2faab6828381521c405afaca5fe6113f60f6110f161", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-shenma",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a71374ea1eb510f1a859f2faab6828381521c405afaca5fe6113f60f6110f161"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "神马",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "a71374ea1eb510f1a859f2faab6828381521c405afaca5fe6113f60f6110f161",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "editor.sm.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

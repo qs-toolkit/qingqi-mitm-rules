@@ -1,1 +1,25 @@
-{"listingId": "qs-mitm-yinyuetai", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["cfae098dfcba6491a3cc0f8ed80348b1a296bd919dc34c67eb1007da0267a9d6"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "音悦Tai", "description": "分组 partY · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "cfae098dfcba6491a3cc0f8ed80348b1a296bd919dc34c67eb1007da0267a9d6", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-yinyuetai",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "cfae098dfcba6491a3cc0f8ed80348b1a296bd919dc34c67eb1007da0267a9d6"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "音悦Tai",
+  "description": "拦截 5 条分流规则",
+  "scope": [],
+  "revisionId": "cfae098dfcba6491a3cc0f8ed80348b1a296bd919dc34c67eb1007da0267a9d6",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "shop.yinyuetai.com",
+    "statisticsv2.yinyuetai.com",
+    "shop.admin.yinyuetai.com",
+    "t.collect.yinyuetai.com",
+    "client.stats.yinyuetai.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

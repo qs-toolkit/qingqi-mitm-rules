@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-damai", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["a46129a502a3cad547415592b9cab34632ea2723da5a2dd5b499db7b7e48e50a"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "大麦", "description": "分组 partD · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "a46129a502a3cad547415592b9cab34632ea2723da5a2dd5b499db7b7e48e50a", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-damai",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a46129a502a3cad547415592b9cab34632ea2723da5a2dd5b499db7b7e48e50a"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "大麦",
+  "description": "拦截 2 个域名 · 2 条改写",
+  "scope": [],
+  "revisionId": "a46129a502a3cad547415592b9cab34632ea2723da5a2dd5b499db7b7e48e50a",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "acs.m.taobao.com",
+    "amdc.m.taobao.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

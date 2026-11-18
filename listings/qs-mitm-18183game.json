@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-18183game", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["f726ec4bae0d97ca2abac050bbb5fd8a1738a70b4db16d4325c921674dbaf4cc"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "18183游戏网", "description": "分组 part1 · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "f726ec4bae0d97ca2abac050bbb5fd8a1738a70b4db16d4325c921674dbaf4cc", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-18183game",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f726ec4bae0d97ca2abac050bbb5fd8a1738a70b4db16d4325c921674dbaf4cc"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "18183游戏网",
+  "description": "拦截 3 条分流规则",
+  "scope": [],
+  "revisionId": "f726ec4bae0d97ca2abac050bbb5fd8a1738a70b4db16d4325c921674dbaf4cc",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "img1.18183.com",
+    "eezdx.erc.18183.com",
+    "zpe.klre.18183.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

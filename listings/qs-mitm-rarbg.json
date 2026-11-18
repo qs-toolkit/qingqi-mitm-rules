@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-rarbg", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["8968804e42c789d62869181e91ce3a2477db6c1824317553585e7d5d36af9abc"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "RARBG", "description": "分组 partR · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "8968804e42c789d62869181e91ce3a2477db6c1824317553585e7d5d36af9abc", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-rarbg",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8968804e42c789d62869181e91ce3a2477db6c1824317553585e7d5d36af9abc"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "RARBG",
+  "description": "拦截 1 个域名 · 2 条改写",
+  "scope": [],
+  "revisionId": "8968804e42c789d62869181e91ce3a2477db6c1824317553585e7d5d36af9abc",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "dyncdn.me"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

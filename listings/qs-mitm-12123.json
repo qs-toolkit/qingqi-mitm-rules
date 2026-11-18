@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-12123", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["252a792a0564c12e8ef4c8ea6e327aceb8e79b99393bfd0f9e4b18d0800cee1c"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "12123", "description": "分组 part1 · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "252a792a0564c12e8ef4c8ea6e327aceb8e79b99393bfd0f9e4b18d0800cee1c", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-12123",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "252a792a0564c12e8ef4c8ea6e327aceb8e79b99393bfd0f9e4b18d0800cee1c"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "12123",
+  "description": "平安出行 12123 净化",
+  "scope": [],
+  "revisionId": "252a792a0564c12e8ef4c8ea6e327aceb8e79b99393bfd0f9e4b18d0800cee1c",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.12123.example.com"
+  ],
+  "upstream": "fmz200",
+  "homepage": ""
+}

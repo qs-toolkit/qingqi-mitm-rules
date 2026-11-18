@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-shanmeng", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["f85aeef9dd8e6b832d02eb4c693425df962e44e99b67c69f0b7ac5bd0cc81c82"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "闪萌", "description": "分组 partS · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "f85aeef9dd8e6b832d02eb4c693425df962e44e99b67c69f0b7ac5bd0cc81c82", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-shanmeng",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f85aeef9dd8e6b832d02eb4c693425df962e44e99b67c69f0b7ac5bd0cc81c82"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "闪萌",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "f85aeef9dd8e6b832d02eb4c693425df962e44e99b67c69f0b7ac5bd0cc81c82",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ad.weshineapp.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

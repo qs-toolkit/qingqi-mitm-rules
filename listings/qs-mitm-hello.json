@@ -1,1 +1,19 @@
-{"listingId": "qs-mitm-hello", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["e97175e3d160ca35a11974a2f75272f88bf3b97526cc72cef1e42544fd611eb8"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "哈啰", "description": "分组 partH · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "e97175e3d160ca35a11974a2f75272f88bf3b97526cc72cef1e42544fd611eb8", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-hello",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e97175e3d160ca35a11974a2f75272f88bf3b97526cc72cef1e42544fd611eb8"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "哈啰",
+  "description": "",
+  "scope": [],
+  "revisionId": "e97175e3d160ca35a11974a2f75272f88bf3b97526cc72cef1e42544fd611eb8",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

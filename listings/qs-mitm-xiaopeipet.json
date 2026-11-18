@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-xiaopeipet", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["5b5a10003fd9afeb31e468f060e1e129232776d91d33f91ff615b9d5425a97ce"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "小佩宠物", "description": "分组 partX · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "5b5a10003fd9afeb31e468f060e1e129232776d91d33f91ff615b9d5425a97ce", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-xiaopeipet",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5b5a10003fd9afeb31e468f060e1e129232776d91d33f91ff615b9d5425a97ce"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "小佩宠物",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "5b5a10003fd9afeb31e468f060e1e129232776d91d33f91ff615b9d5425a97ce",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.petkit.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

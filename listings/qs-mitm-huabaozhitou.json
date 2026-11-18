@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-huabaozhitou", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["aef4d2402cde9e4cb7821971866de1a0cafc50ea33488bd41de1d0f359a8b1dc"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "华宝智投", "description": "分组 partH · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "aef4d2402cde9e4cb7821971866de1a0cafc50ea33488bd41de1d0f359a8b1dc", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-huabaozhitou",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "aef4d2402cde9e4cb7821971866de1a0cafc50ea33488bd41de1d0f359a8b1dc"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "华宝智投",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "aef4d2402cde9e4cb7821971866de1a0cafc50ea33488bd41de1d0f359a8b1dc",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.touker.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

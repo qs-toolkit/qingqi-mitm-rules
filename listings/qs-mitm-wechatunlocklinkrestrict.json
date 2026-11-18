@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-wechatunlocklinkrestrict", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["fcd70ac693758e358abe13e4653a2a40f25b0b120d19f1848c9b00655a4e8d81"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "微信解除链接限制", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "fcd70ac693758e358abe13e4653a2a40f25b0b120d19f1848c9b00655a4e8d81", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-wechatunlocklinkrestrict",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fcd70ac693758e358abe13e4653a2a40f25b0b120d19f1848c9b00655a4e8d81"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "微信解除链接限制",
+  "description": "拦截 2 个域名 · 1 个脚本",
+  "scope": [],
+  "revisionId": "fcd70ac693758e358abe13e4653a2a40f25b0b120d19f1848c9b00655a4e8d81",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "weixin110.qq.com",
+    "security.wechat.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

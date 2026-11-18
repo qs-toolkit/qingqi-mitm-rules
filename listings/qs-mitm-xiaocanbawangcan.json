@@ -1,1 +1,24 @@
-{"listingId": "qs-mitm-xiaocanbawangcan", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["41671a4c5f20f4453711e6e943cf2a6eb5ce0d8670f357b1944bf469f504f4b7"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "小蚕霸王餐", "description": "分组 partX · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "41671a4c5f20f4453711e6e943cf2a6eb5ce0d8670f357b1944bf469f504f4b7", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-xiaocanbawangcan",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "41671a4c5f20f4453711e6e943cf2a6eb5ce0d8670f357b1944bf469f504f4b7"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "小蚕霸王餐",
+  "description": "拦截 4 个域名 · 4 条改写",
+  "scope": [],
+  "revisionId": "41671a4c5f20f4453711e6e943cf2a6eb5ce0d8670f357b1944bf469f504f4b7",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "zlsdk.1rtb.net",
+    "web2.realtech-inc.com",
+    "sdk.1rtb.net",
+    "gw.xiaocantech.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

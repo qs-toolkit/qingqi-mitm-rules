@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-beijingshouqi", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["d636d3c8914d5b83930d31d041e0bb92431963124a2788ae95817659c495b7e0"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "北京首汽", "description": "分组 partB · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "d636d3c8914d5b83930d31d041e0bb92431963124a2788ae95817659c495b7e0", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-beijingshouqi",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d636d3c8914d5b83930d31d041e0bb92431963124a2788ae95817659c495b7e0"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "北京首汽",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "d636d3c8914d5b83930d31d041e0bb92431963124a2788ae95817659c495b7e0",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "gateway.shouqiev.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

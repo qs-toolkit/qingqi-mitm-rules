@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-neteasemail", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["cc35462b2d10ce9cfae28ce483d8c0adb7abfde89e5664595372050a5d566442"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "网易邮箱", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "cc35462b2d10ce9cfae28ce483d8c0adb7abfde89e5664595372050a5d566442", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-neteasemail",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "cc35462b2d10ce9cfae28ce483d8c0adb7abfde89e5664595372050a5d566442"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "网易邮箱",
+  "description": "拦截 8 个域名 · 11 条改写",
+  "scope": [],
+  "revisionId": "cc35462b2d10ce9cfae28ce483d8c0adb7abfde89e5664595372050a5d566442",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "*.music.126.net",
+    "img1.126.net",
+    "www.icourse163.org",
+    "nex.163.com",
+    "g1.163.com",
+    "client.mail.163.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

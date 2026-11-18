@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-zhangshanggongjiao", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["5ddbde4243426b95816db8a53eef59ffa71b15e390c0e3d4476021954b5aa5e8"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "掌上公交", "description": "分组 partZ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "5ddbde4243426b95816db8a53eef59ffa71b15e390c0e3d4476021954b5aa5e8", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-zhangshanggongjiao",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5ddbde4243426b95816db8a53eef59ffa71b15e390c0e3d4476021954b5aa5e8"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "掌上公交",
+  "description": "拦截 2 个域名 · 1 条改写 · 1 个脚本",
+  "scope": [],
+  "revisionId": "5ddbde4243426b95816db8a53eef59ffa71b15e390c0e3d4476021954b5aa5e8",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "quanguo.mygolbs.com",
+    "wx.mygolbs.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

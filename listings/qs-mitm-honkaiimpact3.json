@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-honkaiimpact3", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["ce11cc3d55c5b655bbda381752241b11c8e53387a129f9c52d007ce9790eddc8"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "崩坏3", "description": "分组 partB · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "ce11cc3d55c5b655bbda381752241b11c8e53387a129f9c52d007ce9790eddc8", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-honkaiimpact3",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ce11cc3d55c5b655bbda381752241b11c8e53387a129f9c52d007ce9790eddc8"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "崩坏3",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "ce11cc3d55c5b655bbda381752241b11c8e53387a129f9c52d007ce9790eddc8",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ad.bh3.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

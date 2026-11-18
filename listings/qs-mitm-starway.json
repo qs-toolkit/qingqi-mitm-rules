@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-starway", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["2bf65e7343aa6d2059a7c9ff346eba14eb4021bffc734da6f3f6de446726036b"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "星途 starway", "description": "分组 partX · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "2bf65e7343aa6d2059a7c9ff346eba14eb4021bffc734da6f3f6de446726036b", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-starway",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2bf65e7343aa6d2059a7c9ff346eba14eb4021bffc734da6f3f6de446726036b"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "星途 starway",
+  "description": "拦截 1 个域名 · 2 条改写",
+  "scope": [],
+  "revisionId": "2bf65e7343aa6d2059a7c9ff346eba14eb4021bffc734da6f3f6de446726036b",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "app.chinahxzq.com.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

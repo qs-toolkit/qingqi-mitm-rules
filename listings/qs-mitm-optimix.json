@@ -1,1 +1,25 @@
-{"listingId": "qs-mitm-optimix", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["951aa16ecf5c8287126da01489ab0ec791cc8c182d352bcedba250b4ace96123"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Optimix（奥迪美）", "description": "分组 partO · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "951aa16ecf5c8287126da01489ab0ec791cc8c182d352bcedba250b4ace96123", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-optimix",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "951aa16ecf5c8287126da01489ab0ec791cc8c182d352bcedba250b4ace96123"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Optimix（奥迪美）",
+  "description": "拦截 5 条分流规则",
+  "scope": [],
+  "revisionId": "951aa16ecf5c8287126da01489ab0ec791cc8c182d352bcedba250b4ace96123",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "bx.optimix.asia",
+    "bx01.optimix.asia",
+    "c03.optimix.asia",
+    "s03.optimix.asia",
+    "optimix.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

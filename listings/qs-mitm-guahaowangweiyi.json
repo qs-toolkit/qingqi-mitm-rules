@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-guahaowangweiyi", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["47ef3948364503b1093e30369c2c1770f03dd31349c04fc72f2ccdd4d1300a43"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "挂号网（微医）", "description": "分组 partG · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "47ef3948364503b1093e30369c2c1770f03dd31349c04fc72f2ccdd4d1300a43", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-guahaowangweiyi",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "47ef3948364503b1093e30369c2c1770f03dd31349c04fc72f2ccdd4d1300a43"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "挂号网（微医）",
+  "description": "拦截 2 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "47ef3948364503b1093e30369c2c1770f03dd31349c04fc72f2ccdd4d1300a43",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "kano.guahao.cn",
+    "app.wy.guahao.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

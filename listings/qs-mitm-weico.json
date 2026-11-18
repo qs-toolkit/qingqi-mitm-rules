@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-weico", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["f7c3ba539297ab5cf8d229b91c775aee610f381ad7a74ea3b8ebcd442538b2db"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Weico(微博客户端)", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "f7c3ba539297ab5cf8d229b91c775aee610f381ad7a74ea3b8ebcd442538b2db", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-weico",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f7c3ba539297ab5cf8d229b91c775aee610f381ad7a74ea3b8ebcd442538b2db"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Weico(微博客户端)",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "f7c3ba539297ab5cf8d229b91c775aee610f381ad7a74ea3b8ebcd442538b2db",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "overseas.weico.cc"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

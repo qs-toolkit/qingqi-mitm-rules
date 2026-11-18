@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-ezviz", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["e13d84c57d458a36469daa05d255b9c3060645fd2388be06dabda2fc44b0d132"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "萤石", "description": "分组 partY · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "e13d84c57d458a36469daa05d255b9c3060645fd2388be06dabda2fc44b0d132", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-ezviz",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e13d84c57d458a36469daa05d255b9c3060645fd2388be06dabda2fc44b0d132"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "萤石",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "e13d84c57d458a36469daa05d255b9c3060645fd2388be06dabda2fc44b0d132",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "i.ys7.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

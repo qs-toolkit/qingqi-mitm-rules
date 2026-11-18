@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-zhihu", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["8c90c37203c0b226e2fda6432cc9c0ff4c01837831bbff7096752905675151c2"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "知乎", "description": "分组 partZ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "8c90c37203c0b226e2fda6432cc9c0ff4c01837831bbff7096752905675151c2", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-zhihu",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8c90c37203c0b226e2fda6432cc9c0ff4c01837831bbff7096752905675151c2"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "知乎",
+  "description": "拦截 6 个域名 · 24 条改写 · 12 个脚本 · 11 条分流规则",
+  "scope": [],
+  "revisionId": "8c90c37203c0b226e2fda6432cc9c0ff4c01837831bbff7096752905675151c2",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.zhihu.com",
+    "www.zhihu.com",
+    "appcloud2.zhihu.com",
+    "m-cloud.zhihu.com",
+    "zhuanlan.zhihu.com",
+    "link.zhihu.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-ujing", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["a369ff282881b8f63bf0a2f3fbb987bcd2d1f679ae275d33721decc10c8032cc"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "U净", "description": "分组 partU · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "a369ff282881b8f63bf0a2f3fbb987bcd2d1f679ae275d33721decc10c8032cc", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-ujing",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a369ff282881b8f63bf0a2f3fbb987bcd2d1f679ae275d33721decc10c8032cc"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "U净",
+  "description": "拦截 3 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "a369ff282881b8f63bf0a2f3fbb987bcd2d1f679ae275d33721decc10c8032cc",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api-marketing.zhinengxiyifang.cn",
+    "adsoss.zhinengxiyifang.cn",
+    "ads.zhinengxiyifang.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-tencentridecode", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["fead51beb3565a7fa32c2663e09a19b494b0a3312c8a29ac2215109e2d8b1431"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "腾讯乘车码", "description": "分组 partT · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "fead51beb3565a7fa32c2663e09a19b494b0a3312c8a29ac2215109e2d8b1431", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-tencentridecode",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fead51beb3565a7fa32c2663e09a19b494b0a3312c8a29ac2215109e2d8b1431"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "腾讯乘车码",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "fead51beb3565a7fa32c2663e09a19b494b0a3312c8a29ac2215109e2d8b1431",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ccmsupport-sz.tenpay.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-jiucaigongshe", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["9e839b3febb688e968719b9f4d24bf7c5614682a88ac472712e896c3f9fa18db"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "韭菜公社", "description": "分组 partJ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "9e839b3febb688e968719b9f4d24bf7c5614682a88ac472712e896c3f9fa18db", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-jiucaigongshe",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9e839b3febb688e968719b9f4d24bf7c5614682a88ac472712e896c3f9fa18db"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "韭菜公社",
+  "description": "拦截 1 个域名",
+  "scope": [],
+  "revisionId": "9e839b3febb688e968719b9f4d24bf7c5614682a88ac472712e896c3f9fa18db",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "jiucaigongshe.oss-cn-beijing.aliyuncs.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

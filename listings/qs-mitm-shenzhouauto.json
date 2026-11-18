@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-shenzhouauto", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["b6731c9912e4753c08461afa9ffa1f1177f070852c00e0cd88ec4ae016052b78"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "神舟汽车", "description": "分组 partS · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "b6731c9912e4753c08461afa9ffa1f1177f070852c00e0cd88ec4ae016052b78", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-shenzhouauto",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b6731c9912e4753c08461afa9ffa1f1177f070852c00e0cd88ec4ae016052b78"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "神舟汽车",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "b6731c9912e4753c08461afa9ffa1f1177f070852c00e0cd88ec4ae016052b78",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "img01.10101111cdn.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,26 @@
-{"listingId": "qs-mitm-baixing", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["bb21d95838643930cd8e855fcebb7d75ab9651324fea45ce4076870dca0645a0"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "百姓网", "description": "分组 partB · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "bb21d95838643930cd8e855fcebb7d75ab9651324fea45ce4076870dca0645a0", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-baixing",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "bb21d95838643930cd8e855fcebb7d75ab9651324fea45ce4076870dca0645a0"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "百姓网",
+  "description": "拦截 6 条分流规则",
+  "scope": [],
+  "revisionId": "bb21d95838643930cd8e855fcebb7d75ab9651324fea45ce4076870dca0645a0",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "admx.baixing.com",
+    "tu.baixing.com",
+    "d.admx.baixing.com",
+    "bd-js.baixing.net",
+    "bd-s.baixing.net",
+    "script-bd.baixing.net"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-duoduoxiuyuanquan", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["afd7489a60db24abb0a8d7e2290b8c572844f185f1ef4c185dd9d4f39e7dd750"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "朵朵校友圈", "description": "分组 partD · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "afd7489a60db24abb0a8d7e2290b8c572844f185f1ef4c185dd9d4f39e7dd750", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-duoduoxiuyuanquan",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "afd7489a60db24abb0a8d7e2290b8c572844f185f1ef4c185dd9d4f39e7dd750"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "朵朵校友圈",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "afd7489a60db24abb0a8d7e2290b8c572844f185f1ef4c185dd9d4f39e7dd750",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "ad.duoduo.link"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

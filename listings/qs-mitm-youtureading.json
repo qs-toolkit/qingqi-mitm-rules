@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-youtureading", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["d62d801dfada1f9117201620a962de4e481dba0f9074864a71aa65d3203d0d67"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "有兔阅读(米兔)", "description": "分组 partY · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "d62d801dfada1f9117201620a962de4e481dba0f9074864a71aa65d3203d0d67", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-youtureading",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d62d801dfada1f9117201620a962de4e481dba0f9074864a71aa65d3203d0d67"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "有兔阅读(米兔)",
+  "description": "拦截 3 个域名 · 10 条改写",
+  "scope": [],
+  "revisionId": "d62d801dfada1f9117201620a962de4e481dba0f9074864a71aa65d3203d0d67",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "img.dailmo.com",
+    "img.allahall.com",
+    "app.zhoudamozi.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

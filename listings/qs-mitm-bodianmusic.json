@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-bodianmusic", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["d9fbe7b173ad0177384d1edf224db3074a2b452f7db4fc3a06edf98e23048e7e"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "波点音乐", "description": "分组 partB · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "d9fbe7b173ad0177384d1edf224db3074a2b452f7db4fc3a06edf98e23048e7e", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-bodianmusic",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d9fbe7b173ad0177384d1edf224db3074a2b452f7db4fc3a06edf98e23048e7e"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "波点音乐",
+  "description": "拦截 3 个域名 · 7 条改写",
+  "scope": [],
+  "revisionId": "d9fbe7b173ad0177384d1edf224db3074a2b452f7db4fc3a06edf98e23048e7e",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "bd-api.kuwo.cn",
+    "h5app.kuwo.cn",
+    "bodianimgcdn.kuwo.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

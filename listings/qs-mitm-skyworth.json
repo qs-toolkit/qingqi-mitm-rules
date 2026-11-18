@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-skyworth", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["ca57549c49e8295b9b91a88f9dea0be3ad365d485aa274a9a040a78fca443936"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "创维", "description": "分组 partC · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "ca57549c49e8295b9b91a88f9dea0be3ad365d485aa274a9a040a78fca443936", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-skyworth",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ca57549c49e8295b9b91a88f9dea0be3ad365d485aa274a9a040a78fca443936"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "创维",
+  "description": "拦截 3 条分流规则",
+  "scope": [],
+  "revisionId": "ca57549c49e8295b9b91a88f9dea0be3ad365d485aa274a9a040a78fca443936",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "hoisin.coocaa.com",
+    "hoisin.coocaatv.com",
+    "data-hoisin.coocaa.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

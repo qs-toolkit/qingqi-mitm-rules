@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-jingxi", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["2f77e596159ac071fdbe3caeded747a76cacd40e6ae341b3947ca174dbc9a7f3"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "京喜", "description": "分组 partJ · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "2f77e596159ac071fdbe3caeded747a76cacd40e6ae341b3947ca174dbc9a7f3", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-jingxi",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2f77e596159ac071fdbe3caeded747a76cacd40e6ae341b3947ca174dbc9a7f3"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "京喜",
+  "description": "拦截 1 个域名 · 2 条改写 · 1 个脚本",
+  "scope": [],
+  "revisionId": "2f77e596159ac071fdbe3caeded747a76cacd40e6ae341b3947ca174dbc9a7f3",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api.m.jd.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

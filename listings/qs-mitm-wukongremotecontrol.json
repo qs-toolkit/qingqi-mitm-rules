@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-wukongremotecontrol", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["72684d1aafb6339e9ef5b5b03a024b1a3ab0994172581ae5b71a5cb158b647bc"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "悟空遥控器", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "72684d1aafb6339e9ef5b5b03a024b1a3ab0994172581ae5b71a5cb158b647bc", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-wukongremotecontrol",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "72684d1aafb6339e9ef5b5b03a024b1a3ab0994172581ae5b71a5cb158b647bc"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "悟空遥控器",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "72684d1aafb6339e9ef5b5b03a024b1a3ab0994172581ae5b71a5cb158b647bc",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "img.wukongtv.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

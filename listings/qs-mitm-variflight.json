@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-variflight", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["94cd80513fede5a721df2dde560925186f500f89584584697410e086c5a94511"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "飞常准", "description": "分组 partF · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "94cd80513fede5a721df2dde560925186f500f89584584697410e086c5a94511", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-variflight",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "94cd80513fede5a721df2dde560925186f500f89584584697410e086c5a94511"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "飞常准",
+  "description": "拦截 1 个域名 · 2 条改写 · 3 条分流规则",
+  "scope": [],
+  "revisionId": "94cd80513fede5a721df2dde560925186f500f89584584697410e086c5a94511",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "app.variflight.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

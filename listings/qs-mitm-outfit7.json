@@ -1,1 +1,25 @@
-{"listingId": "qs-mitm-outfit7", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["62f000b65318fa5ae6359adc0b463b904b0356521989a19982a94e6216c9486a"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Outfit7（会说话的汤姆猫）", "description": "分组 partO · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "62f000b65318fa5ae6359adc0b463b904b0356521989a19982a94e6216c9486a", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-outfit7",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "62f000b65318fa5ae6359adc0b463b904b0356521989a19982a94e6216c9486a"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Outfit7（会说话的汤姆猫）",
+  "description": "拦截 5 条分流规则",
+  "scope": [],
+  "revisionId": "62f000b65318fa5ae6359adc0b463b904b0356521989a19982a94e6216c9486a",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "apps.outfit7.com",
+    "apps2.outfit7.com",
+    "cdn.outfit7.com",
+    "cdn-gcs.outfit7.com",
+    "events-api.outfit7.net"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

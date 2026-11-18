@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-i3", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["6908bf4a3c3b75ceabcc1f2e281fdeb8aeb0dbe2bc15ac036f671c5144c68bcb"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "i3", "description": "分组 partI · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "6908bf4a3c3b75ceabcc1f2e281fdeb8aeb0dbe2bc15ac036f671c5144c68bcb", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-i3",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6908bf4a3c3b75ceabcc1f2e281fdeb8aeb0dbe2bc15ac036f671c5144c68bcb"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "i3",
+  "description": "拦截 1 个域名 · 1 条改写",
+  "scope": [],
+  "revisionId": "6908bf4a3c3b75ceabcc1f2e281fdeb8aeb0dbe2bc15ac036f671c5144c68bcb",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "www.i3zh.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

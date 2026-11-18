@@ -1,1 +1,25 @@
-{"listingId": "qs-mitm-douyulive", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["609a31902cd3bcd5cc14a36c677cf4afc12fe979f242206f8374333265d92842"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "斗鱼直播", "description": "分组 partD · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "609a31902cd3bcd5cc14a36c677cf4afc12fe979f242206f8374333265d92842", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-douyulive",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "609a31902cd3bcd5cc14a36c677cf4afc12fe979f242206f8374333265d92842"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "斗鱼直播",
+  "description": "拦截 5 个域名 · 10 条改写 · 3 条分流规则",
+  "scope": [],
+  "revisionId": "609a31902cd3bcd5cc14a36c677cf4afc12fe979f242206f8374333265d92842",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "daoyu.sdo.com",
+    "rtbapi.douyucdn.cn",
+    "staticlive.douyucdn.cn",
+    "capi.douyucdn.cn",
+    "douyucdn.cn"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

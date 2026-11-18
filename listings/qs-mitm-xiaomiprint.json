@@ -1,1 +1,22 @@
-{"listingId": "qs-mitm-xiaomiprint", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["aeefb40d1fde645f4634823664b715892f28f06da2956078adc7562f53b4e8bb"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "小米打印", "description": "分组 partX · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "aeefb40d1fde645f4634823664b715892f28f06da2956078adc7562f53b4e8bb", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-xiaomiprint",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "aeefb40d1fde645f4634823664b715892f28f06da2956078adc7562f53b4e8bb"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "小米打印",
+  "description": "拦截 2 个域名 · 2 条改写",
+  "scope": [],
+  "revisionId": "aeefb40d1fde645f4634823664b715892f28f06da2956078adc7562f53b4e8bb",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "api-miprint.hannto.com",
+    "api.indeedpower.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

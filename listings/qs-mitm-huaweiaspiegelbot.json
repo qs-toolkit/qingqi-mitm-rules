@@ -1,1 +1,21 @@
-{"listingId": "qs-mitm-huaweiaspiegelbot", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["09e5b782ba483fafd7ce3e867747414221e9754af8a22f5de8d1c06f29144200"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "Huawei AspiegelBot", "description": "分组 partH · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "09e5b782ba483fafd7ce3e867747414221e9754af8a22f5de8d1c06f29144200", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-huaweiaspiegelbot",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "09e5b782ba483fafd7ce3e867747414221e9754af8a22f5de8d1c06f29144200"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Huawei AspiegelBot",
+  "description": "拦截 1 条分流规则",
+  "scope": [],
+  "revisionId": "09e5b782ba483fafd7ce3e867747414221e9754af8a22f5de8d1c06f29144200",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "114.119.160.0/21"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}

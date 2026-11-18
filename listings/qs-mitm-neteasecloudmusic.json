@@ -1,1 +1,24 @@
-{"listingId": "qs-mitm-neteasecloudmusic", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["9cc0af5139729ea9447571d4706bb89b166b8fff5904c3f9b7ffa63169c3b590"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "网易云音乐", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "9cc0af5139729ea9447571d4706bb89b166b8fff5904c3f9b7ffa63169c3b590", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-neteasecloudmusic",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9cc0af5139729ea9447571d4706bb89b166b8fff5904c3f9b7ffa63169c3b590"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "网易云音乐",
+  "description": "可自定 - 全面净化",
+  "scope": [],
+  "revisionId": "9cc0af5139729ea9447571d4706bb89b166b8fff5904c3f9b7ffa63169c3b590",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "interface.music.163.com",
+    "interface3.music.163.com",
+    "ipv4.music.163.com",
+    "interface9.music.163.com"
+  ],
+  "upstream": "key",
+  "homepage": "https://github.com/Keywos/rule/blob/main/script/wy"
+}

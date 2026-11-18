@@ -1,1 +1,23 @@
-{"listingId": "qs-mitm-neteasekaola", "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd", "revisions": ["7bbe103500f3ea39fb639df5219b121b464f33382324893cbeb18bbff88c09c1"], "ratingSum": 0, "ratingCount": 0, "parentListingId": "", "name": "网易考拉", "description": "分组 partW · 上游 fmz200/wool_scripts", "scope": [], "revisionId": "7bbe103500f3ea39fb639df5219b121b464f33382324893cbeb18bbff88c09c1", "author": "轻启规则库", "updatedAt": 1795027838645}
+{
+  "listingId": "qs-mitm-neteasekaola",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7bbe103500f3ea39fb639df5219b121b464f33382324893cbeb18bbff88c09c1"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "网易考拉",
+  "description": "拦截 3 个域名 · 3 条改写",
+  "scope": [],
+  "revisionId": "7bbe103500f3ea39fb639df5219b121b464f33382324893cbeb18bbff88c09c1",
+  "author": "轻启规则库",
+  "updatedAt": 1795027838645,
+  "targets": [
+    "kaola-haitao.oss.kaolacdn.com",
+    "sp.kaola.com",
+    "gw.kaola.com"
+  ],
+  "upstream": "奶思",
+  "homepage": "https://github.com/fmz200/wool_scripts"
+}
