@@ -1,0 +1,47 @@
+{
+  "built": 725,
+  "failed": [
+    {
+      "index": 91,
+      "name": "Clubmed",
+      "error": "no Loon raw link"
+    },
+    {
+      "index": 113,
+      "name": "东方航空",
+      "error": "no Loon raw link"
+    },
+    {
+      "index": 147,
+      "name": "EMS微信小程序",
+      "error": "no Loon raw link"
+    },
+    {
+      "index": 210,
+      "name": "华盛通",
+      "error": "download: HTTP Error 404: Not Found"
+    },
+    {
+      "index": 269,
+      "name": "锦江荟APP",
+      "error": "no Loon raw link"
+    },
+    {
+      "index": 431,
+      "name": "Stay",
+      "error": "no Loon raw link"
+    },
+    {
+      "index": 550,
+      "name": "网易云",
+      "error": "no Loon raw link"
+    },
+    {
+      "index": 562,
+      "name": "兴业生活",
+      "error": "no Loon raw link"
+    }
+  ],
+  "identity": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "at": 1795027641608
+}
