@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0362",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "995f24022bdf331cbf31985be1aa7f937b99d271170776d650a249857617f70e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "农业银行",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ABC",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "451d3a0ed40a51aca2666de8901a106f998b86d7b0043104a71c2897a644d52c",
-  "author": "奶思",
-  "updatedAt": 1795094243582,
+  "revisionId": "995f24022bdf331cbf31985be1aa7f937b99d271170776d650a249857617f70e",
+  "author": "fmz200",
+  "updatedAt": 1795094539234,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "451d3a0ed40a51aca2666de8901a106f998b86d7b0043104a71c2897a644d52c"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

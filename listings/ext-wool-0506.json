@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0506",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8a1540602135a68edf9ceeb9dd6e5b76d8febab183de740b9c548039c00213ab"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "TubeMax",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "15d3cae3b5ff1813b6cd2bffd9c8db8ab40cbb961b742b78a48ebab9abf252fc",
-  "author": "奶思",
-  "updatedAt": 1795094243595,
+  "revisionId": "8a1540602135a68edf9ceeb9dd6e5b76d8febab183de740b9c548039c00213ab",
+  "author": "fmz200",
+  "updatedAt": 1795094539253,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "15d3cae3b5ff1813b6cd2bffd9c8db8ab40cbb961b742b78a48ebab9abf252fc"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

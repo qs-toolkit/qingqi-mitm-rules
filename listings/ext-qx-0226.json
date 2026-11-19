@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0226",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e9c0fab7f7f15743aef5de5bd8915155b3afc70fe3c6bd97317ebd4572749560"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "小组件盒子",
-  "description": "小组件盒子解锁会员 · 来源 重写库",
+  "description": "小组件盒子解锁会员",
   "scope": [],
-  "revisionId": "485854240f17ec3172cb82e89af4becd103d4b331997ff01cc15c194762bf6c1",
+  "revisionId": "e9c0fab7f7f15743aef5de5bd8915155b3afc70fe3c6bd97317ebd4572749560",
   "author": "89996462",
-  "updatedAt": 1795094243541,
+  "updatedAt": 1795094539138,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "485854240f17ec3172cb82e89af4becd103d4b331997ff01cc15c194762bf6c1"
-  ]
+  "homepage": ""
 }

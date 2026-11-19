@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "YY语音去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=YY语音去广告\n#!desc=移除开屏广告、应用内弹窗、任务推广、频道横幅推广，精简广场顶部标签。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YYVoiceTool.png\n#!category=iKeLee\n#!openUrl=https://apps.apple.com/app/id6738899698\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-11-23 23:03:22\n\n[URL Rewrite]\n^https:\\/\\/web\\.yy\\.com\\/yyvoice_task_sys\\/bar\\.html\\? - reject\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/yuyin-api\\.baizhanlive\\.com\\/postsquare\\/college\\/page\\/tabsV3\\? '.data.tabList |= map(select(.code == \"post\" or .code == \"teamup\" or .code == \"college\" or .code == \"aiSecretRoom\"))'\n\n[Map Local]\n^https:\\/\\/yuyin-api\\.baizhanlive\\.com\\/homepage\\/flashscreen\\/get\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/yuyin-api\\.baizhanlive\\.com\\/homepage\\/homepage\\/banner\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/yuyin-api\\.baizhanlive\\.com\\/search\\/search\\/hotword\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% yuyin-api.baizhanlive.com, web.yy.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

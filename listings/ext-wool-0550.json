@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0550",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "81082beb77edb97ed19fe1799436ede0399eb968f4bb86aa0da02e49d9e59e86"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "威锋",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "WeiPhone",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3b4bf6ad2a7140e4a3df4a4f23a4a4b66e399a051875f30b880817ea916417cb",
-  "author": "奶思",
-  "updatedAt": 1795094243599,
+  "revisionId": "81082beb77edb97ed19fe1799436ede0399eb968f4bb86aa0da02e49d9e59e86",
+  "author": "fmz200",
+  "updatedAt": 1795094539259,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "3b4bf6ad2a7140e4a3df4a4f23a4a4b66e399a051875f30b880817ea916417cb"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Fantastical解锁",
+  "description": "Fantastical解锁会员",
+  "scope": [],
+  "text": "#!name=Fantastical\n#!desc=Fantastical解锁会员\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/fantastical.png\n\nhostname=api.flexibits.com\n\n^https:\\/\\/api\\.flexibits\\.com\\/(v1\\/auth\\/device|v1\\/account\\/details) url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/fantastical.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

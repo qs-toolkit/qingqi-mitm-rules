@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "儿歌点点会员",
+  "description": "儿歌点点会员",
+  "scope": [],
+  "text": "#!name=儿歌点点\n#!desc=儿歌点点会员\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/egdd.png\n\nhttp:\\/\\/gateway\\.ergedd\\.com\\/dduser\\/user\\/center\\/set url script-response-body https://github.com/deezertidal/private/raw/master/js-backup/Crack/egdd.js\n\nhostname=gateway.ergedd.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

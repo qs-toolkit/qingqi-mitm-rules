@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0110",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4b45f374a193d936619703a09e6130f7e2b4f1c82b28a09edfdd19c41f352646"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Vista看天下解锁",
-  "description": "Vista看天下会员解锁 · 来源 重写库",
+  "description": "Vista看天下会员解锁",
   "scope": [],
-  "revisionId": "84c6d22370e4fbfc8956cf6b8f3d48191f11989e1fc3da5e1bf14974518797fe",
+  "revisionId": "4b45f374a193d936619703a09e6130f7e2b4f1c82b28a09edfdd19c41f352646",
   "author": "lutqhysky",
-  "updatedAt": 1795094243526,
+  "updatedAt": 1795094539122,
   "targets": [],
   "upstream": "lutqhysky",
-  "homepage": "",
-  "revisions": [
-    "84c6d22370e4fbfc8956cf6b8f3d48191f11989e1fc3da5e1bf14974518797fe"
-  ]
+  "homepage": ""
 }

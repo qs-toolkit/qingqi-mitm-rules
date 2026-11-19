@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0168",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b788dda2430cc41ae2733ed2cb3e0b048043c13edbefd9cc25a91893d0354d64"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "香哈菜谱大全",
-  "description": "菜谱大全&香哈菜谱解锁会员 · 来源 重写库",
+  "description": "菜谱大全&香哈菜谱解锁会员",
   "scope": [],
-  "revisionId": "8913cf51ed29ce2f2bad7a30efd3286ab7181c0945c38d59c990d1a15e4bb477",
+  "revisionId": "b788dda2430cc41ae2733ed2cb3e0b048043c13edbefd9cc25a91893d0354d64",
   "author": "I-am-R-E",
-  "updatedAt": 1795094243535,
+  "updatedAt": 1795094539131,
   "targets": [],
   "upstream": "I-am-R-E",
-  "homepage": "",
-  "revisions": [
-    "8913cf51ed29ce2f2bad7a30efd3286ab7181c0945c38d59c990d1a15e4bb477"
-  ]
+  "homepage": ""
 }

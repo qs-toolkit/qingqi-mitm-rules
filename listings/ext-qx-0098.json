@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0098",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "734cdb324b6417a70e1eca651960f3e997969286e3660c1b08ad55a7c9492147"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "微博去广告",
-  "description": "微博去广告 · 来源 重写库",
+  "description": "微博去广告",
   "scope": [],
-  "revisionId": "24d30e3f094cac1ebcf00a20ec6e54980acb2047240071cb2ed288a5301643f4",
+  "revisionId": "734cdb324b6417a70e1eca651960f3e997969286e3660c1b08ad55a7c9492147",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243525,
+  "updatedAt": 1795094539120,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "24d30e3f094cac1ebcf00a20ec6e54980acb2047240071cb2ed288a5301643f4"
-  ]
+  "homepage": ""
 }

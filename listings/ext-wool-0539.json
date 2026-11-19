@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0539",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f6ba5320c98366b8da41d2e038bd5ca6357560687a2b11433d4fa84a7c653b0e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "蜗牛睡眠",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "SnailSleep",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2bf80317f1296ef414d62a632ff9086b33a0237e79d3c81bb920dbedd3414190",
-  "author": "奶思",
-  "updatedAt": 1795094243598,
+  "revisionId": "f6ba5320c98366b8da41d2e038bd5ca6357560687a2b11433d4fa84a7c653b0e",
+  "author": "fmz200",
+  "updatedAt": 1795094539257,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2bf80317f1296ef414d62a632ff9086b33a0237e79d3c81bb920dbedd3414190"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

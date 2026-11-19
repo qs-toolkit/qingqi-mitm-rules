@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "TmallAutoCare",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=天猫养车\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partT/TmallAutoCare.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rewrite]\n# 中间横幅广告\nrequest if ${url} ~= /^https?:\\/\\/api\\.ncarzone\\.com\\/superapi\\/canary\\/appHomeFacade\\/getNewUserPlateActivity/i then reject(200)\nrequest if ${url} ~= /^https?:\\/\\/api\\.ncarzone\\.com\\/superapi\\/canary\\/bannerFacade\\/app\\/list/i then reject(200)\n# 右下角悬浮广告\nrequest if ${url} ~= /^https?:\\/\\/api\\.ncarzone\\.com\\/superapi\\/canary\\/popupDialogFacade\\/popupDialogList/i then reject(200)\n\n\n[MITM]\nhostname = api.ncarzone.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

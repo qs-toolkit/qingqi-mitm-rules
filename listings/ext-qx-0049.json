@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0049",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9cd16a673257e208b21fcb8b2300db14dc0c2294d47a79002f79f68d86ce2294"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Tangerine解锁",
-  "description": "Tangerine解锁 · 来源 重写库",
+  "description": "Tangerine解锁",
   "scope": [],
-  "revisionId": "b7e8566e7dc79ac7459c530ec5b0a70ec33adda7324df83402518198e347ad0c",
+  "revisionId": "9cd16a673257e208b21fcb8b2300db14dc0c2294d47a79002f79f68d86ce2294",
   "author": "Marol62926",
-  "updatedAt": 1795094243520,
+  "updatedAt": 1795094539114,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "b7e8566e7dc79ac7459c530ec5b0a70ec33adda7324df83402518198e347ad0c"
-  ]
+  "homepage": ""
 }

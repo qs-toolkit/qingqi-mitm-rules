@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0193",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0d550def6f5d37b4a274f6a71084c1627b01488a1976b72ebc22036ee1c3286b"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "小桔充电去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "1d3a1cccd43aeb691a5b1ec089006621f145de53908c5f686542576103fedf7a",
+  "revisionId": "0d550def6f5d37b4a274f6a71084c1627b01488a1976b72ebc22036ee1c3286b",
   "author": "ClashModule",
-  "updatedAt": 1795094243480,
+  "updatedAt": 1795094539061,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "1d3a1cccd43aeb691a5b1ec089006621f145de53908c5f686542576103fedf7a"
-  ]
+  "homepage": ""
 }

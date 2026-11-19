@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0328",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a834ffb54231c840734fb04323a56ebe61b7ed2d5e0db631c562d93c018a1a83"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "妈妈网孕育",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "MaMaWangYunYu",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "27daa75c8f1b7c4358d84624b334eba91f8dd86feeb0a9e3e11d69e8d7705db2",
-  "author": "奶思",
-  "updatedAt": 1795094243580,
+  "revisionId": "a834ffb54231c840734fb04323a56ebe61b7ed2d5e0db631c562d93c018a1a83",
+  "author": "fmz200",
+  "updatedAt": 1795094539229,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "27daa75c8f1b7c4358d84624b334eba91f8dd86feeb0a9e3e11d69e8d7705db2"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

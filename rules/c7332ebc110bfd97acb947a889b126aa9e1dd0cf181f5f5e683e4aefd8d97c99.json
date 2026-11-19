@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "ShanDongXiaoYuan",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=闪动校园\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partS/ShanDongXiaoYuan.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rewrite]\n# 感谢【𝔐𝔞𝔨𝔞𝔟𝔞 𝔨𝔞】分享\n# 去除ai视频\nrequest if ${url} ~= /^https:\\/\\/api\\.huachenjie\\.com\\/run-front\\/ai\\/getAICategory/i then reject_dict(200)\n# 去除顶部横幅\nrequest if ${url} ~= /^https:\\/\\/api\\.huachenjie\\.com\\/run-front\\/home\\/sports\\/getPopup/i then reject_dict(200)\n# 去除首页广告\nrequest if ${url} ~= /^https:\\/\\/api\\.huachenjie\\.com\\/run-front\\/ad/i then reject_dict(200)\n# 去除“我”页面下方福袋\nrequest if ${url} ~= /^http:\\/\\/ad\\.shunchangzhixing\\.com\\/getAd/i then reject_dict(200)\n# 去除开屏广告\nrequest if ${url} ~= /^https:\\/\\/open\\.e\\.kuaishou\\.cn\\/rest\\/e\\/v3\\/open/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/zlsdk\\.1rtb\\.net\\/sdk\\/req_ad\\?sdk_version=\\d+\\.\\d+\\.\\d+\\.\\d+&device_os=iOS&accept_ad_type=\\d+&app_id=\\d+&pid=\\d+&sdk_version_code=\\d+/i then reject_dict(200)\n\n\n[MITM]\nhostname = api.huachenjie.com, open.e.kuaishou.cn, ad.shunchangzhixing.com, zlsdk.1rtb.net\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "M系列Mac解除iOS TF軟件下載限制",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
+  "scope": [],
+  "text": "#!name=M系列Mac解除iOS TF軟件下載限制\n#!desc=墨鱼手记出品的 Quantumult X 重写 · Quantumult X\n#!author=Skyxim\n\n// ==UserScript==\n// @Name              M系列Mac解除iOS TF軟件下載限制\n// @Author            Skyxim\n// @TgChannel         https://t.me/ddgksf2021\n// @WechatID          公眾號墨魚手記\n// @UpdateTime        2022-03-12\n// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/Function/ForceInstallTF.conf\n// ==/UserScript==\n\n\nhostname = testflight.apple.com\n\n^https:\\/\\/testflight\\.apple\\.com((\\/v3\\/accounts\\/.+?\\/apps$)|(\\/v2\\/accounts\\/.+?\\/apps\\/.+?\\/builds\\/.+)) url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ForceInstall.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

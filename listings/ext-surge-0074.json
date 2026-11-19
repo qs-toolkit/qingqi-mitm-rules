@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0074",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a718643d002ed130f7ec8b7c066604a8ecfa3f5ca731937715b47ecf52765f57"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Spotify歌词翻译",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "65498acdaae7fb49286dbad2bbfb24c5f85bd21884272a358892e56073ebfd0e",
+  "revisionId": "a718643d002ed130f7ec8b7c066604a8ecfa3f5ca731937715b47ecf52765f57",
   "author": "ClashModule",
-  "updatedAt": 1795094243467,
+  "updatedAt": 1795094539044,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "65498acdaae7fb49286dbad2bbfb24c5f85bd21884272a358892e56073ebfd0e"
-  ]
+  "homepage": ""
 }

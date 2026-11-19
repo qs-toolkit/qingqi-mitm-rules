@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0055",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d87d4b5a911de1e85c07bd4c9e7a15da909cab8bc524a66b4aab8007b2dc76d0"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "指尖时光解锁会员",
-  "description": "指尖时光解锁会员 · 来源 重写库",
+  "description": "指尖时光解锁会员",
   "scope": [],
-  "revisionId": "25f42fa77c0abab0ba586b0a82fda0cfd04529f44724f0a4fdf0478c88caa806",
+  "revisionId": "d87d4b5a911de1e85c07bd4c9e7a15da909cab8bc524a66b4aab8007b2dc76d0",
   "author": "Marol62926",
-  "updatedAt": 1795094243521,
+  "updatedAt": 1795094539115,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "25f42fa77c0abab0ba586b0a82fda0cfd04529f44724f0a4fdf0478c88caa806"
-  ]
+  "homepage": ""
 }

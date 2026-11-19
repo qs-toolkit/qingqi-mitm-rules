@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "飞猪旅行去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=飞猪旅行去广告\n#!desc=移除开屏广告、精简我的页面。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TaobaoTravel.png\n#!category=iKeLee\n#!openUrl=https://apps.apple.com/app/id453691481\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-11-25 02:03:39\n\n[Map Local]\n^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.fliggy\\.crm\\.screen\\.allresource\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.fliggy\\.crm\\.screen\\.predict\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.fliggy\\.tripzoo\\.new\\.couponlist\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.trip\\.my\\.recommendcard\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.fliggy\\.recommend\\.common\\.guess\\.tab\\.feeds\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% acs.m.taobao.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

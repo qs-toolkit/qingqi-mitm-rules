@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "微信公众号去广告[已失效]",
+  "description": "Block AD",
+  "scope": [],
+  "text": "#!name=微信公众号去广告[已失效]\n#!desc=Block AD\n#!author=@ddgksf2013\n\n// ==UserScript==\n// @ScriptName        微信公众号去广告[已失效]\n// @Author            @ddgksf2013\n// @TgChannel         https://t.me/ddgksf2021\n// @Function          Block AD\n// @ScriptTime        2024-04-21\n// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/WeChat.conf\n// ==/UserScript==\n\n\nhostname = mp.weixin.qq.com\n\n# > 微信公众号去广告[已失效][不包含公众号信息流AD、朋友圈AD][推荐开启青少年模式可去除朋友圈AD]\n^https?:\\/\\/mp\\.weixin\\.qq\\.com\\/mp\\/getappmsgad url response-body advertisement response-body ddgksf2013\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0143",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "85cc5af4c0beca0fbc1a813c42511758a9f0e6bde3f18ee308fff87768bcd195"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "催眠大师去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c2b185075b7673e34953e80b66c0ef2eaba59bd7289f746444fe4af1a9dcf7e5",
+  "revisionId": "85cc5af4c0beca0fbc1a813c42511758a9f0e6bde3f18ee308fff87768bcd195",
   "author": "ClashModule",
-  "updatedAt": 1795094243474,
+  "updatedAt": 1795094539054,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "c2b185075b7673e34953e80b66c0ef2eaba59bd7289f746444fe4af1a9dcf7e5"
-  ]
+  "homepage": ""
 }

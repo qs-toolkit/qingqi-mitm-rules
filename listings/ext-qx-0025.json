@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0025",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a523ac94e4c39044f698fde69946c1583152592c29bd91484c6ab8a4f3b5331d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "香蕉视频",
-  "description": "解锁观看限制 · 来源 重写库",
+  "description": "解锁观看限制",
   "scope": [],
-  "revisionId": "91334a6aeb3b82f81cce90b9466a652243eea7dfc450088a7817b8390b113fde",
+  "revisionId": "a523ac94e4c39044f698fde69946c1583152592c29bd91484c6ab8a4f3b5331d",
   "author": "NobyDa",
-  "updatedAt": 1795094243517,
+  "updatedAt": 1795094539111,
   "targets": [],
   "upstream": "NobyDa",
-  "homepage": "",
-  "revisions": [
-    "91334a6aeb3b82f81cce90b9466a652243eea7dfc450088a7817b8390b113fde"
-  ]
+  "homepage": ""
 }

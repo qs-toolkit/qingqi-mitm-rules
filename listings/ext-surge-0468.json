@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0468",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ca1141592a9be3e2e6e74f61929273de34663304956647b65e32ff2ca868269e"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "隐藏状态栏 VPN 图标.official",
+  "description": "Surge 模块",
+  "scope": [],
+  "revisionId": "ca1141592a9be3e2e6e74f61929273de34663304956647b65e32ff2ca868269e",
+  "author": "ClashModule",
+  "updatedAt": 1795094539101,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "EFEKT美易",
+  "description": "EFEKT美易解锁会员",
+  "scope": [],
+  "text": "#!name=EFEKT美易\n#!desc=EFEKT美易解锁会员\n#!homepage=https://yfamily.ml\n#!author= 89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/efekt.png\n\nhostname=api.apphud.com\n\n^https:\\/\\/api\\.apphud\\.com\\/v1\\/subscriptions url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/EFEKT.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

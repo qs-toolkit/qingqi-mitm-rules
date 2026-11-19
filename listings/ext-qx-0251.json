@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0251",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a413502200d99dbb3306c2838162a45f50ff59ec1ed7ab7e8de636727576b310"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "我的番茄",
-  "description": "我的番茄解锁会员 · 来源 重写库",
+  "description": "我的番茄解锁会员",
   "scope": [],
-  "revisionId": "0fd0245df9d85fad49bccce140b8dff3de3c2812f3cc5ae0010944cc8953db80",
+  "revisionId": "a413502200d99dbb3306c2838162a45f50ff59ec1ed7ab7e8de636727576b310",
   "author": "89996462",
-  "updatedAt": 1795094243544,
+  "updatedAt": 1795094539141,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "0fd0245df9d85fad49bccce140b8dff3de3c2812f3cc5ae0010944cc8953db80"
-  ]
+  "homepage": ""
 }

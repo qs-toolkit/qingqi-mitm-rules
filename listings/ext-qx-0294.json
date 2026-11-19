@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0294",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ea910532ee447dfe55e3616183d6517e53f8cc7ff83c6c96b42b7f7336b93c8c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "UnblockURLinWeChat",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "acd7e9b9636b4866d311192252319d4348354863468069559bf74552cc513389",
+  "revisionId": "ea910532ee447dfe55e3616183d6517e53f8cc7ff83c6c96b42b7f7336b93c8c",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243550,
+  "updatedAt": 1795094539148,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "acd7e9b9636b4866d311192252319d4348354863468069559bf74552cc513389"
-  ]
+  "homepage": ""
 }

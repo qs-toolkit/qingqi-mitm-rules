@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0018",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3df1dba25134839b7bb521ea0583b112b98f5a122c2e740e8e7bd6f674acdf4e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "360儿童卫士",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "360ChildGuard",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c460f827b677630c831a5484bd7ecf0b3091ae41e06b3247f256cfed8e3f9f2b",
-  "author": "奶思",
-  "updatedAt": 1795094243553,
+  "revisionId": "3df1dba25134839b7bb521ea0583b112b98f5a122c2e740e8e7bd6f674acdf4e",
+  "author": "fmz200",
+  "updatedAt": 1795094539183,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "c460f827b677630c831a5484bd7ecf0b3091ae41e06b3247f256cfed8e3f9f2b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

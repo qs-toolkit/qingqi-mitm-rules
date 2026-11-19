@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0293",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "00fd646f42f48d4f5b62ee5e3f6166d66d41d9e5f9529b947e18be058cea1f71"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "TFDownload",
-  "description": "解决国区TF中无法下载某些应用（QX、小火箭、LOON）的问题 · 来源 墨鱼手记",
+  "description": "解决国区TF中无法下载某些应用（QX、小火箭、LOON）的问题",
   "scope": [],
-  "revisionId": "b94e1c048fe33e89bbe39b29eeff4b4736bd2ba569e6edde01083ec3569878ea",
+  "revisionId": "00fd646f42f48d4f5b62ee5e3f6166d66d41d9e5f9529b947e18be058cea1f71",
   "author": "@id77, Modified by Cuttlefish",
-  "updatedAt": 1795094243550,
+  "updatedAt": 1795094539148,
   "targets": [],
   "upstream": "@id77, Modified by Cuttlefish",
-  "homepage": "",
-  "revisions": [
-    "b94e1c048fe33e89bbe39b29eeff4b4736bd2ba569e6edde01083ec3569878ea"
-  ]
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "LvTuSuiShenTing",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=旅途随身听\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partL/LvTuSuiShenTing.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Argument]\nlvtusvuftk_enable = switch,true,false,tag=旅途随身听-脚本开关\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/www\\.1314zhilv\\.com\\/ltsstnew\\/(guideScenic\\/getRecentlyUpdatedScenic|city\\/getWeatherByCityName)/i then reject_dict(200)\n  \n\n[Script]\n# 首页北京城市导览图片,首页上方轮播图片净化\nresponse if ${url} ~= /^https?:\\/\\/www\\.1314zhilv\\.com\\/ltsstnew\\/(common\\/getJGQIconNew|city\\/getAllBannelByCity)/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/lvtusuishenting/ltsst-ad.js\") with enable=${lvtusvuftk_enable}, tag=\"旅途随身听\", timeout=60, requires_body=true\n  \n\n[MITM]\nhostname = www.1314zhilv.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

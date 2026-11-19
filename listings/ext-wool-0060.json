@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0060",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "91f38faa20bb0808bb9ac5d26148209d672f420a8a98addaab34fc1947d2f8fc"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "百度地图",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BaiduMaps",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e92551c06ab144c7d75bc6c5ddff370a71917dbc2cb31945f50501783226e3c0",
-  "author": "奶思",
-  "updatedAt": 1795094243556,
+  "revisionId": "91f38faa20bb0808bb9ac5d26148209d672f420a8a98addaab34fc1947d2f8fc",
+  "author": "fmz200",
+  "updatedAt": 1795094539189,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "e92551c06ab144c7d75bc6c5ddff370a71917dbc2cb31945f50501783226e3c0"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0040",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e4e093cae2930dfe0abc38e3b3199ac6655769c1ecc2b42e3db08de431bff6ce"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "IPA工具箱助手",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "f40fc94ad5ab64ed3fa6af336fd0025a87e1ee12c18f05dcca4f82b5607810a1",
+  "revisionId": "e4e093cae2930dfe0abc38e3b3199ac6655769c1ecc2b42e3db08de431bff6ce",
   "author": "ClashModule",
-  "updatedAt": 1795094243463,
+  "updatedAt": 1795094539039,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "f40fc94ad5ab64ed3fa6af336fd0025a87e1ee12c18f05dcca4f82b5607810a1"
-  ]
+  "homepage": ""
 }

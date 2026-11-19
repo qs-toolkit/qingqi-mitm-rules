@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0275",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "32ccab08a3762dbb61334603b94c15514c80d5d48d23ec6781bd24ff9ffc60c4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "快手联盟,优量汇,穿山甲「广告联盟」",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "AdAlliance",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8da50b14a8d6b61fec0b2eb550d82a17353d38e55a777a0522c3bb252e8e69b7",
-  "author": "奶思",
-  "updatedAt": 1795094243574,
+  "revisionId": "32ccab08a3762dbb61334603b94c15514c80d5d48d23ec6781bd24ff9ffc60c4",
+  "author": "fmz200",
+  "updatedAt": 1795094539221,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "8da50b14a8d6b61fec0b2eb550d82a17353d38e55a777a0522c3bb252e8e69b7"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

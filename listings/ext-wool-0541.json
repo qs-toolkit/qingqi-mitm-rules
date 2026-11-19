@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0541",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4db875d652e04ce87f2d5f685036f0845f05f056a582f21a6bf0929925949f61"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "WPS",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9c649155f2f59fe02f713b9e5688cf4dd6cc5d74fa1485b468b02c6cfb57bf1f",
-  "author": "奶思",
-  "updatedAt": 1795094243598,
+  "revisionId": "4db875d652e04ce87f2d5f685036f0845f05f056a582f21a6bf0929925949f61",
+  "author": "fmz200",
+  "updatedAt": 1795094539258,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "9c649155f2f59fe02f713b9e5688cf4dd6cc5d74fa1485b468b02c6cfb57bf1f"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "spotify会员解锁",
+  "description": "部分解锁premium,建议重新登录,音质不能设置为超高",
+  "scope": [],
+  "text": "#!name=Spotify Premium\n#!desc=部分解锁premium,建议重新登录,音质不能设置为超高\n#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png\n#!homepage=https://yfamily.ml\n#!author=app2smile\n\n\nhostname =spclient.wg.spotify.com\n\n^https:\\/\\/spclient\\.wg\\.spotify\\.com\\/(bootstrap\\/v1\\/bootstrap|user-customization-service\\/v1\\/customize)$ url script-response-body https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-proto.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "CheLaiLe",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=车来了\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partC/CheLaiLe.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rule]\nDOMAIN-SUFFIX,atrace.chelaile.net.cn, REJECT\nDOMAIN, logs.chelaile.net.cn, REJECT\nDOMAIN, ad.chelaile.net.cn, REJECT\n\n\n\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/pic1\\.chelaile\\.net\\.cn\\/adv\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/(api|atrace)\\.chelaile\\.net\\.cn\\/adpub\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/api\\.chelaile\\.net\\.cn\\/goocity\\/advert\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/atrace\\.chelaile\\.net\\.cn\\/adpub\\//i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/atrace\\.chelaile\\.net\\.cn\\/exhibit\\?&adv_image/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/web\\.chelaile\\.net\\.cn\\/api\\/adpub\\/ad/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/cdn\\.\\w{3}\\.chelaileapp\\.cn\\/(api\\/)?adpub/i then reject(404)\n\n\n[MITM]\nhostname = pic1.chelaile.net.cn, api.chelaile.net.cn, atrace.chelaile.net.cn, web.chelaile.net.cn, cdn.*.chelaileapp.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

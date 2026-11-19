@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0252",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "36e229f4f3084972e941370081ce4b33596a2277e3d7ecd18503ec09f6cfc80e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "懒饭.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c784f74ad0681685c3508ec4f88502f1a876e71a06d4c6da9f3e22c82c5099ae",
+  "revisionId": "36e229f4f3084972e941370081ce4b33596a2277e3d7ecd18503ec09f6cfc80e",
   "author": "ClashModule",
-  "updatedAt": 1795094243487,
+  "updatedAt": 1795094539071,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "c784f74ad0681685c3508ec4f88502f1a876e71a06d4c6da9f3e22c82c5099ae"
-  ]
+  "homepage": ""
 }

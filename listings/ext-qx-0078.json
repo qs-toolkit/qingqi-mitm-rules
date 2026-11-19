@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0078",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c9a7fd9503e180799442c4a3080eae88d7104be666247074ec55c4da48d226a6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Fantastical解锁",
-  "description": "Fantastical解锁会员 · 来源 重写库",
+  "description": "Fantastical解锁会员",
   "scope": [],
-  "revisionId": "cbe7af9d39415cab6c618197fedd3d66648714ad4d5b4d58ea0a57643d10026d",
+  "revisionId": "c9a7fd9503e180799442c4a3080eae88d7104be666247074ec55c4da48d226a6",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243523,
+  "updatedAt": 1795094539118,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "cbe7af9d39415cab6c618197fedd3d66648714ad4d5b4d58ea0a57643d10026d"
-  ]
+  "homepage": ""
 }

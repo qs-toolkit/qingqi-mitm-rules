@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0178",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0a7ee529f4834b96c97c3ab7a9c1bc3313d8422a32c872a4fb827baa139e8a0f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "广汽本田",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "GACHonda",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cf6b740ace53c954f920783411e84957f02184b0f4141c5841cb8a797a3fb555",
-  "author": "奶思",
-  "updatedAt": 1795094243567,
+  "revisionId": "0a7ee529f4834b96c97c3ab7a9c1bc3313d8422a32c872a4fb827baa139e8a0f",
+  "author": "fmz200",
+  "updatedAt": 1795094539206,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "cf6b740ace53c954f920783411e84957f02184b0f4141c5841cb8a797a3fb555"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

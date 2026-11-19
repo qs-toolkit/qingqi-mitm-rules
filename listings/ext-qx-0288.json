@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0288",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "10f2269f2a2798d95e4a7bf6227ae11dce59eea2f216f6f286331aa68e4694d4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "喜马拉雅净化",
-  "description": "去广告配置（自用，不定期更新） · 来源 墨鱼手记",
+  "description": "去广告配置（自用，不定期更新） · Quantumult X",
   "scope": [],
-  "revisionId": "719750d22d982129c8f1fc3869364b62f72e1a51184aea7360125528da7b7882",
+  "revisionId": "10f2269f2a2798d95e4a7bf6227ae11dce59eea2f216f6f286331aa68e4694d4",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243549,
+  "updatedAt": 1795094539147,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "719750d22d982129c8f1fc3869364b62f72e1a51184aea7360125528da7b7882"
-  ]
+  "homepage": ""
 }

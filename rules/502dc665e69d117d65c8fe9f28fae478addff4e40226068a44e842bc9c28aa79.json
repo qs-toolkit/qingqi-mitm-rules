@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Eleme",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=饿了么\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partE/Eleme.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rule]\nDOMAIN-SUFFIX, app-monitor.ele.me, REJECT\nDOMAIN-SUFFIX, client-api.ele.me, REJECT\nDOMAIN-SUFFIX, grand.ele.me, REJECT\nDOMAIN-SUFFIX, mobile-pubt.ele.me, REJECT\nDOMAIN-SUFFIX, newton-api.ele.me, REJECT\n\n\n\n\n[Rewrite]\n# 开屏广告\nrequest if ${url} ~= /^https?:\\/\\/elemecdn\\.com\\/.+\\/sitemap/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/fuss10\\.elemecdn\\.com\\/.+\\/w\\/640\\/h\\/\\d{3,4}/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/fuss10\\.elemecdn\\.com\\/.+\\/w\\/750\\/h\\/\\d{3,4}/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/fuss10\\.elemecdn\\.com\\/.+?\\.mp4/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/cube\\.elemecdn\\.com\\/[\\w\\/]+\\.jpeg\\?x-oss-process=image\\/resize,m_fill,w_1\\d{3},h_2\\d{3}\\/format,webp\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/cube\\.elemecdn\\.com\\/[\\w\\/]+\\.jpeg\\?x-oss-process=image\\/resize,m_fill,w_6\\d{2},h_8\\d{2}\\/format,webp\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/cube\\.elemecdn\\.com\\/[\\w\\/]+\\.jpeg\\?x-oss-process=image\\/resize,m_fill,w_\\d{3},h_\\d{4}\\/format,webp\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/cube\\.elemecdn\\.com\\/\\w\\/\\w{2}\\/\\w+mp4\\.mp4\\?/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/www1\\.elecfans\\.com\\/www\\/delivery\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/(nr-op|cube)\\.elemecdn\\.com\\/.+\\.jpeg\\?x-oss-process=image\\/resize,m_fill,w_\\d{4,},h_\\d{4,}\\/($|format,webp\\/$)/i then reject(404)\n\n\n\n\n[MITM]\nhostname = elemecdn.com, fuss10.elemecdn.com, cube.elemecdn.com, www1.elecfans.com, nr-op.elemecdn.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

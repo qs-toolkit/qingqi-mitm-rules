@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0162",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5065893c93ce96a144f33fb690bf01dbc0811c2e5e39d938717a3765d0575b0d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "哔哩哔哩漫画去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "2af25eb51c0d3e7962879a135309bbec391c22af38e1d9fa6f13713acdb64f45",
+  "revisionId": "5065893c93ce96a144f33fb690bf01dbc0811c2e5e39d938717a3765d0575b0d",
   "author": "ClashModule",
-  "updatedAt": 1795094243476,
+  "updatedAt": 1795094539056,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "2af25eb51c0d3e7962879a135309bbec391c22af38e1d9fa6f13713acdb64f45"
-  ]
+  "homepage": ""
 }

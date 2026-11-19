@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0070",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c78efd2bab26f7e57d9885ba45036221b021c463f38cba00ed4c2f51305d6055"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "BaofengPlayer",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "revisionId": "c78efd2bab26f7e57d9885ba45036221b021c463f38cba00ed4c2f51305d6055",
+  "author": "fmz200",
+  "updatedAt": 1795094539191,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": ""
+}

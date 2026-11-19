@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0144",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "85f9ae10cc27a23abd5583c02f1151eb190c7c1116b68a8ca5071c5ff35c5506"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Fileball",
-  "description": "Fileball会员 · 来源 重写库",
+  "description": "Fileball会员",
   "scope": [],
-  "revisionId": "1163a2546d67ae6bf9f758a3913c63bda9f038c00aadb813240bf55062a3d382",
+  "revisionId": "85f9ae10cc27a23abd5583c02f1151eb190c7c1116b68a8ca5071c5ff35c5506",
   "author": "89996462",
-  "updatedAt": 1795094243533,
+  "updatedAt": 1795094539127,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "1163a2546d67ae6bf9f758a3913c63bda9f038c00aadb813240bf55062a3d382"
-  ]
+  "homepage": ""
 }

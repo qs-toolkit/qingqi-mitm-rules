@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "历史价格",
+  "description": "京东比价",
+  "scope": [],
+  "text": "#!name=Price\n#!desc=京东比价 \n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/price.png\n#!author=Tartarus2014\n\n^https?://api\\.m\\.jd\\.com/client\\.action\\?functionId=(wareBusiness|serverConfig|basicConfig) url script-response-body https://raw.githubusercontent.com/deezertidal/private/main/jdprice.js\n\n\nhostname = api.m.jd.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0146",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8da38a4d89531d530f4cbba6ccd0f62b72374d9d654a2b805cef3adf475e63a6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "AI换脸秀",
-  "description": "AI换脸秀会员解锁 · 来源 重写库",
+  "description": "AI换脸秀会员解锁",
   "scope": [],
-  "revisionId": "2c7e4b045034ca5d499c51fa055cfb193953bcc6048984dbe1ef23574a3d5b12",
+  "revisionId": "8da38a4d89531d530f4cbba6ccd0f62b72374d9d654a2b805cef3adf475e63a6",
   "author": "89996462",
-  "updatedAt": 1795094243533,
+  "updatedAt": 1795094539127,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "2c7e4b045034ca5d499c51fa055cfb193953bcc6048984dbe1ef23574a3d5b12"
-  ]
+  "homepage": ""
 }

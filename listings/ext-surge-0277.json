@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0277",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5f5bea8c167486c2356c1fde62abee87edd8f33d88e050443881012e4adafbcd"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "斗鱼去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "cef32001ad6cf21258a91d933cf48061748a28d34b2094c0460b7164ac4d80ce",
+  "revisionId": "5f5bea8c167486c2356c1fde62abee87edd8f33d88e050443881012e4adafbcd",
   "author": "ClashModule",
-  "updatedAt": 1795094243490,
+  "updatedAt": 1795094539074,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "cef32001ad6cf21258a91d933cf48061748a28d34b2094c0460b7164ac4d80ce"
-  ]
+  "homepage": ""
 }

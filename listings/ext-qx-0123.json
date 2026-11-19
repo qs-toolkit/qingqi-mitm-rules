@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0123",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "829af2344d531b73e2a4b1ec1ad1808c4c0d05fbf6e55e9bc35c38490999fdb3"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "纸条年度会员解锁",
-  "description": "纸条年度会员解锁 · 来源 重写库",
+  "description": "纸条年度会员解锁",
   "scope": [],
-  "revisionId": "5011be21999585fff87ccca38492796c9c8f553c3fc959a705c475d6b479e3ea",
+  "revisionId": "829af2344d531b73e2a4b1ec1ad1808c4c0d05fbf6e55e9bc35c38490999fdb3",
   "author": "lutqhysky",
-  "updatedAt": 1795094243528,
+  "updatedAt": 1795094539123,
   "targets": [],
   "upstream": "lutqhysky",
-  "homepage": "",
-  "revisions": [
-    "5011be21999585fff87ccca38492796c9c8f553c3fc959a705c475d6b479e3ea"
-  ]
+  "homepage": ""
 }

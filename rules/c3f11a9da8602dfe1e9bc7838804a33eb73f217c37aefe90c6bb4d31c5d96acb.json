@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "起伏会员解锁",
+  "description": "起伏会员解锁",
+  "scope": [],
+  "text": "#!name=起伏\n#!desc=起伏会员解锁\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/qifu.png\n\nhttps?:\\/\\/api\\.risingfalling\\.com\\/api\\/vip\\/detail url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/qifu.js\n\nhostname=api.risingfalling.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

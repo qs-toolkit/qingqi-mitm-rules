@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0060",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "791b0776fd2ad716352ddfc8306685b7e06bec5f2a3531c2448284b459af31f6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "BOOM会员解锁",
-  "description": "BOOM会员解锁 · 来源 重写库",
+  "description": "BOOM会员解锁",
   "scope": [],
-  "revisionId": "ccaae543263d91e5a6f3ee3c1de8c570a2014688e531fd2d699e68cadd9dc57f",
+  "revisionId": "791b0776fd2ad716352ddfc8306685b7e06bec5f2a3531c2448284b459af31f6",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243521,
+  "updatedAt": 1795094539116,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "ccaae543263d91e5a6f3ee3c1de8c570a2014688e531fd2d699e68cadd9dc57f"
-  ]
+  "homepage": ""
 }

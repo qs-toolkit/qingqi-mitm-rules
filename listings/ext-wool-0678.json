@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0678",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "667ba304735a363142e816c2ec1c66f52a2b119958eaf3c3971b96a88c0edb43"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "中国银行 缤纷生活",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BOC-BinFenShengHuo",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bb8c6445f1d19c21ff28fc98fffd4f900bf4d6b24775a942626f1a947964fc4a",
-  "author": "奶思",
-  "updatedAt": 1795094243610,
+  "revisionId": "667ba304735a363142e816c2ec1c66f52a2b119958eaf3c3971b96a88c0edb43",
+  "author": "fmz200",
+  "updatedAt": 1795094539277,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "bb8c6445f1d19c21ff28fc98fffd4f900bf4d6b24775a942626f1a947964fc4a"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

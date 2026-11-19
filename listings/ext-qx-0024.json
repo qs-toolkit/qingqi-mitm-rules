@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0024",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f0a287694cf599dbdd90be8a6c8ad8c0e83c2792c697a8a4248c79fdc2985731"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "小影",
-  "description": "小影解锁 · 来源 重写库",
+  "description": "小影解锁",
   "scope": [],
-  "revisionId": "e584e2ac32438afbf9925b0771f39768b249a12a799b391ff5fb37bddd84c636",
+  "revisionId": "f0a287694cf599dbdd90be8a6c8ad8c0e83c2792c697a8a4248c79fdc2985731",
   "author": "NobyDa",
-  "updatedAt": 1795094243517,
+  "updatedAt": 1795094539111,
   "targets": [],
   "upstream": "NobyDa",
-  "homepage": "",
-  "revisions": [
-    "e584e2ac32438afbf9925b0771f39768b249a12a799b391ff5fb37bddd84c636"
-  ]
+  "homepage": ""
 }

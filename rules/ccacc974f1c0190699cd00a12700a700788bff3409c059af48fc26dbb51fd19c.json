@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "iMuseum解锁",
+  "description": "IMuseum会员解锁",
+  "scope": [],
+  "text": "#!name=IMuseum\n#!desc=IMuseum会员解锁\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/imuseum.png\n\nhttps://icity-imsm.2q10.com/api/v1/users/mark_paid url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/imuseum.js\n\nhostname = icity-imsm.2q10.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

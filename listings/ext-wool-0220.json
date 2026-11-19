@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0220",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3dba3f47695126319a97c38bf5887e5574e84f755c665422e1d3fc0bb3dba252"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "和风天气",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "HeFengWeather",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "be09731d700ae308d42306c640750fc263abc06bc7feb342dbff817bc9516c88",
-  "author": "奶思",
-  "updatedAt": 1795094243570,
+  "revisionId": "3dba3f47695126319a97c38bf5887e5574e84f755c665422e1d3fc0bb3dba252",
+  "author": "fmz200",
+  "updatedAt": 1795094539214,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "be09731d700ae308d42306c640750fc263abc06bc7feb342dbff817bc9516c88"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

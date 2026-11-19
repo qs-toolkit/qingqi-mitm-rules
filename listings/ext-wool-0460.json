@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0460",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2527bab49b8f74be1f8e56088a905dc98502995e7adfd4c23d28748608357a6c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "搜电充电",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "SouDianChongDian",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "403026c3f26f67e3d797832ce67140866a6d9f0900856659dd8aa5dbf00257bc",
-  "author": "奶思",
-  "updatedAt": 1795094243591,
+  "revisionId": "2527bab49b8f74be1f8e56088a905dc98502995e7adfd4c23d28748608357a6c",
+  "author": "fmz200",
+  "updatedAt": 1795094539247,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "403026c3f26f67e3d797832ce67140866a6d9f0900856659dd8aa5dbf00257bc"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

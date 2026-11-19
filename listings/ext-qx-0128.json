@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0128",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "865e3ed37ba74f35cf089e2c8f0d7fd752f84324ec2d53a5468ed1e038a6df2f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "NFC门禁卡公交卡",
-  "description": "NFC门禁卡公交卡读写神器 · 来源 重写库",
+  "description": "NFC门禁卡公交卡读写神器",
   "scope": [],
-  "revisionId": "4772364a1a04d64c0303fc024ad314adbd04aeae772621ea02e9104fe3ed887c",
+  "revisionId": "865e3ed37ba74f35cf089e2c8f0d7fd752f84324ec2d53a5468ed1e038a6df2f",
   "author": "lutqhysky",
-  "updatedAt": 1795094243529,
+  "updatedAt": 1795094539124,
   "targets": [],
   "upstream": "lutqhysky",
-  "homepage": "",
-  "revisions": [
-    "4772364a1a04d64c0303fc024ad314adbd04aeae772621ea02e9104fe3ed887c"
-  ]
+  "homepage": ""
 }

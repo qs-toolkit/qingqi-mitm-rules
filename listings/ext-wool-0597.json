@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0597",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d4adbcf2161669cf2073f162447123bfa4548ba92feb989346e4969c14e9eddc"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "小熊拦截",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "XiaoXiongIntercept",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7daf12bdc4d62a3374672a9a152061a76994105e707474d5d670947b42d9fcab",
-  "author": "奶思",
-  "updatedAt": 1795094243604,
+  "revisionId": "d4adbcf2161669cf2073f162447123bfa4548ba92feb989346e4969c14e9eddc",
+  "author": "fmz200",
+  "updatedAt": 1795094539266,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "7daf12bdc4d62a3374672a9a152061a76994105e707474d5d670947b42d9fcab"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

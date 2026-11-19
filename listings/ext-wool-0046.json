@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0046",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "40c827d2d48c354f8e4cb3842c48af8dad83e0a74465ec8ff2409271ba917d3e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "安徽掌上10000",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "AnhuiZhangShang10000",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8901fe6a643704b47d2b64710c78fdc394d7a707291638ce13754d1007ba7f6d",
-  "author": "奶思",
-  "updatedAt": 1795094243555,
+  "revisionId": "40c827d2d48c354f8e4cb3842c48af8dad83e0a74465ec8ff2409271ba917d3e",
+  "author": "fmz200",
+  "updatedAt": 1795094539187,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "8901fe6a643704b47d2b64710c78fdc394d7a707291638ce13754d1007ba7f6d"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

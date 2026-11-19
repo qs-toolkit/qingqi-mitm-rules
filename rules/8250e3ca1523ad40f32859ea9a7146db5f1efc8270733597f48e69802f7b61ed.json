@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Emby增强[墨鱼整理版]",
+  "description": "Emby官方客户端内调用外部播放器，该功能需要自行添加Emby服域名的MITM · Quantumult X",
+  "scope": [],
+  "text": "#!name=Emby增强[墨鱼整理版]\n#!desc=Emby官方客户端内调用外部播放器，该功能需要自行添加Emby服域名的MITM · Quantumult X\n#!author=@renzhipengBot 原创，@AppleArcade 魔改\n\n// ==UserScript==\n// @ScriptName        Emby增强[墨鱼整理版]\n// @Author            @renzhipengBot 原创，@AppleArcade 魔改\n// @Function          Emby官方客户端内调用外部播放器，该功能需要自行添加Emby服域名的MITM\n// @WechatID          墨鱼手记\n// @TgChannel         https://t.me/ddgksf2021\n// @Contribute        https://t.me/ddgksf2013_bot\n// @UpdateTime        2024-01-24\n// @Suitable          自行观看“# > ”注释内容\n// @Version           V1.0.2\n// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/Function/EmbyPlugin.conf\n// ==/UserScript==\n\n\n\nhostname = mb3admin.com, *.emby.wtf, *.plusmedia.site\n  \n# > 播放解锁\n^https?:\\/\\/mb3admin.com\\/admin\\/service\\/registration\\/validateDevice url script-response-body https://raw.githubusercontent.com/rartv/EmbyPublic/test/quantumult-x/unlock.js\n# > 添加外部播放器连接\n\\/[Uu]sers\\/\\w{32}\\/[Ii]tems\\/\\d+\\?? url script-response-body https://raw.githubusercontent.com/rartv/EmbyPublic/refs/heads/test/surge/emby-plugin.js\n# > 打开外部播放器\n\\/plugin\\/scheme url script-echo-response https://raw.githubusercontent.com/rartv/EmbyPublic/refs/heads/test/surge/emby-plugin.js\n# > 资源路径伪静态\n(\\/[Vv]ideos\\/\\d+\\/stream\\/.+\\?.+&filename)|(\\/[Vv]ideos\\/\\d+\\/\\w{32}\\/[Ss]ubtitles\\/\\d+\\/.+\\?.+&filename) url script-request-header https://raw.githubusercontent.com/rartv/EmbyPublic/refs/heads/test/surge/emby-plugin.js\n# > 下载文件重命名\n(\\/[Vv]ideos\\/\\d+\\/stream\\?.+&filename)|(\\/[Vv]ideos\\/\\d+\\/\\w{32}\\/[Ss]ubtitles\\/.+&filename) url script-response-header https://raw.githubusercontent.com/rartv/EmbyPublic/refs/heads/test/surge/download_file_rename.js\n# > 解决QX抓取某些公益服该请求乱码问题\n\\/Users\\/\\w{32}\\/Items\\/\\d+\\? url request-header (\\r\\n)Accept-Encoding:.+ request-header $Accept-Encoding: gzip, deflate, br\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

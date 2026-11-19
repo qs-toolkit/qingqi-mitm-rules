@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "人人视频去广告",
+  "description": "人人（多多）视频去广告",
+  "scope": [],
+  "text": "#!name=人人视频去广告\n#!desc=人人（多多）视频去广告\n#!homepage=https://yfamily.ml\n#!author= ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/rrsp.png\n\n\n\n\nhostname = api.rr.tv\n\n\n^https?:\\/\\/api\\.rr\\.tv\\/\\w{3}\\/level\\/info url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\nhttps://api.rr.tv/v3plus/index/channel\\?pageNum=1&position=CHANNEL_INDEX url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\n^https?:\\/\\/api\\.rr\\.tv\\/app\\/config\\/h5NativeBar url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\n^https?:\\/\\/api\\.rr\\.tv\\/v3plus\\/index\\/channel\\?pageNum=1&position=CHANNEL_MY url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\n^https:\\/\\/api\\.rr\\.tv\\/user\\/privilege\\/list url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\n^https:\\/\\/api\\.rr\\.tv\\/ad\\/getAll url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\n^https:\\/\\/api\\.rr\\.tv\\/drama\\/app\\/get_combined_drama_detail url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\n^https://api.rr.tv/watch/v4 url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\n^https://api.rr.tv/watch/v4 url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\n^https://api.rr.tv/user/profile url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js\n^https://api.rr.tv/watch/v4 url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/rrtv_json.js",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Widgetsmith解锁",
+  "description": "Widgetsmith解锁",
+  "scope": [],
+  "text": "#!name=Widgetsmith\n#!desc=Widgetsmith解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/widgetsmith.png\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n\n\nhttps://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/widgetSmith.js\n\n\nhostname = api.revenuecat.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

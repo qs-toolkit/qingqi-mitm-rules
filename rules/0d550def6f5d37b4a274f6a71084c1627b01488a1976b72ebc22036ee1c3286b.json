@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "小桔充电去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=小桔充电去广告\n#!desc=移除横幅广告、弹窗广告，精简我的页面。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/XiaojukejiCharge.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id1670782986\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-12-08 00:24:31\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/energy\\.xiaojukeji\\.com\\/am\\/marketing\\/api\\/member\\/facade\\/charge\\/personal\\/center\\? 'delpaths([[\"data\"]])'\n\n[Map Local]\n^https:\\/\\/energy\\.xiaojukeji\\.com\\/energy\\/hummer\\/api\\/resource\\/display($|\\?) data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/energy\\.xiaojukeji\\.com\\/lego\\/api\\/orderSprint\\/stair\\/info($|\\?) data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/energy\\.xiaojukeji\\.com\\/station-api\\/search\\/preWords$ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/am\\.didistatic\\.com\\/static\\/am\\/cf-terminal\\/epower\\/epower-thanos-app\\/\\d+\\.\\d+\\.\\d+\\/pages\\/people\\/index\\.js$ data-type=file data=\"https://kelee.one/Resource/JavaScript/XiaojukejiCharge/XiaojukejiCharge_remove_ads.js\" status-code=200 header=\"Content-Type:text/plain\"\n\n[MITM]\nhostname = %APPEND% energy.xiaojukeji.com, am.didistatic.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

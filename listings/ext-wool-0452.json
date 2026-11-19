@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0452",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7e6e695fadb1f0e30e73a0b1f51962d14d5d621d0c908b962eede6f3a49a49db"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "书旗小说",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ShuQiNovel",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fe1e1d63e25c24a6293fb6f8b655a837ca955600811390d1c2bee54c7970b2e0",
-  "author": "奶思",
-  "updatedAt": 1795094243590,
+  "revisionId": "7e6e695fadb1f0e30e73a0b1f51962d14d5d621d0c908b962eede6f3a49a49db",
+  "author": "fmz200",
+  "updatedAt": 1795094539246,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "fe1e1d63e25c24a6293fb6f8b655a837ca955600811390d1c2bee54c7970b2e0"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

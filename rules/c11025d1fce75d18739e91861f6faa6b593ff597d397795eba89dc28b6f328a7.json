@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Reddit增强",
+  "description": "去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，另去除信息流的NSFW图的遮罩，NSFW的帖子点击可直接查看图，伪装Premium，解锁会员图标 · Quantumult X",
+  "scope": [],
+  "text": "#!name=Reddit增强\n#!desc=去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，另去除信息流的NSFW图的遮罩，NSFW的帖子点击可直接查看图，伪装Premium，解锁会员图标 · Quantumult X\n#!author=@ddgksf2013\n\n// ==UserScript==\n// @ScriptName        Reddit增强[墨鱼版]\n// @Author            @ddgksf2013\n// @Function          去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，另去除信息流的NSFW图的遮罩，NSFW的帖子点击可直接查看图，伪装Premium，解锁会员图标\n// @AddRequest        https://bit.ly/addRequestforAdBlock\n// @WechatID          墨鱼手记\n// @TgChannel         https://t.me/ddgksf2021\n// @Contribute        https://t.me/ddgksf2013_bot\n// @UpdateTime        2025-05-30\n// @Attention         如需引用请注明出处，谢谢合作！\n// @Version           V1.0.4\n// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/RedditAds.conf\n// ==/UserScript==\n\n\n\n\nhostname = gql-fed.reddit.com\n\n^https?:\\/\\/gql-fed\\.reddit\\.com\\/$ url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/reddit.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "尽简衣橱",
+  "description": "尽简衣橱解锁会员",
+  "scope": [],
+  "text": "#!name=尽简衣橱\n#!desc=尽简衣橱解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/jjyc.png\n\n^https:\\/\\/closet\\.jinjian\\.tech\\/api\\/v3\\/apple_app_store\\/resolve_receipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jjyc.js\n\nhostname = closet.jinjian.tech",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

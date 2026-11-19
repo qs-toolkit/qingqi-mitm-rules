@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "风鸟去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=风鸟去广告\n#!desc=移除首页信息流和轮播图\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/RiskBird.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id1528682937\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-05-13 15:17:08\n\n[Map Local]\n^https:\\/\\/m\\.riskbird\\.com\\/prod-qbb-api\\/user\\/getBannerList data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/m\\.riskbird\\.com\\/prod-qbb-api\\/searchHotEnt data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[Script]\n移除推荐老板 = type=http-response, pattern=^https:\\/\\/m\\.riskbird\\.com\\/prod-qbb-api\\/query\\/person\\/personRecommend, script-path=https://kelee.one/Resource/JavaScript/RiskBird/RiskBird_remove_ads.js, requires-body=true\n\n[MITM]\nhostname = %APPEND% m.riskbird.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

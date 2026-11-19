@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "美篇解锁vip",
+  "description": "美篇解锁vip",
+  "scope": [],
+  "text": "#!name=美篇\n#!desc=美篇解锁vip\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/meipian.png\n#!homepage=https://yfamily.ml\n#!author=litieyin\n\n\nhostname=poster.meipian.cn\n\n\n^https:\\//poster.meipian.cn\\/5.3\\/user\\/info url script-response-body https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/meipian.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

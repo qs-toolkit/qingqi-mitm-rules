@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "1blocker",
+  "description": "1blocker会员解锁",
+  "scope": [],
+  "text": "#!name=1blocker\n#!desc=1blocker会员解锁\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/1blocker.png\n\n^https:\\/\\/api\\.revenuecat\\.com\\/v1\\/subscribers url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/blocker.js\n\nhostname=api.revenuecat.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

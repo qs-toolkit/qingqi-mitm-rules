@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "豌豆清单解锁",
+  "description": "豌豆清单解锁会员",
+  "scope": [],
+  "text": "#!name=豌豆清单\n#!desc=豌豆清单解锁会员\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wdqd.png\n\nhostname=www.40sishi.com\n\n^https:\\/\\/www\\.40sishi\\.com\\/list\\/user\\/profile$ url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/wdqd.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

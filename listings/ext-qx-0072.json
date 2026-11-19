@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0072",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0b139d10fbb98c7c308a2eb2b65625a0bd27fdb6e90bef739a3467e2a387a828"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Molycam会员",
-  "description": "Molycam会员解锁 · 来源 重写库",
+  "description": "Molycam会员解锁",
   "scope": [],
-  "revisionId": "003944772dc304ec0ca6fc85e401149cef730676e1a2984d200d8f21148437ea",
+  "revisionId": "0b139d10fbb98c7c308a2eb2b65625a0bd27fdb6e90bef739a3467e2a387a828",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243522,
+  "updatedAt": 1795094539117,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "003944772dc304ec0ca6fc85e401149cef730676e1a2984d200d8f21148437ea"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0104",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "62fd68f25371b262b35f767c939c2f0c24157c96f779008eee096bb884ae3dd6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "海豚记账本",
-  "description": "海豚记账本解锁会员 · 来源 重写库",
+  "description": "海豚记账本解锁会员",
   "scope": [],
-  "revisionId": "1a3cac11967106af4c9be4bc15dea327dfc531e3dd402dbb2a63c209425862a8",
+  "revisionId": "62fd68f25371b262b35f767c939c2f0c24157c96f779008eee096bb884ae3dd6",
   "author": "superuv",
-  "updatedAt": 1795094243526,
+  "updatedAt": 1795094539121,
   "targets": [],
   "upstream": "superuv",
-  "homepage": "",
-  "revisions": [
-    "1a3cac11967106af4c9be4bc15dea327dfc531e3dd402dbb2a63c209425862a8"
-  ]
+  "homepage": ""
 }

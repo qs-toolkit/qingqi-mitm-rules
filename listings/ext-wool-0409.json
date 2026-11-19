@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0409",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3e3c9575aef434a9e0c53e2b35da4739f640e67ac49452a9d379a8a047a3311e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "七猫小说",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "QiMaoNovel",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8e578f87d4e07136742f3b041d16a771350011a070d90cfd583c7d0a1a9a4059",
-  "author": "奶思",
-  "updatedAt": 1795094243586,
+  "revisionId": "3e3c9575aef434a9e0c53e2b35da4739f640e67ac49452a9d379a8a047a3311e",
+  "author": "fmz200",
+  "updatedAt": 1795094539240,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "8e578f87d4e07136742f3b041d16a771350011a070d90cfd583c7d0a1a9a4059"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

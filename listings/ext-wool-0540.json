@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0540",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c3c09feea50b44ab60a5790b9d8ea28ac3ecfec2a65b14cb2fc4772f1d173a97"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "唯品会",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Vipshop",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c39685353128b571cf6188983f9af825603ff31780ec5a561c48f54e1748e8da",
-  "author": "奶思",
-  "updatedAt": 1795094243598,
+  "revisionId": "c3c09feea50b44ab60a5790b9d8ea28ac3ecfec2a65b14cb2fc4772f1d173a97",
+  "author": "fmz200",
+  "updatedAt": 1795094539258,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "c39685353128b571cf6188983f9af825603ff31780ec5a561c48f54e1748e8da"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

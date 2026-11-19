@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0046",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fdc2a1f2851ba824a96dae02ab4b96627ab800414fe7234974ccb8483f1e3367"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "时光手账解锁",
-  "description": "时光手账解锁 · 来源 重写库",
+  "description": "时光手账解锁",
   "scope": [],
-  "revisionId": "7614705813c2c0e1cfca29f1897bd7f058e7961419f742591174737c8afea5df",
+  "revisionId": "fdc2a1f2851ba824a96dae02ab4b96627ab800414fe7234974ccb8483f1e3367",
   "author": "Marol62926",
-  "updatedAt": 1795094243520,
+  "updatedAt": 1795094539114,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "7614705813c2c0e1cfca29f1897bd7f058e7961419f742591174737c8afea5df"
-  ]
+  "homepage": ""
 }

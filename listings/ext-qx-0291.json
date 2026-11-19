@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0291",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8250e3ca1523ad40f32859ea9a7146db5f1efc8270733597f48e69802f7b61ed"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Emby增强[墨鱼整理版]",
-  "description": "Emby官方客户端内调用外部播放器，该功能需要自行添加Emby服域名的MITM · 来源 墨鱼手记",
+  "description": "Emby官方客户端内调用外部播放器，该功能需要自行添加Emby服域名的MITM · Quantumult X",
   "scope": [],
-  "revisionId": "f6395ffbab7ee5a397261b2b3b1853593f74ee7ff2d532c1b9508e6c647e0faf",
+  "revisionId": "8250e3ca1523ad40f32859ea9a7146db5f1efc8270733597f48e69802f7b61ed",
   "author": "@renzhipengBot 原创，@AppleArcade 魔改",
-  "updatedAt": 1795094243549,
+  "updatedAt": 1795094539148,
   "targets": [],
   "upstream": "@renzhipengBot 原创，@AppleArcade 魔改",
-  "homepage": "",
-  "revisions": [
-    "f6395ffbab7ee5a397261b2b3b1853593f74ee7ff2d532c1b9508e6c647e0faf"
-  ]
+  "homepage": ""
 }

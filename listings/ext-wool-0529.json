@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0529",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "50a907436b89dc1dd0d2a8c694d70715f6fd99e952416be6833617ff519212ea"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "网易云音乐",
-  "description": "fmz200/wool_scripts · 可自定 - 全面净化",
+  "name": "NetEaseCloudMusic",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f9d9e96181ab996e35618cca1a02bcf284a0e754833fbb3befbb09beff18a0f5",
-  "author": "key",
-  "updatedAt": 1795094243597,
+  "revisionId": "50a907436b89dc1dd0d2a8c694d70715f6fd99e952416be6833617ff519212ea",
+  "author": "fmz200",
+  "updatedAt": 1795094539256,
   "targets": [],
-  "upstream": "key",
-  "homepage": "",
-  "revisions": [
-    "f9d9e96181ab996e35618cca1a02bcf284a0e754833fbb3befbb09beff18a0f5"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

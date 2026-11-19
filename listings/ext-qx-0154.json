@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0154",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6106ead7d0261842c80e628219be66d60436fb3d140092b3a674be3a413eacdf"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "chic",
-  "description": "chic相机解锁会员 · 来源 重写库",
+  "description": "chic相机解锁会员",
   "scope": [],
-  "revisionId": "01b7447b299784d9ac0c884c71ead32ec2feb163b87ea5629c65200384894f53",
+  "revisionId": "6106ead7d0261842c80e628219be66d60436fb3d140092b3a674be3a413eacdf",
   "author": "lutqhysky",
-  "updatedAt": 1795094243534,
+  "updatedAt": 1795094539128,
   "targets": [],
   "upstream": "lutqhysky",
-  "homepage": "",
-  "revisions": [
-    "01b7447b299784d9ac0c884c71ead32ec2feb163b87ea5629c65200384894f53"
-  ]
+  "homepage": ""
 }

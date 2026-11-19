@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0204",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "20bbf81aef82196e5ce5d84b9ff74da16750d0e882a40f0a43923f0886c86f1a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "闪萌表情",
-  "description": "闪萌表情解锁会员 · 来源 重写库",
+  "description": "闪萌表情解锁会员",
   "scope": [],
-  "revisionId": "37aa0f04f78f0c6e08d3e6a1b627b1604e4156344a7e77c189e215dc8c57ca37",
+  "revisionId": "20bbf81aef82196e5ce5d84b9ff74da16750d0e882a40f0a43923f0886c86f1a",
   "author": "89996462",
-  "updatedAt": 1795094243539,
+  "updatedAt": 1795094539135,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "37aa0f04f78f0c6e08d3e6a1b627b1604e4156344a7e77c189e215dc8c57ca37"
-  ]
+  "homepage": ""
 }

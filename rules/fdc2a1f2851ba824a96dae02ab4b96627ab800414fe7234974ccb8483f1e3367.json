@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "时光手账解锁",
+  "description": "时光手账解锁",
+  "scope": [],
+  "text": "#!name=时光手账\n#!desc=时光手账解锁\n\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/sgsz.png\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n\n\nhttps://api.shouzhang.com/memcenterlk/member url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/timebook.js\n\n\nhostname = api.shouzhang.com\n\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

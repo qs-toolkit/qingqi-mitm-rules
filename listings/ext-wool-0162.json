@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0162",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "455351508812aa0aea8b60633f37b05ac8e038e86960377201aa975491857f19"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "分期乐",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "FenQiLe",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e3a27898125915264904c0ca6c15e9fbe30b449ce98154585805bb063db1c385",
-  "author": "奶思",
-  "updatedAt": 1795094243565,
+  "revisionId": "455351508812aa0aea8b60633f37b05ac8e038e86960377201aa975491857f19",
+  "author": "fmz200",
+  "updatedAt": 1795094539204,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "e3a27898125915264904c0ca6c15e9fbe30b449ce98154585805bb063db1c385"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

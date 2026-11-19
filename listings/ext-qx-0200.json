@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0200",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0cf960457d30e76d14900d1042e1a9d28366da7fba3966519b3f160fcf1aa478"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Percento",
-  "description": "Percento解锁会员 · 来源 重写库",
+  "description": "Percento解锁会员",
   "scope": [],
-  "revisionId": "70a65c10823de4871f186f329a462c850b7fb3e6bd6bbc406d696e04d195528e",
+  "revisionId": "0cf960457d30e76d14900d1042e1a9d28366da7fba3966519b3f160fcf1aa478",
   "author": "89996462",
-  "updatedAt": 1795094243539,
+  "updatedAt": 1795094539135,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "70a65c10823de4871f186f329a462c850b7fb3e6bd6bbc406d696e04d195528e"
-  ]
+  "homepage": ""
 }

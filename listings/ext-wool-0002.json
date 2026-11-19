@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0002",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fe0b4531200438da24c86fd76c0c44fea5824272b23cf1c06762d0cd58c99540"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "WeChatMiniAds",
-  "description": "fmz200/wool_scripts · WeChatMiniAds",
+  "description": "fmz200/wool_scripts · Surge",
   "scope": [],
-  "revisionId": "d98ad82bc9eb180ecedda9132598bce81ab549da261a6b32771d8553868b569a",
+  "revisionId": "fe0b4531200438da24c86fd76c0c44fea5824272b23cf1c06762d0cd58c99540",
   "author": "fmz200",
-  "updatedAt": 1795094243551,
+  "updatedAt": 1795094539177,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": "",
-  "revisions": [
-    "d98ad82bc9eb180ecedda9132598bce81ab549da261a6b32771d8553868b569a"
-  ]
+  "homepage": ""
 }

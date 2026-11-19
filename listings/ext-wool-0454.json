@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0454",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a2a7a092e1753340e6a5cc8d89cdff235fa3593c7a0a3fa6e3c5467fa0574570"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "四季線上影視",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "SiJiXianShangYingShi",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3eff69dd59ecdf1410d789d184363e9356e5cbdd073ed5e46e26f7251c542a46",
-  "author": "奶思",
-  "updatedAt": 1795094243590,
+  "revisionId": "a2a7a092e1753340e6a5cc8d89cdff235fa3593c7a0a3fa6e3c5467fa0574570",
+  "author": "fmz200",
+  "updatedAt": 1795094539247,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "3eff69dd59ecdf1410d789d184363e9356e5cbdd073ed5e46e26f7251c542a46"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

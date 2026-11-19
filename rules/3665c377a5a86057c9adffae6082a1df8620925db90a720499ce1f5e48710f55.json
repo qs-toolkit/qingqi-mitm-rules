@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Bing首页简化",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
+  "scope": [],
+  "text": "#!name=Bing首页简化\n#!desc=墨鱼手记出品的 Quantumult X 重写 · Quantumult X\n#!author=@ddgksf2013\n\n// ==UserScript==\n// @ScriptName        Bing首页简化[墨鱼版]\n// @Author            @ddgksf2013\n// @Function          如果有需要的去除广告的APP，可自行在共享表格中添加需求\n// @AddRequest        https://bit.ly/addRequestforAdBlock\n// @WechatID          墨鱼手记\n// @TgChannel         https://t.me/ddgksf2021\n// @Contribute        https://t.me/ddgksf2013_bot\n// @UpdateTime        2023-12-18\n// @Suitable          自行观看“# > ”注释内容[请卸载重装]\n// @Attention         如需引用请注明出处，谢谢合作！\n// @Version           V1.0.4\n// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/BingSimplify.conf\n// ==/UserScript==\n\n\n\nhostname = sapphire.api.microsoftapp.net, assets.msn.com, api.msn.com\n\n# > bing_首页优化@ddgksf2013\n^https?:\\/\\/sapphire\\.api\\.microsoftapp\\.net\\/config\\/api\\/v1\\/get url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bing.js\n# > bing_位置请求@ddgksf2013\n^https?:\\/\\/assets\\.msn\\.com\\/service\\/weather\\/locations\\/search url reject-dict\n# > bing_信息流@LE\n^https:\\/\\/assets\\.msn\\.com\\/service\\/news\\/feed\\/pages\\/startmhp url reject-dict\n# > bing_天气请求@ddgksf2013\n^https?:\\/\\/api\\.msn\\.com\\/weather url reject-dict\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0237",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "60a8ac2fa60e67cb80c1fd33808c2ed71257cad8ef2ff91a6a35df866ab2d304"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "汇付天下",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "HuifuWorld",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "aa548f6fda2a04efeb72ffebdca34c9c77b4b870fcf3ee5e26de2a2416c3f560",
-  "author": "奶思",
-  "updatedAt": 1795094243571,
+  "revisionId": "60a8ac2fa60e67cb80c1fd33808c2ed71257cad8ef2ff91a6a35df866ab2d304",
+  "author": "fmz200",
+  "updatedAt": 1795094539216,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "aa548f6fda2a04efeb72ffebdca34c9c77b4b870fcf3ee5e26de2a2416c3f560"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

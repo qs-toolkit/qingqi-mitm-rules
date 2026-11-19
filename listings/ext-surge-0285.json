@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0285",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c7bb0b3e61dcfb11127c72fbc4f52860023c9a9e3aadad89fc5fae33e67a2fd2"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "智联招聘去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ddfe82be31c16c910afa824a75102a66500e00ffdb670911a22450031a52c035",
+  "revisionId": "c7bb0b3e61dcfb11127c72fbc4f52860023c9a9e3aadad89fc5fae33e67a2fd2",
   "author": "ClashModule",
-  "updatedAt": 1795094243490,
+  "updatedAt": 1795094539075,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "ddfe82be31c16c910afa824a75102a66500e00ffdb670911a22450031a52c035"
-  ]
+  "homepage": ""
 }

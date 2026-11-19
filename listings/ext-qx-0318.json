@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0318",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f30f4bba1fd490ae02147d085e59c2056424410376aa0f2afda0ee49cedb87f0"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "EasyList 国际规则",
+  "description": "国际通用去广告规则（EasyList）",
+  "scope": [],
+  "revisionId": "f30f4bba1fd490ae02147d085e59c2056424410376aa0f2afda0ee49cedb87f0",
+  "author": "limbopro",
+  "updatedAt": 1795094539164,
+  "targets": [],
+  "upstream": "limbopro",
+  "homepage": ""
+}

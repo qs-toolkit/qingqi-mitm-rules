@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0072",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "bf70b00dc4adc0855941d6431eac1864e5bf2e36f00519f7ff8cacbb8de4f42f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Spotify歌词增强",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "dfc3e0dbd3f04fb150870666e16dc0b5f79f9d1e25179591ead4e7c2e661a747",
+  "revisionId": "bf70b00dc4adc0855941d6431eac1864e5bf2e36f00519f7ff8cacbb8de4f42f",
   "author": "ClashModule",
-  "updatedAt": 1795094243466,
+  "updatedAt": 1795094539044,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "dfc3e0dbd3f04fb150870666e16dc0b5f79f9d1e25179591ead4e7c2e661a747"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0045",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "071255ba236410fe848fc02ecd3c0ad54c7b0b2ab0ab161479832fe000d41b46"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Pixelcut解锁",
-  "description": "重写库 · Quantumult X 重写脚本 · 来源 重写库",
+  "description": "重写库 · Quantumult X 重写脚本",
   "scope": [],
-  "revisionId": "4a10f7baef576efe0c1de65a91bec26dbf7135e943f48b050c2e85d2b5824fbb",
+  "revisionId": "071255ba236410fe848fc02ecd3c0ad54c7b0b2ab0ab161479832fe000d41b46",
   "author": "deezertidal",
-  "updatedAt": 1795094243520,
+  "updatedAt": 1795094539114,
   "targets": [],
   "upstream": "deezertidal",
-  "homepage": "",
-  "revisions": [
-    "4a10f7baef576efe0c1de65a91bec26dbf7135e943f48b050c2e85d2b5824fbb"
-  ]
+  "homepage": ""
 }

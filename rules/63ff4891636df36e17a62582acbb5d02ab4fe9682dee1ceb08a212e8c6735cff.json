@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "美图秀秀VIP",
+  "description": "美图秀秀解锁",
+  "scope": [],
+  "text": "#!name=美图秀秀VIP\n#!desc=美图秀秀解锁\n#!homepage=https://yfamily.ml\n#!author=I-am-R-E\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/meituxx.png\n\nhostname= api.xiuxiu.meitu.com  h5.xiuxiu.meitu.com\n\n\n\n^https?:\\/\\/(h5|api)\\.xiuxiu\\.meitu\\.com\\/v\\d\\/(h\\d\\/vip|vip|user)\\/ url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/MeiTuXiuXiu.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

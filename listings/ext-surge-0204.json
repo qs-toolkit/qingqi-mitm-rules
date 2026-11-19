@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0204",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0a21d82a05bb0641c85cf21bdde85bf10b309bd064fb46d9b04ccff8b54d8c0e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "小象超市去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "630863ae9f135017b15e1a1b83b66c5e1b3204605c0db9f99617ff4cf06dbf6e",
+  "revisionId": "0a21d82a05bb0641c85cf21bdde85bf10b309bd064fb46d9b04ccff8b54d8c0e",
   "author": "ClashModule",
-  "updatedAt": 1795094243482,
+  "updatedAt": 1795094539063,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "630863ae9f135017b15e1a1b83b66c5e1b3204605c0db9f99617ff4cf06dbf6e"
-  ]
+  "homepage": ""
 }

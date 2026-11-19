@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Dlabel云标签去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=Dlabel云标签去广告\n#!desc=移除开屏广告及首页横幅。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Dlabel.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id1397719437\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-07-22 04:45:08\n\n[Map Local]\n^https:\\/\\/dlabel\\.ctaiot\\.com\\/api\\/spreadstart\\/list\\.json\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/dlabel\\.ctaiot\\.com\\/api\\/spread\\/journey\\/select\\.json\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% dlabel.ctaiot.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

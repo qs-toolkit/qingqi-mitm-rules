@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0177",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5d4aebe8067229c6b8888a87de6557da1d1f4835bc6a126c03c3d45d8d71056c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Documents",
-  "description": "Documents解锁会员 · 来源 重写库",
+  "description": "Documents解锁会员",
   "scope": [],
-  "revisionId": "982114d5178b350555bcdf1e35b0f2fdf5241de55c220a01ee489af0c41326c5",
+  "revisionId": "5d4aebe8067229c6b8888a87de6557da1d1f4835bc6a126c03c3d45d8d71056c",
   "author": "89996462",
-  "updatedAt": 1795094243536,
+  "updatedAt": 1795094539132,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "982114d5178b350555bcdf1e35b0f2fdf5241de55c220a01ee489af0c41326c5"
-  ]
+  "homepage": ""
 }

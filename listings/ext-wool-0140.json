@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0140",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "eaee336fb7dae4bb29cbe2e3d3979b372a0bc56551bd7431d2f1893f19a71f20"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "东方财富",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DongFangCaiFu",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6d77a1cbc0379c0568dbd69b994ebc896481a505af93bb3c4e4ffbd979514861",
-  "author": "奶思",
-  "updatedAt": 1795094243564,
+  "revisionId": "eaee336fb7dae4bb29cbe2e3d3979b372a0bc56551bd7431d2f1893f19a71f20",
+  "author": "fmz200",
+  "updatedAt": 1795094539201,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "6d77a1cbc0379c0568dbd69b994ebc896481a505af93bb3c4e4ffbd979514861"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

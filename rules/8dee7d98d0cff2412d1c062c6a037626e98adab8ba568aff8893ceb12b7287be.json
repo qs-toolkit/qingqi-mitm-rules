@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Appraven Pro",
+  "description": "Appraven Pro",
+  "scope": [],
+  "text": "#!name=Appraven\n#!desc=Appraven Pro\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/appraven.png\n\n^https?:\\/\\/appraven\\.net\\/AppRaven\\/(app|social|buy) url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/appraven.js\n\nhostname=appraven.net\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

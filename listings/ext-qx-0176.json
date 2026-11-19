@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0176",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fc0ea756e883a58b911d5fc18f1256ebe78a1e1857c48ef7b59dce69dd7a96c1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Keep",
-  "description": "Keep解锁会员 · 来源 重写库",
+  "description": "Keep解锁会员",
   "scope": [],
-  "revisionId": "24a77c2b1d448ca35381c624b71fe725dd5291361361c7e83fd4f3c79ab8e2ad",
+  "revisionId": "fc0ea756e883a58b911d5fc18f1256ebe78a1e1857c48ef7b59dce69dd7a96c1",
   "author": "89996462",
-  "updatedAt": 1795094243536,
+  "updatedAt": 1795094539131,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "24a77c2b1d448ca35381c624b71fe725dd5291361361c7e83fd4f3c79ab8e2ad"
-  ]
+  "homepage": ""
 }

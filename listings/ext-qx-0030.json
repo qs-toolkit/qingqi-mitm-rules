@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0030",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "51b407d9d36eb139ff8b09ad2642374b4c42c996b9163ee01d67423d49cbfcbf"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "BedtimeFan助眠风扇",
-  "description": "助眠风扇解锁 · 来源 重写库",
+  "description": "助眠风扇解锁",
   "scope": [],
-  "revisionId": "4f0485751d38be602d300656cd1b5a088a3578f95f69cfdf100eca136f0dbd06",
+  "revisionId": "51b407d9d36eb139ff8b09ad2642374b4c42c996b9163ee01d67423d49cbfcbf",
   "author": "Marol62926",
-  "updatedAt": 1795094243518,
+  "updatedAt": 1795094539112,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "4f0485751d38be602d300656cd1b5a088a3578f95f69cfdf100eca136f0dbd06"
-  ]
+  "homepage": ""
 }

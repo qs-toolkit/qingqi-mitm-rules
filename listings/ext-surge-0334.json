@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0334",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "79b97ca3fe5fdc7c7ac16a3bad2397b3c6e37d423f24619f8d829afb526b0803"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "百度地图去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ba074cd20cd5aeb0099a88711cfd1e0607ca07c360589d0bb4f682cdf3b3fea2",
+  "revisionId": "79b97ca3fe5fdc7c7ac16a3bad2397b3c6e37d423f24619f8d829afb526b0803",
   "author": "ClashModule",
-  "updatedAt": 1795094243496,
+  "updatedAt": 1795094539083,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "ba074cd20cd5aeb0099a88711cfd1e0607ca07c360589d0bb4f682cdf3b3fea2"
-  ]
+  "homepage": ""
 }

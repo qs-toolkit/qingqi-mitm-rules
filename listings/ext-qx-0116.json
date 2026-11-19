@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0116",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7f4c2fd6fb44dd61ed0d3dc7b6c42c8d493fca4168b28ca1c81b6ba66445f283"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "爱美剧解锁",
-  "description": "爱美剧解锁部分功能+去广告 · 来源 重写库",
+  "description": "爱美剧解锁部分功能+去广告",
   "scope": [],
-  "revisionId": "7f8b633b260d4ccb05e5c06976dbb432f08815464c5a39f548a621d29597abd0",
+  "revisionId": "7f4c2fd6fb44dd61ed0d3dc7b6c42c8d493fca4168b28ca1c81b6ba66445f283",
   "author": "NobyDa",
-  "updatedAt": 1795094243527,
+  "updatedAt": 1795094539122,
   "targets": [],
   "upstream": "NobyDa",
-  "homepage": "",
-  "revisions": [
-    "7f8b633b260d4ccb05e5c06976dbb432f08815464c5a39f548a621d29597abd0"
-  ]
+  "homepage": ""
 }

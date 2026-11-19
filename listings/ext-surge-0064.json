@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0064",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b5e4b76b699ffc15a63b5e195b789f4657c00b82a52e936953b1be08a1ff4de5"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "SDGun 社区 Tablet 访问",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4aff8006408c1b75082395722bacaf6037619755a38b944a64289bbb9daa6e93",
+  "revisionId": "b5e4b76b699ffc15a63b5e195b789f4657c00b82a52e936953b1be08a1ff4de5",
   "author": "ClashModule",
-  "updatedAt": 1795094243466,
+  "updatedAt": 1795094539042,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "4aff8006408c1b75082395722bacaf6037619755a38b944a64289bbb9daa6e93"
-  ]
+  "homepage": ""
 }

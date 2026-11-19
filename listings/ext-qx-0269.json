@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0269",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3665c377a5a86057c9adffae6082a1df8620925db90a720499ce1f5e48710f55"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Bing首页简化",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "e0618a39629c104b66a99405323b8bbd03135f06ea1e7e8f8bc5489ab78af212",
+  "revisionId": "3665c377a5a86057c9adffae6082a1df8620925db90a720499ce1f5e48710f55",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243546,
+  "updatedAt": 1795094539144,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "e0618a39629c104b66a99405323b8bbd03135f06ea1e7e8f8bc5489ab78af212"
-  ]
+  "homepage": ""
 }

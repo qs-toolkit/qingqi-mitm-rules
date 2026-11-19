@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "猫头鹰文件",
+  "description": "猫头鹰文件解锁会员",
+  "scope": [],
+  "text": "#!name=猫头鹰文件\n#!desc=猫头鹰文件解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/mtywj.png\n\n\n^https:\\/\\/www\\.skyjos\\.cn:58080\\/ws\\/loadaccountinfo url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/mtywj.js\n\nhostname = www.skyjos.cn",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

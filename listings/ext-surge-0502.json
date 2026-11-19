@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0502",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "88e6221cac341da66c3a410067f8401768ad71431e46f577b7e6e261962512a8"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "🍟 DualSubsSpotify.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块 · Surge",
   "scope": [],
-  "revisionId": "b38c790869f2a0680bd9da6b88f82f0def6fb144d7416071fa395cd50e11d3df",
+  "revisionId": "88e6221cac341da66c3a410067f8401768ad71431e46f577b7e6e261962512a8",
   "author": "ClashModule",
-  "updatedAt": 1795094243514,
+  "updatedAt": 1795094539106,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "b38c790869f2a0680bd9da6b88f82f0def6fb144d7416071fa395cd50e11d3df"
-  ]
+  "homepage": ""
 }

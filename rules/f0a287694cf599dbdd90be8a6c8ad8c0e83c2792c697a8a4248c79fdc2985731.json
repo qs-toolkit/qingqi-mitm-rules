@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "小影",
+  "description": "小影解锁",
+  "scope": [],
+  "text": "#!name=小影\n#!desc=小影解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/xiaoying.png\n#!homepage=https://yfamily.ml\n#!author=NobyDa\n\n\n\n\n^https:\\/\\/(xy-viva\\.kakalili|api-chn.rthdo)\\.com\\/api\\/rest\\/u\\/vipVerifyReceipt url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/vivavideo.js\n\n\nhostname = xy-viva.kakalili.com  api-chn.rthdo.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

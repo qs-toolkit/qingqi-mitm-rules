@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "卡片日记",
+  "description": "卡片日记解锁会员",
+  "scope": [],
+  "text": "#!name=卡片日记\n#!desc=卡片日记解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/kprj.png\n\n\n^https:\\/\\/buy\\.itunes\\.apple\\.com\\/verifyReceipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kprj.js\n\nhostname = buy.itunes.apple.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

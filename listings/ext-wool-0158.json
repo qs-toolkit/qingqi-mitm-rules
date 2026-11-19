@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0158",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d305578ec723167bd978cabd92575437a9edf9168fc0de60760c702a3b61f1ee"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "番茄小说",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "FanQieNovel",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "391dc56094722651b620eca182ad16e2cf5ab5167daacb5797b3c5d67b871a23",
-  "author": "奶思",
-  "updatedAt": 1795094243565,
+  "revisionId": "d305578ec723167bd978cabd92575437a9edf9168fc0de60760c702a3b61f1ee",
+  "author": "fmz200",
+  "updatedAt": 1795094539203,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "391dc56094722651b620eca182ad16e2cf5ab5167daacb5797b3c5d67b871a23"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

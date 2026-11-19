@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "YouTube 去广告",
+  "description": "毒奶特供 · YouTube 视频广告屏蔽 · Quantumult X",
+  "scope": [],
+  "text": "#!name=YouTube 去广告\n#!desc=毒奶特供 · YouTube 视频广告屏蔽 · Quantumult X\n#!author=limbopro\n\nhostname = -redirector*.googlevideo.com,*.googlevideo.com,www.youtube.com,s.youtube.com,youtubei.googleapis.com\n\n(^https?:\\/\\/[\\w-]+\\.googlevideo\\.com\\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) url 302 $1$2$3\n^https?:\\/\\/[\\w-]+\\.googlevideo\\.com\\/(?!(dclk_video_ads|videoplayback\\?)).+&oad url reject\n\n^https?:\\/\\/youtubei\\.googleapis\\.com\\/youtubei\\/v\\d\\/player\\/ad_break url reject\n^https?:\\/\\/(www|s)\\.youtube\\.com\\/api\\/stats\\/ads url reject\n^https?:\\/\\/(www|s)\\.youtube\\.com\\/(pagead|ptracking) url reject\n^https?:\\/\\/s\\.youtube\\.com\\/api\\/stats\\/qoe\\?adcontext url reject",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

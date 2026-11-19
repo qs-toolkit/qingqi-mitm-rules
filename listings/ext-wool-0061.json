@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0061",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f34ff6da9f27b184b60f3bd2768f549fff2fb0e10c9eff59976aaa467edf59e3"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "百度网盘",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BaiduNetdisk",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3a5b296ea927c6c9b0a618770423512fe9d29b583daacd7b48bba3c6ed0870d4",
-  "author": "奶思",
-  "updatedAt": 1795094243556,
+  "revisionId": "f34ff6da9f27b184b60f3bd2768f549fff2fb0e10c9eff59976aaa467edf59e3",
+  "author": "fmz200",
+  "updatedAt": 1795094539189,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "3a5b296ea927c6c9b0a618770423512fe9d29b583daacd7b48bba3c6ed0870d4"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

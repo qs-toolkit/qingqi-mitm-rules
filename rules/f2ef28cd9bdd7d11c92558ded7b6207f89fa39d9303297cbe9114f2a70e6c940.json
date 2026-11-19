@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "萤石云视频去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=萤石云视频去广告\n#!desc=移除开屏广告、首页推广、我的页面推广。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/VideoGo.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id571195405\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-05-13 15:17:08\n\n[URL Rewrite]\n^https:\\/\\/api\\.ys7\\.com\\/api\\/ads - reject\n\n[Map Local]\n^https:\\/\\/i\\.ys7\\.com\\/api\\/user\\/tabList data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/api\\.ys7\\.com\\/v3\\/config\\/service\\/entrance\\/bannerInfo data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/api\\.ys7\\.com\\/v3\\/intelligent-app\\/apps\\/linkage data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/api\\.ys7\\.com\\/v3\\/configurations\\/gray\\/info\\?grayTypes=185 data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/api\\.ys7\\.com\\/v3\\/videoclips\\/square\\/video\\/query data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% api.ys7.com, i.ys7.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

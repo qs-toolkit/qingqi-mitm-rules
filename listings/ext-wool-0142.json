@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0142",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0d1c26bcbf29a758180b5fbb3d8c3781f6ae7be2e9a93fa363e74560503a337f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "动卡空间",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DongKaKongJian",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6c12c08292bdac8fd3cca106b63cfbb2f4132a3e8d868ca34a293ef2043472b3",
-  "author": "奶思",
-  "updatedAt": 1795094243564,
+  "revisionId": "0d1c26bcbf29a758180b5fbb3d8c3781f6ae7be2e9a93fa363e74560503a337f",
+  "author": "fmz200",
+  "updatedAt": 1795094539201,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "6c12c08292bdac8fd3cca106b63cfbb2f4132a3e8d868ca34a293ef2043472b3"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

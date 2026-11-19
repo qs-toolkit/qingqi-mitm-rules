@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0282",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "20343b047ca8d70479579082d83e101f8b23fa3640ff1284d915e93090333ad6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "什么值得买净化",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "97cd4a047cf532e3021c1d481eaa5f2c7f195bdcaf2136b78db08f98cd90417e",
+  "revisionId": "20343b047ca8d70479579082d83e101f8b23fa3640ff1284d915e93090333ad6",
   "author": "@blackmatrix7, @ddgksf2013",
-  "updatedAt": 1795094243548,
+  "updatedAt": 1795094539146,
   "targets": [],
   "upstream": "@blackmatrix7, @ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "97cd4a047cf532e3021c1d481eaa5f2c7f195bdcaf2136b78db08f98cd90417e"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0103",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f6834dfca981d4b50a310f6e0fc5cda668df37977cfd5dca2b5e55616f86a825"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "长城炼金术",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ChangChengLianJinShu",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4c525a7a918f82d4381a43fe3079ff347591213f9eb6a1da558ff08571cdc17c",
-  "author": "奶思",
-  "updatedAt": 1795094243559,
+  "revisionId": "f6834dfca981d4b50a310f6e0fc5cda668df37977cfd5dca2b5e55616f86a825",
+  "author": "fmz200",
+  "updatedAt": 1795094539196,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "4c525a7a918f82d4381a43fe3079ff347591213f9eb6a1da558ff08571cdc17c"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0006",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "61b68aac7752137b319ec35a2f7cb95de7ce64a46354144e26fa0678e67b0db6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "历史价格",
-  "description": "京东比价 · 来源 重写库",
+  "description": "京东比价",
   "scope": [],
-  "revisionId": "27a08ac339154e48527385c25eeefdb6f34fc131197594ef3dbfaa6bbd28e307",
+  "revisionId": "61b68aac7752137b319ec35a2f7cb95de7ce64a46354144e26fa0678e67b0db6",
   "author": "Tartarus2014",
-  "updatedAt": 1795094243516,
+  "updatedAt": 1795094539108,
   "targets": [],
   "upstream": "Tartarus2014",
-  "homepage": "",
-  "revisions": [
-    "27a08ac339154e48527385c25eeefdb6f34fc131197594ef3dbfaa6bbd28e307"
-  ]
+  "homepage": ""
 }

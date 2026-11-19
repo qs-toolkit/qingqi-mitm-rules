@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "B612咔叽",
+  "description": "B612咔叽会员解锁",
+  "scope": [],
+  "text": "#!name=B612咔叽\n#!desc=B612咔叽会员解锁\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/b612.png\n\nhttps://user-kaji-api.b612kaji.com/v1/purchase/subscription/subscriber/status url script-response-body https://github.com/deezertidal/private/raw/master/js-backup/Crack/612.js\n\nhostname=user-kaji-api.b612kaji.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

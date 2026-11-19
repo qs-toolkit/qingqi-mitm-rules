@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0404",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ff99c60f79ae73ce5f23441fd70ef243100ab5ddf43cddd146666d0d3e7f0310"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "自动加入TF",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a9a1c182c9c44a3439c1d81ed7689853965c5e39e4c12d937ff60118a2a3bf6a",
+  "revisionId": "ff99c60f79ae73ce5f23441fd70ef243100ab5ddf43cddd146666d0d3e7f0310",
   "author": "ClashModule",
-  "updatedAt": 1795094243503,
+  "updatedAt": 1795094539092,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "a9a1c182c9c44a3439c1d81ed7689853965c5e39e4c12d937ff60118a2a3bf6a"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0179",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8a511436a0505192472d8d285fc3d3c710e0f8292531ad457a290345d05aa69d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "夸克扫描王去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "3bb4601a7437bb2216c9f093db787ad9460a39324c3701c5dddb5311099e07ee",
+  "revisionId": "8a511436a0505192472d8d285fc3d3c710e0f8292531ad457a290345d05aa69d",
   "author": "ClashModule",
-  "updatedAt": 1795094243478,
+  "updatedAt": 1795094539059,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "3bb4601a7437bb2216c9f093db787ad9460a39324c3701c5dddb5311099e07ee"
-  ]
+  "homepage": ""
 }

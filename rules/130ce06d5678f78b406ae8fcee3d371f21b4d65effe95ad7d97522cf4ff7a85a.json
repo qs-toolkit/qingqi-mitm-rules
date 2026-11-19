@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "hyperweb会员解锁",
+  "description": "hyperweb会员解锁",
+  "scope": [],
+  "text": "#!name=HyperWeb\n#!desc=hyperweb会员解锁\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hyperweb.png\n\n^https://zy6kcqa01a.execute-api.us-east-2.amazonaws.com/prod/verifyReceipt url script-response-body https://github.com/deezertidal/private/raw/master/js-backup/Crack/hyperweb.js\n\nhostname=zy6kcqa01a.execute-api.us-east-2.amazonaws.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

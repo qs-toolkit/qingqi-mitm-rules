@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0152",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2b5c3aec3f25f3c416283738adf968885939a34823c54e8bd2b1e25a739d6401"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "爱企查",
-  "description": "爱企查vip · 来源 重写库",
+  "description": "爱企查vip",
   "scope": [],
-  "revisionId": "105dd4eaf899adbf12798d5128951ae4cd1cd45b52dce8f2bb4ce243f135f2e6",
+  "revisionId": "2b5c3aec3f25f3c416283738adf968885939a34823c54e8bd2b1e25a739d6401",
   "author": "deezertidal",
-  "updatedAt": 1795094243533,
+  "updatedAt": 1795094539128,
   "targets": [],
   "upstream": "deezertidal",
-  "homepage": "",
-  "revisions": [
-    "105dd4eaf899adbf12798d5128951ae4cd1cd45b52dce8f2bb4ce243f135f2e6"
-  ]
+  "homepage": ""
 }

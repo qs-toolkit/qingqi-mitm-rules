@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0294",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2ac7c4b6fb83f2e54aaece1bc5be825e7abacd1c128a8236cd314859b91f06d6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "夸克",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Quark",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "08dee9800713e894ec3a991adcb98fb7ff9be20c46d32cb7bbea2681f8efc3d0",
-  "author": "奶思",
-  "updatedAt": 1795094243576,
+  "revisionId": "2ac7c4b6fb83f2e54aaece1bc5be825e7abacd1c128a8236cd314859b91f06d6",
+  "author": "fmz200",
+  "updatedAt": 1795094539224,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "08dee9800713e894ec3a991adcb98fb7ff9be20c46d32cb7bbea2681f8efc3d0"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

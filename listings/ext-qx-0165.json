@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0165",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "71692b8f9f9afaf753340625a091704e69f37f86df64d46afad7855bbbe2e2fc"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "堆糖",
-  "description": "堆糖解锁会员 · 来源 重写库",
+  "description": "堆糖解锁会员",
   "scope": [],
-  "revisionId": "d1653a57dde947a62ec6d995f1648cc2dcc1c079d7786e686f148d2a4bce842d",
+  "revisionId": "71692b8f9f9afaf753340625a091704e69f37f86df64d46afad7855bbbe2e2fc",
   "author": "89996462",
-  "updatedAt": 1795094243535,
+  "updatedAt": 1795094539130,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "d1653a57dde947a62ec6d995f1648cc2dcc1c079d7786e686f148d2a4bce842d"
-  ]
+  "homepage": ""
 }

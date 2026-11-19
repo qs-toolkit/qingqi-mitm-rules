@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "RiTaoRenYiMen",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=日淘任意门\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partR/RiTaoRenYiMen.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rewrite]\n# 开屏广告 感谢【Ava阿檬】分享\nrequest if ${url} ~= /^https?:\\/\\/app\\.meruki\\.cn\\/\\?n=Sig\\.Front\\.AppFront\\.GetOpenAdDoorzo/i then reject_dict(200)\n\n\n[MITM]\nhostname = app.meruki.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

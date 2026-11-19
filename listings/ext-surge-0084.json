@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0084",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "929c0a044f9b307520abb68e1bc5001d7bb47ad9ec1f067bcce633a77b943e3f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "VPS 流量信息.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9b9719a61770e93b4da5e3be8812ef53e1dc6aa23011e6d625a6cbfdc3bb247a",
+  "revisionId": "929c0a044f9b307520abb68e1bc5001d7bb47ad9ec1f067bcce633a77b943e3f",
   "author": "ClashModule",
-  "updatedAt": 1795094243468,
+  "updatedAt": 1795094539045,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "9b9719a61770e93b4da5e3be8812ef53e1dc6aa23011e6d625a6cbfdc3bb247a"
-  ]
+  "homepage": ""
 }

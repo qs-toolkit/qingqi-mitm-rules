@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0176",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "dd1b69dc38a9a84eb4305fc8ecf4eb7d4414baac0ad296a8831bad03b6085d7c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "光大银行 阳光惠生活",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "CEB_SunshineHuiLife",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a06dfe5f992af7d5ed21d44813545bec9a4f995d5445327f52e1922f9e4b8d25",
-  "author": "奶思",
-  "updatedAt": 1795094243566,
+  "revisionId": "dd1b69dc38a9a84eb4305fc8ecf4eb7d4414baac0ad296a8831bad03b6085d7c",
+  "author": "fmz200",
+  "updatedAt": 1795094539206,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "a06dfe5f992af7d5ed21d44813545bec9a4f995d5445327f52e1922f9e4b8d25"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

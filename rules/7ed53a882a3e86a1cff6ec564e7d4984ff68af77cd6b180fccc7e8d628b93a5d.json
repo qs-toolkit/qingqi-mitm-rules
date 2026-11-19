@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "少年得到解锁会员",
+  "description": "少年得到解锁会员",
+  "scope": [],
+  "text": "#!name=少年得到\n#!desc=少年得到解锁会员\n#!homepage=https://yfamily.ml\n#!author=lutqhysky\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/sndd.png\n\n\nhostname=igetcool-gateway.igetcool.com\n\n\n^https?:\\/\\/igetcool-gateway\\.igetcool\\.com\\/(app-api-user-server\\/oath\\/user\\/info\\.json|app-api-product-server\\/option\\/course\\/audios\\.json|app-api-product-server\\/white\\/course\\/videos\\.json) url script-response-body https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/shaomiandedao/Script/shaoniandedao.js",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

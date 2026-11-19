@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0018",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d8ed1b1bf319e59483f749311a0137c62c4dfda8296adb6e8ef84476fc1e12a8"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "JibJab",
-  "description": "JibJab解锁会员 · 来源 重写库",
+  "description": "JibJab解锁会员",
   "scope": [],
-  "revisionId": "69ad03a709f1993193ad5ec07b6ebf813c5f4733a8f7029f04fb2f10335a36c1",
+  "revisionId": "d8ed1b1bf319e59483f749311a0137c62c4dfda8296adb6e8ef84476fc1e12a8",
   "author": "NobyDa",
-  "updatedAt": 1795094243517,
+  "updatedAt": 1795094539110,
   "targets": [],
   "upstream": "NobyDa",
-  "homepage": "",
-  "revisions": [
-    "69ad03a709f1993193ad5ec07b6ebf813c5f4733a8f7029f04fb2f10335a36c1"
-  ]
+  "homepage": ""
 }

@@ -1,14 +1,11 @@
 {
-  "built": 1355,
+  "built": 1560,
   "sources": {
-    "surge": 494,
-    "qx": 300,
-    "wool": 561
+    "surge": 506,
+    "qx": 321,
+    "wool": 733
   },
-  "ruleFiles": 1144,
-  "convertedFrom": [
-    "0x0021.github.io/ClashModule",
-    "github.com/fmz200/wool_scripts"
-  ],
-  "note": "Surge modules and QX configs converted to Loon text; Loon plugins imported as-is"
+  "ruleFiles": 1560,
+  "droppedEmpty": 0,
+  "storage": "verbatim upstream text; engine parses Surge/QX/Loon dialects"
 }

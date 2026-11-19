@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0436",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "77269ba9cb0d900e3bca7ce7c220f64a6b653d729b2f346546ff6afe9ef90759"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "什么值得买",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "SMZDM",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e04dbf6d670af05a21d3bd91eddb23c75d43740ccb339f3011698441dbbc01b6",
-  "author": "奶思",
-  "updatedAt": 1795094243589,
+  "revisionId": "77269ba9cb0d900e3bca7ce7c220f64a6b653d729b2f346546ff6afe9ef90759",
+  "author": "fmz200",
+  "updatedAt": 1795094539244,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "e04dbf6d670af05a21d3bd91eddb23c75d43740ccb339f3011698441dbbc01b6"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

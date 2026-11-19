@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0250",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "dd1b9908cc0bc43f3e749ca165f20c80693aa420a3cf0cbfb4f72246d1c25e9c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "海报工厂",
-  "description": "海报工厂解锁会员 · 来源 重写库",
+  "description": "海报工厂解锁会员",
   "scope": [],
-  "revisionId": "a4ca929ae677c867e7b5883cc9ec0355a50138507887a9fc42143f0ce805a110",
+  "revisionId": "dd1b9908cc0bc43f3e749ca165f20c80693aa420a3cf0cbfb4f72246d1c25e9c",
   "author": "89996462",
-  "updatedAt": 1795094243544,
+  "updatedAt": 1795094539141,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "a4ca929ae677c867e7b5883cc9ec0355a50138507887a9fc42143f0ce805a110"
-  ]
+  "homepage": ""
 }

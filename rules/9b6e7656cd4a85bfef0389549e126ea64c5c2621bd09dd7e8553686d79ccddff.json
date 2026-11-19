@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Pinduoduo",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=拼多多\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partP/Pinduoduo.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api\\.(pinduoduo|yangkeduo)\\.com\\/api\\/cappuccino\\/splash/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/api\\.pinduoduo\\.com\\/api\\/aquarius\\/hungary\\/global\\/homepage\\?/i then reject_dict(200)\n# 多多买菜 开屏广告\nresponse if ${url} ~= /^https?:\\/\\/mobile\\.yangkeduo\\.com\\/proxy\\/api\\/api\\/express\\/post\\/waybill\\/red_packet\\/goods_list$/i then response.body.replace(/\"list\":\\[.+\\]/, \"\\\"list\\\":[]\")\n\n\n[MITM]\nhostname = api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

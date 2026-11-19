@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0171",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "44af16f875ad5704be06d93c56d971696965f99f55cd39cacb5abd91bed108d4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "黄油相机",
-  "description": "黄油相机解锁会员 · 来源 重写库",
+  "description": "黄油相机解锁会员",
   "scope": [],
-  "revisionId": "de3c7c134f655c2e1681495abf39fd9b595eb3126c295118b8b5f92b29c1e502",
+  "revisionId": "44af16f875ad5704be06d93c56d971696965f99f55cd39cacb5abd91bed108d4",
   "author": "89996462",
-  "updatedAt": 1795094243536,
+  "updatedAt": 1795094539131,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "de3c7c134f655c2e1681495abf39fd9b595eb3126c295118b8b5f92b29c1e502"
-  ]
+  "homepage": ""
 }

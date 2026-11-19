@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0463",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "193885f12a966d7ead1dcc41662deda69741f5c0cd0047234d79b92f256ffebc"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "苏打校园APP",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "SuDaXiaoYuanAPP",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8ab365b7af59fffdbdf837953c11aaa3081d6666947f5d193b2441782b4338a8",
-  "author": "奶思",
-  "updatedAt": 1795094243591,
+  "revisionId": "193885f12a966d7ead1dcc41662deda69741f5c0cd0047234d79b92f256ffebc",
+  "author": "fmz200",
+  "updatedAt": 1795094539248,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "8ab365b7af59fffdbdf837953c11aaa3081d6666947f5d193b2441782b4338a8"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

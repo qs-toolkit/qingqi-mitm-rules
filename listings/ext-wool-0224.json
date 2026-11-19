@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0224",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2cd7f78a60fe9717a63636d0497bf03cbf5f372efcc2e92e52fff3035d05f8d7"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "横店电影小程序",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "HengDianCinema",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7e141b89df6fd04462e0cdecda68828078da2862a473ada1f95e637dc04f2ffb",
-  "author": "奶思",
-  "updatedAt": 1795094243570,
+  "revisionId": "2cd7f78a60fe9717a63636d0497bf03cbf5f372efcc2e92e52fff3035d05f8d7",
+  "author": "fmz200",
+  "updatedAt": 1795094539215,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "7e141b89df6fd04462e0cdecda68828078da2862a473ada1f95e637dc04f2ffb"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

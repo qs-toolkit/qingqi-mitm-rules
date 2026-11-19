@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0320",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d2a6d2ad091ca46d4c8be0d6bb2fc2b1dbb9f0b23ea6d39f60992f434160e5c8"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "旅法师营地",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "LvFaShiYingDi",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2b065d26d72bcf3970bb58307740f64a10d541c5c177e8739e742206af2f6687",
-  "author": "奶思",
-  "updatedAt": 1795094243579,
+  "revisionId": "d2a6d2ad091ca46d4c8be0d6bb2fc2b1dbb9f0b23ea6d39f60992f434160e5c8",
+  "author": "fmz200",
+  "updatedAt": 1795094539228,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2b065d26d72bcf3970bb58307740f64a10d541c5c177e8739e742206af2f6687"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

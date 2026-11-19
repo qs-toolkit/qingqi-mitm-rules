@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "NetEaseMail",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=网易邮箱\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partW/NetEaseMail.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/p[^4](c)?\\.music\\.126\\.net\\/\\w+==\\/10995\\d{13}\\.jpg$/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/p\\.c\\.music\\.126.net\\/.*?jpg$/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/img1.126.net\\/.+dpi=\\w{7,8}/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/img1.126.net\\/channel14\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/iadmusicmat\\.music.126.net\\/.*?jpg$/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/p\\d\\.music\\.126\\.net\\/\\w+==\\/\\d+\\.jpg$/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/www.icourse163.org\\/.*?(Advertisement)/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/nex.163.com\\/q/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/g1.163.com\\/madfeedback/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/www\\.icourse163\\.org\\/mob\\/j\\/v1\\/mobRecommendRPCBean\\.getMaxWeightAdvertisement\\.rpc/i then reject(200)\nrequest if ${url} ~= /^https?:\\/\\/interface3?\\.music\\.163\\.com\\/eapi\\/(ad|abtest|sp|hot|store|mlog|search\\/(specialkeyword|defaultkeyword|hot))/i then reject_img(200)\n\n\n[MITM]\nhostname = *.music.126.net, img1.126.net, www.icourse163.org, nex.163.com, g1.163.com, client.mail.163.com, c.m.163.com, interface*.music.163.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

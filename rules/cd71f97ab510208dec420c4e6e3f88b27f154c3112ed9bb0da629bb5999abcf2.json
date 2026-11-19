@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "⭐️ Script Hub.official",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=Script Hub: 重写 & 规则集转换\n#!desc=https://script.hub\n#!author=@小白脸 @xream @keywos @ckyb\n#!category=工具\n#!arguments=Notify:开启通知\n#!arguments-desc=Notify:\\nScriptHub通知设置, 可选 开启通知, 关闭通知, 跟随链接\n\n[General]\nforce-http-engine-hosts = %APPEND% script.hub, *.script.hub\n\n[Script]\nScript Hub: 前端 = type=http-request, pattern=^https?:\\/\\/script\\.hub\\/($|edit\\/|reload), script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/script-hub.js, timeout=300\n\nScript Hub: 重写转换 = type=http-request, pattern=^https?:\\/\\/script\\.hub\\/file\\/_start_\\/.+type=(?:qx-rewrite|surge-module|loon-plugin|all-module), script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/Rewrite-Parser.js, timeout=300, argument=Notify={{{Notify}}}\n\nScript Hub: 规则集转换 = type=http-request, pattern=^https?:\\/\\/script\\.hub\\/file\\/_start_\\/.+type=rule-set, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/rule-parser.js, timeout=300, argument=Notify={{{Notify}}}\n\nScript Hub: 脚本转换 = type=http-request, pattern=^https?:\\/\\/script\\.hub\\/convert\\/, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/script-converter.js, timeout=300\n\n[MITM]\nhostname = %APPEND% script.hub, *.script.hub",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

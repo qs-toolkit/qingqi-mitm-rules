@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0320",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "aac96a3de3d5fe909fd035ee82b115087e50872b620f74bcfcc09484ea926746"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "爱奇艺会员签到.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "d7206d616814d812c97e3d037530de045d46215d230ef1b570119d9bf8d0353c",
+  "revisionId": "aac96a3de3d5fe909fd035ee82b115087e50872b620f74bcfcc09484ea926746",
   "author": "ClashModule",
-  "updatedAt": 1795094243494,
+  "updatedAt": 1795094539081,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "d7206d616814d812c97e3d037530de045d46215d230ef1b570119d9bf8d0353c"
-  ]
+  "homepage": ""
 }

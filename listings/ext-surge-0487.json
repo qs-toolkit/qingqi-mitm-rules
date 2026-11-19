@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0487",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4b0aaf7875792ea2bfb1159172be4a875e65f2fe7b8982043e8f30b3fc03ecde"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "驾考宝典去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "44d8f219c2150a0b017031e8386e44ddfcb91a1ecaa455e6b59796b5fec6b5d8",
+  "revisionId": "4b0aaf7875792ea2bfb1159172be4a875e65f2fe7b8982043e8f30b3fc03ecde",
   "author": "ClashModule",
-  "updatedAt": 1795094243513,
+  "updatedAt": 1795094539104,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "44d8f219c2150a0b017031e8386e44ddfcb91a1ecaa455e6b59796b5fec6b5d8"
-  ]
+  "homepage": ""
 }

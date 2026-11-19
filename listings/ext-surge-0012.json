@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0012",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e3ad6290abca5bcc911b3cb55c7c3a9a4fef216f2a16e4c08a9b53ca429e2149"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "555电影去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8b42149492705ce6080e2f2e61a6b2b276607246de131b3920c9a9206c719991",
+  "revisionId": "e3ad6290abca5bcc911b3cb55c7c3a9a4fef216f2a16e4c08a9b53ca429e2149",
   "author": "ClashModule",
-  "updatedAt": 1795094243460,
+  "updatedAt": 1795094539034,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "8b42149492705ce6080e2f2e61a6b2b276607246de131b3920c9a9206c719991"
-  ]
+  "homepage": ""
 }

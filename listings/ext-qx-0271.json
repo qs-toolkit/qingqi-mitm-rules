@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0271",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "546add94651a96ef3a0dd32c67a01685dbe845d1c104eccb290179a11442cf8f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "菜鸟[菜鸟裹裹](支付宝小程序)净化",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "8bf751c3d1bb28f717686629abbd7b6cb21d37adb79e11b072144781550a39cd",
+  "revisionId": "546add94651a96ef3a0dd32c67a01685dbe845d1c104eccb290179a11442cf8f",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243546,
+  "updatedAt": 1795094539144,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "8bf751c3d1bb28f717686629abbd7b6cb21d37adb79e11b072144781550a39cd"
-  ]
+  "homepage": ""
 }

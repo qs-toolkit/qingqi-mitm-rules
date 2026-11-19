@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0254",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "eacd169a293bc69711ebeab37749f5e2ea061213f62f7643e690d06da4c1f609"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "京东",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "JD.com",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ad8d5a3d717c1a07c4a893d3db6e934183bf004af0a4fc45f498ef995ee8c96d",
-  "author": "奶思",
-  "updatedAt": 1795094243572,
+  "revisionId": "eacd169a293bc69711ebeab37749f5e2ea061213f62f7643e690d06da4c1f609",
+  "author": "fmz200",
+  "updatedAt": 1795094539219,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "ad8d5a3d717c1a07c4a893d3db6e934183bf004af0a4fc45f498ef995ee8c96d"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0261",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "84edb164ba78552dd5fc94ed1965eaaf87983edd0c7fd9f563fb09ff801cd2fe"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "挖财记账去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c8a9347b9641b666055e3b9bc2f3a5887ac65aa6142c2b0dce02ee41aef2f7ff",
+  "revisionId": "84edb164ba78552dd5fc94ed1965eaaf87983edd0c7fd9f563fb09ff801cd2fe",
   "author": "ClashModule",
-  "updatedAt": 1795094243488,
+  "updatedAt": 1795094539072,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "c8a9347b9641b666055e3b9bc2f3a5887ac65aa6142c2b0dce02ee41aef2f7ff"
-  ]
+  "homepage": ""
 }

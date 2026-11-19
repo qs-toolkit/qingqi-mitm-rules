@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0127",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "10b130da1d73318d8abe34a85b425169658bb095f5ad26762e5e293e15e3e40b"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "滴滴出行",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DiDiChuxing",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "656b68d5e4cb3529acd6b2bc7d36ca454462accac68184d83d9a7667f5e9ed86",
-  "author": "奶思",
-  "updatedAt": 1795094243562,
+  "revisionId": "10b130da1d73318d8abe34a85b425169658bb095f5ad26762e5e293e15e3e40b",
+  "author": "fmz200",
+  "updatedAt": 1795094539199,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "656b68d5e4cb3529acd6b2bc7d36ca454462accac68184d83d9a7667f5e9ed86"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

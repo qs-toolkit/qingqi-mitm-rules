@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0240",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "df4ab74333469caa382c60de7a621778231211e576e81fa8ce1d5a9fb12bf965"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Lifeviewer",
-  "description": "Lifeviewer解锁会员 · 来源 重写库",
+  "description": "Lifeviewer解锁会员",
   "scope": [],
-  "revisionId": "52e802fcdf74a565c009dc66c7a542a38ea355fd8353479fe80476139a508052",
+  "revisionId": "df4ab74333469caa382c60de7a621778231211e576e81fa8ce1d5a9fb12bf965",
   "author": "89996462",
-  "updatedAt": 1795094243543,
+  "updatedAt": 1795094539140,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "52e802fcdf74a565c009dc66c7a542a38ea355fd8353479fe80476139a508052"
-  ]
+  "homepage": ""
 }

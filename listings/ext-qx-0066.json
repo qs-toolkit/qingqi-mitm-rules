@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0066",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "63ff4891636df36e17a62582acbb5d02ab4fe9682dee1ceb08a212e8c6735cff"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "美图秀秀VIP",
-  "description": "美图秀秀解锁 · 来源 重写库",
+  "description": "美图秀秀解锁",
   "scope": [],
-  "revisionId": "18e8959c8361f3c3e59589d69ec7916c5badeadbe001c3af94eeb6cc373ba86e",
+  "revisionId": "63ff4891636df36e17a62582acbb5d02ab4fe9682dee1ceb08a212e8c6735cff",
   "author": "I-am-R-E",
-  "updatedAt": 1795094243522,
+  "updatedAt": 1795094539116,
   "targets": [],
   "upstream": "I-am-R-E",
-  "homepage": "",
-  "revisions": [
-    "18e8959c8361f3c3e59589d69ec7916c5badeadbe001c3af94eeb6cc373ba86e"
-  ]
+  "homepage": ""
 }

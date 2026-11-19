@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0280",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9990938756c1c1bf8f9bf4f016ded5398bf1bc0388138a8aae2dd209a525944d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "汽水音乐净化",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "c6b836228265b0309ca4475c4f29857701688585d97af15d4e81e95d5d7a73b1",
+  "revisionId": "9990938756c1c1bf8f9bf4f016ded5398bf1bc0388138a8aae2dd209a525944d",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243548,
+  "updatedAt": 1795094539146,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "c6b836228265b0309ca4475c4f29857701688585d97af15d4e81e95d5d7a73b1"
-  ]
+  "homepage": ""
 }

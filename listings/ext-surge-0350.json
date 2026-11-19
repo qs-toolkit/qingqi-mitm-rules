@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0350",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9fece2913bc99d5102a8863e01deecec5c446566d42a984f0148e6ce3fa8f0d9"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "皮皮虾去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b6e1e9e04b9e1b881bcf2241c12bb5e6f5cfd474ad2905ac9dccacb7724343f2",
+  "revisionId": "9fece2913bc99d5102a8863e01deecec5c446566d42a984f0148e6ce3fa8f0d9",
   "author": "ClashModule",
-  "updatedAt": 1795094243498,
+  "updatedAt": 1795094539085,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "b6e1e9e04b9e1b881bcf2241c12bb5e6f5cfd474ad2905ac9dccacb7724343f2"
-  ]
+  "homepage": ""
 }

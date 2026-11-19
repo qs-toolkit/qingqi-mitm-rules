@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0255",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4ea9f6a9c9d8e70ff75e0e3a15ffe7f12b48f7400894ac1d8230934005f16ea1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "京东云无线宝",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "JDCloudWiFiDevice",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1a032dfed13683305e31109a5b3c4135a57e8eb16030cf63fa01d158afa95402",
-  "author": "奶思",
-  "updatedAt": 1795094243572,
+  "revisionId": "4ea9f6a9c9d8e70ff75e0e3a15ffe7f12b48f7400894ac1d8230934005f16ea1",
+  "author": "fmz200",
+  "updatedAt": 1795094539219,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "1a032dfed13683305e31109a5b3c4135a57e8eb16030cf63fa01d158afa95402"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

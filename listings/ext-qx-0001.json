@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0001",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "eeafc4bb9824d9a1e29a18ab93873db6c945a9bae91027da398dcdb73b44d202"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "百度云加速",
-  "description": "百度云倍速播放 · 来源 重写库",
+  "description": "百度云倍速播放",
   "scope": [],
-  "revisionId": "f2cea41287d1af2693b23e4b71706820e893d6e158d6da077d6962277f1e0916",
+  "revisionId": "eeafc4bb9824d9a1e29a18ab93873db6c945a9bae91027da398dcdb73b44d202",
   "author": "NobyDa",
-  "updatedAt": 1795094243515,
+  "updatedAt": 1795094539108,
   "targets": [],
   "upstream": "NobyDa",
-  "homepage": "",
-  "revisions": [
-    "f2cea41287d1af2693b23e4b71706820e893d6e158d6da077d6962277f1e0916"
-  ]
+  "homepage": ""
 }

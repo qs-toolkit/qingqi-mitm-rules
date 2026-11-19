@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0257",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "73b04bdc83274c32bad71d18d0cc04f7fa35e0178f8f834ec97658eba41f27c1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "YouTube去广告",
-  "description": "支持pip，后台播放 · 来源 重写库",
+  "description": "支持pip，后台播放 · Quantumult X",
   "scope": [],
-  "revisionId": "1f2d72fa0186ee70bfa2fc83e85dbdc8195074f4886be641f5ebafed6444735f",
+  "revisionId": "73b04bdc83274c32bad71d18d0cc04f7fa35e0178f8f834ec97658eba41f27c1",
   "author": "Maasea",
-  "updatedAt": 1795094243545,
+  "updatedAt": 1795094539142,
   "targets": [],
   "upstream": "Maasea",
-  "homepage": "",
-  "revisions": [
-    "1f2d72fa0186ee70bfa2fc83e85dbdc8195074f4886be641f5ebafed6444735f"
-  ]
+  "homepage": ""
 }

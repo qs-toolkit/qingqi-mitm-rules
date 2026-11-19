@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0435",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7db054ea0f8428053411b976c4fd130fa58f351a0687f68d0bc38b042e1de91c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "顺丰快递小程序",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "SFExpressMiniProgram",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bd25846c4b6b4cb2f6ed0a3f61b4a83e50afa7feeb1c956cb7af5dba2b2520f2",
-  "author": "奶思",
-  "updatedAt": 1795094243588,
+  "revisionId": "7db054ea0f8428053411b976c4fd130fa58f351a0687f68d0bc38b042e1de91c",
+  "author": "fmz200",
+  "updatedAt": 1795094539244,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "bd25846c4b6b4cb2f6ed0a3f61b4a83e50afa7feeb1c956cb7af5dba2b2520f2"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

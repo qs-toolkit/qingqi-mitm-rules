@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0212",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2c294619573f14866001de3554074a37a210c1b0d3a69f65dc486bd20aaa2d52"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "航旅纵横",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "HangLvZongHeng",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a6daddad362b960b0929cdd5232842343ffda6b86a2c5d6eb2169cf2e52d105a",
-  "author": "奶思",
-  "updatedAt": 1795094243569,
+  "revisionId": "2c294619573f14866001de3554074a37a210c1b0d3a69f65dc486bd20aaa2d52",
+  "author": "fmz200",
+  "updatedAt": 1795094539213,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "a6daddad362b960b0929cdd5232842343ffda6b86a2c5d6eb2169cf2e52d105a"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

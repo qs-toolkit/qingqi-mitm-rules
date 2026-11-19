@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "酷我数字专辑解锁",
+  "description": "听书+下载+解锁数字专辑",
+  "scope": [],
+  "text": "#!name=酷我音乐会员\n#!desc=听书+下载+解锁数字专辑\n#!homepage=https://yfamily.ml\n#!author=nameking77\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/kuwosvip.png\n\n\n^https?:\\/\\/.*\\.(kuwo|lrts)\\.(cn|me)\\/(a\\.p|music\\.pay|(vip\\/(v2|enc)\\/(theme|user\\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).* url script-response-body https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kw.js\n\nhostname = *.kuwo.cn,*.lrts.me\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

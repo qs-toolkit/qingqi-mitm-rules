@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0114",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "85efcbcc399b1081d60595765825fb0bf896fe394569a4240991101cf09230f4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "漫画台小程序解锁",
-  "description": "漫画台lite微信小程序解锁 · 来源 重写库",
+  "description": "漫画台lite微信小程序解锁",
   "scope": [],
-  "revisionId": "49754a15fcf464b5f8f5357db6e750783e2291e79e9855dfe5596edbd6d9df14",
+  "revisionId": "85efcbcc399b1081d60595765825fb0bf896fe394569a4240991101cf09230f4",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243527,
+  "updatedAt": 1795094539122,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "49754a15fcf464b5f8f5357db6e750783e2291e79e9855dfe5596edbd6d9df14"
-  ]
+  "homepage": ""
 }

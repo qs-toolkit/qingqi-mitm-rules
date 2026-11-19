@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "阿里云盘签到",
+  "description": "阿里云盘定时签到",
+  "scope": [],
+  "text": "#!name=阿里云盘签到\n#!desc=阿里云盘定时签到\n#!homepage=https://yfamily.ml\n#!author=lowking\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/aliyun.png\n\n\n#0 10 0 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js, tag=阿里云盘签到, img-url=https://raw.githubusercontent.com/deezertidal/private/main/icons/aliyun.png\n\n\n#cookie获取成功后请禁用\n^https:\\/\\/auth.aliyundrive.com\\/v2\\/account\\/token url script-response-body https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js, tag=阿里云盘cookie, img-url=https://raw.githubusercontent.com/deezertidal/private/main/icons/aliyun.png\n\nhostname=auth.aliyundrive.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

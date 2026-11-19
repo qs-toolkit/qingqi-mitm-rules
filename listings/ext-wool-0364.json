@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0364",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "57e87cd62c2bd92f0a83d0b3a3746077066005fccbfe2a7236f5f6a1c2d2e54f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "NTPlay",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2d8085d7e703d91b20a836a51875129331a4fbac9ac09937ba0cd246b6f63182",
-  "author": "奶思",
-  "updatedAt": 1795094243583,
+  "revisionId": "57e87cd62c2bd92f0a83d0b3a3746077066005fccbfe2a7236f5f6a1c2d2e54f",
+  "author": "fmz200",
+  "updatedAt": 1795094539234,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2d8085d7e703d91b20a836a51875129331a4fbac9ac09937ba0cd246b6f63182"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0534",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7d2361f1363ceb86ba37e31a830593897c9e0d69cf18b0aa51f72ff723d5fd33"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "网易新闻",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "NetEaseNews",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2ed88d76f96d9e064c0ee7ad47f74899de85844ad96f849835a987d0aefa3f2c",
-  "author": "奶思",
-  "updatedAt": 1795094243597,
+  "revisionId": "7d2361f1363ceb86ba37e31a830593897c9e0d69cf18b0aa51f72ff723d5fd33",
+  "author": "fmz200",
+  "updatedAt": 1795094539257,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2ed88d76f96d9e064c0ee7ad47f74899de85844ad96f849835a987d0aefa3f2c"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

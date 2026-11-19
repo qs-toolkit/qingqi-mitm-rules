@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0067",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c3f11a9da8602dfe1e9bc7838804a33eb73f217c37aefe90c6bb4d31c5d96acb"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "起伏会员解锁",
-  "description": "起伏会员解锁 · 来源 重写库",
+  "description": "起伏会员解锁",
   "scope": [],
-  "revisionId": "4407f79226a89018a66fe685681c9596fb48c5c019ac49fca98bbfe0d648faab",
+  "revisionId": "c3f11a9da8602dfe1e9bc7838804a33eb73f217c37aefe90c6bb4d31c5d96acb",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243522,
+  "updatedAt": 1795094539116,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "4407f79226a89018a66fe685681c9596fb48c5c019ac49fca98bbfe0d648faab"
-  ]
+  "homepage": ""
 }

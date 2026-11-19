@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0040",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0bd1fe010120886585ac74b586d5bb9496808e18fd3560a51ecfd5478b1d1baf"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Akamai",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "revisionId": "0bd1fe010120886585ac74b586d5bb9496808e18fd3560a51ecfd5478b1d1baf",
+  "author": "fmz200",
+  "updatedAt": 1795094539187,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": ""
+}

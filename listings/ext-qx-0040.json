@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0040",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "cca0b0ee189ba13c4a3593d67ddde54259d7ab9d7ed8c16a294408ae363ffb32"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Musixmatch解锁",
-  "description": "Musixmatch解锁 · 来源 重写库",
+  "description": "Musixmatch解锁",
   "scope": [],
-  "revisionId": "6934727e2c8b8096fa7b1e27d5161b1bccdfb6498d2051845848a59ba55d500a",
+  "revisionId": "cca0b0ee189ba13c4a3593d67ddde54259d7ab9d7ed8c16a294408ae363ffb32",
   "author": "Marol62926",
-  "updatedAt": 1795094243519,
+  "updatedAt": 1795094539113,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "6934727e2c8b8096fa7b1e27d5161b1bccdfb6498d2051845848a59ba55d500a"
-  ]
+  "homepage": ""
 }

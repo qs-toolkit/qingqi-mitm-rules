@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0277",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8d269a84e1b0df976d3da5be0d2630dfe27499c9437e88b17a7eb472d066d346"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "肯德基",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "KFC",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4c81b98fbe5e3f215055c619afae1bffb40c0becbdffd42c1271b1b112379e4b",
-  "author": "奶思",
-  "updatedAt": 1795094243575,
+  "revisionId": "8d269a84e1b0df976d3da5be0d2630dfe27499c9437e88b17a7eb472d066d346",
+  "author": "fmz200",
+  "updatedAt": 1795094539222,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "4c81b98fbe5e3f215055c619afae1bffb40c0becbdffd42c1271b1b112379e4b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

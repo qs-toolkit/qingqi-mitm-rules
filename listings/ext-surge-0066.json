@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0066",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5595331157d9a4a70034062240997f30297db8ffa5cc5e70fb95433ab7490640"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Soul去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "1fd86f156c2c1f797ed7bda8ea0b08398a49d9f5347c4d73b511860a32f6a0ec",
+  "revisionId": "5595331157d9a4a70034062240997f30297db8ffa5cc5e70fb95433ab7490640",
   "author": "ClashModule",
-  "updatedAt": 1795094243466,
+  "updatedAt": 1795094539042,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "1fd86f156c2c1f797ed7bda8ea0b08398a49d9f5347c4d73b511860a32f6a0ec"
-  ]
+  "homepage": ""
 }

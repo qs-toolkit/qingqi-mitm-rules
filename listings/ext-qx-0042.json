@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0042",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a8f314799d962e9d557df0b9adec42089eb1ed31269fd230a566848ea8e7ff6a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Now冥想解锁",
-  "description": "Now 冥想 解锁 · 来源 重写库",
+  "description": "Now 冥想 解锁",
   "scope": [],
-  "revisionId": "4ebef0d6dc16f76a7b1192a57252c7a650db41ef017fc70be8c338b2c612fe50",
+  "revisionId": "a8f314799d962e9d557df0b9adec42089eb1ed31269fd230a566848ea8e7ff6a",
   "author": "Marol62926",
-  "updatedAt": 1795094243519,
+  "updatedAt": 1795094539113,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "4ebef0d6dc16f76a7b1192a57252c7a650db41ef017fc70be8c338b2c612fe50"
-  ]
+  "homepage": ""
 }

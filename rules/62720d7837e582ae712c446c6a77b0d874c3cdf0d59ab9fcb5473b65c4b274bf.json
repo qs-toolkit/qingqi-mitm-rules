@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "斑马海报解锁",
+  "description": "斑马海报解锁会员",
+  "scope": [],
+  "text": "#!name=斑马海报\n#!desc=斑马海报解锁会员\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/zebra.png\n\nhostname=zebra.maka.im\n\nhttps://zebra.maka.im/api/user/info url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/bmhb.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

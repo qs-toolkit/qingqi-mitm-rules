@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0098",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fbeff92237cec8c36ffbbba39fe224562719882d9961231eed746921355453da"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "ZAKER去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ea10e4749df1ab0fbff8f1207151011a34cc117432f06e5f45d2119545ef370e",
+  "revisionId": "fbeff92237cec8c36ffbbba39fe224562719882d9961231eed746921355453da",
   "author": "ClashModule",
-  "updatedAt": 1795094243469,
+  "updatedAt": 1795094539048,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "ea10e4749df1ab0fbff8f1207151011a34cc117432f06e5f45d2119545ef370e"
-  ]
+  "homepage": ""
 }

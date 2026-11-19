@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0450",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "79c9c5fc891122545dbb9536b56f7f27100d3dd20866fcbe4c733d9bf6b626ca"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "首汽约车",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ShouQiYueChe",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ecf2c14241e423ebf11ed3da3b5dee9dcde16ed944814fd8531590b06eefc032",
-  "author": "奶思",
-  "updatedAt": 1795094243590,
+  "revisionId": "79c9c5fc891122545dbb9536b56f7f27100d3dd20866fcbe4c733d9bf6b626ca",
+  "author": "fmz200",
+  "updatedAt": 1795094539246,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "ecf2c14241e423ebf11ed3da3b5dee9dcde16ed944814fd8531590b06eefc032"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

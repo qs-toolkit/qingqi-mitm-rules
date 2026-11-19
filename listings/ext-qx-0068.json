@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0068",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fad6cae1d4e410b75b7ac1dcf795a5d9594c2f251bd6fe2f59c6fb2950d0a59f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Symbolab Pro",
-  "description": "Symbolab Pro · 来源 重写库",
+  "description": "Symbolab Pro",
   "scope": [],
-  "revisionId": "0a87633cf2cccb0eb75b0b1f67abf1fbbefec7b4b34e1ff6b8737f61719a4d87",
+  "revisionId": "fad6cae1d4e410b75b7ac1dcf795a5d9594c2f251bd6fe2f59c6fb2950d0a59f",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243522,
+  "updatedAt": 1795094539116,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "0a87633cf2cccb0eb75b0b1f67abf1fbbefec7b4b34e1ff6b8737f61719a4d87"
-  ]
+  "homepage": ""
 }

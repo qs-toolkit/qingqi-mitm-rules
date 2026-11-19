@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "豆瓣阅读去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=豆瓣阅读去广告\n#!desc=移除开屏广告、弹窗广告、热门搜索、热搜榜。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DoubanRead.png\n#!category=iKeLee\n#!openUrl=https://apps.apple.com/app/id560068813\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-11-24 22:51:51\n\n[Map Local]\n^https:\\/\\/read\\.douban\\.com\\/api\\/v2\\/ads\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/read\\.douban\\.com\\/api\\/v2\\/popup$ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/read\\.douban\\.com\\/api\\/v2\\/search\\/hot_words$ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/read\\.douban\\.com\\/api\\/v2\\/search\\/hot_charts$ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/read\\.douban\\.com\\/api\\/v2\\/search\\/rec_urls$ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% read.douban.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

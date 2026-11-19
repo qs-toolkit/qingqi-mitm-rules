@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "百度网盘去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=百度网盘去广告\n#!desc=移除开屏广告、首页卡片广告、传输页面广告、各类弹窗，精简侧拉抽屉和我的页面。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/BaiduNetDisk.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id547166701\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2026-01-02 06:40:04\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/pan\\.baidu\\.com\\/feed\\/kingkongdistrict\\? '.data.data |= map(select(.type != \"novel\" and .type != \"shortplay\" and .type != \"print\" and .type != \"job_hunt\"))'\n\n[Map Local]\n^https:\\/\\/pan\\.baidu\\.com\\/api\\/getconfig\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/pan\\.baidu\\.com\\/api\\/getsyscfg\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/pan\\.baidu\\.com\\/api\\/taskscore\\/tasklist\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/pan\\.baidu\\.com\\/act\\/api\\/activityentry\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/pan\\.baidu\\.com\\/rest\\/\\d\\.\\d\\/pcs\\/adv\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/pan\\.baidu\\.com\\/api\\/plugin\\/get\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/pan\\.baidu\\.com\\/recommend\\/query\\/list\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% pan.baidu.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

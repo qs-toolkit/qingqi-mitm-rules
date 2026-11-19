@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "奈飞评分",
+  "description": "奈菲迪士尼评分",
+  "scope": [],
+  "text": "#!name= Display Netflix Ratings\n#!desc= 奈菲迪士尼评分\n#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png\n#!author=yichahucha\n\n^https?://ios\\.prod\\.ftl\\.netflix\\.com/iosui/user/.+path=%5B%22videos%22%2C%\\d+%22%2C%22summary%22%5D url script-request-header https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js\n^https?://ios\\.prod\\.ftl\\.netflix\\.com/iosui/user/.+path=%5B%22videos%22%2C%\\d+%22%2C%22summary%22%5D url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js\n^https?://ios\\.prod\\.ftl\\.netflix\\.com/iosui/warmer/.+type=show-ath url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating_season.js\n\n\nhostname = ios.prod.ftl.netflix.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

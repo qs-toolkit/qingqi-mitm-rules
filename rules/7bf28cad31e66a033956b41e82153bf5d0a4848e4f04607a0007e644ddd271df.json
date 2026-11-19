@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "腾讯文档去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=腾讯文档去广告\n#!desc=移除开屏广告、首页横幅推广。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TXDocs.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id1370780836\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-05-13 15:17:08\n\n[Map Local]\n^https:\\/\\/tianshu\\.qq\\.com\\/open\\/ts_access\\/GetAds\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/h5\\.qzone\\.qq\\.com\\/p\\/adboss\\/api\\/json\\/ts_access\\/GetAds$ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% tianshu.qq.com, h5.qzone.qq.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

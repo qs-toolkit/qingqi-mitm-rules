@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0005",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "eb80a64f3309143cdebf1ea1da7d4570a86c3df4c507b28e3c586a9ce2b1985e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "广告拦截&净化合集",
-  "description": "fmz200/wool_scripts · (支持约730款APP/小程序)针对部分APP和小程序广告进行拦截，某些APP要清除缓存或者重新安装拦截广告才会生效！规则明细可以查看本插件的注释",
+  "name": "blockAdsV1",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ce6240f88b12f6b7667a05a00864eb41b5b717ce209d05ff4b8fbda26941d7be",
-  "author": "奶思[https://github.com/fmz200]",
-  "updatedAt": 1795094243553,
+  "revisionId": "eb80a64f3309143cdebf1ea1da7d4570a86c3df4c507b28e3c586a9ce2b1985e",
+  "author": "fmz200",
+  "updatedAt": 1795094539182,
   "targets": [],
-  "upstream": "奶思[https://github.com/fmz200]",
-  "homepage": "",
-  "revisions": [
-    "ce6240f88b12f6b7667a05a00864eb41b5b717ce209d05ff4b8fbda26941d7be"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

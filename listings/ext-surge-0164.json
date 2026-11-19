@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0164",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3710bf13230677fb99513a1aef839935dfcfcbdf02fa09b658e99cc6e2a101aa"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "哔哩漫画抢券.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b79bb5872844b2cc12fe406a7499593e1fc42bff37accd37a47b1373e1e4fd82",
+  "revisionId": "3710bf13230677fb99513a1aef839935dfcfcbdf02fa09b658e99cc6e2a101aa",
   "author": "ClashModule",
-  "updatedAt": 1795094243476,
+  "updatedAt": 1795094539056,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "b79bb5872844b2cc12fe406a7499593e1fc42bff37accd37a47b1373e1e4fd82"
-  ]
+  "homepage": ""
 }

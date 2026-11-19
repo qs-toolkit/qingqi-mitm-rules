@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0267",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "65e39ec6c2080cbb0ff7a8e0224eea42135b1ce434eee14a2cfb2636454f37d4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "微信小程序去除广告",
-  "description": "去除广告、直接查看隐藏内容、净化弹窗 · 来源 墨鱼手记",
+  "description": "去除广告、直接查看隐藏内容、净化弹窗 · Quantumult X",
   "scope": [],
-  "revisionId": "296bdfede0defa2dd291b866b1de487f80f2ab209421b87613e2c150f9827a61",
+  "revisionId": "65e39ec6c2080cbb0ff7a8e0224eea42135b1ce434eee14a2cfb2636454f37d4",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243546,
+  "updatedAt": 1795094539144,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "296bdfede0defa2dd291b866b1de487f80f2ab209421b87613e2c150f9827a61"
-  ]
+  "homepage": ""
 }

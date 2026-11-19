@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0136",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d24425ca47397e2f170864b460ec39c4ef857048c3fdd6366d6cdd84ddc8b455"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "叮咚买菜",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DingDongMaiCai",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2d38d2ccc6278268dadddbacfc455351f01803b858f786a830cecf63a6412c3d",
-  "author": "奶思",
-  "updatedAt": 1795094243563,
+  "revisionId": "d24425ca47397e2f170864b460ec39c4ef857048c3fdd6366d6cdd84ddc8b455",
+  "author": "fmz200",
+  "updatedAt": 1795094539200,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2d38d2ccc6278268dadddbacfc455351f01803b858f786a830cecf63a6412c3d"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

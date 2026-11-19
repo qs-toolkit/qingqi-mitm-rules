@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0400",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "64c511456ef5471a4975c86b2c8a37f76a03c11f01593418d13ad0fddc30a9a6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "汽车之家",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Autohome",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "78843b968974b827610265cea3d95e276560268b1837c714059ac0a9dd66428a",
-  "author": "奶思",
-  "updatedAt": 1795094243585,
+  "revisionId": "64c511456ef5471a4975c86b2c8a37f76a03c11f01593418d13ad0fddc30a9a6",
+  "author": "fmz200",
+  "updatedAt": 1795094539239,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "78843b968974b827610265cea3d95e276560268b1837c714059ac0a9dd66428a"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

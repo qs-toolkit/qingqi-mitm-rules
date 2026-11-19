@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0333",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "508997753585ebb39935ef860c3b36bf5123005141e8b95f069737354b69f3ad"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "脉脉",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Maimai",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4ffff3529e6e2d028f2d7729b7c4a1a388e8a70f6d868646eaf35dde2a2ca987",
-  "author": "奶思",
-  "updatedAt": 1795094243580,
+  "revisionId": "508997753585ebb39935ef860c3b36bf5123005141e8b95f069737354b69f3ad",
+  "author": "fmz200",
+  "updatedAt": 1795094539230,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "4ffff3529e6e2d028f2d7729b7c4a1a388e8a70f6d868646eaf35dde2a2ca987"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "白描黄金会员",
+  "description": "白描黄金会员",
+  "scope": [],
+  "text": "#!name=白描\n#!desc=白描黄金会员\n#!homepage=https://yfamily.ml\n#!author= iEwha\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/baimiao.png\n\n\n\n\nhostname = baimiao.uzero.cn\n\n\n^https?:\\/\\/baimiao\\.uzero\\.cn\\/api\\/v\\d\\.user\\/appLaunchWithUser$ url script-response-body https://raw.githubusercontent.com/iEwha/Profiles/master/Script/baimiao.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

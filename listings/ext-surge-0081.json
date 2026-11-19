@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0081",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "879afb3492f0f29fcb3c168fe5927ec9372cf5d43f15f0be06d9c2599b5106b4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "TubeMax去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "456686993fddc59232b1784d0d44dbeb7b31f349b1779d40de998169ac36e00b",
+  "revisionId": "879afb3492f0f29fcb3c168fe5927ec9372cf5d43f15f0be06d9c2599b5106b4",
   "author": "ClashModule",
-  "updatedAt": 1795094243467,
+  "updatedAt": 1795094539045,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "456686993fddc59232b1784d0d44dbeb7b31f349b1779d40de998169ac36e00b"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0008",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2caeadae68e641d66db2343e772fe0575f145495e8d5ea1e52d7c9c6d9dfac93"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "360摄像机去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "941b3368686895c4b2a0801c2d5442fcd23a88fafd4ce7407ebd4db19cceb9fb",
+  "revisionId": "2caeadae68e641d66db2343e772fe0575f145495e8d5ea1e52d7c9c6d9dfac93",
   "author": "ClashModule",
-  "updatedAt": 1795094243459,
+  "updatedAt": 1795094539034,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "941b3368686895c4b2a0801c2d5442fcd23a88fafd4ce7407ebd4db19cceb9fb"
-  ]
+  "homepage": ""
 }

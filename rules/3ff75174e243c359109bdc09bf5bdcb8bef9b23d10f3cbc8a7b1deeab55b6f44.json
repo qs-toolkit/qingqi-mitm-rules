@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "波点音乐",
+  "description": "波点音乐去广告",
+  "scope": [],
+  "text": "#!name=波点音乐\n#!desc=波点音乐去广告\n#!homepage=https://yfamily.ml\n#!author=zqzess\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/bodian2.png\n\n^http:\\/\\/bd-api\\.kuwo\\.cn\\/api\\/service\\/resource\\/musicResource\\/.+ _ reject\n^https:\\/\\/bodiancdn\\.kuwo\\.cn\\/.+\\.mp4 _ reject\n^http:\\/\\/bd-api\\.kuwo\\.cn\\/api\\/service\\/resource\\/view\\?uid _ reject\n^http:\\/\\/bd-api\\.kuwo\\.cn\\/api\\/service\\/music\\/recommendList\\?uid _ reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

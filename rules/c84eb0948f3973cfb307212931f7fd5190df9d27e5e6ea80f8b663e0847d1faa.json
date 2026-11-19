@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "大麦去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=大麦去广告\n#!desc=移除开屏广告、轮播图广告和弹窗广告，移除搜索填充词和专属推荐。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Damai.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id513829338\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-11-09 00:15:08\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.damai\\.wireless\\.user\\.my\\.content\\.get\\/ 'delpaths([[\"data\",\"banner\"]])'\nhttp-response-jq ^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.damai\\.wireless\\.user\\.my\\.content\\.get\\/ 'delpaths([[\"data\",\"performFilmVip\",\"userProfitList\"]])'\nhttp-response-jq ^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.damai\\.wireless\\.mypage\\.feed\\/ 'delpaths([[\"data\",\"feedCard\"]])'\nhttp-response-jq ^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.damai\\.mec\\.aristotle\\.get\\/ 'delpaths([[\"data\",\"data\",\"top\",\"keywords\"]])'\n\n[Map Local]\n^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.damai\\.wireless\\.home\\.welcome\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/acs\\.m\\.taobao\\.com\\/gw\\/mtop\\.damai\\.mec\\.popup\\.get\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% acs.m.taobao.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

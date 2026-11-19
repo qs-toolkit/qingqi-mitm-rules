@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Musixmatch解锁",
+  "description": "Musixmatch解锁",
+  "scope": [],
+  "text": "#!name=Musixmatch\n#!desc=Musixmatch解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/musixmatch.png\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n\nhttps://apic.musixmatch.com/ws/1.1/config.get url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/musixmatch.js\n\n\nhostname = apic.musixmatch.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

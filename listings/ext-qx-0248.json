@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0248",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2ea1862066421f4e7bbbb60f5d05817a64db4d6470233accb9fa4396aad69b6c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Styleart",
-  "description": "StyleArt解锁会员 · 来源 重写库",
+  "description": "StyleArt解锁会员",
   "scope": [],
-  "revisionId": "a9e4460ede8f8623510c56fef51630059d4bfb7c45cfd795e04abf8ff5ccf53e",
+  "revisionId": "2ea1862066421f4e7bbbb60f5d05817a64db4d6470233accb9fa4396aad69b6c",
   "author": "89996462",
-  "updatedAt": 1795094243543,
+  "updatedAt": 1795094539141,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "a9e4460ede8f8623510c56fef51630059d4bfb7c45cfd795e04abf8ff5ccf53e"
-  ]
+  "homepage": ""
 }

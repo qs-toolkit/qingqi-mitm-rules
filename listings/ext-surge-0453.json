@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0453",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f8be76bedd23f9fb50aefb929b75166a4be9ce3708a399b8c2d8466744becee1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "酷狗铃声去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "22130ea4982f52f32758982489f385daf00590bfdb93170f87fc22e599fa7219",
+  "revisionId": "f8be76bedd23f9fb50aefb929b75166a4be9ce3708a399b8c2d8466744becee1",
   "author": "ClashModule",
-  "updatedAt": 1795094243509,
+  "updatedAt": 1795094539099,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "22130ea4982f52f32758982489f385daf00590bfdb93170f87fc22e599fa7219"
-  ]
+  "homepage": ""
 }

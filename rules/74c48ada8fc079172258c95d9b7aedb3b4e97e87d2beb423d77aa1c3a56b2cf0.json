@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "奶由壁纸解锁",
+  "description": "奶由壁纸解锁",
+  "scope": [],
+  "text": "#!name=奶由壁纸\n#!desc=奶由壁纸解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/nybz.png\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n\n\nhttps://nz-api.duitang.com/account/me url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/naiyou.js\n\n\nhostname = nz-api.duitang.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

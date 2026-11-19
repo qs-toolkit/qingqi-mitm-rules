@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0032",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a4eecb3a26067698b0733d4afaef6abfc97d242a205271962136a6ceb904b166"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "GPT 可用检测-无 WARP.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "f63c2cbbbc1f5c042aeb0ff151441a38ff9516d6f003c788f86e59c8a667c1f8",
+  "revisionId": "a4eecb3a26067698b0733d4afaef6abfc97d242a205271962136a6ceb904b166",
   "author": "ClashModule",
-  "updatedAt": 1795094243462,
+  "updatedAt": 1795094539037,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "f63c2cbbbc1f5c042aeb0ff151441a38ff9516d6f003c788f86e59c8a667c1f8"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0358",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "895831284ac4486f036f6aa5faccd757c35ba56bd4bf9036e43d5e48346480af"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "知识星球去水印",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "539091ac7606983e04b2123aaa45004fc81a220941d39cc25e017caec8eb7056",
+  "revisionId": "895831284ac4486f036f6aa5faccd757c35ba56bd4bf9036e43d5e48346480af",
   "author": "ClashModule",
-  "updatedAt": 1795094243499,
+  "updatedAt": 1795094539086,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "539091ac7606983e04b2123aaa45004fc81a220941d39cc25e017caec8eb7056"
-  ]
+  "homepage": ""
 }

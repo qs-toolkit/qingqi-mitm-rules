@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "XiaoMang",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=小芒\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partX/XiaoMang.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Argument]\nxnmh_enable = switch,true,false,tag=小芒-脚本开关\n\n[Rewrite]\n# app去广告 感谢【sliverkiss】分享\n# 我的页面-猜你喜欢\nrequest if ${url} ~= /^https:\\/\\/mgesq\\.api\\.mgtv\\.com\\/v2\\/goods\\/guess_you_like/i then reject_dict(200)\n# 我的页面-\nrequest if ${url} ~= /https:\\/\\/mgesq.api.mgtv.com\\/v2\\/user\\/center\\/icon/i then reject_dict(200)\n# 搜索排行榜单\nrequest if ${url} ~= /^https:\\/\\/mgesq\\.api\\.mgtv\\.com\\/search\\/goods\\/rank/i then reject_dict(200)\n# 底部按钮、我的页面左上角\nrequest if ${url} ~= /^https:\\/\\/mgesq\\.api\\.mgtv\\.com\\/user\\/center\\/config/i then reject_dict(200)\n\n\n[Script]\nresponse if ${url} ~= /https:\\/\\/mgesq.api.mgtv.com\\/dsl\\/index.+/i then script(\"https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/AdBlock/xmApp/xmApp.js\") with enable=${xnmh_enable}, tag=\"小芒APP主页广告\", timeout=60, requires_body=true\n\n\n[MITM]\nhostname = mgesq.api.mgtv.com, *.hitv.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

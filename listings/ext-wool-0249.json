@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0249",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "792230cb55eac6c889c762e0c8c033c6978d1a29ad0ef118e55b69d1c1257755"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "江苏银行",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BankOfJiangsu",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d6bf6d3713a8588ebcac3d01de302c2dfd9dfded9ea7c938d941f7af6ce388dc",
-  "author": "奶思",
-  "updatedAt": 1795094243572,
+  "revisionId": "792230cb55eac6c889c762e0c8c033c6978d1a29ad0ef118e55b69d1c1257755",
+  "author": "fmz200",
+  "updatedAt": 1795094539218,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "d6bf6d3713a8588ebcac3d01de302c2dfd9dfded9ea7c938d941f7af6ce388dc"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "CSDN",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=CSDN\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partC/CSDN.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rule]\nDOMAIN-SUFFIX, ad.csdn.net, REJECT\nDOMAIN-SUFFIX, counter.csdn.net, REJECT\nDOMAIN-SUFFIX, dc.csdn.net, REJECT\nDOMAIN-SUFFIX, dc2.csdn.net, REJECT\nDOMAIN-SUFFIX, medal.blog.csdn.net, REJECT\n\n\n[Rewrite]\n# 感谢【Jörgen Frecht】分享\nrequest if ${url} ~= /^https?:\\/\\/app-gw\\.csdn\\.net\\/silkroad-api\\/api\\/v\\d\\/assemble\\/list\\/pub\\/channel\\/app_open_screen_ad/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/app-gw\\.csdn\\.net\\/abtesting\\/v2\\/getList?/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/gw\\.csdn\\.net\\/cms-app\\/v\\d+\\/home_page\\/open_advertisement/i then reject(404)\n\n\n[MITM]\nhostname = app-gw.csdn.net, gw.csdn.net\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

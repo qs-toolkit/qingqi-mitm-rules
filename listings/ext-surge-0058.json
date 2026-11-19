@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0058",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8ffb7d119b14e3bb180deebc4f86c2d9a5facc6901154297b47bb0ced7a93e10"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Reddit去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "1ac93eb435718d05bdbcdb9d8d7adc353bba68b1c583b025080bda651d7d2698",
+  "revisionId": "8ffb7d119b14e3bb180deebc4f86c2d9a5facc6901154297b47bb0ced7a93e10",
   "author": "ClashModule",
-  "updatedAt": 1795094243465,
+  "updatedAt": 1795094539041,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "1ac93eb435718d05bdbcdb9d8d7adc353bba68b1c583b025080bda651d7d2698"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0005",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "17eabee54221056218eb2891a03c460858db8b9329cbabdcd5f490066b0c10a7"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "酷我数字专辑解锁",
-  "description": "听书+下载+解锁数字专辑 · 来源 重写库",
+  "description": "听书+下载+解锁数字专辑",
   "scope": [],
-  "revisionId": "4868ae5bb8d36ca896bc20d775fdd839634a91b5e30e6b337c960c54c365e849",
+  "revisionId": "17eabee54221056218eb2891a03c460858db8b9329cbabdcd5f490066b0c10a7",
   "author": "nameking77",
-  "updatedAt": 1795094243516,
+  "updatedAt": 1795094539108,
   "targets": [],
   "upstream": "nameking77",
-  "homepage": "",
-  "revisions": [
-    "4868ae5bb8d36ca896bc20d775fdd839634a91b5e30e6b337c960c54c365e849"
-  ]
+  "homepage": ""
 }

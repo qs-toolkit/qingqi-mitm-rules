@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0632",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "42862e8ab6b8caf321db81ea7d7886d28828a7bd023b9689702bf304088c1dee"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "游戏时光",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "GameTime",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8a4f67de548ab3990d89a0159d681b6d5d28b87800e539ccc44deee45330dd4b",
-  "author": "奶思",
-  "updatedAt": 1795094243607,
+  "revisionId": "42862e8ab6b8caf321db81ea7d7886d28828a7bd023b9689702bf304088c1dee",
+  "author": "fmz200",
+  "updatedAt": 1795094539271,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "8a4f67de548ab3990d89a0159d681b6d5d28b87800e539ccc44deee45330dd4b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

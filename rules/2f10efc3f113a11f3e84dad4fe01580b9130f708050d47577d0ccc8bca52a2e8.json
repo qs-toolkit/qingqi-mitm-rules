@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "墨迹天气去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=墨迹天气去广告\n#!desc=移除天气页面横幅、工具栏，移除时景关注页面推荐，精简我的页面。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MojiWeather.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id434209233\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-05-13 15:17:08\n\n[URL Rewrite]\n^https:\\/\\/fcard\\.api\\.moji\\.com\\/flycard\\/flyCard\\? - reject\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/mme\\.api\\.moji\\.com\\/json\\/entrance\\/list$ 'del(.entrance_region_res_list[] | select(.region_name == \"皇冠区域\" or .region_name == \"banner区\")) | .entrance_region_res_list[].entrance_res_list |= if . then map(select(.entrance_name | . != \"墨迹钱包\" and . != \"墨圈\")) else . end'\n\n[Map Local]\n^https:\\/\\/vdo\\.api\\.moji\\.com\\/shortvideo\\/card\\/subscribe$ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/vdo\\.api\\.moji\\.com\\/shortvideo\\/video\\/index_flow\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/vdo\\.api\\.moji\\.com\\/shortvideo\\/video_user\\/hotGuyRcm\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/vdo\\.api\\.moji\\.com\\/shortvideo\\/zone\\/follow_src_zone\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/sns\\.api\\.moji\\.com\\/user\\/dynamic_v9\\/json\\/someone_interest\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% fcard.api.moji.com, vdo.api.moji.com, sns.api.moji.com, mme.api.moji.com, psnlz.api.moji.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

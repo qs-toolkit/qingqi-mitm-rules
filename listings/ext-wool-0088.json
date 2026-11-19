@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0088",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7f0dac250c218d99ac46cf19ec17730c366eaf093751aeeae1c128a04fe109c4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "必胜客",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "PizzaHut",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a64c6bba7b1bb46b0d74d19b83f31b5796f0c17c725bd255fccc54fac333ca86",
-  "author": "奶思",
-  "updatedAt": 1795094243558,
+  "revisionId": "7f0dac250c218d99ac46cf19ec17730c366eaf093751aeeae1c128a04fe109c4",
+  "author": "fmz200",
+  "updatedAt": 1795094539193,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "a64c6bba7b1bb46b0d74d19b83f31b5796f0c17c725bd255fccc54fac333ca86"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

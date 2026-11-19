@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0326",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3ece361c63d3ea02aae8b93337d1441602504e167eff74cfbc909766665455e2"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "马达出行",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "MaDaChuXing",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bdb279311f6bed21d06bb94392580cad4f6f47413ed2613e5c2e47da076c2546",
-  "author": "奶思",
-  "updatedAt": 1795094243579,
+  "revisionId": "3ece361c63d3ea02aae8b93337d1441602504e167eff74cfbc909766665455e2",
+  "author": "fmz200",
+  "updatedAt": 1795094539229,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "bdb279311f6bed21d06bb94392580cad4f6f47413ed2613e5c2e47da076c2546"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

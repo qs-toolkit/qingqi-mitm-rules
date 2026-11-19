@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Bilibili 1080P",
+  "description": "Bilibili解锁高清画质",
+  "scope": [],
+  "text": "#!name=Bilibili 1080P\n#!desc=Bilibili解锁高清画质\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/bili.png\n\n^https?:\\/\\/app\\.bilibili\\.com\\/x\\/v2\\/account\\/myinfo\\? url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Script/bilibili_json.js\n\nhostname=app.bilibili.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

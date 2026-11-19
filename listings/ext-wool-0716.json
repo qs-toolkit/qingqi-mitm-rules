@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0716",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e8d68c7e6ab25d78fcbb5e70b3ab7ae3ba445b5d969646f25ef2b3c3ff9f4065"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "众邦银行",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ZhongBangBank",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0712fda81c7d559d0c2672998314602711f10b0bb79c0f183ead1d95695a73b6",
-  "author": "奶思",
-  "updatedAt": 1795094243614,
+  "revisionId": "e8d68c7e6ab25d78fcbb5e70b3ab7ae3ba445b5d969646f25ef2b3c3ff9f4065",
+  "author": "fmz200",
+  "updatedAt": 1795094539283,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "0712fda81c7d559d0c2672998314602711f10b0bb79c0f183ead1d95695a73b6"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

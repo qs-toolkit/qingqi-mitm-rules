@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0286",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4bea200a63ca44bb32f3bf6b6fb49149c90264ad1f14376554a14e250dfc5f37"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "微博&微博国际版净化",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "ec47c83d3ce3b491b7eec70bf18bf2dd2bd309bc72c7801f7bebac21cf465eb7",
+  "revisionId": "4bea200a63ca44bb32f3bf6b6fb49149c90264ad1f14376554a14e250dfc5f37",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243549,
+  "updatedAt": 1795094539147,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "ec47c83d3ce3b491b7eec70bf18bf2dd2bd309bc72c7801f7bebac21cf465eb7"
-  ]
+  "homepage": ""
 }

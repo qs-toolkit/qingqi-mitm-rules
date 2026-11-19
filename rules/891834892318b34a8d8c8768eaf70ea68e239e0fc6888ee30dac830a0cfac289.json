@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "一书一课",
+  "description": "一书一课解锁会员",
+  "scope": [],
+  "text": "#!name=一书一课\n#!desc=一书一课解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ysyk.png\n\n\n^https:\\/\\/api\\.chiyue365\\.com url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ysyk.js\n\nhostname = api.chiyue365.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

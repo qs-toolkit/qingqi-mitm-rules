@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0317",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ec1261ef716b0efd625ada7654e2f438fa779121f859bf5c59eb84d7b5e7a9b2"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Peter Lowe 广告服务器规则",
+  "description": "广告服务器域名屏蔽规则",
+  "scope": [],
+  "revisionId": "ec1261ef716b0efd625ada7654e2f438fa779121f859bf5c59eb84d7b5e7a9b2",
+  "author": "limbopro",
+  "updatedAt": 1795094539153,
+  "targets": [],
+  "upstream": "limbopro",
+  "homepage": ""
+}

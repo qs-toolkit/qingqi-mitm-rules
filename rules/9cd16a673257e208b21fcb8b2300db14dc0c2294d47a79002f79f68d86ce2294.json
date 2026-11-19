@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Tangerine解锁",
+  "description": "Tangerine解锁",
+  "scope": [],
+  "text": "#!name=Tangerine\n#!desc=Tangerine解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/tangerine.png\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n\n\nhttps://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/tangerine.js\n\n\nhostname = api.revenuecat.com\n\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

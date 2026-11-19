@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0398",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "bbec49e213dceddcec4182372790e0ecf4a70271c71fa42a5315ff8aaf65b188"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "pikpak",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d30665bcbdbc26004a3645b870ea3d3dcf31c0c726cb22ae3498317f55bac999",
-  "author": "奶思",
-  "updatedAt": 1795094243585,
+  "revisionId": "bbec49e213dceddcec4182372790e0ecf4a70271c71fa42a5315ff8aaf65b188",
+  "author": "fmz200",
+  "updatedAt": 1795094539238,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "d30665bcbdbc26004a3645b870ea3d3dcf31c0c726cb22ae3498317f55bac999"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

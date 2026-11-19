@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0370",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ace8de4c69c07ae2be8aec324ffb9b2d503072e1ba214d0bc71eb6986c60bf99"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "牛津高阶词典第十版",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "OxfordALD10th",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fa223036d8de70ffeff3bfb756d5994d5ccc393978e7f28323814b926bf85619",
-  "author": "奶思",
-  "updatedAt": 1795094243583,
+  "revisionId": "ace8de4c69c07ae2be8aec324ffb9b2d503072e1ba214d0bc71eb6986c60bf99",
+  "author": "fmz200",
+  "updatedAt": 1795094539235,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "fa223036d8de70ffeff3bfb756d5994d5ccc393978e7f28323814b926bf85619"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0509",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ff9f1423d8a4f936ca7dfd603289f62046f378c3d9ad810c0ac28a0ec7fbf11a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "途家民宿",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "TujiaHomestay",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5180c230bd510433f3932802b00b389b42a4a89167b9e3054ed102463f225b4d",
-  "author": "奶思",
-  "updatedAt": 1795094243595,
+  "revisionId": "ff9f1423d8a4f936ca7dfd603289f62046f378c3d9ad810c0ac28a0ec7fbf11a",
+  "author": "fmz200",
+  "updatedAt": 1795094539253,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "5180c230bd510433f3932802b00b389b42a4a89167b9e3054ed102463f225b4d"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

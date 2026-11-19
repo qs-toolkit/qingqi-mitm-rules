@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "游民星空去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=游民星空去广告\n#!desc=移除开屏广告、列表广告 by Sliverkiss\n#!author=Sliverkiss\n#!icon=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/ymxk.png\n\n[Body Rewrite]\nhttp-response-jq http:\\/\\/.+\\.gamersky.com/.+/lists/getListElements '.listElements |= map(select(has(\"adCategory\") | not))'\n\n[Map Local]\n^http:\\/\\/.+\\.gamersky\\.com\\/.+\\/adSystem\\/ad\\/.+ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\nhttps://.+\\.gamersky.com/v1/statisticAd data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% *.gamersky.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

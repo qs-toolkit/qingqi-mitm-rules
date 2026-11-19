@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0693",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5954d1fb0c1e524db7b218ecafbdcaa27e22d91705563ad50d8351e8b135ded1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "中国电信",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ChinaTelecom",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f29779aa9304123ad5e3c9ff1a51eaa08d905c7545c3263f90c7ddb5172e4d6e",
-  "author": "奶思",
-  "updatedAt": 1795094243612,
+  "revisionId": "5954d1fb0c1e524db7b218ecafbdcaa27e22d91705563ad50d8351e8b135ded1",
+  "author": "fmz200",
+  "updatedAt": 1795094539279,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "f29779aa9304123ad5e3c9ff1a51eaa08d905c7545c3263f90c7ddb5172e4d6e"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

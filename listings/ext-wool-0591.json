@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0591",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5141fa6c5d376d9bc36c5a39ad313ea1bea71b72896319ee642f094440699083"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "小特 - 首选特斯拉中文社区",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "XiaoTe",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "21273795dc79c51c31691c371c5433bb6e616e9f456ad9c47607d74172421046",
-  "author": "奶思",
-  "updatedAt": 1795094243603,
+  "revisionId": "5141fa6c5d376d9bc36c5a39ad313ea1bea71b72896319ee642f094440699083",
+  "author": "fmz200",
+  "updatedAt": 1795094539265,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "21273795dc79c51c31691c371c5433bb6e616e9f456ad9c47607d74172421046"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

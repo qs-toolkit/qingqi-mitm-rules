@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0646",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a48022bd2e22de04e2dff656aa9f20a2df3e829e4dedd5a6390513c3c39b768e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "一刻相册",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "YiKeAlbum",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7f275a4ec323beb3d4cc4243585e2aa7dec829db879cc3b5b81f14b31b3614ab",
-  "author": "奶思",
-  "updatedAt": 1795094243608,
+  "revisionId": "a48022bd2e22de04e2dff656aa9f20a2df3e829e4dedd5a6390513c3c39b768e",
+  "author": "fmz200",
+  "updatedAt": 1795094539272,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "7f275a4ec323beb3d4cc4243585e2aa7dec829db879cc3b5b81f14b31b3614ab"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

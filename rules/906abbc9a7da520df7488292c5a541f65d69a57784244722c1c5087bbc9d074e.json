@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Mojo会员解锁",
+  "description": "Mojo会员解锁",
+  "scope": [],
+  "text": "#!name=Mojo\n#!desc=Mojo会员解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/mojo.png\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n\nhttps://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/mojo.js\n\n\nhostname = api.revenuecat.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

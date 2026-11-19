@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0263",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "025faaab5c5d2b50daa526557e6ffe36a818606a22b88f5cc5defe054d3535ff"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "配音",
-  "description": "配音解锁会员 · 来源 重写库",
+  "description": "配音解锁会员",
   "scope": [],
-  "revisionId": "9bba12b56c56ea0693903dc44c1eb7cfdacd99fa7f797c11b24b93a3b10ab0c0",
+  "revisionId": "025faaab5c5d2b50daa526557e6ffe36a818606a22b88f5cc5defe054d3535ff",
   "author": "89996462",
-  "updatedAt": 1795094243545,
+  "updatedAt": 1795094539143,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "9bba12b56c56ea0693903dc44c1eb7cfdacd99fa7f797c11b24b93a3b10ab0c0"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0172",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ebdae22f625aaedfdea00fd79b280e2b8a2160b06a020ee8102ece95e94a8d88"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Lingokids",
-  "description": "Lingokids解锁会员 · 来源 重写库",
+  "description": "Lingokids解锁会员",
   "scope": [],
-  "revisionId": "f554281cc1b85eca8cdb7cd526d9c49e9e56e453b91145b823d679bea470dca0",
+  "revisionId": "ebdae22f625aaedfdea00fd79b280e2b8a2160b06a020ee8102ece95e94a8d88",
   "author": "89996462",
-  "updatedAt": 1795094243536,
+  "updatedAt": 1795094539131,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "f554281cc1b85eca8cdb7cd526d9c49e9e56e453b91145b823d679bea470dca0"
-  ]
+  "homepage": ""
 }

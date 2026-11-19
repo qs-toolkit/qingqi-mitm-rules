@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0033",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c65dfba637d2539233cad6c0cfaa13226cea4b34539380469d9357e325caaf76"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "GPT 可用检测.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4414b7c6a5624149956da7e692616ef7bfb0cbfa115eab4cd33f7b1d691cceb8",
+  "revisionId": "c65dfba637d2539233cad6c0cfaa13226cea4b34539380469d9357e325caaf76",
   "author": "ClashModule",
-  "updatedAt": 1795094243462,
+  "updatedAt": 1795094539037,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "4414b7c6a5624149956da7e692616ef7bfb0cbfa115eab4cd33f7b1d691cceb8"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0024",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4026e9763b3d43751c9148a5f3bc70e67488e55263190e1ec7cb44accadf1c08"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "ECOVACS HOME去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8bada8a2bc337f6ae3ef7330457b906e7d60b95f3a11bc0694ea3c2c7fa78818",
+  "revisionId": "4026e9763b3d43751c9148a5f3bc70e67488e55263190e1ec7cb44accadf1c08",
   "author": "ClashModule",
-  "updatedAt": 1795094243461,
+  "updatedAt": 1795094539036,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "8bada8a2bc337f6ae3ef7330457b906e7d60b95f3a11bc0694ea3c2c7fa78818"
-  ]
+  "homepage": ""
 }

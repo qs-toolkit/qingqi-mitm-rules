@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0104",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fa911f7e7758832ca57c5676986a75621ec90721e499614d0279bdb8f9ae75a9"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "一刻相册去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9a58a53caa43e873fc33087f95e45c93155f0df814c271eb02967e33b39a8638",
+  "revisionId": "fa911f7e7758832ca57c5676986a75621ec90721e499614d0279bdb8f9ae75a9",
   "author": "ClashModule",
-  "updatedAt": 1795094243470,
+  "updatedAt": 1795094539049,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "9a58a53caa43e873fc33087f95e45c93155f0df814c271eb02967e33b39a8638"
-  ]
+  "homepage": ""
 }

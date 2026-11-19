@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0044",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "62d4da8c18b332eb10ba5438e998e40dfbc063296af40026223531a67dc9af15"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Piccollage解锁",
-  "description": "Piccollage解锁 · 来源 重写库",
+  "description": "Piccollage解锁",
   "scope": [],
-  "revisionId": "528a62b02177ad47549fad38e0d23de9843dcac60b0a1cc2b2d78d33a7dcf95b",
+  "revisionId": "62d4da8c18b332eb10ba5438e998e40dfbc063296af40026223531a67dc9af15",
   "author": "Marol62926",
-  "updatedAt": 1795094243519,
+  "updatedAt": 1795094539113,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "528a62b02177ad47549fad38e0d23de9843dcac60b0a1cc2b2d78d33a7dcf95b"
-  ]
+  "homepage": ""
 }

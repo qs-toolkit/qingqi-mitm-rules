@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0355",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a23ccec5dd83832b375e6443e3dce63e266c525b38c68359d535413ed6d44b22"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "咪咕视频",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "MiguVideo",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "244df6ae5c9209ba51038c77abd7f7793f6db538d1fd9fc8c4acb73ab502389c",
-  "author": "奶思",
-  "updatedAt": 1795094243582,
+  "revisionId": "a23ccec5dd83832b375e6443e3dce63e266c525b38c68359d535413ed6d44b22",
+  "author": "fmz200",
+  "updatedAt": 1795094539233,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "244df6ae5c9209ba51038c77abd7f7793f6db538d1fd9fc8c4acb73ab502389c"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

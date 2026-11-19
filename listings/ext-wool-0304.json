@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0304",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "dd66cafbb3c942034b67b6ba8b2c41f5e219ac56161c90eb0ca8efd37696502e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "乐堡潮玩馆小程序",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "LeBaoChaoWanGuan",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2ddb0badd15368904e48b3aa79f63c34d438ee57e9f063ea8909d46834dfe9e8",
-  "author": "奶思",
-  "updatedAt": 1795094243577,
+  "revisionId": "dd66cafbb3c942034b67b6ba8b2c41f5e219ac56161c90eb0ca8efd37696502e",
+  "author": "fmz200",
+  "updatedAt": 1795094539225,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2ddb0badd15368904e48b3aa79f63c34d438ee57e9f063ea8909d46834dfe9e8"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

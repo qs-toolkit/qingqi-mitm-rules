@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0061",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f95034a851bf4fd7b83e7d931b0c45212b6cb68f93e25efa993eb155be3da545"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "克拉壁纸",
-  "description": "克拉壁纸解锁 · 来源 重写库",
+  "description": "克拉壁纸解锁",
   "scope": [],
-  "revisionId": "22df9688716c1277f532081370e57f525415eabf905580dff39825ab912a77b7",
+  "revisionId": "f95034a851bf4fd7b83e7d931b0c45212b6cb68f93e25efa993eb155be3da545",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243521,
+  "updatedAt": 1795094539116,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "22df9688716c1277f532081370e57f525415eabf905580dff39825ab912a77b7"
-  ]
+  "homepage": ""
 }

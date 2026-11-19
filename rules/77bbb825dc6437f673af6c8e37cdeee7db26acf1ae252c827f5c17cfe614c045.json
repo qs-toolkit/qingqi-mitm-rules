@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "SSA丝社",
+  "description": "SSA丝社解锁会员",
+  "scope": [],
+  "text": "#!name=SSA丝社\n#!desc=SSA丝社解锁会员\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ssa.png\n#!homepage=https://yfamily.ml\n#!author=lutqhysky\n\n\n^https?:\\/\\/www\\.ssalegs\\.store\\/cms\\/Appapi\\/username\\/username\\/\\d+ url script-response-body  https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/SSA/Script/SSA.js script-update-interval=0\n\n\nhostname = www.ssalegs.store",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

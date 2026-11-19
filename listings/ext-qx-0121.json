@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0121",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "803a80f6a43644d501c387bd356fe03c16fc56a823818f83a646ea2195f0392a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "螺畤大语文解锁会员",
-  "description": "螺畤大语文解锁会员 · 来源 重写库",
+  "description": "螺畤大语文解锁会员",
   "scope": [],
-  "revisionId": "ed3b3b696fcaacbb5c6e2f01b7e653cd52295725b6e85714475f47872f48378e",
+  "revisionId": "803a80f6a43644d501c387bd356fe03c16fc56a823818f83a646ea2195f0392a",
   "author": "lutqhysky",
-  "updatedAt": 1795094243528,
+  "updatedAt": 1795094539123,
   "targets": [],
   "upstream": "lutqhysky",
-  "homepage": "",
-  "revisions": [
-    "ed3b3b696fcaacbb5c6e2f01b7e653cd52295725b6e85714475f47872f48378e"
-  ]
+  "homepage": ""
 }

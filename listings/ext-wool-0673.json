@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0673",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4083f9947a69d2549d7edd4f3f53efa9eef270b1109a91f2178a4427872f60b8"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "云宝宝大数据",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "YunBaoBaoBigData",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "998b405e92f5e684ac55c0d5d989c3752c99abb80581ea34065cc55e6f09fcc2",
-  "author": "奶思",
-  "updatedAt": 1795094243610,
+  "revisionId": "4083f9947a69d2549d7edd4f3f53efa9eef270b1109a91f2178a4427872f60b8",
+  "author": "fmz200",
+  "updatedAt": 1795094539276,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "998b405e92f5e684ac55c0d5d989c3752c99abb80581ea34065cc55e6f09fcc2"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

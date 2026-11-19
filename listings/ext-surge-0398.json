@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0398",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7bf28cad31e66a033956b41e82153bf5d0a4848e4f04607a0007e644ddd271df"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "腾讯文档去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "1bfad52de028d19332642c19984771aa1bb9c14ee1919a8d3bf2294feaf4091c",
+  "revisionId": "7bf28cad31e66a033956b41e82153bf5d0a4848e4f04607a0007e644ddd271df",
   "author": "ClashModule",
-  "updatedAt": 1795094243503,
+  "updatedAt": 1795094539091,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "1bfad52de028d19332642c19984771aa1bb9c14ee1919a8d3bf2294feaf4091c"
-  ]
+  "homepage": ""
 }

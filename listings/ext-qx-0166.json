@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0166",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6b037864bd79d85109e2f291d1f9da19bee74256910463cf235076b539c2dfbf"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Flomo",
-  "description": "Flomo解锁会员 · 来源 重写库",
+  "description": "Flomo解锁会员",
   "scope": [],
-  "revisionId": "4f7ddedf935b838c0f1418dcede0fdd42a7a80802e192572a898a8528fdfe710",
+  "revisionId": "6b037864bd79d85109e2f291d1f9da19bee74256910463cf235076b539c2dfbf",
   "author": "89996462",
-  "updatedAt": 1795094243535,
+  "updatedAt": 1795094539130,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "4f7ddedf935b838c0f1418dcede0fdd42a7a80802e192572a898a8528fdfe710"
-  ]
+  "homepage": ""
 }

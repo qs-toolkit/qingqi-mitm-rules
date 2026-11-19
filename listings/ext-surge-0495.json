@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0495",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ed9a2551ba848bb0b7592820445c6e01f792ae89348de8c48fa9eddfd6cdded7"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "🍟 Apple 定位修改.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块 · Surge",
   "scope": [],
-  "revisionId": "a755651e5e55b1600b936d05090aa0ca2a783f6f19222d7bee9d1840b21c0186",
+  "revisionId": "ed9a2551ba848bb0b7592820445c6e01f792ae89348de8c48fa9eddfd6cdded7",
   "author": "ClashModule",
-  "updatedAt": 1795094243514,
+  "updatedAt": 1795094539105,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "a755651e5e55b1600b936d05090aa0ca2a783f6f19222d7bee9d1840b21c0186"
-  ]
+  "homepage": ""
 }

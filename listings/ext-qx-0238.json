@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0238",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "090f56b350af3a8e64e12f0ca98aa553bfd07ddaf37c8c531dc383fd9940ad9a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "简讯",
-  "description": "简讯机解锁会员 · 来源 重写库",
+  "description": "简讯机解锁会员",
   "scope": [],
-  "revisionId": "b7d198760099b4755d9b7bb70106292433079534c9a9e53e289d7e7bc0d2aa72",
+  "revisionId": "090f56b350af3a8e64e12f0ca98aa553bfd07ddaf37c8c531dc383fd9940ad9a",
   "author": "89996462",
-  "updatedAt": 1795094243542,
+  "updatedAt": 1795094539139,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "b7d198760099b4755d9b7bb70106292433079534c9a9e53e289d7e7bc0d2aa72"
-  ]
+  "homepage": ""
 }

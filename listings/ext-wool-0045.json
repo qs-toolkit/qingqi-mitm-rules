@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0045",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "bf20e49e5e739773e46d2ca1a6735f28267ba63f88091db264289d72907f0bf5"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Amazon",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6b41d1d4ecf74e320b9258fbb2d2e46c7f021acde91577d6dd16f25ccaf81b0b",
-  "author": "奶思",
-  "updatedAt": 1795094243555,
+  "revisionId": "bf20e49e5e739773e46d2ca1a6735f28267ba63f88091db264289d72907f0bf5",
+  "author": "fmz200",
+  "updatedAt": 1795094539187,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "6b41d1d4ecf74e320b9258fbb2d2e46c7f021acde91577d6dd16f25ccaf81b0b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0268",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e9a80353fd40c30b461796345c55aff9b4554e7202da6c4b37d7814abe7f1cef"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "今日水印相机",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "JinRiShuiYinCamera",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ba766df0b73985f3d59d86d0cf842f82f0433d97bd75c610c8005a9d2e243df7",
-  "author": "奶思",
-  "updatedAt": 1795094243574,
+  "revisionId": "e9a80353fd40c30b461796345c55aff9b4554e7202da6c4b37d7814abe7f1cef",
+  "author": "fmz200",
+  "updatedAt": 1795094539220,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "ba766df0b73985f3d59d86d0cf842f82f0433d97bd75c610c8005a9d2e243df7"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

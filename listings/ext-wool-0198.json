@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0198",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8f37015a0cd2aad8e1f84c25f078f16949acd8315eb3c48e9d54e6d2104f5e70"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "工银E生活",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ICBCELife",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "39fe88cf5b8a0f6c7d14ed6c60347c579db4a344d6d6ae6d8a06ca6c7014776e",
-  "author": "奶思",
-  "updatedAt": 1795094243568,
+  "revisionId": "8f37015a0cd2aad8e1f84c25f078f16949acd8315eb3c48e9d54e6d2104f5e70",
+  "author": "fmz200",
+  "updatedAt": 1795094539211,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "39fe88cf5b8a0f6c7d14ed6c60347c579db4a344d6d6ae6d8a06ca6c7014776e"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

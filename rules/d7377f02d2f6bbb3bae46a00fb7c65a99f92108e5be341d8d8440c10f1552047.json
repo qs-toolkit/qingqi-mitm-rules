@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "❌I AM解锁",
+  "description": "Iam解锁会员",
+  "scope": [],
+  "text": "#!name=Iam\n#!desc=Iam解锁会员\n#!author=Marol62926\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/iam.png\n\nhttps://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/iAm.js\n\nhostname = api.revenuecat.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0537",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6abae7e03947a2f0003e96756f35d108b1b04a1ab075252007c8064851870617"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "网易有道词典",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "NetEaseYoudaoDictionary",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7fb4098c7bbe5c97de9b3f3f8cd928f2dbf83c9af85c33dd9bc765fd0fba24cc",
-  "author": "奶思",
-  "updatedAt": 1795094243598,
+  "revisionId": "6abae7e03947a2f0003e96756f35d108b1b04a1ab075252007c8064851870617",
+  "author": "fmz200",
+  "updatedAt": 1795094539257,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "7fb4098c7bbe5c97de9b3f3f8cd928f2dbf83c9af85c33dd9bc765fd0fba24cc"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

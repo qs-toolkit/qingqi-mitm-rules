@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "电子请柬制作",
+  "description": "电子请柬制作解锁会员",
+  "scope": [],
+  "text": "#!name=电子请柬制作\n#!desc=电子请柬制作解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/dzqj.png\n\n^https:\\/\\/cn\\.invit\\.vip\\/users\\/info url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dzqjzz.js\n\nhostname = cn.invit.vip",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

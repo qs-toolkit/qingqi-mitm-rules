@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0043",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "56b4bbcd446a2ff4bc2b3419c0975dbe2c2633b4d5d8be555e9ff1e689f7c483"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "阿里云盘",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "AlibabaCloudDrive",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "672b1bc6cc5866ea30b4ce395719dcb6ad6bb18569e1fb2f037841a81f7e2f2b",
-  "author": "奶思",
-  "updatedAt": 1795094243555,
+  "revisionId": "56b4bbcd446a2ff4bc2b3419c0975dbe2c2633b4d5d8be555e9ff1e689f7c483",
+  "author": "fmz200",
+  "updatedAt": 1795094539187,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "672b1bc6cc5866ea30b4ce395719dcb6ad6bb18569e1fb2f037841a81f7e2f2b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

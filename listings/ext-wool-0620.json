@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0620",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e5a2ef0a87e2b2a096a228be80a322288d45a4eda5e2036186773f944327bf42"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "iFlytekInputMethod",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "revisionId": "e5a2ef0a87e2b2a096a228be80a322288d45a4eda5e2036186773f944327bf42",
+  "author": "fmz200",
+  "updatedAt": 1795094539269,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": ""
+}

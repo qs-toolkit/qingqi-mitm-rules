@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "格至日记",
+  "description": "格志日记解锁会员",
+  "scope": [],
+  "text": "#!name=格志日记\n#!desc=格志日记解锁会员\n#!homepage=https://yfamily.ml\n#!author=yqc007\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/gzrj.png\n\n\n^https?:\\/\\/diary-id\\.sumi\\.io\\/api\\/profile$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/GridDiary2ProCrack.js\n\nhostname = diary-id.sumi.io",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

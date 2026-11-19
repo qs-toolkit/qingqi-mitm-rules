@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0114",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6365fff9052ca22b41fd67c46f88c80bc5435461cf3c8d4f20fea6df2f33f39d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "大疆商城",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DJIStore",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "33b566341cc291aea52d3094e36a88dbb1c95c15a8c06ace8b47c3baa38ce8bb",
-  "author": "奶思",
-  "updatedAt": 1795094243560,
+  "revisionId": "6365fff9052ca22b41fd67c46f88c80bc5435461cf3c8d4f20fea6df2f33f39d",
+  "author": "fmz200",
+  "updatedAt": 1795094539198,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "33b566341cc291aea52d3094e36a88dbb1c95c15a8c06ace8b47c3baa38ce8bb"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

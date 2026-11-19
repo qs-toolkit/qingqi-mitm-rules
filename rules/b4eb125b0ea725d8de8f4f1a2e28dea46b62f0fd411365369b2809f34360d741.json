@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "掌阅去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=掌阅去广告\n#!desc=移除开屏广告、悬浮广告、弹窗广告、朗读音色广告及我的页面广告，移除各页面的横幅轮播图。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/iReader.png\n#!category=iKeLee\n#!openUrl=https://apps.apple.com/app/id463150061\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-10-11 08:34:06\n\n[Rule]\nDOMAIN,saad.ms.zhangyue.net,REJECT,extended-matching,pre-matching\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/(webboot\\.zhangyue\\.com|ih2\\.ireader\\.com)\\/zybook4\\/iphone\\/u\\/p\\/api\\.php\\? 'delpaths([[\"Splash\"]])'\nhttp-response-jq ^https:\\/\\/(webboot\\.zhangyue\\.com|ih2\\.ireader\\.com)\\/bookstore\\/read\\/visual\\/channel\\/list\\? '.body.list |= map(select(.id | contains(\"ad_\") | not))'\n\n[Map Local]\n^https:\\/\\/(webboot\\.zhangyue\\.com|ih2\\.ireader\\.com)\\/zyapi\\/bookstore\\/ad\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/(webboot\\.zhangyue\\.com|ih2\\.ireader\\.com)\\/bookstore\\/ad\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/(webboot\\.zhangyue\\.com|ih2\\.ireader\\.com)\\/zybk\\/api\\/pop\\/index\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/(webboot\\.zhangyue\\.com|ih2\\.ireader\\.com)\\/zyapi\\/bookstore\\/user\\/mytab\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/(webboot\\.zhangyue\\.com|ih2\\.ireader\\.com)\\/zyboot\\/activity\\/mytab\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\nhttps:\\/\\/(webboot\\.zhangyue\\.com|ih2\\.ireader\\.com)\\/zyam\\/app\\/app\\.php\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% webboot.zhangyue.com, ih2.ireader.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

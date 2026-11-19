@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0445",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8b2cad3e0489075a1de23b422d063fdd4692b60a26dfb5829594c3e347bf9fed"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "配音秀去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "74612158f9ac585bcb748d3aab8f27781e646bc15ad088d7b0bb731de768a414",
+  "revisionId": "8b2cad3e0489075a1de23b422d063fdd4692b60a26dfb5829594c3e347bf9fed",
   "author": "ClashModule",
-  "updatedAt": 1795094243508,
+  "updatedAt": 1795094539098,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "74612158f9ac585bcb748d3aab8f27781e646bc15ad088d7b0bb731de768a414"
-  ]
+  "homepage": ""
 }

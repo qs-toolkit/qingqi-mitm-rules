@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "proknockout",
+  "description": "proKnockout解锁会员",
+  "scope": [],
+  "text": "#!name=proKnockout\n#!desc=proKnockout解锁会员\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/proknockout.png\n#!homepage=https://yfamily.ml\n#!author=lutqhysky\n\n\nhostname=buy.itunes.apple.com\n\n\nhttps://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/proKnockout.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

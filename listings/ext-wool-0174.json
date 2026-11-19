@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0174",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "32a9f15fd0d99e212d4485243a427e0dd5bf9aab1043cc63530a22f62701f6d2"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "高德地图",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "AutoNavi",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d0cf6d163c27bb131453cbd2da4920f570b644bacd6168486c740f48ac5f0a27",
-  "author": "奶思",
-  "updatedAt": 1795094243566,
+  "revisionId": "32a9f15fd0d99e212d4485243a427e0dd5bf9aab1043cc63530a22f62701f6d2",
+  "author": "fmz200",
+  "updatedAt": 1795094539205,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "d0cf6d163c27bb131453cbd2da4920f570b644bacd6168486c740f48ac5f0a27"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

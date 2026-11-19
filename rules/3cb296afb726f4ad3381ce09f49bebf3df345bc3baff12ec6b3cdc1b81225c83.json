@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "TianXingFinance",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=天星金融\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partT/TianXingFinance.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/t1\\.market\\.xiaomi\\.com\\/thumbnail\\/webp\\/w1170q100\\//i then reject(404)\n\n\n[MITM]\nhostname = t1.market.xiaomi.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

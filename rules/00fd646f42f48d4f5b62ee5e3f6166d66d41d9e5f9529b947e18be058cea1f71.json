@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "TFDownload",
+  "description": "解决国区TF中无法下载某些应用（QX、小火箭、LOON）的问题",
+  "scope": [],
+  "text": "#!name=TFDownload\n#!desc=解决国区TF中无法下载某些应用（QX、小火箭、LOON）的问题\n#!author=@id77, Modified by Cuttlefish\n\n// ==UserScript==\n// @ScriptName        TFDownload\n// @Author            @id77, Modified by Cuttlefish\n// @TgChannel         https://t.me/ddgksf2021\n// @WechatID          墨鱼手记\n// @UpdateTime        2022-02-15\n// @Function          解决国区TF中无法下载某些应用（QX、小火箭、LOON）的问题\n// @Attention         对于普通TF应用的更新应该没有啥影响，具体事项未测试\n// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/Function/TFDownload.conf\n// ==/UserScript==\n\nhostname = testflight.apple.com\n\n^https?:\\/\\/testflight\\.apple\\.com\\/v2\\/accounts\\/.*\\/apps\\/\\d*/builds/\\d*/install url request-body storefrontId\" : \".*\" request-body storefrontId\" : \"143441-1,29\"\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

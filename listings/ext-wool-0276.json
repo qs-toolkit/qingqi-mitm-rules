@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0276",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "366a0a22ef541eaa015e6c5727bb8187fe90167f65114eeaf578525a33ff0fda"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "酷安",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Coolapk",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3409578697e341576f334506fc46442995e7dfaac18d36e30f638c75f3fff161",
-  "author": "奶思",
-  "updatedAt": 1795094243574,
+  "revisionId": "366a0a22ef541eaa015e6c5727bb8187fe90167f65114eeaf578525a33ff0fda",
+  "author": "fmz200",
+  "updatedAt": 1795094539221,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "3409578697e341576f334506fc46442995e7dfaac18d36e30f638c75f3fff161"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

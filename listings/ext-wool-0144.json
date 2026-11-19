@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0144",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6ea9116df47ad3afa9e20e5762adbe1b8ee61ee2d380b411cdbb1c62b5c0d317"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "斗鱼直播",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DouyuLive",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d73d84eaae6d6da2737c17c9922ad393bc126f731c3b555153fccfa0fb2221db",
-  "author": "奶思",
-  "updatedAt": 1795094243564,
+  "revisionId": "6ea9116df47ad3afa9e20e5762adbe1b8ee61ee2d380b411cdbb1c62b5c0d317",
+  "author": "fmz200",
+  "updatedAt": 1795094539202,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "d73d84eaae6d6da2737c17c9922ad393bc126f731c3b555153fccfa0fb2221db"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0112",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7fc25249f09e1a54047ebf4bdc8298c6ebcf307bf689d37cd5f5eedbccc2af52"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "clicli",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "98385f4cf82f4ca53511d6f68fd5a33ac345924f33936bb094bfd7c0b5bf3864",
-  "author": "奶思",
-  "updatedAt": 1795094243560,
+  "revisionId": "7fc25249f09e1a54047ebf4bdc8298c6ebcf307bf689d37cd5f5eedbccc2af52",
+  "author": "fmz200",
+  "updatedAt": 1795094539197,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "98385f4cf82f4ca53511d6f68fd5a33ac345924f33936bb094bfd7c0b5bf3864"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "GPT 可用检测.official",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=ChatGPT Panel\n#!desc=Chatgpt可用区域检测随可用性更换ICON\n#!author=keywos wuhu_zz 整点猫咪\n# 参数说明\n# 可选参数\"iconerr=xxx\" 不支持chatgpt时的图标，内容为任意有效的 SF Symbol Name\n# 可选参数\"icon=xxx\" 支持chatgpt时的图标，内容为任意有效的 SF Symbol Name，如 bolt.horizontal.circle.fill，详细可以下载app https://apps.apple.com/cn/app/sf-symbols-browser/id1491161336\n# 可选参数\"color=xxx\" 当使用 icon 字段时，可传入 color 字段控制图标颜色，字段内容为颜色的 HEX 编码。如：color=#007aff\n# 如：argument=icon=lasso.and.sparkles&iconerr=xmark.seal.fill&icon-color=#D7431E\n\n\n[Panel]\n\n# GPT\nCFGPT = script-name=CFGPT,update-interval=-1\n[Script]\nCFGPT = type=generic,timeout=6,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/CFGPT/CFGPT_2.js,argument=icon=lasso.and.sparkles&iconerr=xmark.seal.fill&icon-color=#336FA9&iconerr-color=#D65C51\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

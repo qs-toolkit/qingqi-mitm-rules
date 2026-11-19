@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Mix Camera",
+  "description": "mix解锁",
+  "scope": [],
+  "text": "#!name=Mix Camera\n#!desc=mix解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/mix.png\n#!homepage=https://yfamily.ml\n#!author=NobyDa\n\n\nhttps?:\\/\\/cdn-bm\\.camera360\\.com\\/api\\/mix\\/recovery url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/MIX.js\n\n\nhostname = cdn-bm.camera360.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

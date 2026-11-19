@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0218",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "41cc266fc0001270cb3e1cce1e5e415311db485f9793e2ad9702ae7f8cf03979"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "好型体重秤",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "HaoXingTiZhongCheng",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5122c582f9aaf415ecbd01c6bcc6ff02a14e6540a3374b44caaee879d38a5bf6",
-  "author": "奶思",
-  "updatedAt": 1795094243570,
+  "revisionId": "41cc266fc0001270cb3e1cce1e5e415311db485f9793e2ad9702ae7f8cf03979",
+  "author": "fmz200",
+  "updatedAt": 1795094539214,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "5122c582f9aaf415ecbd01c6bcc6ff02a14e6540a3374b44caaee879d38a5bf6"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "最右去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=最右去广告\n#!desc=移除开屏广告、信息流广告和广告轮播图。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ZuiYou.png\n#!category=iKeLee\n#!openUrl=https://apps.apple.com/app/id942443472\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2026-02-22 01:28:27\n\n[Rule]\nDOMAIN,adapi.izuiyou.com,REJECT,extended-matching,pre-matching\nURL-REGEX,\"^http:\\/\\/mercury-gateway\\.ixiaochuan\\.cn\\/mercury\\/v1\\/ad\\/\",REJECT-TINYGIF,extended-matching\nURL-REGEX,\"^http:\\/\\/file-share\\.izuiyou\\.com\\/octopus\\/media\\/templates\\/search_home_page_(nv|nv_v2)\\/search_home_page_nv\",REJECT,extended-matching\n\n[URL Rewrite]\n^https?:\\/\\/api\\.izuiyou\\.com\\/ad\\/ - reject\n\n[Map Local]\n^https?:\\/\\/api\\.izuiyou\\.com\\/config\\/get_banner data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/zyfile\\.izuiyou\\.com\\/zyfile\\/c2\\/a0\\/[a-z0-9-]+\\.json data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% api.izuiyou.com, zyfile.izuiyou.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

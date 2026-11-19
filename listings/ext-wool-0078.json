@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0078",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "085bf6caa2607237ca363490ebc940e1fb377c2d6feb4123385811d685af3bed"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "币安",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Binance",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "207f6441f3f2e145e9f83cc4592da021a69bf5123c35a25ccc21141d495cca51",
-  "author": "奶思",
-  "updatedAt": 1795094243558,
+  "revisionId": "085bf6caa2607237ca363490ebc940e1fb377c2d6feb4123385811d685af3bed",
+  "author": "fmz200",
+  "updatedAt": 1795094539192,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "207f6441f3f2e145e9f83cc4592da021a69bf5123c35a25ccc21141d495cca51"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

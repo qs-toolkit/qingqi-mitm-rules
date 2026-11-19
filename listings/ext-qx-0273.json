@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0273",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "33f5459df98b8f36509b320014a2ef7be29a56781d4afe757fbcd1cb9bd79958"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "中国联通净化",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "6cdb347dcfe494b7f77439c5c9da074fb043345c95bb4dd85a93b65daf3a279c",
+  "revisionId": "33f5459df98b8f36509b320014a2ef7be29a56781d4afe757fbcd1cb9bd79958",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243547,
+  "updatedAt": 1795094539145,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "6cdb347dcfe494b7f77439c5c9da074fb043345c95bb4dd85a93b65daf3a279c"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0481",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "170d3d5929b50a60b8a4a23593a96e4b9c36daadec2934346136346d2e8c1d14"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "腾讯游戏社区",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "TencentGamesCommunity",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "db0c076d376477ca30071368ed41acc7f70bb2c24b6b244a9c5dda9aa2d13743",
-  "author": "奶思",
-  "updatedAt": 1795094243593,
+  "revisionId": "170d3d5929b50a60b8a4a23593a96e4b9c36daadec2934346136346d2e8c1d14",
+  "author": "fmz200",
+  "updatedAt": 1795094539250,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "db0c076d376477ca30071368ed41acc7f70bb2c24b6b244a9c5dda9aa2d13743"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

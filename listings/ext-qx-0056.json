@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0056",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "69fbe72ca0584f53be94798b250b99ca46ca55d6440d7cfe11fa5f1ca816a0cf"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "傲软抠图会员",
-  "description": "傲软抠图会员 需登陆账号 · 来源 重写库",
+  "description": "傲软抠图会员 需登陆账号",
   "scope": [],
-  "revisionId": "48ed97ca65a9a1028a822a482be21dc97b86eab06fda3780fceb1b4851ca50a3",
+  "revisionId": "69fbe72ca0584f53be94798b250b99ca46ca55d6440d7cfe11fa5f1ca816a0cf",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243521,
+  "updatedAt": 1795094539115,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "48ed97ca65a9a1028a822a482be21dc97b86eab06fda3780fceb1b4851ca50a3"
-  ]
+  "homepage": ""
 }

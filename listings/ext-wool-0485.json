@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0485",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2e01b40f2f85b4db6ef3db72965f4e348f6cfa0cdcd997bd5853e8f7d1cd591d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "腾讯乘车码",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "TencentRideCode",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e7d21f6aa1c70ff0f4e432e047c6725843665246417c4ee6591f8ce3bd1cc3d5",
-  "author": "奶思",
-  "updatedAt": 1795094243593,
+  "revisionId": "2e01b40f2f85b4db6ef3db72965f4e348f6cfa0cdcd997bd5853e8f7d1cd591d",
+  "author": "fmz200",
+  "updatedAt": 1795094539251,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "e7d21f6aa1c70ff0f4e432e047c6725843665246417c4ee6591f8ce3bd1cc3d5"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

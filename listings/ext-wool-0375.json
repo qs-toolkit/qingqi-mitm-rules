@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0375",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e360939984373f87b59d5b86215aa00e42c2584119cb6356cd57ac460bd623fc"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Oray",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ba121fdc48c34236d0775f5baafdae045d84c9e8f879d3d232be99f28c57e33a",
-  "author": "奶思",
-  "updatedAt": 1795094243583,
+  "revisionId": "e360939984373f87b59d5b86215aa00e42c2584119cb6356cd57ac460bd623fc",
+  "author": "fmz200",
+  "updatedAt": 1795094539235,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "ba121fdc48c34236d0775f5baafdae045d84c9e8f879d3d232be99f28c57e33a"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

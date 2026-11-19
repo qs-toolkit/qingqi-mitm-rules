@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "MEMRISE",
+  "description": "重写库 · Quantumult X 重写脚本",
+  "scope": [],
+  "text": "#!name=Memrise\n#!desc=Memrise解锁会员\n#!homepage=https://yfamily.ml\n#!author= 89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/memrise.png\n\nhostname = api.memrise.com\n\n^https:\\/\\/api\\.memrise\\.com\\/v1\\.18 url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Memrise.js",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

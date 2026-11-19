@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "google自动翻页",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
+  "scope": [],
+  "text": "#!name=google自动翻页\n#!desc=墨鱼手记出品的 Quantumult X 重写 · Quantumult X\n#!author=@langkhach270389, modified by Cuttlefish\n\n// ==UserScript==\n// @ScriptName        google自动翻页\n// @Author            @langkhach270389, modified by Cuttlefish\n// @TgChannel         https://t.me/ddgksf2021\n// @WechatID          墨鱼手记\n// @UpdateTime        2024-01-01\n// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/Html/EndlessGoogle.conf\n// ==/UserScript==\n\nhostname = www.google.*,\n\n^https?:\\/\\/www\\.google\\..*\\/search url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/master/endlessgoogle.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0184",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2ee4eaf5df383f8ab4bd233fdd872332f11b3f0e5bd6adbc3c37aad1660b51cf"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "国美电器",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "GomeAppliances",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "700ff4dfca9d63b1cdcc227c111368d05bf6cad67722c21773162c157cbd72bd",
-  "author": "奶思",
-  "updatedAt": 1795094243567,
+  "revisionId": "2ee4eaf5df383f8ab4bd233fdd872332f11b3f0e5bd6adbc3c37aad1660b51cf",
+  "author": "fmz200",
+  "updatedAt": 1795094539207,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "700ff4dfca9d63b1cdcc227c111368d05bf6cad67722c21773162c157cbd72bd"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

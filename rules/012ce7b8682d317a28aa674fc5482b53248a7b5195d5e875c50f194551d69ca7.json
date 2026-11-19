@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "知音漫客解锁",
+  "description": "解锁知音漫客付费章节 (需登录)",
+  "scope": [],
+  "text": "#!name=知音漫客\n#!desc= 解锁知音漫客付费章节 (需登录)\n#!homepage=https://yfamily.ml\n#!author= NobyDa\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/zymk.png\n\n\n^https:\\/\\/apigate\\.zymk\\.cn\\/(zymk-getuserinfo-api\\/v1\\/getuserinfo|zymk-userpurchased-api\\/v1\\/userpurchased\\/paychapters)\\/ url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Zymh.js\n\n\nhostname = apigate.zymk.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

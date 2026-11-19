@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0123",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "eb178ec8e3d2ccc0cc77af8e0122c95b79ac237a1c77abca3743a5e8f0a44191"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Dcar",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "revisionId": "eb178ec8e3d2ccc0cc77af8e0122c95b79ac237a1c77abca3743a5e8f0a44191",
+  "author": "fmz200",
+  "updatedAt": 1795094539199,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": ""
+}

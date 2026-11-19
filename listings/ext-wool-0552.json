@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0552",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c720c249622708021ffa35bdb3563764cf9a0e8e724954f500c74e16e5fdfbf9"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "微店",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Weidian",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c3967e2fc428344f0c576f1ecf67e1b9ac7892a23c7883a1d1c2835dc47900d5",
-  "author": "奶思",
-  "updatedAt": 1795094243599,
+  "revisionId": "c720c249622708021ffa35bdb3563764cf9a0e8e724954f500c74e16e5fdfbf9",
+  "author": "fmz200",
+  "updatedAt": 1795094539259,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "c3967e2fc428344f0c576f1ecf67e1b9ac7892a23c7883a1d1c2835dc47900d5"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

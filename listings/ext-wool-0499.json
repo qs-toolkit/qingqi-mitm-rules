@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0499",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "cce3c37b5d9dfa005fa302f10235580e44bbc68326ece6e8c112f40918cbf906"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "天翼云盘",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "TianYiCloudDrive",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "41f4378c86ee8666d7c1fd14ce69a5e52a68b2b44821732375100f02144f898e",
-  "author": "奶思",
-  "updatedAt": 1795094243595,
+  "revisionId": "cce3c37b5d9dfa005fa302f10235580e44bbc68326ece6e8c112f40918cbf906",
+  "author": "fmz200",
+  "updatedAt": 1795094539252,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "41f4378c86ee8666d7c1fd14ce69a5e52a68b2b44821732375100f02144f898e"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

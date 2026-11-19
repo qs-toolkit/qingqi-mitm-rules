@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0569",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "df25e2ace040bd0e59b73b2d3cb1fa9e94752117173a1ae7d4f84accd0a6ef17"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "星途 starway",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Starway",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d35965c47e7f3b1cfa430adc5a35a4d926cba4ce1378daf555aad118860530a5",
-  "author": "奶思",
-  "updatedAt": 1795094243600,
+  "revisionId": "df25e2ace040bd0e59b73b2d3cb1fa9e94752117173a1ae7d4f84accd0a6ef17",
+  "author": "fmz200",
+  "updatedAt": 1795094539262,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "d35965c47e7f3b1cfa430adc5a35a4d926cba4ce1378daf555aad118860530a5"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

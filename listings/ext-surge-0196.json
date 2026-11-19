@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0196",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9b2033139c944dfc0ff8ab36a8ba4ef3fef148c94d8d9a918173fc19b03f9ead"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "小程序和应用懒人去广告合集.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b8f5eb4939083674914abf15ab647ba6b6d396e0fba3beb74daf336a5d77ecfc",
+  "revisionId": "9b2033139c944dfc0ff8ab36a8ba4ef3fef148c94d8d9a918173fc19b03f9ead",
   "author": "ClashModule",
-  "updatedAt": 1795094243481,
+  "updatedAt": 1795094539062,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "b8f5eb4939083674914abf15ab647ba6b6d396e0fba3beb74daf336a5d77ecfc"
-  ]
+  "homepage": ""
 }

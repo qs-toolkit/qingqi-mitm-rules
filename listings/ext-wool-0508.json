@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0508",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e3b073765018293dd9534f45a94d3f5144f16d4fb0447b4ba90b8fa6ff1c32aa"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "推栏",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "TuiLan",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "126dab5758d1877561b028e49e57f6b0e291dd0fbd5dcfc8a74a937f1995c29d",
-  "author": "奶思",
-  "updatedAt": 1795094243595,
+  "revisionId": "e3b073765018293dd9534f45a94d3f5144f16d4fb0447b4ba90b8fa6ff1c32aa",
+  "author": "fmz200",
+  "updatedAt": 1795094539253,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "126dab5758d1877561b028e49e57f6b0e291dd0fbd5dcfc8a74a937f1995c29d"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

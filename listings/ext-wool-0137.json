@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0137",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b5ee6cf479209a699fb8bb6f403bd966fcfd2648d8cf393af5408ad89b1e29c6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "钉钉",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DingTalk",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4c5cbf326c06fa073a77b024eadefec8133bbcf95bda75ddbf92135dbb9137e6",
-  "author": "奶思",
-  "updatedAt": 1795094243563,
+  "revisionId": "b5ee6cf479209a699fb8bb6f403bd966fcfd2648d8cf393af5408ad89b1e29c6",
+  "author": "fmz200",
+  "updatedAt": 1795094539200,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "4c5cbf326c06fa073a77b024eadefec8133bbcf95bda75ddbf92135dbb9137e6"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

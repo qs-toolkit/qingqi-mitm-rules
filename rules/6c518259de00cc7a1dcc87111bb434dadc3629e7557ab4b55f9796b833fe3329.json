@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Aloha浏览器",
+  "description": "Aloha VPN浏览器会员解锁",
+  "scope": [],
+  "text": "#!name=Aloha浏览器\n#!desc=Aloha VPN浏览器会员解锁\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/aloha.png\n\nhttps://api.alohaprofile.com/v1/profile_info url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/aloha.js\n\n\nhostname = api.alohaprofile.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

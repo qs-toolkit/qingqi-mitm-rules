@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0215",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "155a1db0c018be326351ac8aceefdac0da7f4fc8500f04803a805c9e0f916d7f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "库街区去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "359787789c4a958fadbd04ea2e040660bf75aa749b5c50d4390d660f6ccd1c88",
+  "revisionId": "155a1db0c018be326351ac8aceefdac0da7f4fc8500f04803a805c9e0f916d7f",
   "author": "ClashModule",
-  "updatedAt": 1795094243483,
+  "updatedAt": 1795094539065,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "359787789c4a958fadbd04ea2e040660bf75aa749b5c50d4390d660f6ccd1c88"
-  ]
+  "homepage": ""
 }

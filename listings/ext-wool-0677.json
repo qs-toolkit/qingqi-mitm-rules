@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0677",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9c852e63c20a6eb172efdd6afaddca44cbc2babe70752c30e5fb10d0aa7fd969"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "中国国际航空",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "AirChina",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fc1c2d8062332506d31a03532a4c854a8a91224a9374c0ad258aa49bf6ed750b",
-  "author": "奶思",
-  "updatedAt": 1795094243610,
+  "revisionId": "9c852e63c20a6eb172efdd6afaddca44cbc2babe70752c30e5fb10d0aa7fd969",
+  "author": "fmz200",
+  "updatedAt": 1795094539277,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "fc1c2d8062332506d31a03532a4c854a8a91224a9374c0ad258aa49bf6ed750b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

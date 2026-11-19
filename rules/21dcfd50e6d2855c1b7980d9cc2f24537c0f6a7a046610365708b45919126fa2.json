@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Ego Reader",
+  "description": "Ego Reader解锁会员",
+  "scope": [],
+  "text": "#!name=Ego Reader\n#!desc=Ego Reader解锁会员\n#!homepage=https://yfamily.ml\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ego.png\n\n\n^https?:\\/\\/api\\.pxmage\\.com\\/egoreader\\/user\\/info url script-response-body https://raw.githubusercontent.com/deezertidal/private/main/ego.js\n\n\nhostname = api.pxmage.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

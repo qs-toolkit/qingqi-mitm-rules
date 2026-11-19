@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0219",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3bc150a5db9cccb17cbd1b2417f3726625b7d60e5500d2729f35ef2762d264bb"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "VCUS",
-  "description": "VCUS会员解锁 · 来源 重写库",
+  "description": "VCUS会员解锁",
   "scope": [],
-  "revisionId": "32638bbc2a5b92a8b9794f588f36600531b572c6a20bea6572106f9b91948924",
+  "revisionId": "3bc150a5db9cccb17cbd1b2417f3726625b7d60e5500d2729f35ef2762d264bb",
   "author": "89996462",
-  "updatedAt": 1795094243541,
+  "updatedAt": 1795094539137,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "32638bbc2a5b92a8b9794f588f36600531b572c6a20bea6572106f9b91948924"
-  ]
+  "homepage": ""
 }

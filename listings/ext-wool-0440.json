@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0440",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c7332ebc110bfd97acb947a889b126aa9e1dd0cf181f5f5e683e4aefd8d97c99"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "闪动校园",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ShanDongXiaoYuan",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d8053540143f2df2aa6bd98b9773f5ce6fe70944e73d2e102e77f6d330452367",
-  "author": "奶思",
-  "updatedAt": 1795094243589,
+  "revisionId": "c7332ebc110bfd97acb947a889b126aa9e1dd0cf181f5f5e683e4aefd8d97c99",
+  "author": "fmz200",
+  "updatedAt": 1795094539244,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "d8053540143f2df2aa6bd98b9773f5ce6fe70944e73d2e102e77f6d330452367"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

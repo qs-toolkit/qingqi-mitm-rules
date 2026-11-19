@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0390",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "da512ba32b0f32655d5900e34945dd822bb5b3475c9bcdcf96ddad210d6d393c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "美颜相机去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ea16f16daa3275b3aa1758088f868b609873e7cc1c8d43d7307a4d2eaa1a1490",
+  "revisionId": "da512ba32b0f32655d5900e34945dd822bb5b3475c9bcdcf96ddad210d6d393c",
   "author": "ClashModule",
-  "updatedAt": 1795094243502,
+  "updatedAt": 1795094539090,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "ea16f16daa3275b3aa1758088f868b609873e7cc1c8d43d7307a4d2eaa1a1490"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0227",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b51a9cdc7fcc478b5ed83a606223959248686cab31bd7d9745ec7cc1df2383c6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "微信外部链接解锁",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "0f4cf624f95ac18bb4bf132c543e0401dfa8d2f257ea37b3f1443d7308eddee7",
+  "revisionId": "b51a9cdc7fcc478b5ed83a606223959248686cab31bd7d9745ec7cc1df2383c6",
   "author": "ClashModule",
-  "updatedAt": 1795094243484,
+  "updatedAt": 1795094539067,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "0f4cf624f95ac18bb4bf132c543e0401dfa8d2f257ea37b3f1443d7308eddee7"
-  ]
+  "homepage": ""
 }

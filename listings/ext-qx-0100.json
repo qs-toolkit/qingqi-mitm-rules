@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0100",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "41d30eea433784cc68ca0acce625329814e2f2cb8a76c5de2a68a1f3b524de64"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "喜马拉雅去广告",
-  "description": "喜马拉雅去广告 · 来源 重写库",
+  "description": "喜马拉雅去广告",
   "scope": [],
-  "revisionId": "95d6793ad503df5e9fc3f9fe74ec78e2f1348d09b4224a283a517b8a1754e834",
+  "revisionId": "41d30eea433784cc68ca0acce625329814e2f2cb8a76c5de2a68a1f3b524de64",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243525,
+  "updatedAt": 1795094539121,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "95d6793ad503df5e9fc3f9fe74ec78e2f1348d09b4224a283a517b8a1754e834"
-  ]
+  "homepage": ""
 }

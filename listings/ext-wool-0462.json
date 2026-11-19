@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0462",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f6ff1e65fc87933b5fe713fbc5d4da8442f9948f6bb1b4cb854ea414f37cb34e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Spotify",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b69eaa01eeab4d4b6cc2b4683feb9f48efeba25c04f48524852ae70005c444dc",
-  "author": "奶思",
-  "updatedAt": 1795094243591,
+  "revisionId": "f6ff1e65fc87933b5fe713fbc5d4da8442f9948f6bb1b4cb854ea414f37cb34e",
+  "author": "fmz200",
+  "updatedAt": 1795094539248,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "b69eaa01eeab4d4b6cc2b4683feb9f48efeba25c04f48524852ae70005c444dc"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

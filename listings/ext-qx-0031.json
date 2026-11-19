@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0031",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "79118cc749b81cf78cbc43e05768609e079a1995488fe66462529847daf8b601"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Bazaart解锁",
-  "description": "Bazaart编辑器解锁，进入app恢复购买 · 来源 重写库",
+  "description": "Bazaart编辑器解锁，进入app恢复购买",
   "scope": [],
-  "revisionId": "fb05c6d0d46942a31c031e13c61554feb3b982dbcc75b96cb7909a0bcfb773f3",
+  "revisionId": "79118cc749b81cf78cbc43e05768609e079a1995488fe66462529847daf8b601",
   "author": "Marol62926",
-  "updatedAt": 1795094243518,
+  "updatedAt": 1795094539112,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "fb05c6d0d46942a31c031e13c61554feb3b982dbcc75b96cb7909a0bcfb773f3"
-  ]
+  "homepage": ""
 }

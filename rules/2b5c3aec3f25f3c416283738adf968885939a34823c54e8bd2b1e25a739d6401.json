@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "爱企查",
+  "description": "爱企查vip",
+  "scope": [],
+  "text": "#!name=爱企查\n#!desc=爱企查vip\n#!homepage=https://yfamily.ml\n#!author=\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/aqc.png\n\n\n^https:\\//aiqicha.baidu.com\\/usercenter\\/getvipinfoajax url script-response-body https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/aiqicha.js\n\n\nhostname = aiqicha.baidu.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

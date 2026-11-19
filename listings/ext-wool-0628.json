@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0628",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f8f0ea5345d291765799afc3ee221812ed5a0b91b7ccc136ac66b35e3232019a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "艺龙旅行网",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ElongTravel",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9d35745f3c02b358b55234082ec33e28efe554153751011c205ed121824208e3",
-  "author": "奶思",
-  "updatedAt": 1795094243606,
+  "revisionId": "f8f0ea5345d291765799afc3ee221812ed5a0b91b7ccc136ac66b35e3232019a",
+  "author": "fmz200",
+  "updatedAt": 1795094539270,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "9d35745f3c02b358b55234082ec33e28efe554153751011c205ed121824208e3"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

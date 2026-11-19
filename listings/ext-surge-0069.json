@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0069",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2da9d3813590727a84129965895d9fe1ccc2fe9cc800a1922d06899a04c676af"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Spotify去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "6bf67dc635940ac37066b0a1ddf35adccdb9995df4baf3122606b08166797b1a",
+  "revisionId": "2da9d3813590727a84129965895d9fe1ccc2fe9cc800a1922d06899a04c676af",
   "author": "ClashModule",
-  "updatedAt": 1795094243466,
+  "updatedAt": 1795094539043,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "6bf67dc635940ac37066b0a1ddf35adccdb9995df4baf3122606b08166797b1a"
-  ]
+  "homepage": ""
 }

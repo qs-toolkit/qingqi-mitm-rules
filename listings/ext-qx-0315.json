@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0315",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8979a3c179f21599560bafc04e07d200ca8101a4e9dc1e889b15fe6f7fb1e716"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Adblock4limbo 主规则",
+  "description": "毒奶去广告计划主规则（合并 BanAD / EasyList 等）",
+  "scope": [],
+  "revisionId": "8979a3c179f21599560bafc04e07d200ca8101a4e9dc1e889b15fe6f7fb1e716",
+  "author": "limbopro",
+  "updatedAt": 1795094539152,
+  "targets": [],
+  "upstream": "limbopro",
+  "homepage": ""
+}

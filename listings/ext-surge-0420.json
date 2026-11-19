@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0420",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a00319959d420981cb23d465089b76e1c1274814bcb644c1f708eaf7bd9e3a1a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "薄荷健康去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a6af539a50a763e36be2c2b100fd9ea3a3f05d1723ce895a69141905530f4fe6",
+  "revisionId": "a00319959d420981cb23d465089b76e1c1274814bcb644c1f708eaf7bd9e3a1a",
   "author": "ClashModule",
-  "updatedAt": 1795094243505,
+  "updatedAt": 1795094539094,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "a6af539a50a763e36be2c2b100fd9ea3a3f05d1723ce895a69141905530f4fe6"
-  ]
+  "homepage": ""
 }

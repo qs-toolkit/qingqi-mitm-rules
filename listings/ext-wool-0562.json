@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0562",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8a307f9b3f12e553dff90ef98529ca72747360c7e06ce7a64849d7f36ccd525d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "希尔顿",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Hilton",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ffa0139bf3a91712a83cd8d8d649df05fb07236c54488a8b8d26df388677f789",
-  "author": "奶思",
-  "updatedAt": 1795094243600,
+  "revisionId": "8a307f9b3f12e553dff90ef98529ca72747360c7e06ce7a64849d7f36ccd525d",
+  "author": "fmz200",
+  "updatedAt": 1795094539261,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "ffa0139bf3a91712a83cd8d8d649df05fb07236c54488a8b8d26df388677f789"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

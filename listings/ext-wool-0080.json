@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0080",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a3176fa55921bdd9e0d705175c2aaf4519d18227ec8e679ab88a9ca92f910dab"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Blued",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "53343bce5f2593ad916a8a9f810cf190eab01e9c3c4eae3c54d5342ce72c2baf",
-  "author": "奶思",
-  "updatedAt": 1795094243558,
+  "revisionId": "a3176fa55921bdd9e0d705175c2aaf4519d18227ec8e679ab88a9ca92f910dab",
+  "author": "fmz200",
+  "updatedAt": 1795094539192,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "53343bce5f2593ad916a8a9f810cf190eab01e9c3c4eae3c54d5342ce72c2baf"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

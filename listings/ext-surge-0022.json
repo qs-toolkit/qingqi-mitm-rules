@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0022",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e597e1958d63736a609906297e9a8d565253d5cb0c9915c33ef39e838ab122e1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Dlabel云标签去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "774aba2a49d7dd55f1ac2f806b6a881eed1fd3dddce4073a0dd0fe6d86a50d79",
+  "revisionId": "e597e1958d63736a609906297e9a8d565253d5cb0c9915c33ef39e838ab122e1",
   "author": "ClashModule",
-  "updatedAt": 1795094243461,
+  "updatedAt": 1795094539036,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "774aba2a49d7dd55f1ac2f806b6a881eed1fd3dddce4073a0dd0fe6d86a50d79"
-  ]
+  "homepage": ""
 }

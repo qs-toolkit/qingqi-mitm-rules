@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0153",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a9ba80fc30f50d2abed1c51b0483878530629b85a8782e4a1f4dcdf0be8a16d2"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "e代驾",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "eDaiJia",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "81aa748a28614f38cbb4b4a188693fb4becc0d7f1374a51bd02347fb98165021",
-  "author": "奶思",
-  "updatedAt": 1795094243565,
+  "revisionId": "a9ba80fc30f50d2abed1c51b0483878530629b85a8782e4a1f4dcdf0be8a16d2",
+  "author": "fmz200",
+  "updatedAt": 1795094539203,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "81aa748a28614f38cbb4b4a188693fb4becc0d7f1374a51bd02347fb98165021"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

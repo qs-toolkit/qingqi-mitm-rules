@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0610",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a291fc21bc2cd9c0483713a4e883b22adf276df7dd9fe9f1feddeb740a859121"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "星财富",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "XingCaiFu",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0bc2ec9dd8b1026af0ecaa53001d71cc8ee57fd098fcfd7a1435dcc18cb13fa4",
-  "author": "奶思",
-  "updatedAt": 1795094243605,
+  "revisionId": "a291fc21bc2cd9c0483713a4e883b22adf276df7dd9fe9f1feddeb740a859121",
+  "author": "fmz200",
+  "updatedAt": 1795094539268,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "0bc2ec9dd8b1026af0ecaa53001d71cc8ee57fd098fcfd7a1435dcc18cb13fa4"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

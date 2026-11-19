@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Auto_Join_TF",
+  "description": "fmz200/wool_scripts · Surge",
+  "scope": [],
+  "text": "#!name=Auto_Join_TF\n#!desc=fmz200/wool_scripts · Surge\n#!author=fmz200\n\n#!name = 自动[加入/监控]TestFlight\n#!desc = 1、自动加入TF使用前先获取账号令牌和填写应用ID[自己手动添加主机名testflight.apple.com]，一旦有新的名额即刻加入；2、监控TF位置不需要令牌也无需MITM\n#!openUrl = https://apps.apple.com/app/id899247664\n#!author = 奶思[https://github.com/fmz200], DecoAri[https://github.com/DecoAri], xream[https://github.com/xream]\n#!tag = 定时任务\n#!system = \n#!system_version = \n#!loon_version = 3.2.4(787)\n#!homepage = https://github.com/fmz200/wool_scripts\n#!icon = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/TestFlight_00.png\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/Auto_Join_TF.plugin\n#!tg-channel=https://t.me/inaisi\n#!input = fmz200_TF_APP_ID\n#!date = 2025-09-21 01:17:08\n\n[Argument]\nCaptureAccountToken = switch, \"false\", \"true\", tag = 捕获账号令牌, desc = 此开关控制插件是否捕获账户令牌\n# CaptureAppID = switch, \"false\", \"true\", tag = 捕获应用ID, desc = 此开关控制插件是否捕获应用ID\nRunTask = switch, \"false\", \"true\", tag = 运行自动加入TF, desc = 此开关控制是否启动定时任务\nRunMonitor = switch, \"true\", \"false\", tag = 运行监控TF位置, desc = 此开关控制是否启动定时任务\nTaskCron = input, \"0 0/3 * * * ?\", tag = 加入TF定时参数, desc = 这里需要输入符合CRON表达式的参数\nTaskMonitor = input, \"0 * * * * ?\", tag = 监控TF定时参数, desc = 这里需要输入符合CRON表达式的参数\n\n[Rule]\nDOMAIN, testflight.apple.com, PROXY\n\n[Script]\nhttp-request ^https?:\\/\\/testflight\\.apple\\.com\\/v3\\/accounts\\/.*\\/apps$ script-path = https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/TestFlight/AutoJoinTFKeys.js, tag = 获取账号令牌, enable = {CaptureAccountToken}\n\n# http-request ^https?:\\/\\/testflight\\.apple\\.com\\/join\\/(.*) script-path = https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/TestFlight/AutoJoinTFKeys.js, tag = 应用ID捕获(可能抓不到), enable = {CaptureAppID}\n\ncron {TaskCron} script-path = https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/TestFlight/AutoJoinTF.js, tag = 自动加入TF, timeout = 600, enable = {RunTask}\ncron {TaskMonitor} script-path = https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/TestFlight/AutoMonitorTF.js, tag = 监控TF位置, timeout = 30, enable = {RunMonitor}\n\n# [MitM]\n# hostname = testflight.apple.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

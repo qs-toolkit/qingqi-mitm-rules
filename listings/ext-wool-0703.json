@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0703",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8aafe3eaaf7b649eb4fcb346b2f905ab7e236da5eec51d2bfd5c55a6fb2acb22"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "掌上英雄联盟",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ZhangShangLOL",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "34b118f6714b3bada68cd8c4428cebcaf6e9a6c2cd7a2da7b712d17c87cadf03",
-  "author": "奶思",
-  "updatedAt": 1795094243613,
+  "revisionId": "8aafe3eaaf7b649eb4fcb346b2f905ab7e236da5eec51d2bfd5c55a6fb2acb22",
+  "author": "fmz200",
+  "updatedAt": 1795094539281,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "34b118f6714b3bada68cd8c4428cebcaf6e9a6c2cd7a2da7b712d17c87cadf03"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

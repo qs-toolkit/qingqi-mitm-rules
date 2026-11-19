@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0028",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d13122016f5c5846f8b75e3ecb18135a70b81ff692a46b88e8cd8389335d32ce"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "FlushDNS.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a2a07979b0e41fcf7a3aca28b6afdcd3f735ab199b5bb8a298598b2c2b08b93f",
+  "revisionId": "d13122016f5c5846f8b75e3ecb18135a70b81ff692a46b88e8cd8389335d32ce",
   "author": "ClashModule",
-  "updatedAt": 1795094243462,
+  "updatedAt": 1795094539037,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "a2a07979b0e41fcf7a3aca28b6afdcd3f735ab199b5bb8a298598b2c2b08b93f"
-  ]
+  "homepage": ""
 }

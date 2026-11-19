@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0062",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "37bfcc89fd66e1b8696badf5c07d0942b627f2738320b151821c49c33de6324e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Roborock去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "0c1dc4fbd70aaea8fcad703ebed376f1e1930a0ec67a2ffbba2571b3ba0401fc",
+  "revisionId": "37bfcc89fd66e1b8696badf5c07d0942b627f2738320b151821c49c33de6324e",
   "author": "ClashModule",
-  "updatedAt": 1795094243465,
+  "updatedAt": 1795094539042,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "0c1dc4fbd70aaea8fcad703ebed376f1e1930a0ec67a2ffbba2571b3ba0401fc"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0607",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1e576b4dbe18db585c7ca8ffa12273eac5ffc31e3af718faa75a9a232056eefe"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "喜马拉雅",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Ximalaya",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "29fc44571350c8b57fd9f01e2cb364991840893604e1f045699a28d1a0e0551b",
-  "author": "奶思",
-  "updatedAt": 1795094243605,
+  "revisionId": "1e576b4dbe18db585c7ca8ffa12273eac5ffc31e3af718faa75a9a232056eefe",
+  "author": "fmz200",
+  "updatedAt": 1795094539267,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "29fc44571350c8b57fd9f01e2cb364991840893604e1f045699a28d1a0e0551b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

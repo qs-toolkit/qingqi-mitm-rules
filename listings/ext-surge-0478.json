@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0478",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5ecb16890fca17eed2d97e657c3b8fffc79573c2be4eff4c5bd7a0b87b7cb056"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "飞猪旅行去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "38593bba8c569c523eb708ca70b8c044fd066d3241c347e4bd4c9d6c23d3b965",
+  "revisionId": "5ecb16890fca17eed2d97e657c3b8fffc79573c2be4eff4c5bd7a0b87b7cb056",
   "author": "ClashModule",
-  "updatedAt": 1795094243511,
+  "updatedAt": 1795094539103,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "38593bba8c569c523eb708ca70b8c044fd066d3241c347e4bd4c9d6c23d3b965"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0104",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0c737879e5ab7642da33b6baaeaaef512781e921a6b22f19ee2c0c60086e5377"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "超级课程表",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ChaoJiKeChengBiao",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4ee578ab0ece23d0ea4fa87227165e18b19eed79d35c209871338f6ca06bd591",
-  "author": "奶思",
-  "updatedAt": 1795094243559,
+  "revisionId": "0c737879e5ab7642da33b6baaeaaef512781e921a6b22f19ee2c0c60086e5377",
+  "author": "fmz200",
+  "updatedAt": 1795094539196,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "4ee578ab0ece23d0ea4fa87227165e18b19eed79d35c209871338f6ca06bd591"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

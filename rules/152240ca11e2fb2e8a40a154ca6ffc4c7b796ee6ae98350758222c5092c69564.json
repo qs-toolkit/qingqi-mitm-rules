@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "哔哩哔哩繁体CC字幕转中文简体",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
+  "scope": [],
+  "text": "#!name=哔哩哔哩繁体CC字幕转中文简体\n#!desc=墨鱼手记出品的 Quantumult X 重写 · Quantumult X\n#!author=@ddgksf2013\n\n// ==UserScript==\n// @ScriptName        哔哩哔哩繁体CC字幕转中文简体[墨鱼版]\n// @Author            @ddgksf2013\n// @ForHelp           若有屏蔽广告的需求，可公众号后台回复APP名称\n// @WechatID          墨鱼手记\n// @TgChannel         https://t.me/ddgksf2021\n// @Contribute        https://t.me/ddgksf2013_bot\n// @UpdateTime        2023-04-13\n// @Suitable          自行观看“# > ”注释内容\n// @Attention         如需引用请注明出处，谢谢合作！\n// @Version           V1.0.12\n// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/Function/Bilibili_CC.conf\n// ==/UserScript==\n\n\nhostname = aisubtitle.hdslb.com,i0.hdslb.com\n\n# > 哔哩哔哩繁体CC字幕转中文简体（2023-04-11）@ddgksf2013\n^https?:\\/\\/.*\\.hdslb\\.com\\/bfs\\/subtitle\\/.+\\.json url script-response-body https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_cc.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "WPS每日签到",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=WPS每日签到\n#!desc=WPS每日签到并兑换会员，需要进入此插件的主页链接，阅读使用说明操作。\n#!author=小白脸\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/WPS.png\n#!category=iKeLee\n#!openUrl=https://apps.apple.com/app/id599852710\n#!tag=签到\n#!loon_version=3.2.4(787)\n#!homepage=https://github.com/luestr/ProxyResource/blob/main/Resource/Markdown/WPS/README.md\n#!date=2025-05-13 15:17:08\n#!arguments=CaptureCookie:false,AK:\"\",SK:\"\",DAY:\"1\",MAX_RETRIES:\"5\",CRONEXP:\"0 8 * * *\"\n\n[Script]\n捕获Cookie = type=http-request, pattern=^https:\\/\\/moapi\\.wps\\.cn\\/app\\/ios\\/v1\\/app$, script-path=https://kelee.one/Resource/JavaScript/WPS/WPS_checkin.js, requires-body=true\n\nWPS每日签到 = type=cron, cronexp={{{CRONEXP}}}, script-path=https://kelee.one/Resource/JavaScript/WPS/WPS_checkin.js, timeout=120, argument=\"[{{{AK}}},{{{SK}}},{{{MAX_RETRIES}}}]\"\n\n[MITM]\nhostname = %APPEND% moapi.wps.cn\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

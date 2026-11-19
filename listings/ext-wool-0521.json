@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0521",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1636314df963d49e258be353a28ce155a9dd53ce3b1d07f2aaa213a7587c147e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "udn news",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "udnNews",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4cbb539e683195b0bbf5a7b625ab1957a2b6f6b13d00f2842e2fc7715e729d4b",
-  "author": "奶思",
-  "updatedAt": 1795094243596,
+  "revisionId": "1636314df963d49e258be353a28ce155a9dd53ce3b1d07f2aaa213a7587c147e",
+  "author": "fmz200",
+  "updatedAt": 1795094539255,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "4cbb539e683195b0bbf5a7b625ab1957a2b6f6b13d00f2842e2fc7715e729d4b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

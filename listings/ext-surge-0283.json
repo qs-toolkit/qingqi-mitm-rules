@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0283",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c9f3266c97dacb1e515bba8cfe8152872b581e96fe8ad1f71c7f3d1de17d53ca"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "智慧苏州去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "5a347cb6a8775a8098eab62c9bd2a21e8bc93b4c9cd415bff34f7e4aad4fd135",
+  "revisionId": "c9f3266c97dacb1e515bba8cfe8152872b581e96fe8ad1f71c7f3d1de17d53ca",
   "author": "ClashModule",
-  "updatedAt": 1795094243490,
+  "updatedAt": 1795094539075,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "5a347cb6a8775a8098eab62c9bd2a21e8bc93b4c9cd415bff34f7e4aad4fd135"
-  ]
+  "homepage": ""
 }

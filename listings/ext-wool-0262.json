@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0262",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5b2bfe8beed98a631ced53bb2e829d7c9a412db19b05a66b13a309de91466b1a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "驾考宝典",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "JiaKaoBaoDian",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c083e4f7ea24ae3277a94a56156524614f30847adbeb166ddbf88eb08e2d2e31",
-  "author": "奶思",
-  "updatedAt": 1795094243573,
+  "revisionId": "5b2bfe8beed98a631ced53bb2e829d7c9a412db19b05a66b13a309de91466b1a",
+  "author": "fmz200",
+  "updatedAt": 1795094539220,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "c083e4f7ea24ae3277a94a56156524614f30847adbeb166ddbf88eb08e2d2e31"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0432",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "01313e242af0663454bc30f3574410825fa3e14e270d61241550ac700883cdcd"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "上汽大众",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "SAICVolkswagen",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "51034ed41cc7963631aa6ebf5134216bb9020c9bd03154f052a0f1f0c2a9826a",
-  "author": "奶思",
-  "updatedAt": 1795094243588,
+  "revisionId": "01313e242af0663454bc30f3574410825fa3e14e270d61241550ac700883cdcd",
+  "author": "fmz200",
+  "updatedAt": 1795094539243,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "51034ed41cc7963631aa6ebf5134216bb9020c9bd03154f052a0f1f0c2a9826a"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

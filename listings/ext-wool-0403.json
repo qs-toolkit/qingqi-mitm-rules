@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0403",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3d029135628ded00c9bb9bdacf504196a9eaac759ae10a77fb739e10df879c09"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "全球购骑士卡",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "GlobalShoppingKnightCard",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b29a583880c283c25503d8b4d71bc5c30a63941c312a9c10f9492f3c206ba741",
-  "author": "奶思",
-  "updatedAt": 1795094243585,
+  "revisionId": "3d029135628ded00c9bb9bdacf504196a9eaac759ae10a77fb739e10df879c09",
+  "author": "fmz200",
+  "updatedAt": 1795094539239,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "b29a583880c283c25503d8b4d71bc5c30a63941c312a9c10f9492f3c206ba741"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

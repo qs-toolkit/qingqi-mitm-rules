@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0642",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c1ac495a1093b3953573768697e09ae687e81791c743b3a978086e310a6b0c48"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "曜影医疗",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "YaoyingMedical",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "74fb1f84f43fa86f1fefaf8b1c28cdcf8e33ac336445fb10b594690b46ee5beb",
-  "author": "奶思",
-  "updatedAt": 1795094243607,
+  "revisionId": "c1ac495a1093b3953573768697e09ae687e81791c743b3a978086e310a6b0c48",
+  "author": "fmz200",
+  "updatedAt": 1795094539272,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "74fb1f84f43fa86f1fefaf8b1c28cdcf8e33ac336445fb10b594690b46ee5beb"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0689",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "87706a999f56cb3c70a53184fbf623cdbdcbd67f463301264451ec2eee58fe39"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "招商银行",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ChinaMerchantsBank",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d91d7e21024844e51c35683d05b540bc39fa3d3bab9f6bf53f6e5c5e36aaa326",
-  "author": "奶思",
-  "updatedAt": 1795094243611,
+  "revisionId": "87706a999f56cb3c70a53184fbf623cdbdcbd67f463301264451ec2eee58fe39",
+  "author": "fmz200",
+  "updatedAt": 1795094539279,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "d91d7e21024844e51c35683d05b540bc39fa3d3bab9f6bf53f6e5c5e36aaa326"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

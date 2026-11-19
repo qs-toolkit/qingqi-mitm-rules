@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0175",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "de4444d90018e48eb0dfa773a07d64b457f89321e769f76075ee12080987fc9a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "光大银行",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "CEB",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8620033c59b49195189c62de82d675ae72563449265755ea16d9dde06b12a365",
-  "author": "奶思",
-  "updatedAt": 1795094243566,
+  "revisionId": "de4444d90018e48eb0dfa773a07d64b457f89321e769f76075ee12080987fc9a",
+  "author": "fmz200",
+  "updatedAt": 1795094539206,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "8620033c59b49195189c62de82d675ae72563449265755ea16d9dde06b12a365"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

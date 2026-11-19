@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "网易蜗牛阅读",
+  "description": "网易蜗牛读书解锁会员",
+  "scope": [],
+  "text": "#!name=网易蜗牛读书\n#!desc=网易蜗牛读书解锁会员\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wnds.png\n#!homepage=https://yfamily.ml\n#!author=yxiaocai & JO2EY\n\n\n\nhostname=p.du.163.com\n\n\n^https?:\\/\\/p\\.du\\.163\\.com\\/gain\\/readtime\\/info\\.json url script-response-body https://raw.githubusercontent.com/deezertidal/private/main/wnds.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

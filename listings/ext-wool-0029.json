@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0029",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "35721284c6652a30aad3b3627687d41861d4437231216e907ea8419029a2d351"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "AcFun",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "94961d01ad01cc5d30490af60b85404f4dd4e65d169281f1f5dd4cf054396265",
-  "author": "奶思",
-  "updatedAt": 1795094243554,
+  "revisionId": "35721284c6652a30aad3b3627687d41861d4437231216e907ea8419029a2d351",
+  "author": "fmz200",
+  "updatedAt": 1795094539185,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "94961d01ad01cc5d30490af60b85404f4dd4e65d169281f1f5dd4cf054396265"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

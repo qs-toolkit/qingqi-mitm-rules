@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Piccollage解锁",
+  "description": "Piccollage解锁",
+  "scope": [],
+  "text": "#!name=Piccollage\n#!desc=Piccollage解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/piccollage.png\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n\n\nhttps://piccollage.com/api/graphql url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/picCollage.js\n\n\nhostname = piccollage.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

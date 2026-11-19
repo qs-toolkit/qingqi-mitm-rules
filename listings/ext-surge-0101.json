@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0101",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9f20174551774104fedd68b37dac199a2bab8e8af8325a08cf7c787a03f29409"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "⭐️ BoxJs.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9ea2a80c1300fff93c2467211811bea57701b321c5c2bb6338105d0bb26b405e",
+  "revisionId": "9f20174551774104fedd68b37dac199a2bab8e8af8325a08cf7c787a03f29409",
   "author": "ClashModule",
-  "updatedAt": 1795094243470,
+  "updatedAt": 1795094539048,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "9ea2a80c1300fff93c2467211811bea57701b321c5c2bb6338105d0bb26b405e"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0068",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f3a65064f9bb27d60dab5de8773211c5fe75aedba9353f3865f994cdf01294f0"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Spotify Plus.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "79f1c067c6c1d43f7fe7d5315d4001ebf9af43e5e86ca19d742cbdba83bf508c",
+  "revisionId": "f3a65064f9bb27d60dab5de8773211c5fe75aedba9353f3865f994cdf01294f0",
   "author": "ClashModule",
-  "updatedAt": 1795094243466,
+  "updatedAt": 1795094539043,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "79f1c067c6c1d43f7fe7d5315d4001ebf9af43e5e86ca19d742cbdba83bf508c"
-  ]
+  "homepage": ""
 }

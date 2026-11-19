@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "i Love PDF解锁",
+  "description": "i Love PDF解锁",
+  "scope": [],
+  "text": "#!name=i Love PDF\n#!desc=i Love PDF解锁\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ilovepdf.png\n\nhostname = service.ilovepdf.com\n\nhttps://service.ilovepdf.com/v1/user url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/lovePdf.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

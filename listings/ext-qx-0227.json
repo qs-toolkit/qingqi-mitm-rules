@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0227",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e9197902132c89bfdd155171982643986e6ae105ea974c7e456648b49bace7d6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "佐糖",
-  "description": "佐糖解锁会员 · 来源 重写库",
+  "description": "佐糖解锁会员",
   "scope": [],
-  "revisionId": "49ded68929e2484a021ccc1654de7bba38948b1159df0885817ff35336808683",
+  "revisionId": "e9197902132c89bfdd155171982643986e6ae105ea974c7e456648b49bace7d6",
   "author": "89996462",
-  "updatedAt": 1795094243541,
+  "updatedAt": 1795094539138,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "49ded68929e2484a021ccc1654de7bba38948b1159df0885817ff35336808683"
-  ]
+  "homepage": ""
 }

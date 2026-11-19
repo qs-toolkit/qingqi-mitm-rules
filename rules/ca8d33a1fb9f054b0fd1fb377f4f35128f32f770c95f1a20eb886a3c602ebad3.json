@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Talkatone",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=Talkatone\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partT/Talkatone.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rule]\nDOMAIN-SUFFIX,tappx.com, REJECT\nDOMAIN-SUFFIX,impression.link, REJECT\nDOMAIN-SUFFIX,jampp.com, REJECT\nDOMAIN-SUFFIX,adrta.com, REJECT\nDOMAIN-SUFFIX,googlesyndication-cn.com, REJECT\nDOMAIN-SUFFIX,doubleclick-cn.net, REJECT\nDOMAIN-SUFFIX,fonts.gstatic.cn, REJECT\nDOMAIN-SUFFIX,pomodoromedia.com, REJECT\nDOMAIN-SUFFIX,zemanta.com, REJECT\nDOMAIN-SUFFIX,mobilefuse.com, REJECT\nDOMAIN-SUFFIX,outbrainimg.com, REJECT\nDOMAIN-SUFFIX,trustarc.com, REJECT\nDOMAIN-SUFFIX,truste.com, REJECT\nDOMAIN-SUFFIX,adsrvr.org, REJECT\nDOMAIN-SUFFIX,outbrain.com, REJECT\nDOMAIN-SUFFIX,inhousedsp.com, REJECT\nDOMAIN-SUFFIX,i.sng.link, REJECT\nDOMAIN-SUFFIX,inner-active.mobi, REJECT\nDOMAIN-SUFFIX,richmob.cn, REJECT\nDOMAIN-SUFFIX,amazon-adsystem.com, REJECT\nDOMAIN-SUFFIX,ads.pubmatic.com, REJECT\nDOMAIN-SUFFIX,bidder.criteo.com, REJECT\nDOMAIN-SUFFIX,gum.criteo.com, REJECT\nDOMAIN-SUFFIX,smaato.net, REJECT\nDOMAIN-SUFFIX,spadsync.com, REJECT\nDOMAIN-SUFFIX,ads.inmobi.com, REJECT\n#DOMAIN-SUFFIX,akamaized.net, REJECT\nDOMAIN-SUFFIX,spadsync.com, REJECT\nDOMAIN-SUFFIX,tpc.googlesyndication.com, REJECT\nDOMAIN-SUFFIX,googleadsserving.cn, REJECT\nDOMAIN-SUFFIX,googleads.g.doubleclick.net, REJECT\nDOMAIN-SUFFIX,inner-active.mobi, REJECT\nDOMAIN-SUFFIX,4dvertible.com, REJECT\nDOMAIN-SUFFIX,smadex.com, REJECT\n\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/alt-r\\.my\\.com\\/mobile/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/imgx\\.jampp\\.com\\/imgsrv\\/tn/i then reject_img(200)\n\n\n[MITM]\nhostname = alt-r.my.com, imgx.jampp.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

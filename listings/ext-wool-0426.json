@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0426",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6d25ce9dc3369a4ea5112e1e39fcbe5af70a3df873915194b555f518a09c45f7"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "人人视频",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "RenRenVideo",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "34cc0839e91929cb2677a848be2da8e10d7545e813f85ccda6bbfbd13874fa25",
-  "author": "奶思",
-  "updatedAt": 1795094243588,
+  "revisionId": "6d25ce9dc3369a4ea5112e1e39fcbe5af70a3df873915194b555f518a09c45f7",
+  "author": "fmz200",
+  "updatedAt": 1795094539242,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "34cc0839e91929cb2677a848be2da8e10d7545e813f85ccda6bbfbd13874fa25"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

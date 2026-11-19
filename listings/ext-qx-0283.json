@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0283",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "92dab7d4df09b123fa70c38313b9b7e928ee31a84ea820657ece6aad693494d3"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "淘票票净化",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "b6509a9175994fd6f4c6f1334d8f69a94f97b0419a9ac357d18929ec0549271f",
+  "revisionId": "92dab7d4df09b123fa70c38313b9b7e928ee31a84ea820657ece6aad693494d3",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243548,
+  "updatedAt": 1795094539146,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "b6509a9175994fd6f4c6f1334d8f69a94f97b0419a9ac357d18929ec0549271f"
-  ]
+  "homepage": ""
 }

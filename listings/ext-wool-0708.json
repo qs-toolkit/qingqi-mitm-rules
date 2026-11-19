@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0708",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1ced93257ba3c18a98d752ee8de4ba9c3fd457b610e8b3bf402df9b1a81dbd4c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "浙里办",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ZheLiBan",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c8394fc776bbecd28baa556da1006fde1bc8682b8e7233241cec9c373039a5b0",
-  "author": "奶思",
-  "updatedAt": 1795094243613,
+  "revisionId": "1ced93257ba3c18a98d752ee8de4ba9c3fd457b610e8b3bf402df9b1a81dbd4c",
+  "author": "fmz200",
+  "updatedAt": 1795094539282,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "c8394fc776bbecd28baa556da1006fde1bc8682b8e7233241cec9c373039a5b0"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

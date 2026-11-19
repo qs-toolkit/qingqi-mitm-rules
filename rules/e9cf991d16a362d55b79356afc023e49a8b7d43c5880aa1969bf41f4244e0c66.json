@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "如期",
+  "description": "如期会员解锁",
+  "scope": [],
+  "text": "#!name=如期\n#!desc=如期会员解锁\n#!homepage=https://yfamily.ml\n#!author= 89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/rq.png\n\nhostname=www.freshhome.top\n\n^https:\\/\\/www\\.freshhome\\.top\\/mngruqi url script-response-body https://raw.githubusercontent.com/deezertidal/private/main/rq.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

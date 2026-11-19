@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "香哈菜谱大全",
+  "description": "菜谱大全&香哈菜谱解锁会员",
+  "scope": [],
+  "text": "#!name=菜谱大全&香哈菜谱\n#!desc=菜谱大全&香哈菜谱解锁会员\n#!homepage=https://yfamily.ml\n#!author= I-am-R-E\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/cp.png\n\nhostname = apiios_dq.xiangha.com,apiios.xiangha.com\n\n^https?:\\/\\/apiios\\.xiangha\\.com\\/main\\d+\\/ url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/XiangHaCaiPu.js\n^https?:\\/\\/apiios_dq\\.xiangha\\.com\\/v\\d\\/ url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/CaiPuDaQuan.js\n^https?:\\/\\/appweb_dq\\.xiangha\\.com\\/center\\/pay\\/home url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/CaiPuDaQuan.js",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

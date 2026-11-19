@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0170",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "64ce5a8cd4f74df7df677fdd8a78b79eb9bde5329722aac17213044c800d6beb"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "堆糖去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "26f053a7901fb05ecf19c4fc4a6e813900bacfc1f44f252f7d97ee821b5a1112",
+  "revisionId": "64ce5a8cd4f74df7df677fdd8a78b79eb9bde5329722aac17213044c800d6beb",
   "author": "ClashModule",
-  "updatedAt": 1795094243477,
+  "updatedAt": 1795094539057,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "26f053a7901fb05ecf19c4fc4a6e813900bacfc1f44f252f7d97ee821b5a1112"
-  ]
+  "homepage": ""
 }

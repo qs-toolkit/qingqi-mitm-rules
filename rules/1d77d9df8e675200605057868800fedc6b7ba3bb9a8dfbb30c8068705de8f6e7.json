@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "幻休",
+  "description": "幻休解锁会员",
+  "scope": [],
+  "text": "#!name=幻休\n#!desc=幻休解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hx.png\n\n\n^https:\\/\\/api\\.shaolinzen\\.com\\/user\\/v1\\/info url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/HX.js\n\nhostname = api.shaolinzen.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

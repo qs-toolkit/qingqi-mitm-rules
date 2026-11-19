@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "皮皮虾",
+  "description": "皮皮虾去广告和水印",
+  "scope": [],
+  "text": "#!name=皮皮虾\n#!desc=皮皮虾去广告和水印\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ppx.png\n#!homepage=https://yfamily.ml\n#!author=NobyDa\n\n^https?://.*\\.snssdk\\.com/bds/(feed/stream|comment/cell_reply|cell/cell_comment|cell/detail|ward/list|user/favorite|user/cell_coment|user/cell_userfeed|user/publish_list) url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Super.js\n\n\nhostname = *.snssdk.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

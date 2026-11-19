@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0330",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7ad9d16a8e5af4eea1cec186f9e3b4fc641231518b3b7997ba19a6e787802852"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "瑞幸咖啡去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "5d1e41425bcaca4cdcb1292e97f938b22102e462acfeb6d4116534d40c36399f",
+  "revisionId": "7ad9d16a8e5af4eea1cec186f9e3b4fc641231518b3b7997ba19a6e787802852",
   "author": "ClashModule",
-  "updatedAt": 1795094243496,
+  "updatedAt": 1795094539082,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "5d1e41425bcaca4cdcb1292e97f938b22102e462acfeb6d4116534d40c36399f"
-  ]
+  "homepage": ""
 }

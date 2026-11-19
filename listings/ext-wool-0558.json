@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0558",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1651a005cdc14ad7e1c15097679712283001cb74be518ff00f90abec33fed300"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "悟空遥控器",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "WuKongRemoteControl",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fa7c3cb8d5299679f669419fb00ba8cc991211ca63070c3437bb76a9f5af43bc",
-  "author": "奶思",
-  "updatedAt": 1795094243599,
+  "revisionId": "1651a005cdc14ad7e1c15097679712283001cb74be518ff00f90abec33fed300",
+  "author": "fmz200",
+  "updatedAt": 1795094539260,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "fa7c3cb8d5299679f669419fb00ba8cc991211ca63070c3437bb76a9f5af43bc"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

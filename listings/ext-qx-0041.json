@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0041",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "18cbb118e33e2e0e15cb5624c0a5eee673a233b673ab19e204ab3c4e231d77ff"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "MyFitnessPal解锁",
-  "description": "MyFitnessPal会员解锁 · 来源 重写库",
+  "description": "MyFitnessPal会员解锁",
   "scope": [],
-  "revisionId": "a0e45c310ec3014da6f6463ca2b2010c83771d2777849a72bf2a0c69a919b492",
+  "revisionId": "18cbb118e33e2e0e15cb5624c0a5eee673a233b673ab19e204ab3c4e231d77ff",
   "author": "Marol62926",
-  "updatedAt": 1795094243519,
+  "updatedAt": 1795094539113,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "a0e45c310ec3014da6f6463ca2b2010c83771d2777849a72bf2a0c69a919b492"
-  ]
+  "homepage": ""
 }

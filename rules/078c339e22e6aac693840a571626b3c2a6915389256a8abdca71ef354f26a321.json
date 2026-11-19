@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "好事发生",
+  "description": "好事发生解锁会员",
+  "scope": [],
+  "text": "#!name=好事发生\n#!desc=好事发生解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hsfs.png\n\n\nhttps://api.revenuecat.com/v1/(receipts|subscribers)/* url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hsfs.js\n\nhostname = api.revenuecat.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

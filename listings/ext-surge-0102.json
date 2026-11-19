@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0102",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "cd71f97ab510208dec420c4e6e3f88b27f154c3112ed9bb0da629bb5999abcf2"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "⭐️ Script Hub.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "2a75cf8dd447532b4d7d3ec1731826489529038bae79e2a82b6c65b029d3381f",
+  "revisionId": "cd71f97ab510208dec420c4e6e3f88b27f154c3112ed9bb0da629bb5999abcf2",
   "author": "ClashModule",
-  "updatedAt": 1795094243470,
+  "updatedAt": 1795094539048,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "2a75cf8dd447532b4d7d3ec1731826489529038bae79e2a82b6c65b029d3381f"
-  ]
+  "homepage": ""
 }

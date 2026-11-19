@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0110",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0cb944496d2cd69cc626458b1db71421c6a0f3b6c38114d7aee34fba88959eec"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "crunchyroll",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Crunchyroll",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "19b8d1e4c13c2b1e2e9d2881fc136ef466a2e1442a6392e05101b45ef0accae1",
-  "author": "奶思",
-  "updatedAt": 1795094243560,
+  "revisionId": "0cb944496d2cd69cc626458b1db71421c6a0f3b6c38114d7aee34fba88959eec",
+  "author": "fmz200",
+  "updatedAt": 1795094539197,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "19b8d1e4c13c2b1e2e9d2881fc136ef466a2e1442a6392e05101b45ef0accae1"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

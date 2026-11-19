@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0289",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c4b1fd16bc7cf4a8b3b37def30f12a00c6eeb67645995e78401cee3d6bf80af6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "YoutubeAds",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "5fd328aaa2ca80217488502c47e87d227ec6ecad05df0de8db8b3cfc83dc7380",
+  "revisionId": "c4b1fd16bc7cf4a8b3b37def30f12a00c6eeb67645995e78401cee3d6bf80af6",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243549,
+  "updatedAt": 1795094539147,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "5fd328aaa2ca80217488502c47e87d227ec6ecad05df0de8db8b3cfc83dc7380"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0664",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4fa73e0c73ae2b22b2d579d0a76a9c37d5e6f97b2a1af5b6a0a957aeb84e41d1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "YouTube",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "07421a6275ae5eab2ad4987e2998250b9c1cbe706eaef72073e9ed41ba3d39c7",
-  "author": "奶思",
-  "updatedAt": 1795094243609,
+  "revisionId": "4fa73e0c73ae2b22b2d579d0a76a9c37d5e6f97b2a1af5b6a0a957aeb84e41d1",
+  "author": "fmz200",
+  "updatedAt": 1795094539275,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "07421a6275ae5eab2ad4987e2998250b9c1cbe706eaef72073e9ed41ba3d39c7"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

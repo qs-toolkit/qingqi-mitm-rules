@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "懒饭.official",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=懒饭Unlock\n#!desc=懒饭功能扩展，如侵权联删 @sliverkiss\n\n[Body Rewrite]\nhttp-response ^https?:\\/\\/lanfanapp\\.com\\/api\\/v1 '\"is_purchased\":\\w+' '\"is_purchased\":true' '\"is_prime\":\\w+' '\"is_prime\":true' '\"unlocked\":\\w+' '\"unlocked\":true' '\"watch_type\":\\d+' '\"watch_type\":1'\n\n[MITM]\nhostname = %APPEND% lanfanapp.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

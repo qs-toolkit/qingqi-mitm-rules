@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0468",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e790e707b8eb6dea31e65a1532bf96f792287a6435242b90a85eb0292687c4d4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "太平洋知科技",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "PConlineTech",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a15ef08c7c77d836cc86c28861c96922fb52f2924bb4232901efef0c86f9db5f",
-  "author": "奶思",
-  "updatedAt": 1795094243592,
+  "revisionId": "e790e707b8eb6dea31e65a1532bf96f792287a6435242b90a85eb0292687c4d4",
+  "author": "fmz200",
+  "updatedAt": 1795094539248,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "a15ef08c7c77d836cc86c28861c96922fb52f2924bb4232901efef0c86f9db5f"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

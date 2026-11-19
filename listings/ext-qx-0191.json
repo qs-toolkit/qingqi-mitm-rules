@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0191",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d188847c756e29ebc9ae6eff1ccfc918f34338e6a758a771d9baa82d6fe16139"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "尽简衣橱",
-  "description": "尽简衣橱解锁会员 · 来源 重写库",
+  "description": "尽简衣橱解锁会员",
   "scope": [],
-  "revisionId": "036d7a87bae886fafc784365b68f75607f5bdbdbdda607ef3635647da6027979",
+  "revisionId": "d188847c756e29ebc9ae6eff1ccfc918f34338e6a758a771d9baa82d6fe16139",
   "author": "89996462",
-  "updatedAt": 1795094243538,
+  "updatedAt": 1795094539133,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "036d7a87bae886fafc784365b68f75607f5bdbdbdda607ef3635647da6027979"
-  ]
+  "homepage": ""
 }

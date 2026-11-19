@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0273",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b997dfe5de11f4001a00d900eef84caa65004ddc0c7f38ddb567355722fb024d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "金山词霸",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "KingsoftPowerWord",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "85c617f54abf9a23d9ea08bba0f144540ffd6d462b2c28d740c67a29fed838a8",
-  "author": "奶思",
-  "updatedAt": 1795094243574,
+  "revisionId": "b997dfe5de11f4001a00d900eef84caa65004ddc0c7f38ddb567355722fb024d",
+  "author": "fmz200",
+  "updatedAt": 1795094539221,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "85c617f54abf9a23d9ea08bba0f144540ffd6d462b2c28d740c67a29fed838a8"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

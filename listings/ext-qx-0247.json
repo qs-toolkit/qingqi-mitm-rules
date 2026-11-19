@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0247",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d5a803947972bdf3381e2c039ac7f00399ec1c90fcd69ae6ff0ba1090840519e"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "流媒体解锁查询",
+  "description": "重写库 · Quantumult X 重写脚本",
+  "scope": [],
+  "revisionId": "d5a803947972bdf3381e2c039ac7f00399ec1c90fcd69ae6ff0ba1090840519e",
+  "author": "deezertidal",
+  "updatedAt": 1795094539141,
+  "targets": [],
+  "upstream": "deezertidal",
+  "homepage": ""
+}

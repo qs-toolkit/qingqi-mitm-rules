@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0174",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1c5f562e91ed6f716e078ff4ffe984f3ab3034458f57628aea23d288c82e2b09"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Craft",
-  "description": "Craft解锁会员 · 来源 重写库",
+  "description": "Craft解锁会员",
   "scope": [],
-  "revisionId": "d138ae667affbaed77959898026870ab5717c26e5a9cf513a032dfc43797d903",
+  "revisionId": "1c5f562e91ed6f716e078ff4ffe984f3ab3034458f57628aea23d288c82e2b09",
   "author": "89996462",
-  "updatedAt": 1795094243536,
+  "updatedAt": 1795094539131,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "d138ae667affbaed77959898026870ab5717c26e5a9cf513a032dfc43797d903"
-  ]
+  "homepage": ""
 }

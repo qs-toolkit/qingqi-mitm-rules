@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0138",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4a48b052098aeed21ba840ba9160c62ff571127f3dfb5b4c22b068b5094fb75d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "微信阅读积分兑换",
-  "description": "微信自动阅读积分兑换 · 来源 重写库",
+  "description": "微信自动阅读积分兑换",
   "scope": [],
-  "revisionId": "da264e14b2744ab0153019e646a00adcd11ace0df3f8fb9cd0291f41e7e2e198",
+  "revisionId": "4a48b052098aeed21ba840ba9160c62ff571127f3dfb5b4c22b068b5094fb75d",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243530,
+  "updatedAt": 1795094539126,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "da264e14b2744ab0153019e646a00adcd11ace0df3f8fb9cd0291f41e7e2e198"
-  ]
+  "homepage": ""
 }

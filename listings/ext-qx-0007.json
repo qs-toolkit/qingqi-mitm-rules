@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0007",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2d3429266213f8880cf09a35e5d43fb11c3eff44af630680e2e14f5f6d17ba7d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "WPS会员解锁",
-  "description": "WPS解锁本地会员 · 来源 重写库",
+  "description": "WPS解锁本地会员",
   "scope": [],
-  "revisionId": "2ecb3b4f26af667853608eeb2a82e7601202b3f290768e58829683a50d3fbd29",
+  "revisionId": "2d3429266213f8880cf09a35e5d43fb11c3eff44af630680e2e14f5f6d17ba7d",
   "author": "I-am-R-E",
-  "updatedAt": 1795094243516,
+  "updatedAt": 1795094539108,
   "targets": [],
   "upstream": "I-am-R-E",
-  "homepage": "",
-  "revisions": [
-    "2ecb3b4f26af667853608eeb2a82e7601202b3f290768e58829683a50d3fbd29"
-  ]
+  "homepage": ""
 }

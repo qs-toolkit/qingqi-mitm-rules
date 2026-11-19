@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0475",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "bd8c75ea1d41acac8ea61974a7a901863daf55c469389ad99bae9969546ecd10"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "淘宝",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Taobao",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "431286cceb5fbae4b27cd9fb68f2d0daaba5e67a4b3a91c0761c57f972968b8d",
-  "author": "奶思",
-  "updatedAt": 1795094243592,
+  "revisionId": "bd8c75ea1d41acac8ea61974a7a901863daf55c469389ad99bae9969546ecd10",
+  "author": "fmz200",
+  "updatedAt": 1795094539249,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "431286cceb5fbae4b27cd9fb68f2d0daaba5e67a4b3a91c0761c57f972968b8d"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

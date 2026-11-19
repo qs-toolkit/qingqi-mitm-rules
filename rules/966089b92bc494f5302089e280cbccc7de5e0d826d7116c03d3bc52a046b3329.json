@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "绘影字幕",
+  "description": "绘影字幕解锁会员",
+  "scope": [],
+  "text": "#!name=绘影字幕\n#!desc=绘影字幕解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/hyzm.png\n\n\n^https:\\/\\/api\\.bluepulse\\.cn\\/bluepulse-caption-server-front\\/api\\/v1\\/\\/user\\/app-vip-info url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/hyzm.js\n\nhostname = api.bluepulse.cn",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

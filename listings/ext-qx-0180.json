@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0180",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a5a4c2ccbf33dd83c4f8fe4d6225a7db8316c0195ad0188f8b3c9ea3eb9994d5"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "指尖笔记",
-  "description": "指尖笔记解锁会员 · 来源 重写库",
+  "description": "指尖笔记解锁会员",
   "scope": [],
-  "revisionId": "08a45dadbc9564f85ebb5e5d8bb636e0d5fe7ff1b08128168caaf62311d409fc",
+  "revisionId": "a5a4c2ccbf33dd83c4f8fe4d6225a7db8316c0195ad0188f8b3c9ea3eb9994d5",
   "author": "89996462",
-  "updatedAt": 1795094243537,
+  "updatedAt": 1795094539132,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "08a45dadbc9564f85ebb5e5d8bb636e0d5fe7ff1b08128168caaf62311d409fc"
-  ]
+  "homepage": ""
 }

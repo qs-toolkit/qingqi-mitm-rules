@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0626",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "6f13906ceeeb45dff1296827bfbe3bbef34614a19575369d673b47f2121a3129"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "央视频",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "CCTVVideo",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "475f9c39b2c859cf13284c9ba552a18c15be1efd6987b859d51ef081af04348e",
-  "author": "奶思",
-  "updatedAt": 1795094243606,
+  "revisionId": "6f13906ceeeb45dff1296827bfbe3bbef34614a19575369d673b47f2121a3129",
+  "author": "fmz200",
+  "updatedAt": 1795094539270,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "475f9c39b2c859cf13284c9ba552a18c15be1efd6987b859d51ef081af04348e"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

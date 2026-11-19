@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0091",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ba8ab1c2c54dab75a50241f0b1576dd2d79ec4c6782eb3bd4548644dd56304e3"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "图图记账解锁",
-  "description": "图图记账解锁永久高级版 · 来源 重写库",
+  "description": "图图记账解锁永久高级版",
   "scope": [],
-  "revisionId": "63f34b63af67e3d5e3924caa4b4f88334fc628884bf95359c2f0f23b35d3543f",
+  "revisionId": "ba8ab1c2c54dab75a50241f0b1576dd2d79ec4c6782eb3bd4548644dd56304e3",
   "author": "yqc007",
-  "updatedAt": 1795094243524,
+  "updatedAt": 1795094539119,
   "targets": [],
   "upstream": "yqc007",
-  "homepage": "",
-  "revisions": [
-    "63f34b63af67e3d5e3924caa4b4f88334fc628884bf95359c2f0f23b35d3543f"
-  ]
+  "homepage": ""
 }

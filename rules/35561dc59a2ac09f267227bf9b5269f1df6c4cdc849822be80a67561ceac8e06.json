@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Kika会员解锁",
+  "description": "Kika会员解锁",
+  "scope": [],
+  "text": "#!name=Kika Keyboard\n#!desc=Kika会员解锁\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/kika.png\n\nhttps://api.kikakeyboard.com/v1/ios/subscription/check/user url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/kika.js\n\n\nhostname = api.kikakeyboard.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

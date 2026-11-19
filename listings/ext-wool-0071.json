@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0071",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a21aa43f678a748b45ae37a5b184d52ea78bf504246b529b23f7586fd618634d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "贝壳找房",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BeiKeZhaoFang",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e496264118ecb659c7ff38caff00a0feed04866ff3ebd5a8a6ef8fc409f22a6a",
-  "author": "奶思",
-  "updatedAt": 1795094243557,
+  "revisionId": "a21aa43f678a748b45ae37a5b184d52ea78bf504246b529b23f7586fd618634d",
+  "author": "fmz200",
+  "updatedAt": 1795094539191,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "e496264118ecb659c7ff38caff00a0feed04866ff3ebd5a8a6ef8fc409f22a6a"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

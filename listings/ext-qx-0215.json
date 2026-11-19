@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0215",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b32c850e49abf1ea5734db6c18e8b6853f583776b690588a1d0a351c3def9c22"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "TODO清单",
-  "description": "Todo清单解锁会员 · 来源 重写库",
+  "description": "Todo清单解锁会员",
   "scope": [],
-  "revisionId": "cdeed78af412ca769f3844aad81215b55b0cbccb8153180a1ba54b9d6602901f",
+  "revisionId": "b32c850e49abf1ea5734db6c18e8b6853f583776b690588a1d0a351c3def9c22",
   "author": "89996462",
-  "updatedAt": 1795094243540,
+  "updatedAt": 1795094539136,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "cdeed78af412ca769f3844aad81215b55b0cbccb8153180a1ba54b9d6602901f"
-  ]
+  "homepage": ""
 }

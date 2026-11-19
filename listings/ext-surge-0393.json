@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0393",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3e0ee32e1910982b0f32cd06e4bc5045df0785965534d8c1cc223c8f6d5183e5"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "联通余量.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "21fd334928e438e05ff8a498284338433350cee09bc8a6d2ab7dcdd293f50d03",
+  "revisionId": "3e0ee32e1910982b0f32cd06e4bc5045df0785965534d8c1cc223c8f6d5183e5",
   "author": "ClashModule",
-  "updatedAt": 1795094243502,
+  "updatedAt": 1795094539090,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "21fd334928e438e05ff8a498284338433350cee09bc8a6d2ab7dcdd293f50d03"
-  ]
+  "homepage": ""
 }

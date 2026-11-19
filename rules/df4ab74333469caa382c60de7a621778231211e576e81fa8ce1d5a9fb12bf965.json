@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Lifeviewer",
+  "description": "Lifeviewer解锁会员",
+  "scope": [],
+  "text": "#!name=Lifeviewer\n#!desc=Lifeviewer解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/lifeviewer.png\n\n\n^https:\\/\\/api\\.apphud\\.com\\/v1\\/subscriptions url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Lifeviewer.js\n\nhostname = api.apphud.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

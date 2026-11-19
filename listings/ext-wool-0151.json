@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0151",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "502dc665e69d117d65c8fe9f28fae478addff4e40226068a44e842bc9c28aa79"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "饿了么",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Eleme",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b5496065d9e5cebd7008b1557abe179b4f5e7287e0d06f97c02854f1f84d792e",
-  "author": "奶思",
-  "updatedAt": 1795094243564,
+  "revisionId": "502dc665e69d117d65c8fe9f28fae478addff4e40226068a44e842bc9c28aa79",
+  "author": "fmz200",
+  "updatedAt": 1795094539202,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "b5496065d9e5cebd7008b1557abe179b4f5e7287e0d06f97c02854f1f84d792e"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0083",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0c2d1f91d3092edc11697f1c8d3cda1e6212fd2079e92a302b4f717fc2f04242"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Uki去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fd4a6d014905918f8e2c6f8f452867ddafb638045a98042665d89218cce8015e",
+  "revisionId": "0c2d1f91d3092edc11697f1c8d3cda1e6212fd2079e92a302b4f717fc2f04242",
   "author": "ClashModule",
-  "updatedAt": 1795094243468,
+  "updatedAt": 1795094539045,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "fd4a6d014905918f8e2c6f8f452867ddafb638045a98042665d89218cce8015e"
-  ]
+  "homepage": ""
 }

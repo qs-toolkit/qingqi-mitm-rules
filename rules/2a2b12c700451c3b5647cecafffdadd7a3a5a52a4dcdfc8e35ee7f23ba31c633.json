@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "一甜相机解锁",
+  "description": "一甜相机解锁会员",
+  "scope": [],
+  "text": "#!name=一甜相机\n#!desc=一甜相机解锁会员 \n#!homepage=https://yfamily.ml\n#!author=yqc007\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/yitian.png\n\n\nhostname=m2u-api.getkwai.com\n\n\n^https?:\\/\\/m2u-api\\.getkwai\\.com\\/api-server\\/api\\/v2\\/vip\\/vipUserInfo url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/1TianCamVipCrack.js",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

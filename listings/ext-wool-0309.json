@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0309",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "8a9fed5594b9025b451b4c60de3179a82c29d083c09da7d3dc3c95b25719f232"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "联想",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Lenovo",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c61f918d6cb4902d8da49b25ffc762951a3dc804093691ef97ae5d364407336e",
-  "author": "奶思",
-  "updatedAt": 1795094243577,
+  "revisionId": "8a9fed5594b9025b451b4c60de3179a82c29d083c09da7d3dc3c95b25719f232",
+  "author": "fmz200",
+  "updatedAt": 1795094539226,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "c61f918d6cb4902d8da49b25ffc762951a3dc804093691ef97ae5d364407336e"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

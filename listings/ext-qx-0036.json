@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0036",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ddc86bbfb10fc4fe891220943ae8a4f448d74a627287bec8d4289ec3d64ec2e4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "忆飞Gif解锁",
-  "description": "忆飞Gif解锁 · 来源 重写库",
+  "description": "忆飞Gif解锁",
   "scope": [],
-  "revisionId": "f1bb711d6a4f357e91c1e2170add7eb5e03f8f72133fdbbbc5308ac83a5032a1",
+  "revisionId": "ddc86bbfb10fc4fe891220943ae8a4f448d74a627287bec8d4289ec3d64ec2e4",
   "author": "Marol62926",
-  "updatedAt": 1795094243519,
+  "updatedAt": 1795094539112,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "f1bb711d6a4f357e91c1e2170add7eb5e03f8f72133fdbbbc5308ac83a5032a1"
-  ]
+  "homepage": ""
 }

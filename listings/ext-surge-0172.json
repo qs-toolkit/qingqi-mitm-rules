@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0172",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2f10efc3f113a11f3e84dad4fe01580b9130f708050d47577d0ccc8bca52a2e8"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "墨迹天气去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "d59a617cb1f3e6ed962f95991dd8c67c9107dcb88af7f250cbe3b55e120f2ea5",
+  "revisionId": "2f10efc3f113a11f3e84dad4fe01580b9130f708050d47577d0ccc8bca52a2e8",
   "author": "ClashModule",
-  "updatedAt": 1795094243477,
+  "updatedAt": 1795094539057,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "d59a617cb1f3e6ed962f95991dd8c67c9107dcb88af7f250cbe3b55e120f2ea5"
-  ]
+  "homepage": ""
 }

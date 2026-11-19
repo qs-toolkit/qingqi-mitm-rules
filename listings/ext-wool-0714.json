@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0714",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ed334e771b2245cf4c78312db10f28386df7301b88c554dbb8c389ff3f90fd18"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "智行APP",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ZhiXingAPP",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "185ce3075724e2cb45db8f9204bba6cc063265e8f54c6be589d5283b46bed3bb",
-  "author": "奶思",
-  "updatedAt": 1795094243614,
+  "revisionId": "ed334e771b2245cf4c78312db10f28386df7301b88c554dbb8c389ff3f90fd18",
+  "author": "fmz200",
+  "updatedAt": 1795094539282,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "185ce3075724e2cb45db8f9204bba6cc063265e8f54c6be589d5283b46bed3bb"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

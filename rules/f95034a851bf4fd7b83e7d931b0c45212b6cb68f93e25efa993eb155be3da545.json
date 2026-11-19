@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "克拉壁纸",
+  "description": "克拉壁纸解锁",
+  "scope": [],
+  "text": "#!name=克拉壁纸\n#!desc=克拉壁纸解锁\n#!homepage=https://yfamily.ml\n#!author= ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/clarity.png\n\nhostname= claritywallpaper.com\n\n\n^https:\\/\\/claritywallpaper\\.com\\/clarity\\/api\\/(userInfo|special\\/queryByCatalogAll) url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/clarity.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

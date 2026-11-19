@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0022",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d9e6d5f83fa94f9653d0015ef7d9d8b728b7c610b654559b6793ddd8c7b042ba"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "皮皮虾",
-  "description": "皮皮虾去广告和水印 · 来源 重写库",
+  "description": "皮皮虾去广告和水印",
   "scope": [],
-  "revisionId": "017e97b522ab86512270c64d75e15177c5936e1ee331e143eabe97d303862ebc",
+  "revisionId": "d9e6d5f83fa94f9653d0015ef7d9d8b728b7c610b654559b6793ddd8c7b042ba",
   "author": "NobyDa",
-  "updatedAt": 1795094243517,
+  "updatedAt": 1795094539110,
   "targets": [],
   "upstream": "NobyDa",
-  "homepage": "",
-  "revisions": [
-    "017e97b522ab86512270c64d75e15177c5936e1ee331e143eabe97d303862ebc"
-  ]
+  "homepage": ""
 }

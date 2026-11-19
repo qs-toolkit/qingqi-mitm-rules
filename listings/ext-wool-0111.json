@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0111",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "75e4deb71fe1cd25ec8b7c0c411b44af0f3d51a46a7e575f8fb18c148585318d"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Skyworth",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "revisionId": "75e4deb71fe1cd25ec8b7c0c411b44af0f3d51a46a7e575f8fb18c148585318d",
+  "author": "fmz200",
+  "updatedAt": 1795094539197,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": ""
+}

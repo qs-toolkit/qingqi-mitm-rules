@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0091",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "92762726d6748843c43d1c187990f38e2d435242e4213ad9522972ec4894e42a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "哔哩哔哩",
-  "description": "fmz200/wool_scripts · 拜托，没有广告的哔哩哔哩真的超酷的",
+  "name": "bilibili",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6b72b03ba57f12f2f5675500c7e29226a9bc79679a9dc9d16177d6196578db4b",
-  "author": "kokoryh",
-  "updatedAt": 1795094243558,
+  "revisionId": "92762726d6748843c43d1c187990f38e2d435242e4213ad9522972ec4894e42a",
+  "author": "fmz200",
+  "updatedAt": 1795094539194,
   "targets": [],
-  "upstream": "kokoryh",
-  "homepage": "",
-  "revisions": [
-    "6b72b03ba57f12f2f5675500c7e29226a9bc79679a9dc9d16177d6196578db4b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

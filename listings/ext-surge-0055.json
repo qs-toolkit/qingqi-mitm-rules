@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0055",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "31f4f7da6e129ab33cab1f947dd745dbd6eba563bd660c1482ce5a1805716007"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "RQrun去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "acaf52372ed921e8183eba4489cca9839998f81de6d818da6459dedc3fd7a8ca",
+  "revisionId": "31f4f7da6e129ab33cab1f947dd745dbd6eba563bd660c1482ce5a1805716007",
   "author": "ClashModule",
-  "updatedAt": 1795094243465,
+  "updatedAt": 1795094539041,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "acaf52372ed921e8183eba4489cca9839998f81de6d818da6459dedc3fd7a8ca"
-  ]
+  "homepage": ""
 }

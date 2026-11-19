@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "FoMz",
+  "description": "FoMz解锁会员",
+  "scope": [],
+  "text": "#!name=FoMz\n#!desc=FoMz解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/fomz.png\n\n\n^https:\\/\\/fz68resapi\\.imendon\\.com\\/v2\\/purchase\\/vip\\/verification url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/FoMz.js\n\nhostname = fz68resapi.imendon.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

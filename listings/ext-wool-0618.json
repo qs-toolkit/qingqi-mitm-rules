@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0618",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "82f93f63ef5f6a1d6154ee9531cafb8f1a38e3fce4380b454942d01bea0dbde5"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "迅游加速器",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "XunYouAccelerator",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bb378b306db1da0786c48783ecab3937587f378f5e011c07805f1074cb451865",
-  "author": "奶思",
-  "updatedAt": 1795094243605,
+  "revisionId": "82f93f63ef5f6a1d6154ee9531cafb8f1a38e3fce4380b454942d01bea0dbde5",
+  "author": "fmz200",
+  "updatedAt": 1795094539269,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "bb378b306db1da0786c48783ecab3937587f378f5e011c07805f1074cb451865"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

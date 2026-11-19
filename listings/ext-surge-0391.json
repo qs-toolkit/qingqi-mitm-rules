@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0391",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "35ccc5ca9c8123fa1259771840660e6fbf768bbdba6773478f7119b62ee9298d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "美食杰去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "61a80dd7dac441fb7999809bf9c70d63252ddf72958cf9b8ec9375f32eb1d68c",
+  "revisionId": "35ccc5ca9c8123fa1259771840660e6fbf768bbdba6773478f7119b62ee9298d",
   "author": "ClashModule",
-  "updatedAt": 1795094243502,
+  "updatedAt": 1795094539090,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "61a80dd7dac441fb7999809bf9c70d63252ddf72958cf9b8ec9375f32eb1d68c"
-  ]
+  "homepage": ""
 }

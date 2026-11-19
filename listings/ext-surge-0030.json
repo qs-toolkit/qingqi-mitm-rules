@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0030",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "86b1dada2527901fdc45b24ec174ec9248d8d1fffb9e612c2af728202bdbb6c8"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Foodie去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "revisionId": "86b1dada2527901fdc45b24ec174ec9248d8d1fffb9e612c2af728202bdbb6c8",
+  "author": "ClashModule",
+  "updatedAt": 1795094539037,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": ""
+}

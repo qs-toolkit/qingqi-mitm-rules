@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Now冥想解锁",
+  "description": "Now 冥想 解锁",
+  "scope": [],
+  "text": "#!name=Now 冥想\n#!desc=Now 冥想 解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/now.png\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n\n\nhttps://nowapi.navoinfo.cn/h2/user/* url script-response-body https://raw.githubusercontent.com/Marol62926/MarScrpt/main/nowPonder.js\n\n\nhostname = nowapi.navoinfo.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

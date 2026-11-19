@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0348",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1d95eed66fde5d6f08f8f4531a224e4bee74c4ce2a9da2b0330208f02039b810"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Meituan",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "revisionId": "1d95eed66fde5d6f08f8f4531a224e4bee74c4ce2a9da2b0330208f02039b810",
+  "author": "fmz200",
+  "updatedAt": 1795094539232,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": ""
+}

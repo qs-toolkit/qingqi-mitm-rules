@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "东南亚流媒体分流",
+  "description": "东南亚区域流媒体分流",
+  "scope": [],
+  "text": "#!name=东南亚流媒体分流\n#!desc=东南亚区域流媒体分流\n#!author=ddgksf2013\n\n# > bilibili\nDOMAIN,api.biliapi.com\nDOMAIN,api.biliapi.net\nDOMAIN,api.bilibili.com\nDOMAIN,app.biliapi.com\nDOMAIN,app.biliapi.net\nDOMAIN,app.bilibili.com\nDOMAIN,grpc.biliapi.net\nDOMAIN,m.bilibili.com\nDOMAIN,upos-hz-mirrorakam.akamaized.net\nDOMAIN,www.bilibili.com\nDOMAIN-KEYWORD,cn-hk-eq-bcache-\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0457",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "480d3ac54d2b071cf38dbacc4572941bfb8493cc43e310230b0a0151b2ff86bc"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Sogou",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "revisionId": "480d3ac54d2b071cf38dbacc4572941bfb8493cc43e310230b0a0151b2ff86bc",
+  "author": "fmz200",
+  "updatedAt": 1795094539247,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": ""
+}

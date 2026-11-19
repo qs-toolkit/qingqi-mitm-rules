@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0087",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "73f8925c4ac5166dc2cebd3ddfb5faa8746bef308dab2ffc5aa2e7ee5ea56d20"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "WPS每日签到",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "7da3d5e3bac5fe3905d65dec9f4e44b10bf8f1ecf06e7dfe49577f051ccf3ac9",
+  "revisionId": "73f8925c4ac5166dc2cebd3ddfb5faa8746bef308dab2ffc5aa2e7ee5ea56d20",
   "author": "ClashModule",
-  "updatedAt": 1795094243468,
+  "updatedAt": 1795094539046,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "7da3d5e3bac5fe3905d65dec9f4e44b10bf8f1ecf06e7dfe49577f051ccf3ac9"
-  ]
+  "homepage": ""
 }

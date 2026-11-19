@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0077",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "ed882f923b1c2240244e95f41d6b8e477807b2093126708c55873e60f3549816"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "TeraBox去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "6b9b18f68531806f85830f72e149a8c21dab6dc82bf05a1decabf017b3772069",
+  "revisionId": "ed882f923b1c2240244e95f41d6b8e477807b2093126708c55873e60f3549816",
   "author": "ClashModule",
-  "updatedAt": 1795094243467,
+  "updatedAt": 1795094539044,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "6b9b18f68531806f85830f72e149a8c21dab6dc82bf05a1decabf017b3772069"
-  ]
+  "homepage": ""
 }

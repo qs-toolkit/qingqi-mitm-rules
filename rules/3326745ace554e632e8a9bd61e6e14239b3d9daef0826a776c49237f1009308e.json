@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Yahoo",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=Yahoo\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partY/Yahoo.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rule]\nDOMAIN-SUFFIX, adss.yahoo.com, REJECT\nDOMAIN-SUFFIX, beap-bc.yahoo.com, REJECT\nDOMAIN-SUFFIX, comet.yahoo.com, REJECT\nDOMAIN-SUFFIX, geo.yahoo.com, REJECT\nDOMAIN-SUFFIX, marketingsolutions.yahoo.com, REJECT\nDOMAIN-SUFFIX, p3p.yahoo.com, REJECT\nDOMAIN-SUFFIX, themis.yahoo.com, REJECT\nDOMAIN-SUFFIX, ysm.yahoo.com, REJECT\nDOMAIN-SUFFIX, us.adserver.yahoo.com, REJECT\nDOMAIN-SUFFIX, beap.adss.yahoo.com, REJECT\nDOMAIN-SUFFIX, clicks.beap.bc.yahoo.com, REJECT\nDOMAIN-SUFFIX, aliunion.cn.yahoo.com, REJECT\nDOMAIN-SUFFIX, cm.p4p.cn.yahoo.com, REJECT\nDOMAIN-SUFFIX, n.gemini.yahoo.com, REJECT\nDOMAIN-SUFFIX, doubleplay-conf-yql.media.yahoo.com, REJECT\nDOMAIN-SUFFIX, ws.progrss.yahoo.com, REJECT\nDOMAIN-SUFFIX, analytics.query.yahoo.com, REJECT\nDOMAIN-SUFFIX, locdrop.query.yahoo.com, REJECT\nDOMAIN-SUFFIX, onepush.query.yahoo.com, REJECT\nDOMAIN-SUFFIX, iframe.travel.yahoo.com, REJECT\nDOMAIN-SUFFIX, m.yap.yahoo.com, REJECT\nDOMAIN-SUFFIX, pr.ybp.yahoo.com, REJECT\nDOMAIN-SUFFIX, pr-bh.ybp.yahoo.com, REJECT\nDOMAIN-SUFFIX, js-apac-ss.ysm.yahoo.com, REJECT\nDOMAIN-SUFFIX, w.homes.yahoo.net, REJECT\nDOMAIN-SUFFIX, yieldmanager.com, REJECT\nDOMAIN-SUFFIX, ard.yahoo.co.jp, REJECT\nDOMAIN-SUFFIX, yads.yahoo.co.jp, REJECT\nDOMAIN-SUFFIX, yeas.yahoo.co.jp, REJECT\nDOMAIN-SUFFIX, rd.ane.yahoo.co.jp, REJECT\nDOMAIN-SUFFIX, bc.geocities.yahoo.co.jp, REJECT\nDOMAIN-SUFFIX, im.ov.yahoo.co.jp, REJECT\nDOMAIN-SUFFIX,adserver.yahoo.com, REJECT\nDOMAIN-SUFFIX,adspecs.yahoo.com, REJECT\nDOMAIN-SUFFIX,advertising.yahoo.com, REJECT\nDOMAIN-SUFFIX,gemini.yahoo.com, REJECT\nDOMAIN, admarketing.yahoo.net, REJECT\nDOMAIN, ads.auctions.yahoo.com, REJECT\nDOMAIN, ads.finance.yahoo.com, REJECT\nDOMAIN, ads.yahoo.com, REJECT\nDOMAIN, ads.yahoo.de, REJECT\n\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/m\\.yap\\.yahoo\\.com\\/v\\d{2}\\/getAds\\.do/i then reject(404)\n\n\n[MITM]\nhostname = m.yap.yahoo.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

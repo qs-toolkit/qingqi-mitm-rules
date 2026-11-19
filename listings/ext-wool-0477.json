@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0477",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "54af2c614ea114ced7b924c37668d3d8ead4d3b3810a7e826691a0757b081fc4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "TapTap",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f9f46bfd7a057a2862fc21ea5c76c6f25e8b8b019dd129d8b4b5a41dd27d6e9a",
-  "author": "奶思",
-  "updatedAt": 1795094243592,
+  "revisionId": "54af2c614ea114ced7b924c37668d3d8ead4d3b3810a7e826691a0757b081fc4",
+  "author": "fmz200",
+  "updatedAt": 1795094539250,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "f9f46bfd7a057a2862fc21ea5c76c6f25e8b8b019dd129d8b4b5a41dd27d6e9a"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "禁用iOS更新",
+  "description": "屏蔽 iOS 系统更新且需匹配REJECT策略组 · Quantumult X",
+  "scope": [],
+  "text": "#!name=禁用iOS更新\n#!desc=屏蔽 iOS 系统更新且需匹配REJECT策略组 · Quantumult X\n#!author=deezertidal\n\n#!name =屏蔽iOS更新\n#!desc= 屏蔽 iOS 系统更新且需匹配REJECT策略组\n#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Update.png\n\n\nDOMAIN mesu.apple.com url REJECT\nDOMAIN gdmf.apple.com url REJECT\nDOMAIN updates-http.cdn-apple.com url REJECT\nDOMAIN xp.apple.com url REJECT\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

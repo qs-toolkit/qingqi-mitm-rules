@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0196",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "16c8604e002870ee921cedb856033c5847e1d264b6d59620c4488c7c473efa95"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "卡片日记",
-  "description": "卡片日记解锁会员 · 来源 重写库",
+  "description": "卡片日记解锁会员",
   "scope": [],
-  "revisionId": "851579d315b08227e24441b9ad91323212c5c0484ee7783dd34dacf9efbd33b9",
+  "revisionId": "16c8604e002870ee921cedb856033c5847e1d264b6d59620c4488c7c473efa95",
   "author": "89996462",
-  "updatedAt": 1795094243538,
+  "updatedAt": 1795094539134,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "851579d315b08227e24441b9ad91323212c5c0484ee7783dd34dacf9efbd33b9"
-  ]
+  "homepage": ""
 }

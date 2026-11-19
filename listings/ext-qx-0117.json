@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0117",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e906d059c5e6592a00ef49b5003766a14fc34bc0e975a37cd6e4dbe34c53cf24"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "白描黄金会员",
-  "description": "白描黄金会员 · 来源 重写库",
+  "description": "白描黄金会员",
   "scope": [],
-  "revisionId": "d60603ae6fbe188e7b03d769bb2fe1fda836331ee9e92ba447014d513dea712c",
+  "revisionId": "e906d059c5e6592a00ef49b5003766a14fc34bc0e975a37cd6e4dbe34c53cf24",
   "author": "iEwha",
-  "updatedAt": 1795094243527,
+  "updatedAt": 1795094539123,
   "targets": [],
   "upstream": "iEwha",
-  "homepage": "",
-  "revisions": [
-    "d60603ae6fbe188e7b03d769bb2fe1fda836331ee9e92ba447014d513dea712c"
-  ]
+  "homepage": ""
 }

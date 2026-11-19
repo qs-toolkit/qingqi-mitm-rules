@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0260",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "80e9d0d9f37ea4b414f36ab752b09222dcad6059730245d77012a4e19471dff9"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "一寸证件照",
-  "description": "一寸证件照解锁会员 · 来源 重写库",
+  "description": "一寸证件照解锁会员",
   "scope": [],
-  "revisionId": "6bb1e59b596f8285a37bb16ee2ef1552f3519c2e4696813bc6f949e029aecdc6",
+  "revisionId": "80e9d0d9f37ea4b414f36ab752b09222dcad6059730245d77012a4e19471dff9",
   "author": "89996462",
-  "updatedAt": 1795094243545,
+  "updatedAt": 1795094539142,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "6bb1e59b596f8285a37bb16ee2ef1552f3519c2e4696813bc6f949e029aecdc6"
-  ]
+  "homepage": ""
 }

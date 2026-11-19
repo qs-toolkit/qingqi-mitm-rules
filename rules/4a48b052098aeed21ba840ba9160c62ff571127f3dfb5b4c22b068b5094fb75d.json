@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "微信阅读积分兑换",
+  "description": "微信自动阅读积分兑换",
+  "scope": [],
+  "text": "#!name=微信自动阅读\n#!desc=微信自动阅读积分兑换\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wechatread.png\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n\n^https?://mp\\.weixin\\.qq\\.com/s\\?.* url script-response-body https://github.com/deezertidal/private/raw/master/js-backup/Script/wechat_auto_read.js\n\nhostname = mp.weixin.qq.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

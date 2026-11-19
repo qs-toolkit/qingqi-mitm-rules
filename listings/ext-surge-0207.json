@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0207",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4ade4e978795a08f3ce2a1c14c3e5f4909c6b2d7e0833215671f593ae68fb9dc"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "巴哈姆特签到.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "51f19252df13198377fc606af23e1d12753c6a753f21686d44d37c058772c185",
+  "revisionId": "4ade4e978795a08f3ce2a1c14c3e5f4909c6b2d7e0833215671f593ae68fb9dc",
   "author": "ClashModule",
-  "updatedAt": 1795094243482,
+  "updatedAt": 1795094539064,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "51f19252df13198377fc606af23e1d12753c6a753f21686d44d37c058772c185"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0195",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5feda4b493084fa88fd8d6177fac64f5ba7a86c8ec72255e439657a4c6f7ddf8"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "广州农商银行",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "GuangzhouRuralCommercialBank",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "28574a7c977dc27571bb4a505875ad62db8b62e61d4c52a96aba77bdcc4313f6",
-  "author": "奶思",
-  "updatedAt": 1795094243568,
+  "revisionId": "5feda4b493084fa88fd8d6177fac64f5ba7a86c8ec72255e439657a4c6f7ddf8",
+  "author": "fmz200",
+  "updatedAt": 1795094539208,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "28574a7c977dc27571bb4a505875ad62db8b62e61d4c52a96aba77bdcc4313f6"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

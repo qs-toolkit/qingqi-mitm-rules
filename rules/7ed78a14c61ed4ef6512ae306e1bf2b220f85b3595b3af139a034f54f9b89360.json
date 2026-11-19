@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "IOS伪装影视APP净化",
+  "description": "去广告配置（自用，持续更新...） · Quantumult X",
+  "scope": [],
+  "text": "#!name=IOS伪装影视APP净化\n#!desc=去广告配置（自用，持续更新...） · Quantumult X\n#!author=@ddgksf2013\n\n// ==UserScript==\n// @ScriptName        IOS伪装影视APP净化[墨鱼版]\n// @Author            @ddgksf2013\n// @WechatID          墨鱼手记\n// @TgChannel         https://t.me/ddgksf2021\n// @Contribute        https://t.me/ddgksf2013_bot\n// @UpdateTime        2025-10-26\n// @Attention         如果广告仍然存在，请清除缓存或卸载应用重新安装\n// @Function          去广告配置（自用，持续更新...）\n// @Suitable          自行观看\"# > \"注释内容\n// @Attention         如需引用请注明出处，谢谢合作！\n// @Version           V1.0.6\n// @ScriptURL         https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/FakeiOSAds.conf\n// ==/UserScript==\n\n\n\nhostname = app.dsx.ac\n\n# > juzhi\n^http:\\/\\/[a-zA-Z0-9_-]+(\\.[a-zA-Z0-9_-]+){1,4}(:\\d+)?\\/api\\/v\\d\\/config\\/getConfigList\\.do url jsonjq-response-body '.data |= map(select(.keyName | test(\"config\\\\.(ad|search|recommend)\") | not))'\n# > common\n^http:\\/\\/[a-zA-Z0-9_-]+(\\.[a-zA-Z0-9_-]+){1,4}(:\\d+)?\\/.*?\\/v\\d\\/(version|notice\\?|top_notice\\?|advert\\?position=[^2]+) url reject-200\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

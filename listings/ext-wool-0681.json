@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0681",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "558c768d8e0eec7c67c1314c20c93abe2ef4f7d6eb34020c30c4e83df457869f"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "字节跳动",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ByteDance",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e596c0958008463b96203c8ba86cf8de33301f9a230f5de936cd2c73edf85749",
-  "author": "奶思",
-  "updatedAt": 1795094243610,
+  "revisionId": "558c768d8e0eec7c67c1314c20c93abe2ef4f7d6eb34020c30c4e83df457869f",
+  "author": "fmz200",
+  "updatedAt": 1795094539277,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "e596c0958008463b96203c8ba86cf8de33301f9a230f5de936cd2c73edf85749"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

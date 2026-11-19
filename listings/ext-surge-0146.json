@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0146",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "05ed138f260d94969bf35d2404727fcabc466ed7a6cb328b500be86b2a50db96"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "刺猬猫去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "10f38dcb4541336725660e13899d83655f7b9382a7a7d914eae25f616493cd23",
+  "revisionId": "05ed138f260d94969bf35d2404727fcabc466ed7a6cb328b500be86b2a50db96",
   "author": "ClashModule",
-  "updatedAt": 1795094243475,
+  "updatedAt": 1795094539054,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "10f38dcb4541336725660e13899d83655f7b9382a7a7d914eae25f616493cd23"
-  ]
+  "homepage": ""
 }

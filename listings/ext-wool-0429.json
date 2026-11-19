@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0429",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "21439e02741db5c22b22f3e9d21ab7e67075f1eb78bc69fe5adae414e9221971"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "首旅如家",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BTGHomeinns",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1d6fd12d577ca5280b665c207db8d805982efe944dc06f6f9c706ef75da48aeb",
-  "author": "奶思",
-  "updatedAt": 1795094243588,
+  "revisionId": "21439e02741db5c22b22f3e9d21ab7e67075f1eb78bc69fe5adae414e9221971",
+  "author": "fmz200",
+  "updatedAt": 1795094539243,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "1d6fd12d577ca5280b665c207db8d805982efe944dc06f6f9c706ef75da48aeb"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0496",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7867f5c50776d548628d165a2388468a163e45dd7f7578814d5e03d68e09cb5e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "天天基金",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "TianTianFund",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2a4ed1ed44bcc39950ada6e5c6672208d48a9ac5e4736830d15cf6bae8c43b78",
-  "author": "奶思",
-  "updatedAt": 1795094243594,
+  "revisionId": "7867f5c50776d548628d165a2388468a163e45dd7f7578814d5e03d68e09cb5e",
+  "author": "fmz200",
+  "updatedAt": 1795094539252,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2a4ed1ed44bcc39950ada6e5c6672208d48a9ac5e4736830d15cf6bae8c43b78"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

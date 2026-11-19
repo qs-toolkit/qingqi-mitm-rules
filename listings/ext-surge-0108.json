@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0108",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f7e8fdc1a2cb96dede5879e69692c402820b9991b5e723b842396b8f3f0b3782"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "七猫小说去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "f33e0a170facb4fca32f7b5f0ea3eb8a3f10e84d6dc2ae06bc6e9f8d71969600",
+  "revisionId": "f7e8fdc1a2cb96dede5879e69692c402820b9991b5e723b842396b8f3f0b3782",
   "author": "ClashModule",
-  "updatedAt": 1795094243471,
+  "updatedAt": 1795094539049,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "f33e0a170facb4fca32f7b5f0ea3eb8a3f10e84d6dc2ae06bc6e9f8d71969600"
-  ]
+  "homepage": ""
 }

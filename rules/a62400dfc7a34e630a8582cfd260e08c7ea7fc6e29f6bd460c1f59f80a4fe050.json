@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "中华诗词库",
+  "description": "中华诗词库解锁会员",
+  "scope": [],
+  "text": "#!name=中华诗词库\n#!desc=中华诗词库解锁会员\n#!homepage=https://yfamily.ml\n#!author=89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/zhsck.png\n\n\nhttp:\\/\\/api\\.chuangqi\\.store\\/ url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zhsck.js\n\nhostname = api.chuangqi.store",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

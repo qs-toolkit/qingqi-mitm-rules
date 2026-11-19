@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0615",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "809d7c39ffb07deef5fb174fcc8d23b2207364c8ed0d8acf7ff71fda6228f68e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "熊猫直播",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "XiongMaoLive",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "265db8dd29df765fe14af4ae37f2891abb16275d25e6e201a5bb0b28e5cf44c7",
-  "author": "奶思",
-  "updatedAt": 1795094243605,
+  "revisionId": "809d7c39ffb07deef5fb174fcc8d23b2207364c8ed0d8acf7ff71fda6228f68e",
+  "author": "fmz200",
+  "updatedAt": 1795094539268,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "265db8dd29df765fe14af4ae37f2891abb16275d25e6e201a5bb0b28e5cf44c7"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

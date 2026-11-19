@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0103",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "dd22f0a2f68197c083fb96388034c43b72a192a66491c8e8d7a4acc40861d6d5"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "⭐️ Sub-Store.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "cdc1f426416f5933e2f565c499384505e0dc8dd97d5b12b9b08ac05077af121c",
+  "revisionId": "dd22f0a2f68197c083fb96388034c43b72a192a66491c8e8d7a4acc40861d6d5",
   "author": "ClashModule",
-  "updatedAt": 1795094243470,
+  "updatedAt": 1795094539048,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "cdc1f426416f5933e2f565c499384505e0dc8dd97d5b12b9b08ac05077af121c"
-  ]
+  "homepage": ""
 }

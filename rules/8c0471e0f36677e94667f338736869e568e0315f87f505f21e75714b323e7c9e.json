@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Adobe LightRoom解锁",
+  "description": "Adobe LightRoom解锁",
+  "scope": [],
+  "text": "#!name=LightRoom\n#!desc=Adobe LightRoom解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/lightroom.png\n#!homepage=https://yfamily.ml\n#!author=I-am-R-E\n\n\nhostname=photos.adobe.io\n\n\n^https:\\/\\/photos\\.adobe\\.io\\/v2\\/accounts* url script-response-body https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/lightroom.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

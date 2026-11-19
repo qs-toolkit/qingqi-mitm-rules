@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0262",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f2681a1d5c17d5956d3a66abf1eb420351ad18e6ab092514884f89baa700437d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "掌上无畏契约去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "d226403962477f05df7712badd9b8ed796c025c25680b800997080a45383271c",
+  "revisionId": "f2681a1d5c17d5956d3a66abf1eb420351ad18e6ab092514884f89baa700437d",
   "author": "ClashModule",
-  "updatedAt": 1795094243488,
+  "updatedAt": 1795094539072,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "d226403962477f05df7712badd9b8ed796c025c25680b800997080a45383271c"
-  ]
+  "homepage": ""
 }

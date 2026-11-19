@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0121",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4127fc3bf36fc96c30aee960c1589a6c0a299540f55d74d587f51181c6645770"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "乐播投屏去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "d21480a45228abe338f6192cd46fd44e581e06f55d4760a622b7a90f56f67911",
+  "revisionId": "4127fc3bf36fc96c30aee960c1589a6c0a299540f55d74d587f51181c6645770",
   "author": "ClashModule",
-  "updatedAt": 1795094243472,
+  "updatedAt": 1795094539051,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "d21480a45228abe338f6192cd46fd44e581e06f55d4760a622b7a90f56f67911"
-  ]
+  "homepage": ""
 }

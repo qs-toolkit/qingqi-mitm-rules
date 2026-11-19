@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0224",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "87e79b3f75780aea6b585257f64172a6117fe213b0d6c02a6beb0a6907498bc5"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "汇中考",
-  "description": "汇中考解锁会员 · 来源 重写库",
+  "description": "汇中考解锁会员",
   "scope": [],
-  "revisionId": "bc27c6629c3e0c115f507f13f9ef90f4585607e72d4b46d67610997c75030a89",
+  "revisionId": "87e79b3f75780aea6b585257f64172a6117fe213b0d6c02a6beb0a6907498bc5",
   "author": "89996462",
-  "updatedAt": 1795094243541,
+  "updatedAt": 1795094539137,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "bc27c6629c3e0c115f507f13f9ef90f4585607e72d4b46d67610997c75030a89"
-  ]
+  "homepage": ""
 }

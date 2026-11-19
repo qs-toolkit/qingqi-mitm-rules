@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0397",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0e6f9a8eabee15d06f7b3ce9f0e5f3a9f23392d8957dc27fb053a6f72dba9fab"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "澎湃新闻",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ThePaperNews",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4e260212832156aa5a99f5a24591544bac5c61ceada3afccbea0838752555640",
-  "author": "奶思",
-  "updatedAt": 1795094243585,
+  "revisionId": "0e6f9a8eabee15d06f7b3ce9f0e5f3a9f23392d8957dc27fb053a6f72dba9fab",
+  "author": "fmz200",
+  "updatedAt": 1795094539238,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "4e260212832156aa5a99f5a24591544bac5c61ceada3afccbea0838752555640"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

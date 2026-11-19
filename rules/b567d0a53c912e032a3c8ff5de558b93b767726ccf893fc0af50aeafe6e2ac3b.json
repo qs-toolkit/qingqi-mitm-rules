@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "360",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=360\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/part3/360.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rule]\nDOMAIN-SUFFIX, pjogndc8ixoidna.360doc.cn, REJECT\nDOMAIN-SUFFIX, w5sac788c1.360doc.cn, REJECT\nDOMAIN-SUFFIX, 360shopping.com.cn, REJECT\nDOMAIN-SUFFIX, cps.360buy.com, REJECT\nDOMAIN-SUFFIX, eclick.360doc.com, REJECT\nDOMAIN-SUFFIX, ad.360in.com, REJECT\nDOMAIN-SUFFIX, dl.360safe.com, REJECT\nDOMAIN-SUFFIX, kuaikan.netmon.360safe.com, REJECT\nDOMAIN-SUFFIX, ini.update.360safe.com, REJECT\nDOMAIN-SUFFIX, display.360totalsecurity.com, REJECT\nDOMAIN-SUFFIX, hot.m.shouji.360tpcdn.com, REJECT\nDOMAIN-SUFFIX, ad.360yield.com, REJECT\nDOMAIN-SUFFIX, guess.h.qhimg.com, REJECT\nDOMAIN-SUFFIX, top.h.qhimg.com, REJECT\nDOMAIN-SUFFIX, jspassport.ssl.qhimg.com, REJECT\nDOMAIN-SUFFIX, top.h.qhmsg.com, REJECT\nDOMAIN-SUFFIX, hs.qhupdate.com, REJECT\nDOMAIN-SUFFIX, res.qhupdate.com, REJECT\nDOMAIN-SUFFIX, s.qhupdate.com, REJECT\nDOMAIN-SUFFIX, haostat.qihoo.com, REJECT\nDOMAIN-SUFFIX, sh.qihoo.com, REJECT\nDOMAIN-SUFFIX, s.sh.qihoo.com, REJECT\nDOMAIN-SUFFIX, spro.so.com, REJECT\nDOMAIN-SUFFIX, mbrowser.news.so.com, REJECT\nDOMAIN-SUFFIX, tran.news.so.com, REJECT\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0125",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e23925aef10afbd61ce2d48f6e03e43cb8a59ff189933249f54d8135aaa92a49"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "嘀嗒出行",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DiDaChuxing",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6e1c678e7d68d58cb3a437e7413c4b3368ba7d88386e5bfa84b43320bad83929",
-  "author": "奶思",
-  "updatedAt": 1795094243562,
+  "revisionId": "e23925aef10afbd61ce2d48f6e03e43cb8a59ff189933249f54d8135aaa92a49",
+  "author": "fmz200",
+  "updatedAt": 1795094539199,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "6e1c678e7d68d58cb3a437e7413c4b3368ba7d88386e5bfa84b43320bad83929"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

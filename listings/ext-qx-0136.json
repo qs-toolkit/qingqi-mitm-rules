@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0136",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b1826882058f5f6ac9726a0554c2265d653cea1ecd293ca6801da87f81b34f2a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Cubox",
-  "description": "Cubox解锁 · 来源 重写库",
+  "description": "Cubox解锁",
   "scope": [],
-  "revisionId": "46f6b41d3af6ec9d900aaaf7a35c449e7f6b62e08bc79ee215196584ae8630e0",
+  "revisionId": "b1826882058f5f6ac9726a0554c2265d653cea1ecd293ca6801da87f81b34f2a",
   "author": "89996462",
-  "updatedAt": 1795094243530,
+  "updatedAt": 1795094539125,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "46f6b41d3af6ec9d900aaaf7a35c449e7f6b62e08bc79ee215196584ae8630e0"
-  ]
+  "homepage": ""
 }

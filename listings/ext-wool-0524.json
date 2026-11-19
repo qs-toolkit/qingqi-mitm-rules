@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0524",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0caad36656a7e57d2ebed75b62aa63ac23683465c3500642221135b8be68452e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Vista看天下",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "VistaKanTianXia",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2e41f9e2baf6f4089fda737af6c913758f04d12f5a6d1da6ebc1cd7936f26a3f",
-  "author": "奶思",
-  "updatedAt": 1795094243596,
+  "revisionId": "0caad36656a7e57d2ebed75b62aa63ac23683465c3500642221135b8be68452e",
+  "author": "fmz200",
+  "updatedAt": 1795094539255,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2e41f9e2baf6f4089fda737af6c913758f04d12f5a6d1da6ebc1cd7936f26a3f"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

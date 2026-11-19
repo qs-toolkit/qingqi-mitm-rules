@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "腾讯新闻去广告.official",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=腾讯新闻App去广告\n#!desc=开屏页广告有缓存,需要全新应用\n# 腾讯新闻开屏广告(须全新应用),新闻列表(要闻/财经等),专题广告,xx旅游列表等广告去除\n# 仓库地址 https://github.com/app2smile/rules\n\n[MITM]\nhostname = %APPEND% news.ssp.qq.com, r.inews.qq.com\n\n[Script]\n腾讯新闻json = type=http-response,pattern=^https:\\/\\/(news\\.ssp\\.qq\\.com\\/app|r\\.inews\\.qq\\.com\\/(get(QQNewsUnreadList|TagFeedList)|gw\\/page\\/(channel_feed|event_detail)|news_feed\\/hot_module_list)),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/qq-news.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

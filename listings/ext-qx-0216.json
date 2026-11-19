@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0216",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a1e6a34baa67238d71b3111e63b4c093d7bbaff2ee5b22f75d481db81127ea4b"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "淘票票评分",
-  "description": "支付宝内淘票票显示豆瓣评分 · 来源 重写库",
+  "description": "支付宝内淘票票显示豆瓣评分",
   "scope": [],
-  "revisionId": "003cb3d2379e04e757bda6779b50093634888e4343c267aff40a5b6400e8b043",
+  "revisionId": "a1e6a34baa67238d71b3111e63b4c093d7bbaff2ee5b22f75d481db81127ea4b",
   "author": "98kevinxiao",
-  "updatedAt": 1795094243540,
+  "updatedAt": 1795094539136,
   "targets": [],
   "upstream": "98kevinxiao",
-  "homepage": "",
-  "revisions": [
-    "003cb3d2379e04e757bda6779b50093634888e4343c267aff40a5b6400e8b043"
-  ]
+  "homepage": ""
 }

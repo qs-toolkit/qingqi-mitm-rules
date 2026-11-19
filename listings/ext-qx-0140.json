@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0140",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "745c12c95f08a8920b0266ab6547a61350a0a1a56483381acdeb0c124b4e7df4"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "熊掌记",
-  "description": "熊掌记解锁 · 来源 重写库",
+  "description": "熊掌记解锁",
   "scope": [],
-  "revisionId": "956324ebdf3125f6a14477b25e2e68af8c901e09e1b72a75da805f5b069c80f1",
+  "revisionId": "745c12c95f08a8920b0266ab6547a61350a0a1a56483381acdeb0c124b4e7df4",
   "author": "89996462",
-  "updatedAt": 1795094243532,
+  "updatedAt": 1795094539126,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "956324ebdf3125f6a14477b25e2e68af8c901e09e1b72a75da805f5b069c80f1"
-  ]
+  "homepage": ""
 }

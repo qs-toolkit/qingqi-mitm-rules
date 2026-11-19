@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "JibJab",
+  "description": "JibJab解锁会员",
+  "scope": [],
+  "text": "#!name=JibJab\n#!desc=JibJab解锁会员\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/jibjab.png\n#!homepage=https://yfamily.ml\n#!author=NobyDa\n\nhttps:\\/\\/origin-prod-phoenix\\.jibjab\\.com\\/v1\\/user url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/jibjab.js\n\n\nhostname = origin-prod-phoenix.jibjab.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

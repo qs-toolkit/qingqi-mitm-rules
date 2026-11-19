@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0141",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f0439af05324d83990b642a5f3a1f808c831ce7fdb18a7e55aebb26de1228a76"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "动画疯",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DongHuaFeng",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a22f64ae71840fbec55386108ba0d8118850b10d83c5d54217eebd01e02e7feb",
-  "author": "奶思",
-  "updatedAt": 1795094243564,
+  "revisionId": "f0439af05324d83990b642a5f3a1f808c831ce7fdb18a7e55aebb26de1228a76",
+  "author": "fmz200",
+  "updatedAt": 1795094539201,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "a22f64ae71840fbec55386108ba0d8118850b10d83c5d54217eebd01e02e7feb"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

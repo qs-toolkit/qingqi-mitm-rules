@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "PocketLists解锁",
+  "description": "Pocket Lists解锁会员",
+  "scope": [],
+  "text": "#!name=Pocket Lists\n#!desc=Pocket Lists解锁会员\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/pocketlist.png\n#!homepage=https://yfamily.ml\n#!author=superuv\n\n\n^https:\\/\\/pocketlists\\.com\\/api\\/v1\\/pocketlists.me.get url script-response-body https://raw.githubusercontent.com/deezertidal/private/main/pocketlists.js\n\n\nhostname = pocketlists.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0281",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c11025d1fce75d18739e91861f6faa6b593ff597d397795eba89dc28b6f328a7"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Reddit增强",
-  "description": "去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，另去除信息流的NSFW图的遮罩，NSFW的帖子点击可直接查看图，伪装Premium，解锁会员图标 · 来源 墨鱼手记",
+  "description": "去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，另去除信息流的NSFW图的遮罩，NSFW的帖子点击可直接查看图，伪装Premium，解锁会员图标 · Quantumult X",
   "scope": [],
-  "revisionId": "d3f746359ac31c2e5e9613f45b2a36fe1aeef25f8ab3971c423ceb04bb28f881",
+  "revisionId": "c11025d1fce75d18739e91861f6faa6b593ff597d397795eba89dc28b6f328a7",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243548,
+  "updatedAt": 1795094539146,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "d3f746359ac31c2e5e9613f45b2a36fe1aeef25f8ab3971c423ceb04bb28f881"
-  ]
+  "homepage": ""
 }

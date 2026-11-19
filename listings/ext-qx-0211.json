@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0211",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7838be7c946449c7dcc3e00b04b17489e0aa9fbfb66e4ad1f28bb65de8690a0e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "灵敢足迹",
-  "description": "灵敢足迹解锁会员 · 来源 重写库",
+  "description": "灵敢足迹解锁会员",
   "scope": [],
-  "revisionId": "8713ad249a99adf70c5d22ea9aaa000f463623efa107a7a72d858e38e398370d",
+  "revisionId": "7838be7c946449c7dcc3e00b04b17489e0aa9fbfb66e4ad1f28bb65de8690a0e",
   "author": "89996462",
-  "updatedAt": 1795094243540,
+  "updatedAt": 1795094539136,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "8713ad249a99adf70c5d22ea9aaa000f463623efa107a7a72d858e38e398370d"
-  ]
+  "homepage": ""
 }

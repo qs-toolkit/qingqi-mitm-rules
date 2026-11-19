@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0056",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d58e4672b3f2b2fb8bda2aed5a6b9f55a4ff3cf5136c3d22f170b7600da8e6d9"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "宝宝树孕育",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BabyTreeParenting",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a417e7647863c73ab124576a81f07d51c2d07c87ddfa8db1cdef2b32e48313f5",
-  "author": "奶思",
-  "updatedAt": 1795094243556,
+  "revisionId": "d58e4672b3f2b2fb8bda2aed5a6b9f55a4ff3cf5136c3d22f170b7600da8e6d9",
+  "author": "fmz200",
+  "updatedAt": 1795094539189,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "a417e7647863c73ab124576a81f07d51c2d07c87ddfa8db1cdef2b32e48313f5"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

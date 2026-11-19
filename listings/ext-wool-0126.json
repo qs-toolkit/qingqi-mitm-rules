@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0126",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9df481aad4d50903dc01c33004b44956da347658a7fecafd007d2b48291833f6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "滴滴青桔",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "DiDiBike",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6158eb26d62d5d82ff5606b60fbf4a2b6e9ac3f3ca2983a418856833b3f5bd40",
-  "author": "奶思",
-  "updatedAt": 1795094243562,
+  "revisionId": "9df481aad4d50903dc01c33004b44956da347658a7fecafd007d2b48291833f6",
+  "author": "fmz200",
+  "updatedAt": 1795094539199,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "6158eb26d62d5d82ff5606b60fbf4a2b6e9ac3f3ca2983a418856833b3f5bd40"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

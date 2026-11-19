@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0641",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3326745ace554e632e8a9bd61e6e14239b3d9daef0826a776c49237f1009308e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Yahoo",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5424132dc90fff2a70453dfa543241088ce5368ff46850c272065ae35f7dc4ae",
-  "author": "奶思",
-  "updatedAt": 1795094243607,
+  "revisionId": "3326745ace554e632e8a9bd61e6e14239b3d9daef0826a776c49237f1009308e",
+  "author": "fmz200",
+  "updatedAt": 1795094539272,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "5424132dc90fff2a70453dfa543241088ce5368ff46850c272065ae35f7dc4ae"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

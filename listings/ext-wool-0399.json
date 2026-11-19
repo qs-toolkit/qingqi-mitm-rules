@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0399",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7813f056705fe8299be28ecce7910493f074c0d3272242f05bb59fb4eae55bab"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "前程无忧 51Job",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "51Job",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "14d832bcb3cb27eba0519361e06d65a2634e4f86f988232bf62181a301414ae5",
-  "author": "奶思",
-  "updatedAt": 1795094243585,
+  "revisionId": "7813f056705fe8299be28ecce7910493f074c0d3272242f05bb59fb4eae55bab",
+  "author": "fmz200",
+  "updatedAt": 1795094539238,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "14d832bcb3cb27eba0519361e06d65a2634e4f86f988232bf62181a301414ae5"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

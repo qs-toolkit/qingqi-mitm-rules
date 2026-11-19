@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0491",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "592662a0e32ceea1aa24443c4f4277faf7f54a173395bd1a549dcdfb53d38721"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "🍟 Apple TV 增强.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块 · Surge",
   "scope": [],
-  "revisionId": "06633dc7ac898fd7493660c1e0ba62f3f3e907ecbf5b0dc86a66388c7503cce4",
+  "revisionId": "592662a0e32ceea1aa24443c4f4277faf7f54a173395bd1a549dcdfb53d38721",
   "author": "ClashModule",
-  "updatedAt": 1795094243513,
+  "updatedAt": 1795094539105,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "06633dc7ac898fd7493660c1e0ba62f3f3e907ecbf5b0dc86a66388c7503cce4"
-  ]
+  "homepage": ""
 }

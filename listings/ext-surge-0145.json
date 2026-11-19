@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0145",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f8d38085c293ab1362428c20e715cbe6c6d79d83c72e5277edc435eed0dd7ea6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "全民K歌去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ed355240880897c4dc20c3db41b6e24f27c9401bdc7015574877f4aa2cd41662",
+  "revisionId": "f8d38085c293ab1362428c20e715cbe6c6d79d83c72e5277edc435eed0dd7ea6",
   "author": "ClashModule",
-  "updatedAt": 1795094243475,
+  "updatedAt": 1795094539054,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "ed355240880897c4dc20c3db41b6e24f27c9401bdc7015574877f4aa2cd41662"
-  ]
+  "homepage": ""
 }

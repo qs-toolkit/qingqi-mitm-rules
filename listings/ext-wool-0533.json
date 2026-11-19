@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0533",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "db7efb9cac8175ff9ea7f308b62c64ac87facb79ee795e66a7867a3f5ffcf06b"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "网易有钱",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "NetEaseMoney",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e63a15bd3c8846f352ca43ae3a88bbb7f5a7d8c3bfad4001ad6267f3d9e90c0c",
-  "author": "奶思",
-  "updatedAt": 1795094243597,
+  "revisionId": "db7efb9cac8175ff9ea7f308b62c64ac87facb79ee795e66a7867a3f5ffcf06b",
+  "author": "fmz200",
+  "updatedAt": 1795094539257,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "e63a15bd3c8846f352ca43ae3a88bbb7f5a7d8c3bfad4001ad6267f3d9e90c0c"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

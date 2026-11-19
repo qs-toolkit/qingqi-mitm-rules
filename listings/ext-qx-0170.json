@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0170",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e875f989b106dc7d585e74607ba1d18901ac6e8fa8139bfe43804ff8a3dccba1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "电子请柬制作",
-  "description": "电子请柬制作解锁会员 · 来源 重写库",
+  "description": "电子请柬制作解锁会员",
   "scope": [],
-  "revisionId": "c36bd2353e88c0947b943d9238fe51210c9acc0807895a1a9cd74a45e93b8034",
+  "revisionId": "e875f989b106dc7d585e74607ba1d18901ac6e8fa8139bfe43804ff8a3dccba1",
   "author": "89996462",
-  "updatedAt": 1795094243536,
+  "updatedAt": 1795094539131,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "c36bd2353e88c0947b943d9238fe51210c9acc0807895a1a9cd74a45e93b8034"
-  ]
+  "homepage": ""
 }

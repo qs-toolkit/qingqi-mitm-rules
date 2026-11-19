@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0169",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3c6b4cc5da3b7b711825b47e1d084c5afe1e86421bdafb8a77966e129d03e868"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "长相思",
-  "description": "长相思解锁会员 · 来源 重写库",
+  "description": "长相思解锁会员",
   "scope": [],
-  "revisionId": "e69bc51d44064920fd5d97ab12d9af78c9b32c6fb6b55db1b4a8c9e22c63155f",
+  "revisionId": "3c6b4cc5da3b7b711825b47e1d084c5afe1e86421bdafb8a77966e129d03e868",
   "author": "lutqhysky",
-  "updatedAt": 1795094243535,
+  "updatedAt": 1795094539131,
   "targets": [],
   "upstream": "lutqhysky",
-  "homepage": "",
-  "revisions": [
-    "e69bc51d44064920fd5d97ab12d9af78c9b32c6fb6b55db1b4a8c9e22c63155f"
-  ]
+  "homepage": ""
 }

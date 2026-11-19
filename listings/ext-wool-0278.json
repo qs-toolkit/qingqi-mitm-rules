@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0278",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9c9cddcbfa96bcf083d03c9e42cc4157b6c87b8e5f354e5d6a1c6de57d33ec84"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "看东方（百视TV）",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "KanDongFang",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0e024106bcbbab64a457a98dadd620aecaea068f2daf719839314a63f7313b19",
-  "author": "奶思",
-  "updatedAt": 1795094243575,
+  "revisionId": "9c9cddcbfa96bcf083d03c9e42cc4157b6c87b8e5f354e5d6a1c6de57d33ec84",
+  "author": "fmz200",
+  "updatedAt": 1795094539222,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "0e024106bcbbab64a457a98dadd620aecaea068f2daf719839314a63f7313b19"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

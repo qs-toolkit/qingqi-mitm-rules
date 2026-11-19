@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0034",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e2aa5f05f6f173ddc6baa85855585d76ff458248627ff7884667aaee17797f68"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Fabulous解锁",
-  "description": "Fabulous会员解锁 · 来源 重写库",
+  "description": "Fabulous会员解锁",
   "scope": [],
-  "revisionId": "13e412d74e2f023b86a77521451bda831078c110756bd9fea05837026a57c9c6",
+  "revisionId": "e2aa5f05f6f173ddc6baa85855585d76ff458248627ff7884667aaee17797f68",
   "author": "Marol62926",
-  "updatedAt": 1795094243518,
+  "updatedAt": 1795094539112,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "13e412d74e2f023b86a77521451bda831078c110756bd9fea05837026a57c9c6"
-  ]
+  "homepage": ""
 }

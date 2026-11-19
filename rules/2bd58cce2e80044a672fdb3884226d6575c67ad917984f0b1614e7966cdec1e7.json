@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "PEAK解锁",
+  "description": "Peak解锁Pro",
+  "scope": [],
+  "text": "#!name=Peak\n#!desc=Peak解锁Pro\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/peak.png\n#!homepage=https://yfamily.ml\n#!author=chamberlen\n\n\n^https:\\/\\/billing\\.peakcloud\\.org\\/billing\\/2\\/user\\/me? url script-response-body https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/peak.js\n\nhostname = billing.peakcloud.org",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

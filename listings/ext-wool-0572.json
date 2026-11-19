@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0572",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "793ca2ce1cd5003d84be04b450d8d42cf93dfead69477fe4b4b11c76d2dea1c8"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "稀饭动漫",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "XiFanAnime",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3e7c550c923d7d9bad605c0e2fc52cd2c05b6df15f6cb7960ee5d992cabe8cd9",
-  "author": "奶思",
-  "updatedAt": 1795094243601,
+  "revisionId": "793ca2ce1cd5003d84be04b450d8d42cf93dfead69477fe4b4b11c76d2dea1c8",
+  "author": "fmz200",
+  "updatedAt": 1795094539262,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "3e7c550c923d7d9bad605c0e2fc52cd2c05b6df15f6cb7960ee5d992cabe8cd9"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

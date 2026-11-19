@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0033",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3427497b6ead8d96765ff1fc009ac8c9d66faab2262107d34e7f4effb448a14a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "爱美剧",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "AiMeiJu",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cf67f4d2f83e54b22901c4e622231371bba190b5b46a8600f13786be5b30bea2",
-  "author": "奶思",
-  "updatedAt": 1795094243554,
+  "revisionId": "3427497b6ead8d96765ff1fc009ac8c9d66faab2262107d34e7f4effb448a14a",
+  "author": "fmz200",
+  "updatedAt": 1795094539186,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "cf67f4d2f83e54b22901c4e622231371bba190b5b46a8600f13786be5b30bea2"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

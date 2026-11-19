@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0513",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e9acf2e328af45ac11719736f0982bc89fe7596c1bf13ca375626d4fe43fd3b9"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Twitch",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "revisionId": "e9acf2e328af45ac11719736f0982bc89fe7596c1bf13ca375626d4fe43fd3b9",
+  "author": "fmz200",
+  "updatedAt": 1795094539254,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": ""
+}

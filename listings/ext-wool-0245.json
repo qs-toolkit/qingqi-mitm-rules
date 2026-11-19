@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0245",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "7a3b028939edf5b58e7cd22cfe20183d23551582fcbe900d52d0cd3cc5531a5e"
+  ],
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "WasuTV",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "revisionId": "7a3b028939edf5b58e7cd22cfe20183d23551582fcbe900d52d0cd3cc5531a5e",
+  "author": "fmz200",
+  "updatedAt": 1795094539217,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": ""
+}

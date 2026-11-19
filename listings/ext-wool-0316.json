@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0316",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f66a638f829bced5bdd1279ce2e5afa042d32389436e10365ad04c3f8d76a107"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "LocSim",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2da1a32b22cc78973b4912a6166e86b48c188d3344f0e5a5f738e4f9d2aa9467",
-  "author": "奶思",
-  "updatedAt": 1795094243578,
+  "revisionId": "f66a638f829bced5bdd1279ce2e5afa042d32389436e10365ad04c3f8d76a107",
+  "author": "fmz200",
+  "updatedAt": 1795094539227,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2da1a32b22cc78973b4912a6166e86b48c188d3344f0e5a5f738e4f9d2aa9467"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

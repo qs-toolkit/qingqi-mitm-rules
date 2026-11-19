@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "一木记账",
+  "description": "一木记账解锁会员",
+  "scope": [],
+  "text": "#!name=一木记账\n#!desc=一木记账解锁会员\n#!homepage=https://yfamily.ml\n#!author= I-am-R-E\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ymjz.png\n\nhostname = yimuapp.com\n\n^https?:\\/\\/yimuapp\\.com(:8082)?\\/bookkeeping\\/user\\/getUser\\/ url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/YiMuJiZhang.js",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

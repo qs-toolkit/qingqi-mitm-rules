@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0009",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "3cef5f9aaf94305840bfb507f8f122b3c4387e63b406203c55afaebdfe144abf"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "财新文章解锁",
-  "description": "财新会员解锁 · 来源 重写库",
+  "description": "财新会员解锁",
   "scope": [],
-  "revisionId": "3cf76754845e7665630d128225c9c06a507313d3be27acdb39dd609873519842",
+  "revisionId": "3cef5f9aaf94305840bfb507f8f122b3c4387e63b406203c55afaebdfe144abf",
   "author": "cuttlefish",
-  "updatedAt": 1795094243516,
+  "updatedAt": 1795094539109,
   "targets": [],
   "upstream": "cuttlefish",
-  "homepage": "",
-  "revisions": [
-    "3cf76754845e7665630d128225c9c06a507313d3be27acdb39dd609873519842"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0096",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "827005b556c5ae9ea3efc9c12d474f40533a3ccf9823a578c3ee007ea2cb5111"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Xmind思维导图",
-  "description": "解锁Xmind思维导图订阅到2030年 · 来源 重写库",
+  "description": "解锁Xmind思维导图订阅到2030年",
   "scope": [],
-  "revisionId": "12c319bc5b2f9e20fecc3a0ab10620d0a5016f0a9bf569d0d8627b24f204545f",
+  "revisionId": "827005b556c5ae9ea3efc9c12d474f40533a3ccf9823a578c3ee007ea2cb5111",
   "author": "@R·E https://t.me/Functional_Store_Hub",
-  "updatedAt": 1795094243525,
+  "updatedAt": 1795094539120,
   "targets": [],
   "upstream": "@R·E https://t.me/Functional_Store_Hub",
-  "homepage": "",
-  "revisions": [
-    "12c319bc5b2f9e20fecc3a0ab10620d0a5016f0a9bf569d0d8627b24f204545f"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0480",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fc386325f7176286b7c82cf7255236837e4c32223cdcf2144b0f2732bd95d2d5"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "香港抖音去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "eaf1617875dcc8fdbf3dfbaa64a289d85c1caf4ec0344dcf63e96f461c9efca7",
+  "revisionId": "fc386325f7176286b7c82cf7255236837e4c32223cdcf2144b0f2732bd95d2d5",
   "author": "ClashModule",
-  "updatedAt": 1795094243512,
+  "updatedAt": 1795094539103,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "eaf1617875dcc8fdbf3dfbaa64a289d85c1caf4ec0344dcf63e96f461c9efca7"
-  ]
+  "homepage": ""
 }

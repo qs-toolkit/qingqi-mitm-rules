@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0054",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "25a980a2d4aedf259d63bf7dc6e084e54debdedb5deab9990abd2d709865c3ed"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "万能变声器解锁",
-  "description": "万能变声器解锁 · 来源 重写库",
+  "description": "万能变声器解锁",
   "scope": [],
-  "revisionId": "ea17e66e17e87a3a53d47e778df342961d4e17f4cae74bbee00ea04a533f08e7",
+  "revisionId": "25a980a2d4aedf259d63bf7dc6e084e54debdedb5deab9990abd2d709865c3ed",
   "author": "Marol62926",
-  "updatedAt": 1795094243521,
+  "updatedAt": 1795094539115,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "ea17e66e17e87a3a53d47e778df342961d4e17f4cae74bbee00ea04a533f08e7"
-  ]
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Photomath会员",
+  "description": "Photomath会员解锁",
+  "scope": [],
+  "text": "#!name=Photomath\n#!desc=Photomath会员解锁\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/photomath.png\n\nhttps://lapi.photomath.net/v4/me url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/poh.js\n\nhostname=lapi.photomath.net",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

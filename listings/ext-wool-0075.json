@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0075",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "cff75c9b5b956135a15579fd8fa272506b92ea98f0dbf1ba51e5d026e2ac9c97"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "币世界",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BiShiJie",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6deb15234771fcf653556222cd23a0001f2951004eabdcbde5fbb87bbadf64c5",
-  "author": "奶思",
-  "updatedAt": 1795094243557,
+  "revisionId": "cff75c9b5b956135a15579fd8fa272506b92ea98f0dbf1ba51e5d026e2ac9c97",
+  "author": "fmz200",
+  "updatedAt": 1795094539191,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "6deb15234771fcf653556222cd23a0001f2951004eabdcbde5fbb87bbadf64c5"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

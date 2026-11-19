@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0401",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0523bb51a09b82a40e0131bd9b02cce64fb2312e2d8bdcc885529bf26bc38c81"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "奇瑞汽车",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "CheryAuto",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b3fb69e196b2b0fea315d93092fc223112a403855145348b05393b99e34c4c04",
-  "author": "奶思",
-  "updatedAt": 1795094243585,
+  "revisionId": "0523bb51a09b82a40e0131bd9b02cce64fb2312e2d8bdcc885529bf26bc38c81",
+  "author": "fmz200",
+  "updatedAt": 1795094539239,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "b3fb69e196b2b0fea315d93092fc223112a403855145348b05393b99e34c4c04"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "音频剪辑",
+  "description": "音频剪辑解锁会员",
+  "scope": [],
+  "text": "#!name=音频剪辑\n#!desc=音频剪辑解锁会员\n#!homepage=https://yfamily.ml\n#!author= 89996462\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ypjj.png\n\nhostname = buy.itunes.apple.com\n\n^https:\\/\\/buy\\.itunes\\.apple\\.com\\/verifyReceipt url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/ypjj.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

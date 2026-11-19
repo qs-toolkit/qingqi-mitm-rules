@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0650",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c43b1262c90ce33cc2b7a7c1ab65e2270f4462ca0f987facfd99fda7324088fa"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "翼支付",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "YiZhiFu",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6e240a1d80d4a5838aea4d576244218e9ee9aa54d9231f7a039cf8957061bc3b",
-  "author": "奶思",
-  "updatedAt": 1795094243608,
+  "revisionId": "c43b1262c90ce33cc2b7a7c1ab65e2270f4462ca0f987facfd99fda7324088fa",
+  "author": "fmz200",
+  "updatedAt": 1795094539273,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "6e240a1d80d4a5838aea4d576244218e9ee9aa54d9231f7a039cf8957061bc3b"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

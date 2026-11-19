@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0002",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "276678126012ca74f22ae944948e9f482e55e5af88b0285f129e269547bb8fcd"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "1.1.1.1配置管理.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "762eb64a488bc4ae0c900e9f96ccaf50a72047f1cc5272605053cd802d9fc7da",
+  "revisionId": "276678126012ca74f22ae944948e9f482e55e5af88b0285f129e269547bb8fcd",
   "author": "ClashModule",
-  "updatedAt": 1795094243459,
+  "updatedAt": 1795094539033,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "762eb64a488bc4ae0c900e9f96ccaf50a72047f1cc5272605053cd802d9fc7da"
-  ]
+  "homepage": ""
 }

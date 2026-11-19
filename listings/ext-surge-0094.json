@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0094",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "01de55efc8b8047527799a7197eb74e84e5600c0b3a2f318546ac2d35dddea92"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "YouTube翻译",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "e4ed7b34b87c2337dd35bf15c043d7b6c1066faf8f8ebcc82969a51dbe06cb7f",
+  "revisionId": "01de55efc8b8047527799a7197eb74e84e5600c0b3a2f318546ac2d35dddea92",
   "author": "ClashModule",
-  "updatedAt": 1795094243469,
+  "updatedAt": 1795094539047,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "e4ed7b34b87c2337dd35bf15c043d7b6c1066faf8f8ebcc82969a51dbe06cb7f"
-  ]
+  "homepage": ""
 }

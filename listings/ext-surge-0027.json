@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0027",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "d2fc7f943674f97070a1cc59c50031e80b4954bf1b33fa689392f9a12519b77a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Fileball网盘挂载",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4d56c54b1966c9fde4ed72208b37bcef1d98eb04b5571daf16ab9f87e6d8e95c",
+  "revisionId": "d2fc7f943674f97070a1cc59c50031e80b4954bf1b33fa689392f9a12519b77a",
   "author": "ClashModule",
-  "updatedAt": 1795094243462,
+  "updatedAt": 1795094539036,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "4d56c54b1966c9fde4ed72208b37bcef1d98eb04b5571daf16ab9f87e6d8e95c"
-  ]
+  "homepage": ""
 }

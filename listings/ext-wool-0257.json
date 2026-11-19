@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0257",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "09ddb70711ab0b849c72e6b91007fc15332a9bdfa0b5f3205a129bfcf1f9ea97"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "京东健康",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "JDHealth",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0190ec69b56152aff0369c2d68d6490d8b8d326f3382ceb00951f69c78e6b807",
-  "author": "奶思",
-  "updatedAt": 1795094243573,
+  "revisionId": "09ddb70711ab0b849c72e6b91007fc15332a9bdfa0b5f3205a129bfcf1f9ea97",
+  "author": "fmz200",
+  "updatedAt": 1795094539219,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "0190ec69b56152aff0369c2d68d6490d8b8d326f3382ceb00951f69c78e6b807"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0184",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "cbf3951c8c8f71a384d1cd7bd53ee2c290669a8c722e4fad7ede6be5ae13fe82"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "宝宝树孕育去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "f078cd759045ceecf06552cabd387881ed674b9ac26e3cbb563fbafbf10e26b4",
+  "revisionId": "cbf3951c8c8f71a384d1cd7bd53ee2c290669a8c722e4fad7ede6be5ae13fe82",
   "author": "ClashModule",
-  "updatedAt": 1795094243479,
+  "updatedAt": 1795094539060,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "f078cd759045ceecf06552cabd387881ed674b9ac26e3cbb563fbafbf10e26b4"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0530",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9bc65eb6671c4d7b7962cb27f6a32df6a5ce9a2565922b5f27cce730f32b3076"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "网易大神",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "NetEaseDashen",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e7dd46007cbdce20fc8d5fa39076dc4000f11b1ff0a57966bfe0cb996457ae4f",
-  "author": "奶思",
-  "updatedAt": 1795094243597,
+  "revisionId": "9bc65eb6671c4d7b7962cb27f6a32df6a5ce9a2565922b5f27cce730f32b3076",
+  "author": "fmz200",
+  "updatedAt": 1795094539256,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "e7dd46007cbdce20fc8d5fa39076dc4000f11b1ff0a57966bfe0cb996457ae4f"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

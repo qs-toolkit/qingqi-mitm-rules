@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0408",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b15624fd10efd48bff95f62e0beb692566c9086c00cd48552166c58590eb7994"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "节点测速.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "1365e9f24ebd222016dc61257538aa8394f83dedbab1d6baf292c8ebe7546d82",
+  "revisionId": "b15624fd10efd48bff95f62e0beb692566c9086c00cd48552166c58590eb7994",
   "author": "ClashModule",
-  "updatedAt": 1795094243504,
+  "updatedAt": 1795094539092,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "1365e9f24ebd222016dc61257538aa8394f83dedbab1d6baf292c8ebe7546d82"
-  ]
+  "homepage": ""
 }

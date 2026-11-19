@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0243",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "88b64a42b52fa750866654541b8808274680d4c9341812809b5e27acfffe3e7a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "虎牙直播",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "HuyaLive",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "96abee32ea87bdca237d3cc26a2b14bef8a6ddddab253610ca73dcd031cfe1b4",
-  "author": "奶思",
-  "updatedAt": 1795094243572,
+  "revisionId": "88b64a42b52fa750866654541b8808274680d4c9341812809b5e27acfffe3e7a",
+  "author": "fmz200",
+  "updatedAt": 1795094539217,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "96abee32ea87bdca237d3cc26a2b14bef8a6ddddab253610ca73dcd031cfe1b4"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0266",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "12a5d9998886cf10af50fcf48227016e414c32e254fa31bb2044ccf7979106db"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "掌上英雄联盟去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "76fb34fdfe5aa45fad70892d8a12d61d497979cdb395bbb0d90ebbab8329e35e",
+  "revisionId": "12a5d9998886cf10af50fcf48227016e414c32e254fa31bb2044ccf7979106db",
   "author": "ClashModule",
-  "updatedAt": 1795094243488,
+  "updatedAt": 1795094539073,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "76fb34fdfe5aa45fad70892d8a12d61d497979cdb395bbb0d90ebbab8329e35e"
-  ]
+  "homepage": ""
 }

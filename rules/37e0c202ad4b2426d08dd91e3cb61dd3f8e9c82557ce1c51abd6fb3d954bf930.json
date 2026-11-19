@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Faintv",
+  "description": "FainTV解锁会员去广告",
+  "scope": [],
+  "text": "#!name=FainTV\n#!desc=FainTV解锁会员去广告\n#!homepage=https://yfamily.ml\n#!author=\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/faintv.png\n\n\n^http:\\/\\/ftvn\\.hawsing\\.com\\.tw:3000\\/client\\/login url script-response-body https://raw.githubusercontent.com/sngxmini/crack/master/s7aa.cn/fatv.js\n\n\nhostname = ftvn.hawsing.com",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

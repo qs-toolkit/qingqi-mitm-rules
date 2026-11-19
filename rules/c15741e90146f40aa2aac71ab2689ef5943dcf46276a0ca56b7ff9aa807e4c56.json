@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "ZhongHuaWanNianLi",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=中华万年历\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partZ/ZhongHuaWanNianLi.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rule]\nDOMAIN-KEYWORD,lkme.cc, REJECT\nDOMAIN-KEYWORD,api.freed.so, REJECT\nDOMAIN-KEYWORD,log-dmp.suishenyun.cn, REJECT\nDOMAIN-KEYWORD,client-dmp.suishenyun.cn, REJECT\nDOMAIN-KEYWORD,pc.suishenyun.net, REJECT\nDOMAIN-KEYWORD,v0-client-lz.rili.cn, REJECT\nDOMAIN-SUFFIX, ad.51wnl.com, REJECT\nDOMAIN-SUFFIX, ad-android.51wnl.com, REJECT\nDOMAIN-SUFFIX, ad.51wnl-cq.com, REJECT\nDOMAIN-SUFFIX, adextra.51wnl-cq.com, REJECT\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

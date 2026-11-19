@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0486",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9125d3f5c35f8c9d911f17a893276e6abc29a1b784b0736831b49f0ec42c5a74"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "腾讯体育",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "TencentSports",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "49a53ef20cbfb18755750ae05ef41a0df94791db4d43ede8a1a7b3ab4ff68488",
-  "author": "奶思",
-  "updatedAt": 1795094243593,
+  "revisionId": "9125d3f5c35f8c9d911f17a893276e6abc29a1b784b0736831b49f0ec42c5a74",
+  "author": "fmz200",
+  "updatedAt": 1795094539251,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "49a53ef20cbfb18755750ae05ef41a0df94791db4d43ede8a1a7b3ab4ff68488"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

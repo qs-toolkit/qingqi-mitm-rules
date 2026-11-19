@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0026",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "99ed62e79fb88e84c84cc2acfc8a9830f8d745343b98d56e2b81f548ecd842e0"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "ColorWidgets小组件",
-  "description": "桌面小组件会员解锁 初次使用需点击恢复购买 · 来源 重写库",
+  "description": "桌面小组件会员解锁 初次使用需点击恢复购买",
   "scope": [],
-  "revisionId": "32329ee8adb660336c16c941d497e0e764d60fc97d67170e5eb166b060ebc8bf",
+  "revisionId": "99ed62e79fb88e84c84cc2acfc8a9830f8d745343b98d56e2b81f548ecd842e0",
   "author": "Marol62926",
-  "updatedAt": 1795094243518,
+  "updatedAt": 1795094539111,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": "",
-  "revisions": [
-    "32329ee8adb660336c16c941d497e0e764d60fc97d67170e5eb166b060ebc8bf"
-  ]
+  "homepage": ""
 }

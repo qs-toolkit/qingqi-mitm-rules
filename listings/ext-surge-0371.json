@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0371",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "bd286e2abae277c3f34b47cf3877f0a5e85a6ad2184189f31496b6da3b862a82"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "网易云音乐去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "3cb42ef402e91c57161a0b366a4803dc519fd9bba7e89b8d2c1ede5e394a931b",
+  "revisionId": "bd286e2abae277c3f34b47cf3877f0a5e85a6ad2184189f31496b6da3b862a82",
   "author": "ClashModule",
-  "updatedAt": 1795094243500,
+  "updatedAt": 1795094539088,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "3cb42ef402e91c57161a0b366a4803dc519fd9bba7e89b8d2c1ede5e394a931b"
-  ]
+  "homepage": ""
 }

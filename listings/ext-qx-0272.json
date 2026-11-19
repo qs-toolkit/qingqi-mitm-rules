@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0272",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "0df8b2c4530c86f4c925cb0dd9dc31674dce17f9f002fde4722a57f2de74f245"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "车来了(小程序)净化",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "5e3cdad13d4840d08cc62d26ff984651e7ed91a6accdb42e3f372693cbbc5c01",
+  "revisionId": "0df8b2c4530c86f4c925cb0dd9dc31674dce17f9f002fde4722a57f2de74f245",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243547,
+  "updatedAt": 1795094539145,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "5e3cdad13d4840d08cc62d26ff984651e7ed91a6accdb42e3f372693cbbc5c01"
-  ]
+  "homepage": ""
 }

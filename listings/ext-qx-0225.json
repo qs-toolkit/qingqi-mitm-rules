@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0225",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2a0b57f905e8b4b2e5c9414035789d5821f23f37c40714582f30224b860e5e3a"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "iScreen",
-  "description": "iScreen解锁会员 · 来源 重写库",
+  "description": "iScreen解锁会员",
   "scope": [],
-  "revisionId": "aac4fe84f645cbe703ebc0b93d8dce28c3c92a14915f879fd0d9c5c2ae314e93",
+  "revisionId": "2a0b57f905e8b4b2e5c9414035789d5821f23f37c40714582f30224b860e5e3a",
   "author": "89996462",
-  "updatedAt": 1795094243541,
+  "updatedAt": 1795094539138,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "aac4fe84f645cbe703ebc0b93d8dce28c3c92a14915f879fd0d9c5c2ae314e93"
-  ]
+  "homepage": ""
 }

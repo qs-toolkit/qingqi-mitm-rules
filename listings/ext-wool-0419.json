@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0419",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c87bc735ca7379ea2666be107470de93b09e909eb85b8e633d455a46a1c27057"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "去哪儿",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "Qunar",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "24c817b6ccda1b21570e25f10dd84e2605d5b588779b0cbc796a15e571fa3cc9",
-  "author": "奶思",
-  "updatedAt": 1795094243587,
+  "revisionId": "c87bc735ca7379ea2666be107470de93b09e909eb85b8e633d455a46a1c27057",
+  "author": "fmz200",
+  "updatedAt": 1795094539241,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "24c817b6ccda1b21570e25f10dd84e2605d5b588779b0cbc796a15e571fa3cc9"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

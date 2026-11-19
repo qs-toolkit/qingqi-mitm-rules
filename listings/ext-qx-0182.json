@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0182",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "5c9ea4fd5495dacd67f2fb960332b5881404b1d8a81e48abc467d4bd58ce1b99"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Agenda",
-  "description": "Agenda解锁会员 · 来源 重写库",
+  "description": "Agenda解锁会员",
   "scope": [],
-  "revisionId": "2c6698d22bb805fa31f0178fdce91fd112a8fd923696da8e8350b3bdd0b1d968",
+  "revisionId": "5c9ea4fd5495dacd67f2fb960332b5881404b1d8a81e48abc467d4bd58ce1b99",
   "author": "Alex0510",
-  "updatedAt": 1795094243537,
+  "updatedAt": 1795094539132,
   "targets": [],
   "upstream": "Alex0510",
-  "homepage": "",
-  "revisions": [
-    "2c6698d22bb805fa31f0178fdce91fd112a8fd923696da8e8350b3bdd0b1d968"
-  ]
+  "homepage": ""
 }

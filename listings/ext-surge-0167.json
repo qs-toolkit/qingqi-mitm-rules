@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0167",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "32facb1b760e22776b531b5eb57e114b5b1c231130c6a993342bb1a08adee9f9"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "喜马拉雅去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "dd377e2bd9fe1bbe352d6b6884b70fa2c9fe48907a35a0c04b7880eff0ec2765",
+  "revisionId": "32facb1b760e22776b531b5eb57e114b5b1c231130c6a993342bb1a08adee9f9",
   "author": "ClashModule",
-  "updatedAt": 1795094243477,
+  "updatedAt": 1795094539057,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "dd377e2bd9fe1bbe352d6b6884b70fa2c9fe48907a35a0c04b7880eff0ec2765"
-  ]
+  "homepage": ""
 }

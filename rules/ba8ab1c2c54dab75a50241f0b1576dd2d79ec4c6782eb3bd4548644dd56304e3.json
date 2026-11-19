@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "图图记账解锁",
+  "description": "图图记账解锁永久高级版",
+  "scope": [],
+  "text": "#!name=图图记账\n#!desc=图图记账解锁永久高级版\n#!homepage=https://yfamily.ml\n#!author=yqc007\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/tutu.png\n\n\nhostname=api.revenuecat.com\n\n\n^https?:\\/\\/api\\.revenuecat\\.com\\/v1\\/(receipts|subscribers\\/\\$RCAnonymousID%3A\\w{32})$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/ToToWalletFProCrack.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

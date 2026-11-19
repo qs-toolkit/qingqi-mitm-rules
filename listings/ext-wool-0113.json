@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0113",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b94cd881e5af010d4b09eed19689a120d32410a1e153473be8808d58cdcdb05c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "懂球帝",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "AllFootball",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "56ad3a4841e83fece3aad13f2f585a3783881b5595cee60ed6d04b22f0c2f16e",
-  "author": "奶思",
-  "updatedAt": 1795094243560,
+  "revisionId": "b94cd881e5af010d4b09eed19689a120d32410a1e153473be8808d58cdcdb05c",
+  "author": "fmz200",
+  "updatedAt": 1795094539197,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "56ad3a4841e83fece3aad13f2f585a3783881b5595cee60ed6d04b22f0c2f16e"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

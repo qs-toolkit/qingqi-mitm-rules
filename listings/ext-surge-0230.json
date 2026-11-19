@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0230",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "bb7fed38ba5cd7516f864e497d3b0dcf6b96d64e885d48c55b53db888052128d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "微信阅读精简.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "928e93494a993aa5405bea66b567fffe6d14bd1465769dd1c4fd965c33732293",
+  "revisionId": "bb7fed38ba5cd7516f864e497d3b0dcf6b96d64e885d48c55b53db888052128d",
   "author": "ClashModule",
-  "updatedAt": 1795094243484,
+  "updatedAt": 1795094539068,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "928e93494a993aa5405bea66b567fffe6d14bd1465769dd1c4fd965c33732293"
-  ]
+  "homepage": ""
 }

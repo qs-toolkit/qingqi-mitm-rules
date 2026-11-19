@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0298",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c4482c5c566ae4037ef7966c908c795678da5cf2163a3a72a59c013a581f90f6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "General",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写",
   "scope": [],
-  "revisionId": "69ccc36d0b9f42d76cf3be17f74185d908c673a60d3c87f3b402909b58008902",
+  "revisionId": "c4482c5c566ae4037ef7966c908c795678da5cf2163a3a72a59c013a581f90f6",
   "author": "ddgksf2013",
-  "updatedAt": 1795094243550,
+  "updatedAt": 1795094539149,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "69ccc36d0b9f42d76cf3be17f74185d908c673a60d3c87f3b402909b58008902"
-  ]
+  "homepage": ""
 }

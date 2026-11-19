@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0255",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fc3bb730d616f7da7c3ada443159b6f523efaaa2b36914ffa1c0deab19d8b136"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "拦截HTTPDNS",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "7fbcb86e07e3c2dd10cd58454814e6f5b4bd170b91b59f67760d5b3a202dc158",
+  "revisionId": "fc3bb730d616f7da7c3ada443159b6f523efaaa2b36914ffa1c0deab19d8b136",
   "author": "ClashModule",
-  "updatedAt": 1795094243487,
+  "updatedAt": 1795094539071,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "7fbcb86e07e3c2dd10cd58454814e6f5b4bd170b91b59f67760d5b3a202dc158"
-  ]
+  "homepage": ""
 }

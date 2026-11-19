@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0379",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "860049590b0c7fef1c5f701d4b382bbe055f572abe79df5789b231b73e5413bf"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "网易邮箱大师去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "01fcb21d137ca7d2dd4bbf2a66451604c5f37bdfb51fd3a30b5ccce49b762edc",
+  "revisionId": "860049590b0c7fef1c5f701d4b382bbe055f572abe79df5789b231b73e5413bf",
   "author": "ClashModule",
-  "updatedAt": 1795094243501,
+  "updatedAt": 1795094539089,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "01fcb21d137ca7d2dd4bbf2a66451604c5f37bdfb51fd3a30b5ccce49b762edc"
-  ]
+  "homepage": ""
 }

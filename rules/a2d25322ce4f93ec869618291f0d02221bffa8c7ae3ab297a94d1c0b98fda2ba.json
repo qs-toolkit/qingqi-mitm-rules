@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "12306去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=12306去广告\n#!desc=过滤12306应用内广告及开屏广告\n#!author=RuCu6[https://github.com/RuCu6]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/12306.png\n#!category=iKeLee\n#!openUrl=https://apps.apple.com/app/id564818797\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-05-13 15:17:08\n\n[Rule]\nDOMAIN,ad.12306.cn,DIRECT,extended-matching\n\n[Script]\n移除12306开屏广告 = type=http-request, pattern=^https:\\/\\/ad\\.12306\\.cn\\/ad\\/ser\\/getAdList$, script-path=https://kelee.one/Resource/JavaScript/12306/12306_remove_splashscreen_ads.js, requires-body=true\n\n移除12306应用内广告 = type=http-request, pattern=^https:\\/\\/mobile\\.12306\\.cn\\/otsmobile\\/app\\/mgs\\/mgw\\.htm$, script-path=https://kelee.one/Resource/JavaScript/12306/12306_remove_ads.js\n\n[MITM]\nhostname = %APPEND% ad.12306.cn, mobile.12306.cn\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

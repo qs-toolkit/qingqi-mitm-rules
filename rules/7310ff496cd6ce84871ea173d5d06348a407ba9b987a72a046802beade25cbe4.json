@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "❌Notboring解锁",
+  "description": "Notboring天气+闹钟+习惯解锁",
+  "scope": [],
+  "text": "#!name=Notboring套装\n#!desc=Notboring天气+闹钟+习惯解锁\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/notboring.png\n#!homepage=https://yfamily.ml\n#!author=Marol62926\n\n\n^https?:\\/\\/api-weather\\.andy\\.works\\/v\\d\\/\\w{18}$ url script-response-body https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/NotBoring/Script/NotBoring.js\n\n\nhostname= api-weather.andy.works\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

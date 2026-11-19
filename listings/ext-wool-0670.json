@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0670",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c7174ea55a46ae6308b1b227e6366fea71a3c32382b8ed1e68a09d9ac21abbed"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "育学园",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "YuXueYuan",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "95c1e55e73c091998993c96f3b4e9211663af8fb7ff2b2f2c2baf04304ba0200",
-  "author": "奶思",
-  "updatedAt": 1795094243610,
+  "revisionId": "c7174ea55a46ae6308b1b227e6366fea71a3c32382b8ed1e68a09d9ac21abbed",
+  "author": "fmz200",
+  "updatedAt": 1795094539276,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "95c1e55e73c091998993c96f3b4e9211663af8fb7ff2b2f2c2baf04304ba0200"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

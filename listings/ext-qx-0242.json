@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0242",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "e26f03a0178dc849905b3fae59b5101a3c519e22426225fce0ffe3008f708525"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Vivacut",
-  "description": "Vivacut解锁会员 · 来源 重写库",
+  "description": "Vivacut解锁会员",
   "scope": [],
-  "revisionId": "e18348d1a35f07b119af1847f4adcc443dddcc4abf8cd534ae47e4ac7f0bdef6",
+  "revisionId": "e26f03a0178dc849905b3fae59b5101a3c519e22426225fce0ffe3008f708525",
   "author": "89996462",
-  "updatedAt": 1795094243543,
+  "updatedAt": 1795094539140,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "e18348d1a35f07b119af1847f4adcc443dddcc4abf8cd534ae47e4ac7f0bdef6"
-  ]
+  "homepage": ""
 }

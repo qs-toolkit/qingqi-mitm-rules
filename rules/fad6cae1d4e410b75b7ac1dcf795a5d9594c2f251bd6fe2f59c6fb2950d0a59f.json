@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Symbolab Pro",
+  "description": "Symbolab Pro",
+  "scope": [],
+  "text": "#!name=Symbolab\n#!desc=Symbolab Pro\n#!homepage=https://yfamily.ml\n#!author=ddgksf2013\n#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/symbolab.png\n\n^https?:\\/\\/appraven\\.net\\/AppRaven\\/(app|social|buy) url script-response-body https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/appraven.js\n\nhostname=scibug.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

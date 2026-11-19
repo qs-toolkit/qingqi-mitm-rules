@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0702",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "42aa0fe5520ce0da031556571a9424e005d1d4a56025cd1426bf0043a90e2e2e"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "掌上公交",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ZhangShangGongJiao",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "24a69b5f6f0c409ebab8c95e34e7fbd9b5ef272786bef819a92a0d5e8d4f86ef",
-  "author": "奶思",
-  "updatedAt": 1795094243613,
+  "revisionId": "42aa0fe5520ce0da031556571a9424e005d1d4a56025cd1426bf0043a90e2e2e",
+  "author": "fmz200",
+  "updatedAt": 1795094539281,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "24a69b5f6f0c409ebab8c95e34e7fbd9b5ef272786bef819a92a0d5e8d4f86ef"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

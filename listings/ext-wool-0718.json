@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0718",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "2ae3e5ba1693c4578c7bc400df7f6f5c2fa04760eb749578a2f8f2572dbbdc4c"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "中通快递",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "ZhongTongExpress",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6ef2ddc28be73b23c6f1201c1065cc12347cf285bd9111e367e5727cb0410397",
-  "author": "奶思",
-  "updatedAt": 1795094243614,
+  "revisionId": "2ae3e5ba1693c4578c7bc400df7f6f5c2fa04760eb749578a2f8f2572dbbdc4c",
+  "author": "fmz200",
+  "updatedAt": 1795094539283,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "6ef2ddc28be73b23c6f1201c1065cc12347cf285bd9111e367e5727cb0410397"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

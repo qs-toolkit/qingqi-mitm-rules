@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "美图秀秀去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=美图秀秀去广告\n#!desc=移除开屏广告、横幅推广，精简我的页面。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeiTu.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id416048305\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-08-31 18:06:06\n\n[Rule]\nDOMAIN,adui.tg.meitu.com,REJECT,extended-matching,pre-matching\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/api\\.posters\\.meitu\\.com\\/common\\/init\\.json 'delpaths([[\"data\",\"vip\"]])'\n\n[MITM]\nhostname = %APPEND% api.posters.meitu.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

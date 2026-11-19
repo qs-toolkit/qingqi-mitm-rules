@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "有道翻译官去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=有道翻译官去广告\n#!desc=移除开屏广告、横幅推广，精简首页。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YoudaoTrans.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id576337924\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2026-02-27 09:59:20\n\n[Map Local]\n^https:\\/\\/gorgon\\.youdao\\.com\\/gorgon\\/v2\\/request\\.s data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/gorgon\\.youdao\\.com\\/gorgon\\/brand\\/prefetch\\.s data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/gorgon\\.youdao\\.com\\/gorgon\\/request\\.s data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/fanyiguan-server\\.youdao\\.com\\/server\\/banner\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/dict\\.youdao\\.com\\/wordbook\\/recommend\\?all=false data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n^https:\\/\\/api-overmind\\.youdao\\.com\\/openapi\\/get\\/luna\\/dict\\/trans_abtest\\/online\\/iOS\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% gorgon.youdao.com, fanyiguan-server.youdao.com, api-overmind.youdao.com\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

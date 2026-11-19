@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0262",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "91e4c28f7d2bd8c01ba06d11b9aea38a8f08d29fd52978f255978c4b28cc1efb"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "字体册",
-  "description": "字体册解锁会员 · 来源 重写库",
+  "description": "字体册解锁会员",
   "scope": [],
-  "revisionId": "990ad3c83da9486b7ac5406774644f9392e5387906e20f722e238514f459ae3e",
+  "revisionId": "91e4c28f7d2bd8c01ba06d11b9aea38a8f08d29fd52978f255978c4b28cc1efb",
   "author": "89996462",
-  "updatedAt": 1795094243545,
+  "updatedAt": 1795094539143,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "990ad3c83da9486b7ac5406774644f9392e5387906e20f722e238514f459ae3e"
-  ]
+  "homepage": ""
 }

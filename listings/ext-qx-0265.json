@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0265",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "02983e94c216f865697d18a482d232f8ad761e150096670a315c7f162fb603de"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "阿里云盘签到",
-  "description": "阿里云盘定时签到 · 来源 重写库",
+  "description": "阿里云盘定时签到",
   "scope": [],
-  "revisionId": "e755b0b10c1cfc3574016658710546bdaf3dfd77bec086445dd5d0dede311893",
+  "revisionId": "02983e94c216f865697d18a482d232f8ad761e150096670a315c7f162fb603de",
   "author": "lowking",
-  "updatedAt": 1795094243546,
+  "updatedAt": 1795094539143,
   "targets": [],
   "upstream": "lowking",
-  "homepage": "",
-  "revisions": [
-    "e755b0b10c1cfc3574016658710546bdaf3dfd77bec086445dd5d0dede311893"
-  ]
+  "homepage": ""
 }

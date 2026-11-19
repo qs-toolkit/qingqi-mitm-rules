@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0077",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "85f4d0675bbaca976c90635eb958850815f3ac9010f95e98b57905e0c7b93143"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "哔哩哔哩漫画",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BilibiliComics",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fafc455499fce0fe02fabe5b3e229a530bcb8d07db3dfdfcae9a692d22a351ac",
-  "author": "奶思",
-  "updatedAt": 1795094243557,
+  "revisionId": "85f4d0675bbaca976c90635eb958850815f3ac9010f95e98b57905e0c7b93143",
+  "author": "fmz200",
+  "updatedAt": 1795094539192,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "fafc455499fce0fe02fabe5b3e229a530bcb8d07db3dfdfcae9a692d22a351ac"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

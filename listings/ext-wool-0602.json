@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0602",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "1b27457eddbbe6de494e45f66275410a06050240ecaa883157bd6303a5b4fcf6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "小米金融",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "XiaomiFinance",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e63e636ee28b62bbb4f6c0f0383670560f4e293338d9ea3ef644628ea7f2f452",
-  "author": "奶思",
-  "updatedAt": 1795094243604,
+  "revisionId": "1b27457eddbbe6de494e45f66275410a06050240ecaa883157bd6303a5b4fcf6",
+  "author": "fmz200",
+  "updatedAt": 1795094539267,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "e63e636ee28b62bbb4f6c0f0383670560f4e293338d9ea3ef644628ea7f2f452"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

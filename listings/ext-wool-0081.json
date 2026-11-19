@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0081",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "45f93687396338edefd4d8bd03f1dc373de1b9be99a9f20bd7a7c534805d24d6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "波点音乐",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "BoDianMusic",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2927dcb39967e30c3d8cffad51fe2dd72875e3e09cf5a1e0f639aa8d2735d19c",
-  "author": "奶思",
-  "updatedAt": 1795094243558,
+  "revisionId": "45f93687396338edefd4d8bd03f1dc373de1b9be99a9f20bd7a7c534805d24d6",
+  "author": "fmz200",
+  "updatedAt": 1795094539192,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "2927dcb39967e30c3d8cffad51fe2dd72875e3e09cf5a1e0f639aa8d2735d19c"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

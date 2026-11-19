@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0218",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "a41f924e2c60a35a53b4f9f1e15eeda8c3a446abf4cf0a812afb601e50249334"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "咖映",
-  "description": "咖映会员解锁 · 来源 重写库",
+  "description": "咖映会员解锁",
   "scope": [],
-  "revisionId": "c07b96819085c837996ccf8d58098ddd95cb2ef0b7faed2d2570dbbfe96390e9",
+  "revisionId": "a41f924e2c60a35a53b4f9f1e15eeda8c3a446abf4cf0a812afb601e50249334",
   "author": "89996462",
-  "updatedAt": 1795094243540,
+  "updatedAt": 1795094539137,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "c07b96819085c837996ccf8d58098ddd95cb2ef0b7faed2d2570dbbfe96390e9"
-  ]
+  "homepage": ""
 }

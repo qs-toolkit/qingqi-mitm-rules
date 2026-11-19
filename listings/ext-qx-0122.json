@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0122",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "c23495eeaf195bf7bac58ad3296a75cf552729265f19ad0ec551b8441cec6167"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "语文趣配音解锁会员",
-  "description": "语文趣配音解锁会员 · 来源 重写库",
+  "description": "语文趣配音解锁会员",
   "scope": [],
-  "revisionId": "670c92e41cd6234d9d95d118d1271d5b55f74fcba6bd87b79b0f2902e97b0216",
+  "revisionId": "c23495eeaf195bf7bac58ad3296a75cf552729265f19ad0ec551b8441cec6167",
   "author": "lutqhysky",
-  "updatedAt": 1795094243528,
+  "updatedAt": 1795094539123,
   "targets": [],
   "upstream": "lutqhysky",
-  "homepage": "",
-  "revisions": [
-    "670c92e41cd6234d9d95d118d1271d5b55f74fcba6bd87b79b0f2902e97b0216"
-  ]
+  "homepage": ""
 }

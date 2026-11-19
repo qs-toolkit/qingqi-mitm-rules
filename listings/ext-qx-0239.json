@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0239",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "4d2a16c28c10943c63b457ba7d05099e1abae2fbc436a82eed31f02723c1add6"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "可拍",
-  "description": "可拍解锁会员 · 来源 重写库",
+  "description": "可拍解锁会员",
   "scope": [],
-  "revisionId": "dc9abfcfc56fe44b331c9074f32f29e7d917d48ea5f3dba6286d2aea0b101897",
+  "revisionId": "4d2a16c28c10943c63b457ba7d05099e1abae2fbc436a82eed31f02723c1add6",
   "author": "89996462",
-  "updatedAt": 1795094243543,
+  "updatedAt": 1795094539139,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "dc9abfcfc56fe44b331c9074f32f29e7d917d48ea5f3dba6286d2aea0b101897"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0103",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "cdcd2f1bc27647b77ef16b5983a45ba032e500008238c211ac07dd673298b1a8"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "第一弹解锁",
-  "description": "第一弹去广告+原画 · 来源 重写库",
+  "description": "第一弹去广告+原画",
   "scope": [],
-  "revisionId": "311a03d82f87b6e605da3cd3b3fe2d23600100a94e13a8c365e69de5fa566d22",
+  "revisionId": "cdcd2f1bc27647b77ef16b5983a45ba032e500008238c211ac07dd673298b1a8",
   "author": "MiaoMiao",
-  "updatedAt": 1795094243526,
+  "updatedAt": 1795094539121,
   "targets": [],
   "upstream": "MiaoMiao",
-  "homepage": "",
-  "revisions": [
-    "311a03d82f87b6e605da3cd3b3fe2d23600100a94e13a8c365e69de5fa566d22"
-  ]
+  "homepage": ""
 }

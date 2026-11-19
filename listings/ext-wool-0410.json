@@ -1,19 +1,19 @@
 {
   "listingId": "ext-wool-0410",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "9788796a7c7fea4a9c8e94688f23bdb60a2dc896d875ca763053aa4e29ff9dc1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "汽水音乐",
-  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "name": "QiShuiMusic",
+  "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9d0b86e6e00c94f1299816f8f88d949357612b1f41e13b0032a4efc5c57f3a3d",
-  "author": "奶思",
-  "updatedAt": 1795094243586,
+  "revisionId": "9788796a7c7fea4a9c8e94688f23bdb60a2dc896d875ca763053aa4e29ff9dc1",
+  "author": "fmz200",
+  "updatedAt": 1795094539240,
   "targets": [],
-  "upstream": "奶思",
-  "homepage": "",
-  "revisions": [
-    "9d0b86e6e00c94f1299816f8f88d949357612b1f41e13b0032a4efc5c57f3a3d"
-  ]
+  "upstream": "fmz200",
+  "homepage": ""
 }

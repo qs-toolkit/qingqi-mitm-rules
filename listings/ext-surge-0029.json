@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0029",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "34e754b699df01a40abdd8feb72e25e7999387de02bae85503d4837f401c181d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Follow每日签到",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "5981c80ef028d33e1f5334ace975c1cefe938b46b1ef177e9c70050f4850c9ad",
+  "revisionId": "34e754b699df01a40abdd8feb72e25e7999387de02bae85503d4837f401c181d",
   "author": "ClashModule",
-  "updatedAt": 1795094243462,
+  "updatedAt": 1795094539037,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "5981c80ef028d33e1f5334ace975c1cefe938b46b1ef177e9c70050f4850c9ad"
-  ]
+  "homepage": ""
 }

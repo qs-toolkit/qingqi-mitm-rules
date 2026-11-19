@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0075",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "075d1bbfacb94f15ed96caedcbd1444940fe5df4b2e7db62c23939be5432209d"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "Surge 启动时长.official",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8f2b8876f2d6594e549e50025e4fd25d99fe84d43d9bedb3803b2e656d23775f",
+  "revisionId": "075d1bbfacb94f15ed96caedcbd1444940fe5df4b2e7db62c23939be5432209d",
   "author": "ClashModule",
-  "updatedAt": 1795094243467,
+  "updatedAt": 1795094539044,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "8f2b8876f2d6594e549e50025e4fd25d99fe84d43d9bedb3803b2e656d23775f"
-  ]
+  "homepage": ""
 }

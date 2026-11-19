@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0153",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "fad86c87678db29a32f5458bdb92575bc73dd605165fd9f52bf06fdf2e4f1793"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "微信读书免费卡解锁",
-  "description": "微信读书无限卡解锁 version:6.0.1/5.4.3 · 来源 重写库",
+  "description": "微信读书无限卡解锁 version:6.0.1/5.4.3",
   "scope": [],
-  "revisionId": "a128752afe0a14c519153bf7f6f3e22c7078a7660832dd3ba4c702d17e6b1622",
+  "revisionId": "fad86c87678db29a32f5458bdb92575bc73dd605165fd9f52bf06fdf2e4f1793",
   "author": "89996462",
-  "updatedAt": 1795094243534,
+  "updatedAt": 1795094539128,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "a128752afe0a14c519153bf7f6f3e22c7078a7660832dd3ba4c702d17e6b1622"
-  ]
+  "homepage": ""
 }

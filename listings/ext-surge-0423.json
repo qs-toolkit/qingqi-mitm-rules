@@ -1,19 +1,19 @@
 {
   "listingId": "ext-surge-0423",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "04ecbf720f905767ac9ec32fd5cdecef0390f97f36f9275dcfdb690fd8d3ca22"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "蜻蜓FM去广告",
-  "description": "Surge 模块 · 来源 Surge",
+  "description": "Surge 模块",
   "scope": [],
-  "revisionId": "1e833b357dfb36b37ae519621c1b96b68f4e5ac3518d461cd69591b20d29320b",
+  "revisionId": "04ecbf720f905767ac9ec32fd5cdecef0390f97f36f9275dcfdb690fd8d3ca22",
   "author": "ClashModule",
-  "updatedAt": 1795094243506,
+  "updatedAt": 1795094539095,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": "",
-  "revisions": [
-    "1e833b357dfb36b37ae519621c1b96b68f4e5ac3518d461cd69591b20d29320b"
-  ]
+  "homepage": ""
 }

@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0279",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "b3ba714301252e22b863d221383844e751f61aabe6d29c38fa932aa30fc882c1"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "网易邮箱大师净化",
-  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · Quantumult X",
   "scope": [],
-  "revisionId": "913b6808d6a5dac24cabd08bfe7b8fa3ae6ae481ff1e6959d295fe1e769bd3e4",
+  "revisionId": "b3ba714301252e22b863d221383844e751f61aabe6d29c38fa932aa30fc882c1",
   "author": "@ddgksf2013",
-  "updatedAt": 1795094243548,
+  "updatedAt": 1795094539146,
   "targets": [],
   "upstream": "@ddgksf2013",
-  "homepage": "",
-  "revisions": [
-    "913b6808d6a5dac24cabd08bfe7b8fa3ae6ae481ff1e6959d295fe1e769bd3e4"
-  ]
+  "homepage": ""
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "JiuCaiGongShe",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=韭菜公社\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partJ/JiuCaiGongShe.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#############################################\n\n\n[Rewrite]\n# 开屏广告干净了,有小部分误杀\n#^https?:\\/\\/jiucaigongshe\\.oss-cn-beijing\\.aliyuncs\\.com\\/.*.png reject-200\n# 开屏倒计时还在,没有误杀\n#^https?:\\/\\/jiucaigongshe\\.oss-cn-beijing\\.aliyuncs\\.com\\/[A-Z0-9]{8}-[A-Z0-9]{4}-[A-Z0-9]{4}-[A-Z0-9]{4}-[A-Z0-9]{12}\\.png reject-200\n\n\n[MITM]\nhostname = jiucaigongshe.oss-cn-beijing.aliyuncs.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

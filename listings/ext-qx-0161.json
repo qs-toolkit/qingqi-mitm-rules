@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0161",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "64a9ae980ac429bfe728aec89683d9cc262d6cf5608b5871d90d3c1e9b2517e8"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "阿布睡前故事",
-  "description": "阿布睡前故事解锁会员 · 来源 重写库",
+  "description": "阿布睡前故事解锁会员",
   "scope": [],
-  "revisionId": "d135a755550c6cf5cefd1002fcb4b79e398ad45fbb91299cb70962e27d63ea03",
+  "revisionId": "64a9ae980ac429bfe728aec89683d9cc262d6cf5608b5871d90d3c1e9b2517e8",
   "author": "89996462",
-  "updatedAt": 1795094243535,
+  "updatedAt": 1795094539129,
   "targets": [],
   "upstream": "89996462",
-  "homepage": "",
-  "revisions": [
-    "d135a755550c6cf5cefd1002fcb4b79e398ad45fbb91299cb70962e27d63ea03"
-  ]
+  "homepage": ""
 }

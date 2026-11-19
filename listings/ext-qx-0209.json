@@ -1,19 +1,19 @@
 {
   "listingId": "ext-qx-0209",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "revisions": [
+    "f4fa327a79596ea8a47af4a37bad3d680eba480389b35a87dace7f53fad49fd5"
+  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "叮叮水印相机",
-  "description": "叮叮水印相机解锁会员 · 来源 重写库",
+  "description": "叮叮水印相机解锁会员",
   "scope": [],
-  "revisionId": "89d729217f953fd423abcdb3bcae7f8e088306131c051d4a6147c49893a9497e",
+  "revisionId": "f4fa327a79596ea8a47af4a37bad3d680eba480389b35a87dace7f53fad49fd5",
   "author": "Alex0510",
-  "updatedAt": 1795094243540,
+  "updatedAt": 1795094539136,
   "targets": [],
   "upstream": "Alex0510",
-  "homepage": "",
-  "revisions": [
-    "89d729217f953fd423abcdb3bcae7f8e088306131c051d4a6147c49893a9497e"
-  ]
+  "homepage": ""
 }
