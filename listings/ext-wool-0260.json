@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0260",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "12959f65412523ed4d537529112d1b4fe9926fc6112a2a354bfb229555a86f74"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "JiHeWang",
+  "name": "机核网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "12959f65412523ed4d537529112d1b4fe9926fc6112a2a354bfb229555a86f74",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539219,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "12959f65412523ed4d537529112d1b4fe9926fc6112a2a354bfb229555a86f74"
+  ]
 }

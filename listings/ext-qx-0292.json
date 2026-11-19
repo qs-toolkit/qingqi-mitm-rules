@@ -1,9 +1,6 @@
 {
   "listingId": "ext-qx-0292",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "9af51323741760a95cebc59866b425baa4d39a09b57faaea6e9a7a9e60c47797"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539148,
   "targets": [],
   "upstream": "Skyxim",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "9af51323741760a95cebc59866b425baa4d39a09b57faaea6e9a7a9e60c47797"
+  ]
 }

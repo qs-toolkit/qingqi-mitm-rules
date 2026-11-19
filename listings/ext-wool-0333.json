@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0333",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "508997753585ebb39935ef860c3b36bf5123005141e8b95f069737354b69f3ad"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Maimai",
+  "name": "脉脉",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "508997753585ebb39935ef860c3b36bf5123005141e8b95f069737354b69f3ad",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539230,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "508997753585ebb39935ef860c3b36bf5123005141e8b95f069737354b69f3ad"
+  ]
 }

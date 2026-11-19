@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0183",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "5bd556748b3328203bc2978b4d379fbcc9f86d1d385da6b1a5ad844411474110"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "多重搜索",
+  "name": "MultiSearch",
   "description": "多重搜索",
   "scope": [],
   "revisionId": "5bd556748b3328203bc2978b4d379fbcc9f86d1d385da6b1a5ad844411474110",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539132,
   "targets": [],
   "upstream": "deezertidal",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "5bd556748b3328203bc2978b4d379fbcc9f86d1d385da6b1a5ad844411474110"
+  ]
 }

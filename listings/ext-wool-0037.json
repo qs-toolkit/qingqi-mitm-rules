@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0037",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b6f62a0ea87594a681913250ea806384c637c91a8469d380d6fea6ad75f57eb8"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AiSiAssistant",
+  "name": "爱思助手",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b6f62a0ea87594a681913250ea806384c637c91a8469d380d6fea6ad75f57eb8",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539186,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b6f62a0ea87594a681913250ea806384c637c91a8469d380d6fea6ad75f57eb8"
+  ]
 }

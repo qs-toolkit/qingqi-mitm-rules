@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0691",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1ee8ff12f43376d0263c0ea1e8c133a7526a2524f035a8fab239580f8b987f2e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ChinaMobile",
+  "name": "中国移动",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "1ee8ff12f43376d0263c0ea1e8c133a7526a2524f035a8fab239580f8b987f2e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539279,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "1ee8ff12f43376d0263c0ea1e8c133a7526a2524f035a8fab239580f8b987f2e"
+  ]
 }

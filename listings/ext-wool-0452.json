@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0452",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "7e6e695fadb1f0e30e73a0b1f51962d14d5d621d0c908b962eede6f3a49a49db"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ShuQiNovel",
+  "name": "书旗小说",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "7e6e695fadb1f0e30e73a0b1f51962d14d5d621d0c908b962eede6f3a49a49db",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539246,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "7e6e695fadb1f0e30e73a0b1f51962d14d5d621d0c908b962eede6f3a49a49db"
+  ]
 }

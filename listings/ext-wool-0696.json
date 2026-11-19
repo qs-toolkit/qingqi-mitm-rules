@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0696",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2e976e3b24db5a8c4ce9b8093adc725a8750b016e70944f25d48f925d205e6d4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "PICC",
+  "name": "中国人保",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2e976e3b24db5a8c4ce9b8093adc725a8750b016e70944f25d48f925d205e6d4",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539280,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2e976e3b24db5a8c4ce9b8093adc725a8750b016e70944f25d48f925d205e6d4"
+  ]
 }

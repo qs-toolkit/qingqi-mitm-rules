@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0590",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "effdbbe58a76d2f096aee71f4e3a9c83e7e561665e1fa0fda603a4610c25cb21"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaoShuiMian",
+  "name": "小睡眠",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "effdbbe58a76d2f096aee71f4e3a9c83e7e561665e1fa0fda603a4610c25cb21",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539265,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "effdbbe58a76d2f096aee71f4e3a9c83e7e561665e1fa0fda603a4610c25cb21"
+  ]
 }

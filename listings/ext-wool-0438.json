@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0438",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "28761058fddda9152d918389605f059d52fe07ea6f65b73c86560bbd9f5bd6e9"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SanLianZhongDu",
+  "name": "三联中读",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "28761058fddda9152d918389605f059d52fe07ea6f65b73c86560bbd9f5bd6e9",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539244,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "28761058fddda9152d918389605f059d52fe07ea6f65b73c86560bbd9f5bd6e9"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0455",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c5b3a6883c30c041722144961bbc49c308779a13551a236b0cb78a474526271a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SichuanAirlines",
+  "name": "四川航空",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c5b3a6883c30c041722144961bbc49c308779a13551a236b0cb78a474526271a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539247,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c5b3a6883c30c041722144961bbc49c308779a13551a236b0cb78a474526271a"
+  ]
 }

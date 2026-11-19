@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0267",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "7f44f7a528daef3662f4804ee3f7f048f8990a98b1ac214094af9d00520e502e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "JieMianNews",
+  "name": "界面新闻",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "7f44f7a528daef3662f4804ee3f7f048f8990a98b1ac214094af9d00520e502e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539220,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "7f44f7a528daef3662f4804ee3f7f048f8990a98b1ac214094af9d00520e502e"
+  ]
 }

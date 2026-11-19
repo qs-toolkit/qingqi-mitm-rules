@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0050",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "cf8f747b7a03db14af3c2cd588a54a77f912682a5b6f44c6ef851ac72a9c6e61"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "OnStar",
+  "name": "安吉星",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "cf8f747b7a03db14af3c2cd588a54a77f912682a5b6f44c6ef851ac72a9c6e61",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539188,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "cf8f747b7a03db14af3c2cd588a54a77f912682a5b6f44c6ef851ac72a9c6e61"
+  ]
 }

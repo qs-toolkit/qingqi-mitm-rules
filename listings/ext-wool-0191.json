@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0191",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c6b1e1c6a5a47516df20400bae6ea4e5a7e139e98a4d41394ad3ecb65a8df1d0"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GuahaoWangWeiyi",
+  "name": "挂号网（微医）",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c6b1e1c6a5a47516df20400bae6ea4e5a7e139e98a4d41394ad3ecb65a8df1d0",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539208,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c6b1e1c6a5a47516df20400bae6ea4e5a7e139e98a4d41394ad3ecb65a8df1d0"
+  ]
 }

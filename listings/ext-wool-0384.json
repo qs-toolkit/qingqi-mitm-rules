@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0384",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c0781bbba5300c26714989f40bcd977bddbdc898f8d5e54c5899e2d20dd40fac"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "PiPiGaoXiao",
+  "name": "皮皮搞笑",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c0781bbba5300c26714989f40bcd977bddbdc898f8d5e54c5899e2d20dd40fac",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539236,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c0781bbba5300c26714989f40bcd977bddbdc898f8d5e54c5899e2d20dd40fac"
+  ]
 }

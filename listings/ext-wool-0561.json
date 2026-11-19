@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0561",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "afe79ef20e16133b9b4d62a033d3bb3e7d23b6320c6eced7db7d48869e9e2b4b"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Ctrip",
+  "name": "携程",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "afe79ef20e16133b9b4d62a033d3bb3e7d23b6320c6eced7db7d48869e9e2b4b",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539261,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "afe79ef20e16133b9b4d62a033d3bb3e7d23b6320c6eced7db7d48869e9e2b4b"
+  ]
 }

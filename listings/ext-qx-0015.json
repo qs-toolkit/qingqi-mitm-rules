@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0015",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2e56954a677d484b6fd9fad5e10558843f5d6031a0361411ecb3eed8ec001424"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "奈飞评分",
+  "name": "Display Netflix Ratings",
   "description": "奈菲迪士尼评分",
   "scope": [],
   "revisionId": "2e56954a677d484b6fd9fad5e10558843f5d6031a0361411ecb3eed8ec001424",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539109,
   "targets": [],
   "upstream": "yichahucha",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "2e56954a677d484b6fd9fad5e10558843f5d6031a0361411ecb3eed8ec001424"
+  ]
 }

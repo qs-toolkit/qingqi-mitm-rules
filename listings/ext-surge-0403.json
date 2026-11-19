@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0403",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "fb6fad565f81648442e273cb3cdd2a1602de3c2aa69f1c7ee9fddd9ac69c9f54"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "自动加入TF",
+  "name": "自动加入TestFlight",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "fb6fad565f81648442e273cb3cdd2a1602de3c2aa69f1c7ee9fddd9ac69c9f54",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539092,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "fb6fad565f81648442e273cb3cdd2a1602de3c2aa69f1c7ee9fddd9ac69c9f54"
+  ]
 }

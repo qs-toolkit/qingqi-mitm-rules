@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0113",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "5737ef2c9d0c8d1917ec0d43f639e09bbf26567b635adb309a419da385a42605"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "七猫小说解锁",
+  "name": "七猫小说",
   "description": "七猫小说解锁",
   "scope": [],
   "revisionId": "5737ef2c9d0c8d1917ec0d43f639e09bbf26567b635adb309a419da385a42605",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539122,
   "targets": [],
   "upstream": "I-am-R-E",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "5737ef2c9d0c8d1917ec0d43f639e09bbf26567b635adb309a419da385a42605"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0306",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "64f9dd5c45b39c9ca83b44e3d7a6f675d65728a6b242e7f9be84452744f2b7f4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LeCheng",
+  "name": "乐橙",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "64f9dd5c45b39c9ca83b44e3d7a6f675d65728a6b242e7f9be84452744f2b7f4",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539225,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "64f9dd5c45b39c9ca83b44e3d7a6f675d65728a6b242e7f9be84452744f2b7f4"
+  ]
 }

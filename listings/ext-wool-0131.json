@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0131",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1e12f8fa0793a06e54d4fd5df6c5ded8710f8fb11dff06b09a8bd5bf1e0cc955"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DianPing",
+  "name": "大众点评",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "1e12f8fa0793a06e54d4fd5df6c5ded8710f8fb11dff06b09a8bd5bf1e0cc955",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539200,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "1e12f8fa0793a06e54d4fd5df6c5ded8710f8fb11dff06b09a8bd5bf1e0cc955"
+  ]
 }

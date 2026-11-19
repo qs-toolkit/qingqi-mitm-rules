@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0197",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "139e6a1dfc79ab727e7b46a915e355679645f82fc3ba4d3b8ce2e6ba1109c5e1"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ICBC",
+  "name": "工商银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "139e6a1dfc79ab727e7b46a915e355679645f82fc3ba4d3b8ce2e6ba1109c5e1",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539211,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "139e6a1dfc79ab727e7b46a915e355679645f82fc3ba4d3b8ce2e6ba1109c5e1"
+  ]
 }

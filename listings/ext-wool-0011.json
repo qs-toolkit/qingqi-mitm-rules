@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0011",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "47985c0cfdcc72cd734a2a039229293f4deda65eaaae25929a805a3d6f95198a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "178Game",
+  "name": "178游戏网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "47985c0cfdcc72cd734a2a039229293f4deda65eaaae25929a805a3d6f95198a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539183,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "47985c0cfdcc72cd734a2a039229293f4deda65eaaae25929a805a3d6f95198a"
+  ]
 }

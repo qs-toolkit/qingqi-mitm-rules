@@ -1,11 +1,12 @@
 {
-  "built": 1560,
+  "built": 1253,
   "sources": {
-    "surge": 506,
-    "qx": 321,
-    "wool": 733
+    "surge": 266,
+    "wool": 727,
+    "qx": 260
   },
-  "ruleFiles": 1560,
-  "droppedEmpty": 0,
-  "storage": "verbatim upstream text; engine parses Surge/QX/Loon dialects"
+  "ruleFiles": 1253,
+  "mergedDuplicates": 307,
+  "storage": "verbatim upstream text (metadata headers added only when missing)",
+  "dedupe": "canonical hostname+rewrite+script signature"
 }

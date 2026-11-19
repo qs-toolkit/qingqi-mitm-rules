@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0122",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "cecf6cf8872da34fd90a36d21a8484037f31dd968b97fc5f9ba59e3ac5a20ded"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DaoMengKongJian",
+  "name": "到梦空间",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "cecf6cf8872da34fd90a36d21a8484037f31dd968b97fc5f9ba59e3ac5a20ded",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539199,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "cecf6cf8872da34fd90a36d21a8484037f31dd968b97fc5f9ba59e3ac5a20ded"
+  ]
 }

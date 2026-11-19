@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0221",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "88fb52650c8497153e35fc9fedc524132a24f382b604599d9f30f4c3bf8f197d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HeLiBaoZhanYeTong",
+  "name": "合利宝展业通",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "88fb52650c8497153e35fc9fedc524132a24f382b604599d9f30f4c3bf8f197d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539215,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "88fb52650c8497153e35fc9fedc524132a24f382b604599d9f30f4c3bf8f197d"
+  ]
 }

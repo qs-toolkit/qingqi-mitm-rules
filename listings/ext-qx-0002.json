@@ -1,9 +1,6 @@
 {
   "listingId": "ext-qx-0002",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "250ebeb1eba3c3077ab76b75f12a0d4625fbf7569e58c2846c92eb23936640b7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539108,
   "targets": [],
   "upstream": "NobyDa",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "250ebeb1eba3c3077ab76b75f12a0d4625fbf7569e58c2846c92eb23936640b7"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0358",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b9511902a888a2c59668f08907651a3f75be2f42090b5007dd7a1cae9c0e9a85"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MoguStreet",
+  "name": "蘑菇街",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b9511902a888a2c59668f08907651a3f75be2f42090b5007dd7a1cae9c0e9a85",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539233,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b9511902a888a2c59668f08907651a3f75be2f42090b5007dd7a1cae9c0e9a85"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0408",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "be5aaea1589b8c7a22ffd29025da8004700f239378aa816c1d35fe2d125ced5d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "QiMai",
+  "name": "企迈 - QMAI(包含: 挪瓦咖啡、林里柠檬茶、霸王茶姬、陈香贵)",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "be5aaea1589b8c7a22ffd29025da8004700f239378aa816c1d35fe2d125ced5d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539240,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "be5aaea1589b8c7a22ffd29025da8004700f239378aa816c1d35fe2d125ced5d"
+  ]
 }

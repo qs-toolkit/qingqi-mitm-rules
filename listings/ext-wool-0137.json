@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0137",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b5ee6cf479209a699fb8bb6f403bd966fcfd2648d8cf393af5408ad89b1e29c6"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DingTalk",
+  "name": "钉钉",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b5ee6cf479209a699fb8bb6f403bd966fcfd2648d8cf393af5408ad89b1e29c6",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539200,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b5ee6cf479209a699fb8bb6f403bd966fcfd2648d8cf393af5408ad89b1e29c6"
+  ]
 }

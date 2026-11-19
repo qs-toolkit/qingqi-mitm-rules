@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0061",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "f34ff6da9f27b184b60f3bd2768f549fff2fb0e10c9eff59976aaa467edf59e3"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BaiduNetdisk",
+  "name": "百度网盘",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "f34ff6da9f27b184b60f3bd2768f549fff2fb0e10c9eff59976aaa467edf59e3",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539189,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "f34ff6da9f27b184b60f3bd2768f549fff2fb0e10c9eff59976aaa467edf59e3"
+  ]
 }

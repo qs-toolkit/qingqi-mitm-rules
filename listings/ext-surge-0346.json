@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0346",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8a524cf23e603ed83c589d88ced4e4333d78e963b10ac3e6f5d8f0b169ca74b5"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "百度贴吧签到.official",
+  "name": "🐻 百度贴吧 [签到]",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "8a524cf23e603ed83c589d88ced4e4333d78e963b10ac3e6f5d8f0b169ca74b5",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539084,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "8a524cf23e603ed83c589d88ced4e4333d78e963b10ac3e6f5d8f0b169ca74b5"
+  ]
 }

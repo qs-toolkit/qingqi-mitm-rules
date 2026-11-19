@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0071",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "a21aa43f678a748b45ae37a5b184d52ea78bf504246b529b23f7586fd618634d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BeiKeZhaoFang",
+  "name": "贝壳找房",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "a21aa43f678a748b45ae37a5b184d52ea78bf504246b529b23f7586fd618634d",
@@ -15,5 +12,12 @@
   "updatedAt": 1795094539191,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts",
+    "Surge"
+  ],
+  "revisions": [
+    "a21aa43f678a748b45ae37a5b184d52ea78bf504246b529b23f7586fd618634d"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0195",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ecff2fa38e323c751d78d3c7af1e668b64ed28af4f779701e3db91dbe4a21c03"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "小爱音箱去广告",
+  "name": "小爱音箱 去广告",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "ecff2fa38e323c751d78d3c7af1e668b64ed28af4f779701e3db91dbe4a21c03",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539061,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "ecff2fa38e323c751d78d3c7af1e668b64ed28af4f779701e3db91dbe4a21c03"
+  ]
 }

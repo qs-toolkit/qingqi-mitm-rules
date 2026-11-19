@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0405",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "7a1193aa0c2c9ab33ff4fc7e01171787e12a433fe1bef8c65927b79ae5b3eec2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "QQMusic",
+  "name": "QQ音乐",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "7a1193aa0c2c9ab33ff4fc7e01171787e12a433fe1bef8c65927b79ae5b3eec2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539239,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "7a1193aa0c2c9ab33ff4fc7e01171787e12a433fe1bef8c65927b79ae5b3eec2"
+  ]
 }

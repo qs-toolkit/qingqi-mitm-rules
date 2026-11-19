@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0028",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "263ea534a2c97b0fe28bab69974a07482a43d5e37a10270fef405c480119a046"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "彩云天气提醒",
+  "name": "彩云天气",
   "description": "自动定位 异常天气预警 实时天气预报",
   "scope": [],
   "revisionId": "263ea534a2c97b0fe28bab69974a07482a43d5e37a10270fef405c480119a046",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539111,
   "targets": [],
   "upstream": "Peng-YM",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "263ea534a2c97b0fe28bab69974a07482a43d5e37a10270fef405c480119a046"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0057",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8dee7d98d0cff2412d1c062c6a037626e98adab8ba568aff8893ceb12b7287be"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Appraven Pro",
+  "name": "Appraven",
   "description": "Appraven Pro",
   "scope": [],
   "revisionId": "8dee7d98d0cff2412d1c062c6a037626e98adab8ba568aff8893ceb12b7287be",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539115,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "8dee7d98d0cff2412d1c062c6a037626e98adab8ba568aff8893ceb12b7287be"
+  ]
 }

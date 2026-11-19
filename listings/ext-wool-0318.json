@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0318",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ed69a1b57f492b9351c9fffda40af739bff790b867c05bbe2dc0a69fb85c0688"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LuBanDaoJia",
+  "name": "鲁班到家用户版",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ed69a1b57f492b9351c9fffda40af739bff790b867c05bbe2dc0a69fb85c0688",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539227,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ed69a1b57f492b9351c9fffda40af739bff790b867c05bbe2dc0a69fb85c0688"
+  ]
 }

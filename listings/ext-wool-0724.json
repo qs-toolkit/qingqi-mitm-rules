@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0724",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ebfbc018e3d768f67f16776980f6ba3c77de6cb4a42b1357fcbecb0e47c8172c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhuZheEr",
+  "name": "住这儿",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ebfbc018e3d768f67f16776980f6ba3c77de6cb4a42b1357fcbecb0e47c8172c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539284,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ebfbc018e3d768f67f16776980f6ba3c77de6cb4a42b1357fcbecb0e47c8172c"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0238",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "55d600a17101e79bb656cabf6a7e8dbbb902f7b487982d122d1b2e361146a738"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HujiangOnlineSchool",
+  "name": "沪江网校",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "55d600a17101e79bb656cabf6a7e8dbbb902f7b487982d122d1b2e361146a738",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539216,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "55d600a17101e79bb656cabf6a7e8dbbb902f7b487982d122d1b2e361146a738"
+  ]
 }

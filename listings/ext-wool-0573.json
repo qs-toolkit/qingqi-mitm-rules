@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0573",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "cf83569e96f09ca874819af9f37745f3a5377539abb66ead153e4e2298625613"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiShiYan",
+  "name": "西施眼",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "cf83569e96f09ca874819af9f37745f3a5377539abb66ead153e4e2298625613",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539263,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "cf83569e96f09ca874819af9f37745f3a5377539abb66ead153e4e2298625613"
+  ]
 }

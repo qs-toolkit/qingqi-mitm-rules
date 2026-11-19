@@ -1,9 +1,6 @@
 {
   "listingId": "ext-wool-0461",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "f2b3007b07ee55a7ff2f4410c5604093fa8f714e9273579e4558fe2cfc2e7d2c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539248,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "f2b3007b07ee55a7ff2f4410c5604093fa8f714e9273579e4558fe2cfc2e7d2c"
+  ]
 }

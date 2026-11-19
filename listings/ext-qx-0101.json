@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0101",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ed74b18df9e8ce3b4017815784af220000a7aef78060d12f57e182499023110f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "网易蜗牛阅读",
+  "name": "网易蜗牛读书",
   "description": "网易蜗牛读书解锁会员",
   "scope": [],
   "revisionId": "ed74b18df9e8ce3b4017815784af220000a7aef78060d12f57e182499023110f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539121,
   "targets": [],
   "upstream": "yxiaocai & JO2EY",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "ed74b18df9e8ce3b4017815784af220000a7aef78060d12f57e182499023110f"
+  ]
 }

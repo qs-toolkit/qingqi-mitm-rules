@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0588",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2ab69f0fe2f1afc0b37ff3c39603096a48c8c3807dbf671004f90c4efbd0f50e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaoPeiPet",
+  "name": "小佩宠物",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2ab69f0fe2f1afc0b37ff3c39603096a48c8c3807dbf671004f90c4efbd0f50e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539265,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2ab69f0fe2f1afc0b37ff3c39603096a48c8c3807dbf671004f90c4efbd0f50e"
+  ]
 }

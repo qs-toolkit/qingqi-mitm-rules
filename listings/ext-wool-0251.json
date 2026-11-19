@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0251",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8b4eaec9373946f00b871eff8d6b229ce19aec71cef772c332ab9215859d53d3"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "CCBLife",
+  "name": "建行生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "8b4eaec9373946f00b871eff8d6b229ce19aec71cef772c332ab9215859d53d3",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539218,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "8b4eaec9373946f00b871eff8d6b229ce19aec71cef772c332ab9215859d53d3"
+  ]
 }

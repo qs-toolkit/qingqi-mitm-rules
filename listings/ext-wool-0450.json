@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0450",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "79c9c5fc891122545dbb9536b56f7f27100d3dd20866fcbe4c733d9bf6b626ca"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ShouQiYueChe",
+  "name": "首汽约车",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "79c9c5fc891122545dbb9536b56f7f27100d3dd20866fcbe4c733d9bf6b626ca",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539246,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "79c9c5fc891122545dbb9536b56f7f27100d3dd20866fcbe4c733d9bf6b626ca"
+  ]
 }

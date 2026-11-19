@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0650",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c43b1262c90ce33cc2b7a7c1ab65e2270f4462ca0f987facfd99fda7324088fa"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YiZhiFu",
+  "name": "翼支付",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c43b1262c90ce33cc2b7a7c1ab65e2270f4462ca0f987facfd99fda7324088fa",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539273,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c43b1262c90ce33cc2b7a7c1ab65e2270f4462ca0f987facfd99fda7324088fa"
+  ]
 }

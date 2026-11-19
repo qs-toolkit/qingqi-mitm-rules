@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0121",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "bcf050c6fc21a25523904fad59b8bf259366f86271bead7cd33a8e6abe85b04f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DangDangReading",
+  "name": "当当阅读",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "bcf050c6fc21a25523904fad59b8bf259366f86271bead7cd33a8e6abe85b04f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539199,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "bcf050c6fc21a25523904fad59b8bf259366f86271bead7cd33a8e6abe85b04f"
+  ]
 }

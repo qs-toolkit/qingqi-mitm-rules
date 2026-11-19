@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0610",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "a291fc21bc2cd9c0483713a4e883b22adf276df7dd9fe9f1feddeb740a859121"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XingCaiFu",
+  "name": "星财富",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "a291fc21bc2cd9c0483713a4e883b22adf276df7dd9fe9f1feddeb740a859121",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539268,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "a291fc21bc2cd9c0483713a4e883b22adf276df7dd9fe9f1feddeb740a859121"
+  ]
 }

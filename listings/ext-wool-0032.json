@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0032",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8dc9e406aa068f7f8a3f8211c70d6697be7e1c5023c9dc2d8381579af708c276"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AiHuiShou",
+  "name": "爱回收",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "8dc9e406aa068f7f8a3f8211c70d6697be7e1c5023c9dc2d8381579af708c276",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539185,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "8dc9e406aa068f7f8a3f8211c70d6697be7e1c5023c9dc2d8381579af708c276"
+  ]
 }

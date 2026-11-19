@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0399",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "7813f056705fe8299be28ecce7910493f074c0d3272242f05bb59fb4eae55bab"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "51Job",
+  "name": "前程无忧 51Job",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "7813f056705fe8299be28ecce7910493f074c0d3272242f05bb59fb4eae55bab",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539238,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "7813f056705fe8299be28ecce7910493f074c0d3272242f05bb59fb4eae55bab"
+  ]
 }

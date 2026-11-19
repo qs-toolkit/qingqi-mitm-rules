@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0119",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0c325ecfaff04e90c3eea76dda6d4eb6a5bef0e17c9f1ffee15ff8ee34a07677"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Damai",
+  "name": "大麦",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "0c325ecfaff04e90c3eea76dda6d4eb6a5bef0e17c9f1ffee15ff8ee34a07677",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539198,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "0c325ecfaff04e90c3eea76dda6d4eb6a5bef0e17c9f1ffee15ff8ee34a07677"
+  ]
 }

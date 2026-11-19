@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0153",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "a9ba80fc30f50d2abed1c51b0483878530629b85a8782e4a1f4dcdf0be8a16d2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "eDaiJia",
+  "name": "e代驾",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "a9ba80fc30f50d2abed1c51b0483878530629b85a8782e4a1f4dcdf0be8a16d2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539203,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "a9ba80fc30f50d2abed1c51b0483878530629b85a8782e4a1f4dcdf0be8a16d2"
+  ]
 }

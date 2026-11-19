@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0532",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b30a554beeaa1e488070e02ba4a4e7f125f11f3fb615cb563847794c1d2a7520"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "NetEaseMail",
+  "name": "网易邮箱",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b30a554beeaa1e488070e02ba4a4e7f125f11f3fb615cb563847794c1d2a7520",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539257,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b30a554beeaa1e488070e02ba4a4e7f125f11f3fb615cb563847794c1d2a7520"
+  ]
 }

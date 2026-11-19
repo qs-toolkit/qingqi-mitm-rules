@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0511",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1345da85ab2a4097a5cd15ce09915692ce8c80cc741525b699880f27d8c648c6"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Tuniu",
+  "name": "途牛",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "1345da85ab2a4097a5cd15ce09915692ce8c80cc741525b699880f27d8c648c6",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539254,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "1345da85ab2a4097a5cd15ce09915692ce8c80cc741525b699880f27d8c648c6"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0173",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "bfd1babc6f5a9a1b53806973fa9beb58b2b6bb15313cbefbb742e5c874d3b381"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "VariFlight",
+  "name": "飞常准",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "bfd1babc6f5a9a1b53806973fa9beb58b2b6bb15313cbefbb742e5c874d3b381",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539205,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "bfd1babc6f5a9a1b53806973fa9beb58b2b6bb15313cbefbb742e5c874d3b381"
+  ]
 }

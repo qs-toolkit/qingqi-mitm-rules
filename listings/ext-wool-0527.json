@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0527",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "87146b498ea8fa751146ad7a073ebf75f236852102192c8729e6c49cbfd46017"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GaoDingDesign",
+  "name": "稿定设计",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "87146b498ea8fa751146ad7a073ebf75f236852102192c8729e6c49cbfd46017",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539256,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "87146b498ea8fa751146ad7a073ebf75f236852102192c8729e6c49cbfd46017"
+  ]
 }

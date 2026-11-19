@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0443",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6732deed7d188091978956ffefc355e1823687d6197eaec565fe41986d808008"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ShaoShuPai",
+  "name": "少数派",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "6732deed7d188091978956ffefc355e1823687d6197eaec565fe41986d808008",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539245,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "6732deed7d188091978956ffefc355e1823687d6197eaec565fe41986d808008"
+  ]
 }

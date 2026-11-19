@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0539",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "f6ba5320c98366b8da41d2e038bd5ca6357560687a2b11433d4fa84a7c653b0e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SnailSleep",
+  "name": "蜗牛睡眠",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "f6ba5320c98366b8da41d2e038bd5ca6357560687a2b11433d4fa84a7c653b0e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539257,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "f6ba5320c98366b8da41d2e038bd5ca6357560687a2b11433d4fa84a7c653b0e"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0124",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4de31ef76368c1de6735060ba78a43db4e74071ec75142caca3ce0fb6ed5ceba"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "石墨文档解锁",
+  "name": "石墨文档",
   "description": "石墨文档解锁",
   "scope": [],
   "revisionId": "4de31ef76368c1de6735060ba78a43db4e74071ec75142caca3ce0fb6ed5ceba",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539124,
   "targets": [],
   "upstream": "litieyin",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "4de31ef76368c1de6735060ba78a43db4e74071ec75142caca3ce0fb6ed5ceba"
+  ]
 }

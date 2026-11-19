@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0048",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "782c3f222cd1ec88b2ce09bbac0e5c14964b1e250b31c03b195cb2c3e26dc740"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Keep 去广告.official",
+  "name": "去除 keep 广告",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "782c3f222cd1ec88b2ce09bbac0e5c14964b1e250b31c03b195cb2c3e26dc740",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539040,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "782c3f222cd1ec88b2ce09bbac0e5c14964b1e250b31c03b195cb2c3e26dc740"
+  ]
 }

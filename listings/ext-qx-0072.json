@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0072",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0b139d10fbb98c7c308a2eb2b65625a0bd27fdb6e90bef739a3467e2a387a828"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Molycam会员",
+  "name": "Molycam",
   "description": "Molycam会员解锁",
   "scope": [],
   "revisionId": "0b139d10fbb98c7c308a2eb2b65625a0bd27fdb6e90bef739a3467e2a387a828",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539117,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "0b139d10fbb98c7c308a2eb2b65625a0bd27fdb6e90bef739a3467e2a387a828"
+  ]
 }

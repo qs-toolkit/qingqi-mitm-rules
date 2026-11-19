@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0097",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0c47246b643b6599eebc7205054980a64fd5be2e8dc9573fb71c91063a2b50cb"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Youtube 去广告 (不去贴片).official",
+  "name": "YouTube去广告(>=iOS15)",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "0c47246b643b6599eebc7205054980a64fd5be2e8dc9573fb71c91063a2b50cb",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539048,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "0c47246b643b6599eebc7205054980a64fd5be2e8dc9573fb71c91063a2b50cb"
+  ]
 }

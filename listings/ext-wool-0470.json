@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0470",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "e69222ff3fae6de56544a20f3898a491fdd220109067aa6820b1e0f5b58a7562"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TaiLingIntelligent",
+  "name": "台铃智能",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "e69222ff3fae6de56544a20f3898a491fdd220109067aa6820b1e0f5b58a7562",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539249,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "e69222ff3fae6de56544a20f3898a491fdd220109067aa6820b1e0f5b58a7562"
+  ]
 }

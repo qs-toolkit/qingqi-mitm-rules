@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0598",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1f6886b58f32c228f15dcc70bb664d42ee1a42e269ddae72082adcf2367b87c7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaoYi",
+  "name": "小艺",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "1f6886b58f32c228f15dcc70bb664d42ee1a42e269ddae72082adcf2367b87c7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539266,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "1f6886b58f32c228f15dcc70bb664d42ee1a42e269ddae72082adcf2367b87c7"
+  ]
 }

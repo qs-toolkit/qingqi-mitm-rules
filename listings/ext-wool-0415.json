@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0415",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4d2516a402bb81fed5e4b1aadf7e76dc91e72f45feb951d98540e6a40d32e536"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "QiuMiBao",
+  "name": "球迷报",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4d2516a402bb81fed5e4b1aadf7e76dc91e72f45feb951d98540e6a40d32e536",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539241,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4d2516a402bb81fed5e4b1aadf7e76dc91e72f45feb951d98540e6a40d32e536"
+  ]
 }

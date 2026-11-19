@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0223",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0ed4f48e3e63755bcd874739f08f53707182c3fba25c2c7582dbae8b3c4a6f35"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Hema",
+  "name": "盒马",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "0ed4f48e3e63755bcd874739f08f53707182c3fba25c2c7582dbae8b3c4a6f35",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539215,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "0ed4f48e3e63755bcd874739f08f53707182c3fba25c2c7582dbae8b3c4a6f35"
+  ]
 }

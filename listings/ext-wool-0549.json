@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0549",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "026e18469e7822688cc87177f0b28890d775e57efed25720df7371cdc85009b9"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "WeChatUnlockLinkRestrict",
+  "name": "微信解除链接限制",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "026e18469e7822688cc87177f0b28890d775e57efed25720df7371cdc85009b9",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539259,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "026e18469e7822688cc87177f0b28890d775e57efed25720df7371cdc85009b9"
+  ]
 }

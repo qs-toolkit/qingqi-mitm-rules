@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0009",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "3cef5f9aaf94305840bfb507f8f122b3c4387e63b406203c55afaebdfe144abf"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "财新文章解锁",
+  "name": "财新会员",
   "description": "财新会员解锁",
   "scope": [],
   "revisionId": "3cef5f9aaf94305840bfb507f8f122b3c4387e63b406203c55afaebdfe144abf",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539109,
   "targets": [],
   "upstream": "cuttlefish",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "3cef5f9aaf94305840bfb507f8f122b3c4387e63b406203c55afaebdfe144abf"
+  ]
 }

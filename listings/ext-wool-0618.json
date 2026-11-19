@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0618",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "82f93f63ef5f6a1d6154ee9531cafb8f1a38e3fce4380b454942d01bea0dbde5"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XunYouAccelerator",
+  "name": "迅游加速器",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "82f93f63ef5f6a1d6154ee9531cafb8f1a38e3fce4380b454942d01bea0dbde5",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539269,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "82f93f63ef5f6a1d6154ee9531cafb8f1a38e3fce4380b454942d01bea0dbde5"
+  ]
 }

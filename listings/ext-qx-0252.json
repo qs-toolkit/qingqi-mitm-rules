@@ -1,9 +1,6 @@
 {
   "listingId": "ext-qx-0252",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "382578ab934cf8db51349eba00d683a833d17dadf1eeaa7e52044e3226639c58"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539141,
   "targets": [],
   "upstream": "89996462",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "382578ab934cf8db51349eba00d683a833d17dadf1eeaa7e52044e3226639c58"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0184",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2ee4eaf5df383f8ab4bd233fdd872332f11b3f0e5bd6adbc3c37aad1660b51cf"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GomeAppliances",
+  "name": "国美电器",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2ee4eaf5df383f8ab4bd233fdd872332f11b3f0e5bd6adbc3c37aad1660b51cf",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539207,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2ee4eaf5df383f8ab4bd233fdd872332f11b3f0e5bd6adbc3c37aad1660b51cf"
+  ]
 }

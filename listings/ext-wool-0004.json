@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0004",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "999d16f7acd12242e31d43c84dda96f1d5ecab7e19e57984f2b0a53512f9ef4f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "blockAds",
+  "name": "广告拦截&净化合集",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "999d16f7acd12242e31d43c84dda96f1d5ecab7e19e57984f2b0a53512f9ef4f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539180,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "999d16f7acd12242e31d43c84dda96f1d5ecab7e19e57984f2b0a53512f9ef4f"
+  ]
 }

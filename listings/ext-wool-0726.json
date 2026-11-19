@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0726",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "670b206e43cd29414609adb786ffb00b30bf4ab99467d497a17ac0d9f4224641"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhuiJuDaRen",
+  "name": "追剧达人",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "670b206e43cd29414609adb786ffb00b30bf4ab99467d497a17ac0d9f4224641",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539284,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "670b206e43cd29414609adb786ffb00b30bf4ab99467d497a17ac0d9f4224641"
+  ]
 }

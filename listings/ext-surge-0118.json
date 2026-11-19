@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0118",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "5081cb93a1b6fa4835f3e4194565fb8101371eb1d859000865120d9b82e05555"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "中国联通去广告",
+  "name": "中国联通 去广告",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "5081cb93a1b6fa4835f3e4194565fb8101371eb1d859000865120d9b82e05555",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539050,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "5081cb93a1b6fa4835f3e4194565fb8101371eb1d859000865120d9b82e05555"
+  ]
 }

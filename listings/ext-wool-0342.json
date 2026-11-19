@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0342",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "e952a8df8f20792895dea975a4f83162c4ca53195840a9c868e7de6723f6d44c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MeiRiJingXuan",
+  "name": "每日精选",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "e952a8df8f20792895dea975a4f83162c4ca53195840a9c868e7de6723f6d44c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539231,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "e952a8df8f20792895dea975a4f83162c4ca53195840a9c868e7de6723f6d44c"
+  ]
 }

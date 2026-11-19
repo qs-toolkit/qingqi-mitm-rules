@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0074",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "e2e85523cfe124c186d49481d5c1dcc52b5759b592d45a88495a06504675131c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BiQuGe",
+  "name": "笔趣阁",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "e2e85523cfe124c186d49481d5c1dcc52b5759b592d45a88495a06504675131c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539191,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "e2e85523cfe124c186d49481d5c1dcc52b5759b592d45a88495a06504675131c"
+  ]
 }

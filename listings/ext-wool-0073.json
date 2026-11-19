@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0073",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "3b9d25884a9cb04b72bf15bb855c80ca276fe6d64a1922dc8b980b764c45ce1f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BettyKitchen",
+  "name": "贝太厨房",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "3b9d25884a9cb04b72bf15bb855c80ca276fe6d64a1922dc8b980b764c45ce1f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539191,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "3b9d25884a9cb04b72bf15bb855c80ca276fe6d64a1922dc8b980b764c45ce1f"
+  ]
 }

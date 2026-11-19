@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0100",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "eca16c2e36b377341f83fe59afd4513a2a03feba6bd9c7c0c1540f937b2d3919"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Caixin",
+  "name": "财新网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "eca16c2e36b377341f83fe59afd4513a2a03feba6bd9c7c0c1540f937b2d3919",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539195,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "eca16c2e36b377341f83fe59afd4513a2a03feba6bd9c7c0c1540f937b2d3919"
+  ]
 }

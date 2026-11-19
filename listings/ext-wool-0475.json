@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0475",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "bd8c75ea1d41acac8ea61974a7a901863daf55c469389ad99bae9969546ecd10"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Taobao",
+  "name": "淘宝",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "bd8c75ea1d41acac8ea61974a7a901863daf55c469389ad99bae9969546ecd10",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539249,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "bd8c75ea1d41acac8ea61974a7a901863daf55c469389ad99bae9969546ecd10"
+  ]
 }

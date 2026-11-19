@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0674",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "d1850de65d1ec34bfa9869c2ef9d58759ad58dd0f24f5f27f1fc93947f281a2a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YunKuaiChong",
+  "name": "云快充",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "d1850de65d1ec34bfa9869c2ef9d58759ad58dd0f24f5f27f1fc93947f281a2a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539276,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "d1850de65d1ec34bfa9869c2ef9d58759ad58dd0f24f5f27f1fc93947f281a2a"
+  ]
 }

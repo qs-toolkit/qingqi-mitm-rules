@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0621",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "77fa62eb413bccec778d76888c12f45eb204ec1fcc2667b3665634b00bb36b26"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AIA",
+  "name": "友邦",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "77fa62eb413bccec778d76888c12f45eb204ec1fcc2667b3665634b00bb36b26",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539269,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "77fa62eb413bccec778d76888c12f45eb204ec1fcc2667b3665634b00bb36b26"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0006",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4d2938febdba2303c581006e26598da1fdc5cc39b91cf3c7b4b36bd99f19c18b"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "cookies",
+  "name": "获取cookie&token合集",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4d2938febdba2303c581006e26598da1fdc5cc39b91cf3c7b4b36bd99f19c18b",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539182,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4d2938febdba2303c581006e26598da1fdc5cc39b91cf3c7b4b36bd99f19c18b"
+  ]
 }

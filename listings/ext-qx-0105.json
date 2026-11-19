@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0105",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2bd58cce2e80044a672fdb3884226d6575c67ad917984f0b1614e7966cdec1e7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "PEAK解锁",
+  "name": "Peak",
   "description": "Peak解锁Pro",
   "scope": [],
   "revisionId": "2bd58cce2e80044a672fdb3884226d6575c67ad917984f0b1614e7966cdec1e7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539121,
   "targets": [],
   "upstream": "chamberlen",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "2bd58cce2e80044a672fdb3884226d6575c67ad917984f0b1614e7966cdec1e7"
+  ]
 }

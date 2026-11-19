@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0437",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c962a142ac66a1aa8cad26d189ee40e6b76d1f2fb5ef732d9fa8a00d01683755"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SamClub",
+  "name": "山姆会员商店",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c962a142ac66a1aa8cad26d189ee40e6b76d1f2fb5ef732d9fa8a00d01683755",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539244,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c962a142ac66a1aa8cad26d189ee40e6b76d1f2fb5ef732d9fa8a00d01683755"
+  ]
 }

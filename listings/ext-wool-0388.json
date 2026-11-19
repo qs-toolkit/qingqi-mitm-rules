@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0388",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "9b6e7656cd4a85bfef0389549e126ea64c5c2621bd09dd7e8553686d79ccddff"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Pinduoduo",
+  "name": "拼多多",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "9b6e7656cd4a85bfef0389549e126ea64c5c2621bd09dd7e8553686d79ccddff",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539237,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "9b6e7656cd4a85bfef0389549e126ea64c5c2621bd09dd7e8553686d79ccddff"
+  ]
 }

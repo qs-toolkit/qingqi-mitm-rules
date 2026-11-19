@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0710",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ab040d32976ce6a401a301765c15ad96fc13ae7101bbd8771c51583a8b378c46"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhengHaoBan",
+  "name": "郑好办",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ab040d32976ce6a401a301765c15ad96fc13ae7101bbd8771c51583a8b378c46",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539282,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ab040d32976ce6a401a301765c15ad96fc13ae7101bbd8771c51583a8b378c46"
+  ]
 }

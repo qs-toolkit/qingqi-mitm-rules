@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0572",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "793ca2ce1cd5003d84be04b450d8d42cf93dfead69477fe4b4b11c76d2dea1c8"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiFanAnime",
+  "name": "稀饭动漫",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "793ca2ce1cd5003d84be04b450d8d42cf93dfead69477fe4b4b11c76d2dea1c8",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539262,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "793ca2ce1cd5003d84be04b450d8d42cf93dfead69477fe4b4b11c76d2dea1c8"
+  ]
 }

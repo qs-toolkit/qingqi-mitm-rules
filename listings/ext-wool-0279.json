@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0279",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "59edf176641ef2209c5c8adec0b81aadf0c3505de314bc86c200d9ea5f01d1c0"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "KanLiXiang",
+  "name": "看理想",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "59edf176641ef2209c5c8adec0b81aadf0c3505de314bc86c200d9ea5f01d1c0",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539222,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "59edf176641ef2209c5c8adec0b81aadf0c3505de314bc86c200d9ea5f01d1c0"
+  ]
 }

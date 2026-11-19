@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0544",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b477e092495b81c5753a3677b03626945477e631ef62ebacffeb26b61d395fb9"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "WandaCinema",
+  "name": "万达电影",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b477e092495b81c5753a3677b03626945477e631ef62ebacffeb26b61d395fb9",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539258,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b477e092495b81c5753a3677b03626945477e631ef62ebacffeb26b61d395fb9"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0731",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ea27816bb3f7763eb9c2ff9e503ac017611071c74dad0f931a78f9f10e905b7b"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "iReader",
+  "name": "掌阅",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ea27816bb3f7763eb9c2ff9e503ac017611071c74dad0f931a78f9f10e905b7b",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539284,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ea27816bb3f7763eb9c2ff9e503ac017611071c74dad0f931a78f9f10e905b7b"
+  ]
 }

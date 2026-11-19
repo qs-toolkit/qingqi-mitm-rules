@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0397",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0e6f9a8eabee15d06f7b3ce9f0e5f3a9f23392d8957dc27fb053a6f72dba9fab"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ThePaperNews",
+  "name": "澎湃新闻",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "0e6f9a8eabee15d06f7b3ce9f0e5f3a9f23392d8957dc27fb053a6f72dba9fab",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539238,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "0e6f9a8eabee15d06f7b3ce9f0e5f3a9f23392d8957dc27fb053a6f72dba9fab"
+  ]
 }

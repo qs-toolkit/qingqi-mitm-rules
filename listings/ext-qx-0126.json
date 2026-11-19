@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0126",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8c0471e0f36677e94667f338736869e568e0315f87f505f21e75714b323e7c9e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Adobe LightRoom解锁",
+  "name": "LightRoom",
   "description": "Adobe LightRoom解锁",
   "scope": [],
   "revisionId": "8c0471e0f36677e94667f338736869e568e0315f87f505f21e75714b323e7c9e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539124,
   "targets": [],
   "upstream": "I-am-R-E",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "8c0471e0f36677e94667f338736869e568e0315f87f505f21e75714b323e7c9e"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0276",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "366a0a22ef541eaa015e6c5727bb8187fe90167f65114eeaf578525a33ff0fda"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Coolapk",
+  "name": "酷安",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "366a0a22ef541eaa015e6c5727bb8187fe90167f65114eeaf578525a33ff0fda",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539221,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "366a0a22ef541eaa015e6c5727bb8187fe90167f65114eeaf578525a33ff0fda"
+  ]
 }

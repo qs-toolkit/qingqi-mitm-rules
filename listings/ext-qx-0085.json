@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0085",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1e29b7b8910f27bdb1cdfc1f6f42046ccd855c70a8ea2602f3bf55872ed5dbd7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "My Plate解锁",
+  "name": "My Plate",
   "description": "My Plate解锁会员",
   "scope": [],
   "revisionId": "1e29b7b8910f27bdb1cdfc1f6f42046ccd855c70a8ea2602f3bf55872ed5dbd7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539119,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "1e29b7b8910f27bdb1cdfc1f6f42046ccd855c70a8ea2602f3bf55872ed5dbd7"
+  ]
 }

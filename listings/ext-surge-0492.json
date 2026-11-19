@@ -1,19 +1,22 @@
 {
   "listingId": "ext-surge-0492",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "dc86d2f76c578964df11c950b0c18cc7513021117ee30ab53e332cb41da20507"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "🍟 Apple TestFlight.official",
-  "description": "Surge 模块 · Surge",
+  "description": " Surge",
   "scope": [],
   "revisionId": "dc86d2f76c578964df11c950b0c18cc7513021117ee30ab53e332cb41da20507",
   "author": "ClashModule",
   "updatedAt": 1795094539105,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "dc86d2f76c578964df11c950b0c18cc7513021117ee30ab53e332cb41da20507"
+  ]
 }

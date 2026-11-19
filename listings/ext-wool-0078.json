@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0078",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "085bf6caa2607237ca363490ebc940e1fb377c2d6feb4123385811d685af3bed"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Binance",
+  "name": "币安",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "085bf6caa2607237ca363490ebc940e1fb377c2d6feb4123385811d685af3bed",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539192,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "085bf6caa2607237ca363490ebc940e1fb377c2d6feb4123385811d685af3bed"
+  ]
 }

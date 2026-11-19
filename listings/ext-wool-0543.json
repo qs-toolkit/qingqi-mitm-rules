@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0543",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "97d1ff62a53ccea7e6dedba66516115000e27e900666b41408a64f0b883bdb4b"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "WanCiWang",
+  "name": "万词王",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "97d1ff62a53ccea7e6dedba66516115000e27e900666b41408a64f0b883bdb4b",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539258,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "97d1ff62a53ccea7e6dedba66516115000e27e900666b41408a64f0b883bdb4b"
+  ]
 }

@@ -1,9 +1,6 @@
 {
   "listingId": "ext-qx-0265",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "02983e94c216f865697d18a482d232f8ad761e150096670a315c7f162fb603de"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539143,
   "targets": [],
   "upstream": "lowking",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "02983e94c216f865697d18a482d232f8ad761e150096670a315c7f162fb603de"
+  ]
 }

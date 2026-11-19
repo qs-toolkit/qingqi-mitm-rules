@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0033",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c65dfba637d2539233cad6c0cfaa13226cea4b34539380469d9357e325caaf76"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GPT 可用检测.official",
+  "name": "ChatGPT Panel",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "c65dfba637d2539233cad6c0cfaa13226cea4b34539380469d9357e325caaf76",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539037,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "c65dfba637d2539233cad6c0cfaa13226cea4b34539380469d9357e325caaf76"
+  ]
 }

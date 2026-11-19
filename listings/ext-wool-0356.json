@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0356",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8a1db3f5fa47dd2e5b16cecd622c5742bd1548a3252cb5ccbcf770e0d3b2910f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Mijia",
+  "name": "米家",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "8a1db3f5fa47dd2e5b16cecd622c5742bd1548a3252cb5ccbcf770e0d3b2910f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539233,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "8a1db3f5fa47dd2e5b16cecd622c5742bd1548a3252cb5ccbcf770e0d3b2910f"
+  ]
 }

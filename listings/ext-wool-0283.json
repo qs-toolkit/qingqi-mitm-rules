@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0283",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "742e40a9fae8a1beb7ef599e480555234e6424810ca2ba321819ad10c3814e08"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Ku6",
+  "name": "酷6网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "742e40a9fae8a1beb7ef599e480555234e6424810ca2ba321819ad10c3814e08",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539222,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "742e40a9fae8a1beb7ef599e480555234e6424810ca2ba321819ad10c3814e08"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0021",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4c27352d66138303958e8f3beb86e26b05a129f967eb72052b04fe22af595b14"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "39Health",
+  "name": "39健康网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4c27352d66138303958e8f3beb86e26b05a129f967eb72052b04fe22af595b14",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539184,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4c27352d66138303958e8f3beb86e26b05a129f967eb72052b04fe22af595b14"
+  ]
 }

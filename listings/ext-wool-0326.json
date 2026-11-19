@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0326",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "3ece361c63d3ea02aae8b93337d1441602504e167eff74cfbc909766665455e2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MaDaChuXing",
+  "name": "马达出行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "3ece361c63d3ea02aae8b93337d1441602504e167eff74cfbc909766665455e2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539229,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "3ece361c63d3ea02aae8b93337d1441602504e167eff74cfbc909766665455e2"
+  ]
 }

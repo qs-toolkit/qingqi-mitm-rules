@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0523",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "36aadb347014a80f3c0718af1cde28d493237dceff0f1f82b65397cff074670f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "VIVOMall",
+  "name": "VIVO商城",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "36aadb347014a80f3c0718af1cde28d493237dceff0f1f82b65397cff074670f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539255,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "36aadb347014a80f3c0718af1cde28d493237dceff0f1f82b65397cff074670f"
+  ]
 }

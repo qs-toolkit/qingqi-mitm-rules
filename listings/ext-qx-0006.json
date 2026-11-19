@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0006",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "61b68aac7752137b319ec35a2f7cb95de7ce64a46354144e26fa0678e67b0db6"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "历史价格",
+  "name": "Price",
   "description": "京东比价",
   "scope": [],
   "revisionId": "61b68aac7752137b319ec35a2f7cb95de7ce64a46354144e26fa0678e67b0db6",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539108,
   "targets": [],
   "upstream": "Tartarus2014",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "61b68aac7752137b319ec35a2f7cb95de7ce64a46354144e26fa0678e67b0db6"
+  ]
 }

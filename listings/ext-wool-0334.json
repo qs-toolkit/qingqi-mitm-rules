@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0334",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "63adf496fce6c81f6e09ba98271aff3e9942fdcc4bf89861f524206db40798c3"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Makeding",
+  "name": "Makeding (苏州思杰马克丁)",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "63adf496fce6c81f6e09ba98271aff3e9942fdcc4bf89861f524206db40798c3",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539230,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "63adf496fce6c81f6e09ba98271aff3e9942fdcc4bf89861f524206db40798c3"
+  ]
 }

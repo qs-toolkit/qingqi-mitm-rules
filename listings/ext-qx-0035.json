@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0035",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6be28daab6ee902883dc1df78864288125002f85ce8a6f1c6033fac9c9c7302c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Invideo解锁",
+  "name": "Invideo",
   "description": "Invideo会员解锁",
   "scope": [],
   "revisionId": "6be28daab6ee902883dc1df78864288125002f85ce8a6f1c6033fac9c9c7302c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539112,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "6be28daab6ee902883dc1df78864288125002f85ce8a6f1c6033fac9c9c7302c"
+  ]
 }

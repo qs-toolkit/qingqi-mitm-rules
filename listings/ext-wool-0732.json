@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0732",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4ef70e53bee1b817cd5f5fb7d8006d861be596c787d3c5c9c93120b2e820ec8f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "weibo",
+  "name": "微博去广告&净化",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4ef70e53bee1b817cd5f5fb7d8006d861be596c787d3c5c9c93120b2e820ec8f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539285,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4ef70e53bee1b817cd5f5fb7d8006d861be596c787d3c5c9c93120b2e820ec8f"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0269",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "fbb5dfc088236bd17ef26e6f4284a954e6a4e42ca0ab19e4cba0accb2f9078fe"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "JinRongToutiao",
+  "name": "今日头条",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "fbb5dfc088236bd17ef26e6f4284a954e6a4e42ca0ab19e4cba0accb2f9078fe",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539221,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "fbb5dfc088236bd17ef26e6f4284a954e6a4e42ca0ab19e4cba0accb2f9078fe"
+  ]
 }

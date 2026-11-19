@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0305",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "791b7a19f41d75eb484c44f6a92cf1b90ecb509b7a1e3c398902a1f6f875321d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LeBoScreenCast",
+  "name": "乐播投屏",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "791b7a19f41d75eb484c44f6a92cf1b90ecb509b7a1e3c398902a1f6f875321d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539225,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "791b7a19f41d75eb484c44f6a92cf1b90ecb509b7a1e3c398902a1f6f875321d"
+  ]
 }

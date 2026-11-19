@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0024",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "528667f7335948e901048bdcd121fcfd0084482834e28ffd25bcbef6cee4a381"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "51CreditCardManager",
+  "name": "51信用卡管家",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "528667f7335948e901048bdcd121fcfd0084482834e28ffd25bcbef6cee4a381",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539184,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "528667f7335948e901048bdcd121fcfd0084482834e28ffd25bcbef6cee4a381"
+  ]
 }

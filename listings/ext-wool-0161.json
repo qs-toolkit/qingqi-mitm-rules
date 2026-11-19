@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0161",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "956a80d7f46b6cbdf716193073e8677a973c5aaa1a6f6aa7873f566fadc79678"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "FenBi",
+  "name": "粉笔",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "956a80d7f46b6cbdf716193073e8677a973c5aaa1a6f6aa7873f566fadc79678",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539204,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "956a80d7f46b6cbdf716193073e8677a973c5aaa1a6f6aa7873f566fadc79678"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0484",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0ea6d32371eda3091c2c2770946f30a0d4121a83c8fe25dd461fd9e612d8528d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TencentNews",
+  "name": "腾讯新闻",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "0ea6d32371eda3091c2c2770946f30a0d4121a83c8fe25dd461fd9e612d8528d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539251,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "0ea6d32371eda3091c2c2770946f30a0d4121a83c8fe25dd461fd9e612d8528d"
+  ]
 }

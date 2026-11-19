@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0605",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "06f7a3b933eb460c3409b2fe37e13d284a2187828592f1b48332f866d29400a3"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaomiSports",
+  "name": "小米运动",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "06f7a3b933eb460c3409b2fe37e13d284a2187828592f1b48332f866d29400a3",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539267,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "06f7a3b933eb460c3409b2fe37e13d284a2187828592f1b48332f866d29400a3"
+  ]
 }

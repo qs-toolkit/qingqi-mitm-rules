@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0518",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b387ac9b5c32e4b9536981519cbaa533b3b414976ae5a18e8f53b41ef2afe071"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "UJing",
+  "name": "U净",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b387ac9b5c32e4b9536981519cbaa533b3b414976ae5a18e8f53b41ef2afe071",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539255,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b387ac9b5c32e4b9536981519cbaa533b3b414976ae5a18e8f53b41ef2afe071"
+  ]
 }

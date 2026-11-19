@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0683",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2d471ee4d66c3e858288ac224951f2cf33644839e69988c1866f5a22fe8f411a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "CNKI",
+  "name": "中国知网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2d471ee4d66c3e858288ac224951f2cf33644839e69988c1866f5a22fe8f411a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539278,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2d471ee4d66c3e858288ac224951f2cf33644839e69988c1866f5a22fe8f411a"
+  ]
 }

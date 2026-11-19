@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0521",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1636314df963d49e258be353a28ce155a9dd53ce3b1d07f2aaa213a7587c147e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "udnNews",
+  "name": "udn news",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "1636314df963d49e258be353a28ce155a9dd53ce3b1d07f2aaa213a7587c147e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539255,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "1636314df963d49e258be353a28ce155a9dd53ce3b1d07f2aaa213a7587c147e"
+  ]
 }

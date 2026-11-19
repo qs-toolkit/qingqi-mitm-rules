@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0113",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b94cd881e5af010d4b09eed19689a120d32410a1e153473be8808d58cdcdb05c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AllFootball",
+  "name": "懂球帝",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b94cd881e5af010d4b09eed19689a120d32410a1e153473be8808d58cdcdb05c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539197,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b94cd881e5af010d4b09eed19689a120d32410a1e153473be8808d58cdcdb05c"
+  ]
 }

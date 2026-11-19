@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0073",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "afeb205213f90df6deb8851774b1e45e709061ca7debb9ea60f9fe4d78191a35"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Photomath会员",
+  "name": "Photomath",
   "description": "Photomath会员解锁",
   "scope": [],
   "revisionId": "afeb205213f90df6deb8851774b1e45e709061ca7debb9ea60f9fe4d78191a35",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539117,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "afeb205213f90df6deb8851774b1e45e709061ca7debb9ea60f9fe4d78191a35"
+  ]
 }

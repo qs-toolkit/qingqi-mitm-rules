@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0212",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ee27855743a10d9a8a98805464905f47c2e268b0cfb167ee006951d2e784ca61"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "广告联盟.official",
+  "name": "广告联盟去广告",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "ee27855743a10d9a8a98805464905f47c2e268b0cfb167ee006951d2e784ca61",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539065,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "ee27855743a10d9a8a98805464905f47c2e268b0cfb167ee006951d2e784ca61"
+  ]
 }

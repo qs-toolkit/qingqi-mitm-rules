@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0239",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "5341c2d1b39b0794d65abce336cbe42c879f4516b7a578608d6ecc5c804d6286"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HunanTV",
+  "name": "湖南卫视",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "5341c2d1b39b0794d65abce336cbe42c879f4516b7a578608d6ecc5c804d6286",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539217,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "5341c2d1b39b0794d65abce336cbe42c879f4516b7a578608d6ecc5c804d6286"
+  ]
 }

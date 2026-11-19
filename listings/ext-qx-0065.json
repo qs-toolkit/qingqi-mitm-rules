@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0065",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "559101229eee172d446d140767e8db08bc1bf0ec9afe3beb10bf466421343c4d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "i Love PDF解锁",
+  "name": "i Love PDF",
   "description": "i Love PDF解锁",
   "scope": [],
   "revisionId": "559101229eee172d446d140767e8db08bc1bf0ec9afe3beb10bf466421343c4d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539116,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "559101229eee172d446d140767e8db08bc1bf0ec9afe3beb10bf466421343c4d"
+  ]
 }

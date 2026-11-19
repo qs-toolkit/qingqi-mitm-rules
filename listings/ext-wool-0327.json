@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0327",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "353a7b885c338d8e242174daaaa8011f448523983519681dff439bfc307b0381"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MaKaLongWanTu",
+  "name": "马卡龙玩图",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "353a7b885c338d8e242174daaaa8011f448523983519681dff439bfc307b0381",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539229,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "353a7b885c338d8e242174daaaa8011f448523983519681dff439bfc307b0381"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0011",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6e35a4643c3fbf742a219b2c3905ba73a954d32a4deb727935869a50aea16782"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SoundCloud Go+",
+  "name": "SoundCloud",
   "description": "解锁SoundCloud Go+",
   "scope": [],
   "revisionId": "6e35a4643c3fbf742a219b2c3905ba73a954d32a4deb727935869a50aea16782",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539109,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "6e35a4643c3fbf742a219b2c3905ba73a954d32a4deb727935869a50aea16782"
+  ]
 }

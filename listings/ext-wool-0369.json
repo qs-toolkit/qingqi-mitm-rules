@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0369",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8bad9dc5fbaa68bdd72523b41e16d5056aa779ce7f5f4efdff19a7d78c49f559"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "NiuTingTing",
+  "name": "牛听听",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "8bad9dc5fbaa68bdd72523b41e16d5056aa779ce7f5f4efdff19a7d78c49f559",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539235,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "8bad9dc5fbaa68bdd72523b41e16d5056aa779ce7f5f4efdff19a7d78c49f559"
+  ]
 }

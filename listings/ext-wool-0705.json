@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0705",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "59eb8223473aadf6a1e0fed9256ed8938bd3a3027a5305be6465043a798214a9"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhangShangShengHuo",
+  "name": "掌上生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "59eb8223473aadf6a1e0fed9256ed8938bd3a3027a5305be6465043a798214a9",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539281,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "59eb8223473aadf6a1e0fed9256ed8938bd3a3027a5305be6465043a798214a9"
+  ]
 }

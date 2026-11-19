@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0645",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "dd76d17a39168685668b30be81bc877b059ffc6e46283049d62e9f259fa5ee29"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YiKaoBang",
+  "name": "医考帮",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "dd76d17a39168685668b30be81bc877b059ffc6e46283049d62e9f259fa5ee29",
@@ -15,5 +12,12 @@
   "updatedAt": 1795094539272,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts",
+    "Surge"
+  ],
+  "revisions": [
+    "dd76d17a39168685668b30be81bc877b059ffc6e46283049d62e9f259fa5ee29"
+  ]
 }

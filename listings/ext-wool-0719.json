@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0719",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "070d5022cee4a05ca4bb98cc1bcf91c4198b7a73084db868469228a3d682f30e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhongYouHaoKeEStation",
+  "name": "中油好客e站小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "070d5022cee4a05ca4bb98cc1bcf91c4198b7a73084db868469228a3d682f30e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539283,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "070d5022cee4a05ca4bb98cc1bcf91c4198b7a73084db868469228a3d682f30e"
+  ]
 }

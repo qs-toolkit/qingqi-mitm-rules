@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0597",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "d4adbcf2161669cf2073f162447123bfa4548ba92feb989346e4969c14e9eddc"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaoXiongIntercept",
+  "name": "小熊拦截",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "d4adbcf2161669cf2073f162447123bfa4548ba92feb989346e4969c14e9eddc",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539266,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "d4adbcf2161669cf2073f162447123bfa4548ba92feb989346e4969c14e9eddc"
+  ]
 }

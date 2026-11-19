@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0426",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6d25ce9dc3369a4ea5112e1e39fcbe5af70a3df873915194b555f518a09c45f7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "RenRenVideo",
+  "name": "人人视频",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "6d25ce9dc3369a4ea5112e1e39fcbe5af70a3df873915194b555f518a09c45f7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539242,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "6d25ce9dc3369a4ea5112e1e39fcbe5af70a3df873915194b555f518a09c45f7"
+  ]
 }

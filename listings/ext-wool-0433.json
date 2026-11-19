@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0433",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "053a48b8de04e12db7a3a4d46bdb7a77dbd8337aae5917c89fb0c37794b5e850"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SFBest",
+  "name": "顺丰优选",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "053a48b8de04e12db7a3a4d46bdb7a77dbd8337aae5917c89fb0c37794b5e850",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539243,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "053a48b8de04e12db7a3a4d46bdb7a77dbd8337aae5917c89fb0c37794b5e850"
+  ]
 }

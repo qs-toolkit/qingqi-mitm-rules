@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0362",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "995f24022bdf331cbf31985be1aa7f937b99d271170776d650a249857617f70e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ABC",
+  "name": "农业银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "995f24022bdf331cbf31985be1aa7f937b99d271170776d650a249857617f70e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539234,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "995f24022bdf331cbf31985be1aa7f937b99d271170776d650a249857617f70e"
+  ]
 }

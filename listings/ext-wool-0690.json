@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0690",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "80fa3d75827d5fc8cb410e18723d460dbc0db12714f3f616c41d1fb6d8a96623"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ChinaMerchantsSecurities",
+  "name": "招商证券",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "80fa3d75827d5fc8cb410e18723d460dbc0db12714f3f616c41d1fb6d8a96623",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539279,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "80fa3d75827d5fc8cb410e18723d460dbc0db12714f3f616c41d1fb6d8a96623"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0141",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "7310ff496cd6ce84871ea173d5d06348a407ba9b987a72a046802beade25cbe4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "❌Notboring解锁",
+  "name": "Notboring套装",
   "description": "Notboring天气+闹钟+习惯解锁",
   "scope": [],
   "revisionId": "7310ff496cd6ce84871ea173d5d06348a407ba9b987a72a046802beade25cbe4",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539126,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "7310ff496cd6ce84871ea173d5d06348a407ba9b987a72a046802beade25cbe4"
+  ]
 }

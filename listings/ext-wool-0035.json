@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0035",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "d86ec4a012af6278e32a904a8958f7a25a7ed506cd81c68b7699e3a09e1fcd05"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AiQiCha",
+  "name": "爱企查",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "d86ec4a012af6278e32a904a8958f7a25a7ed506cd81c68b7699e3a09e1fcd05",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539186,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "d86ec4a012af6278e32a904a8958f7a25a7ed506cd81c68b7699e3a09e1fcd05"
+  ]
 }

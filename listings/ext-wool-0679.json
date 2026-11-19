@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0679",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "fd49b0c2804b648fb316cba21b72285d968afa63a610e32d567ce72b2304e9b7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BOC-CrossBorderGO",
+  "name": "中银跨境GO",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "fd49b0c2804b648fb316cba21b72285d968afa63a610e32d567ce72b2304e9b7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539277,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "fd49b0c2804b648fb316cba21b72285d968afa63a610e32d567ce72b2304e9b7"
+  ]
 }

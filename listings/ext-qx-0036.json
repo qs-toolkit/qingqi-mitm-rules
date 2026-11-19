@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0036",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ddc86bbfb10fc4fe891220943ae8a4f448d74a627287bec8d4289ec3d64ec2e4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "忆飞Gif解锁",
+  "name": "忆飞Gif",
   "description": "忆飞Gif解锁",
   "scope": [],
   "revisionId": "ddc86bbfb10fc4fe891220943ae8a4f448d74a627287bec8d4289ec3d64ec2e4",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539112,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "ddc86bbfb10fc4fe891220943ae8a4f448d74a627287bec8d4289ec3d64ec2e4"
+  ]
 }

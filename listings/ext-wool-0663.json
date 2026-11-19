@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0663",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "a32f7d0a1c9d521a194c927632b0f73a137ec038188bb43b98b9e73466a1e69c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YouTuReading",
+  "name": "有兔阅读(米兔)",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "a32f7d0a1c9d521a194c927632b0f73a137ec038188bb43b98b9e73466a1e69c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539275,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "a32f7d0a1c9d521a194c927632b0f73a137ec038188bb43b98b9e73466a1e69c"
+  ]
 }

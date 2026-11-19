@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0237",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "60a8ac2fa60e67cb80c1fd33808c2ed71257cad8ef2ff91a6a35df866ab2d304"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HuifuWorld",
+  "name": "汇付天下",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "60a8ac2fa60e67cb80c1fd33808c2ed71257cad8ef2ff91a6a35df866ab2d304",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539216,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "60a8ac2fa60e67cb80c1fd33808c2ed71257cad8ef2ff91a6a35df866ab2d304"
+  ]
 }

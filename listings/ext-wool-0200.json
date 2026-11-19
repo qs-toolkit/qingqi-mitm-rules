@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0200",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "a90be345b488094388ddd0d4ad5d5b6a5dabf77bdc68e1711628578411dc90a7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "NMIServicePlatform",
+  "name": "国家医保服务平台",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "a90be345b488094388ddd0d4ad5d5b6a5dabf77bdc68e1711628578411dc90a7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539211,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "a90be345b488094388ddd0d4ad5d5b6a5dabf77bdc68e1711628578411dc90a7"
+  ]
 }

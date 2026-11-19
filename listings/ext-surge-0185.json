@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0185",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "466482b96b2677bb919b75fdc32363f15195536cf24ee9b76e986fc38ee29224"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "实时油价面板.official",
+  "name": "实时油价模块",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "466482b96b2677bb919b75fdc32363f15195536cf24ee9b76e986fc38ee29224",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539060,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "466482b96b2677bb919b75fdc32363f15195536cf24ee9b76e986fc38ee29224"
+  ]
 }

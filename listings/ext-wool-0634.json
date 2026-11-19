@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0634",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "f42b2633e8e43a6cd28e9d16d386abe8eba8a0d9c70f5dbf493c688095e8b66c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "InkeLive",
+  "name": "映客直播",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "f42b2633e8e43a6cd28e9d16d386abe8eba8a0d9c70f5dbf493c688095e8b66c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539271,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "f42b2633e8e43a6cd28e9d16d386abe8eba8a0d9c70f5dbf493c688095e8b66c"
+  ]
 }

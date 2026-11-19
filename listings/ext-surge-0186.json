@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0186",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "5a4e4136d98a8272ae7f6b59dfc8b9c631e7bd4c71eb5da774a5542fd276c4c8"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "将推特用户转换成RSS订阅.official",
+  "name": "SRSS",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "5a4e4136d98a8272ae7f6b59dfc8b9c631e7bd4c71eb5da774a5542fd276c4c8",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539060,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "5a4e4136d98a8272ae7f6b59dfc8b9c631e7bd4c71eb5da774a5542fd276c4c8"
+  ]
 }

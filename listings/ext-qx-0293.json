@@ -1,9 +1,6 @@
 {
   "listingId": "ext-qx-0293",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "00fd646f42f48d4f5b62ee5e3f6166d66d41d9e5f9529b947e18be058cea1f71"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539148,
   "targets": [],
   "upstream": "@id77, Modified by Cuttlefish",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "00fd646f42f48d4f5b62ee5e3f6166d66d41d9e5f9529b947e18be058cea1f71"
+  ]
 }

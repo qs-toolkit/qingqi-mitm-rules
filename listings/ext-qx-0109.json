@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0109",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4c87a52f23560eae1b475c8f17cfef7b004bda86087b96133cee9e47e8e6a504"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "有道云笔记解锁",
+  "name": "有道云笔记",
   "description": "有道云笔记VIP",
   "scope": [],
   "revisionId": "4c87a52f23560eae1b475c8f17cfef7b004bda86087b96133cee9e47e8e6a504",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539122,
   "targets": [],
   "upstream": "Alex0510",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "4c87a52f23560eae1b475c8f17cfef7b004bda86087b96133cee9e47e8e6a504"
+  ]
 }

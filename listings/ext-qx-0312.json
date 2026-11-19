@@ -1,9 +1,6 @@
 {
   "listingId": "ext-qx-0312",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "d7765a1541b51e2a14eda682a813d30b14f408831ce3b4d09fe783d1fbe8a5f4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539151,
   "targets": [],
   "upstream": "limbopro",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "d7765a1541b51e2a14eda682a813d30b14f408831ce3b4d09fe783d1fbe8a5f4"
+  ]
 }

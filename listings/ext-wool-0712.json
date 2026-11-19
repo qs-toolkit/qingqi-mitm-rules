@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0712",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "30d0b726f5ce186f797ef7030ab25d089ea7b13fc430c4524916d5a537174345"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhiDianTianXia",
+  "name": "指点天下",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "30d0b726f5ce186f797ef7030ab25d089ea7b13fc430c4524916d5a537174345",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539282,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "30d0b726f5ce186f797ef7030ab25d089ea7b13fc430c4524916d5a537174345"
+  ]
 }

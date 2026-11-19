@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0317",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "578676b7bd2a55a0db849324e96a012990b199bc3479db4be85008a107ae6b91"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Lofter",
+  "name": "lofter",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "578676b7bd2a55a0db849324e96a012990b199bc3479db4be85008a107ae6b91",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539227,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "578676b7bd2a55a0db849324e96a012990b199bc3479db4be85008a107ae6b91"
+  ]
 }

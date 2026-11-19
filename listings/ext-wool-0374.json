@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0374",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b8d3b9a678dd1789428957d7f27aabcbae1e026e6b74ce023b49b8346535b018"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Optimix",
+  "name": "Optimix（奥迪美）",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b8d3b9a678dd1789428957d7f27aabcbae1e026e6b74ce023b49b8346535b018",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539235,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b8d3b9a678dd1789428957d7f27aabcbae1e026e6b74ce023b49b8346535b018"
+  ]
 }

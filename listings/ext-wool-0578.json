@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0578",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c7a6c57d1e3022699af515b3a27411959b537b760ffb12496a6bacdeae9aa8c7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaoAiSpeaker",
+  "name": "小爱音箱",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c7a6c57d1e3022699af515b3a27411959b537b760ffb12496a6bacdeae9aa8c7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539263,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c7a6c57d1e3022699af515b3a27411959b537b760ffb12496a6bacdeae9aa8c7"
+  ]
 }

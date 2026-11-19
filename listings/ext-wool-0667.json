@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0667",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "89ed4f51fd438be2ec25fcf884c58a8fadd1bb25e030775874226bb16fa6a433"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Youmi",
+  "name": "有米",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "89ed4f51fd438be2ec25fcf884c58a8fadd1bb25e030775874226bb16fa6a433",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539275,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "89ed4f51fd438be2ec25fcf884c58a8fadd1bb25e030775874226bb16fa6a433"
+  ]
 }

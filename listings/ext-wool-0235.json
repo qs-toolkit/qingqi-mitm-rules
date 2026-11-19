@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0235",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "e20ed82164f696ed07811fdeb39e51ed8ef0685cffda5c3a073abc7a75a04b12"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HuaweiStore",
+  "name": "华为商城",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "e20ed82164f696ed07811fdeb39e51ed8ef0685cffda5c3a073abc7a75a04b12",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539216,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "e20ed82164f696ed07811fdeb39e51ed8ef0685cffda5c3a073abc7a75a04b12"
+  ]
 }

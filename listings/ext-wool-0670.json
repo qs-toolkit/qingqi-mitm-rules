@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0670",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c7174ea55a46ae6308b1b227e6366fea71a3c32382b8ed1e68a09d9ac21abbed"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YuXueYuan",
+  "name": "育学园",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c7174ea55a46ae6308b1b227e6366fea71a3c32382b8ed1e68a09d9ac21abbed",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539276,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c7174ea55a46ae6308b1b227e6366fea71a3c32382b8ed1e68a09d9ac21abbed"
+  ]
 }

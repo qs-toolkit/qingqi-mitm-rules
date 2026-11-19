@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0671",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "f804cb62a8c750ffe6fd19bbb0fb2237802080851aa6137b1b61f0ae23d8e6c9"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YuanFuDao",
+  "name": "猿辅导",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "f804cb62a8c750ffe6fd19bbb0fb2237802080851aa6137b1b61f0ae23d8e6c9",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539276,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "f804cb62a8c750ffe6fd19bbb0fb2237802080851aa6137b1b61f0ae23d8e6c9"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0165",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "3cc8875c5fb04d457858d287cb7344dcedc124dd58d2bed0505f3e34461ced72"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Fliggy",
+  "name": "飞猪",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "3cc8875c5fb04d457858d287cb7344dcedc124dd58d2bed0505f3e34461ced72",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539204,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "3cc8875c5fb04d457858d287cb7344dcedc124dd58d2bed0505f3e34461ced72"
+  ]
 }

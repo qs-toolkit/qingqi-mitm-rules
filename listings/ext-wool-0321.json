@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0321",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ef583a653ef1a30e56505691e12800f6d37ced6c7000268f92beeb4d639ea7e0"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LvTuSuiShenTing",
+  "name": "旅途随身听",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ef583a653ef1a30e56505691e12800f6d37ced6c7000268f92beeb4d639ea7e0",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539228,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ef583a653ef1a30e56505691e12800f6d37ced6c7000268f92beeb4d639ea7e0"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0144",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6ea9116df47ad3afa9e20e5762adbe1b8ee61ee2d380b411cdbb1c62b5c0d317"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DouyuLive",
+  "name": "斗鱼直播",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "6ea9116df47ad3afa9e20e5762adbe1b8ee61ee2d380b411cdbb1c62b5c0d317",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539202,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "6ea9116df47ad3afa9e20e5762adbe1b8ee61ee2d380b411cdbb1c62b5c0d317"
+  ]
 }

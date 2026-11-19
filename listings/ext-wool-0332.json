@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0332",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1c1f745d8f066dcfcc895706189d1c521e626a0b4c26e27fc417b331a06c35fa"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MaiDuiDui",
+  "name": "埋堆堆",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "1c1f745d8f066dcfcc895706189d1c521e626a0b4c26e27fc417b331a06c35fa",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539230,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "1c1f745d8f066dcfcc895706189d1c521e626a0b4c26e27fc417b331a06c35fa"
+  ]
 }

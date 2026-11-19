@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0257",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "09ddb70711ab0b849c72e6b91007fc15332a9bdfa0b5f3205a129bfcf1f9ea97"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "JDHealth",
+  "name": "京东健康",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "09ddb70711ab0b849c72e6b91007fc15332a9bdfa0b5f3205a129bfcf1f9ea97",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539219,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "09ddb70711ab0b849c72e6b91007fc15332a9bdfa0b5f3205a129bfcf1f9ea97"
+  ]
 }

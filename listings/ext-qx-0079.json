@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0079",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b7447e5d7c67c4c3f7946c470e7ec597a8c91c54e0fd87c8aeccde0a5901e207"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "云听解锁",
+  "name": "云听",
   "description": "云听解锁会员",
   "scope": [],
   "revisionId": "b7447e5d7c67c4c3f7946c470e7ec597a8c91c54e0fd87c8aeccde0a5901e207",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539118,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "b7447e5d7c67c4c3f7946c470e7ec597a8c91c54e0fd87c8aeccde0a5901e207"
+  ]
 }

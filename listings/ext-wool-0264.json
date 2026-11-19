@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0264",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "542939823e6e6ad1b1041a30217644193f9dd262a7d7547b1c7d7228491738c3"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "JiaYouGuangDong",
+  "name": "加油广东",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "542939823e6e6ad1b1041a30217644193f9dd262a7d7547b1c7d7228491738c3",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539220,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "542939823e6e6ad1b1041a30217644193f9dd262a7d7547b1c7d7228491738c3"
+  ]
 }

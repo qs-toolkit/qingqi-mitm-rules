@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0091",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "92762726d6748843c43d1c187990f38e2d435242e4213ad9522972ec4894e42a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "bilibili",
+  "name": "哔哩哔哩",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "92762726d6748843c43d1c187990f38e2d435242e4213ad9522972ec4894e42a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539194,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "92762726d6748843c43d1c187990f38e2d435242e4213ad9522972ec4894e42a"
+  ]
 }

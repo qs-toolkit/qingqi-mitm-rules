@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0700",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "da396699798d3db21c96b54edec1cc91befdf864e42aa38d85c8e7ebbfe04242"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhangLeCaiFuTong",
+  "name": "涨乐财富通",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "da396699798d3db21c96b54edec1cc91befdf864e42aa38d85c8e7ebbfe04242",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539281,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "da396699798d3db21c96b54edec1cc91befdf864e42aa38d85c8e7ebbfe04242"
+  ]
 }

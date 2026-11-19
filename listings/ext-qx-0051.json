@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0051",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "49d7f45383d62916e97992b4c458b703799fee651aa48d1f1ffb58b2726080fb"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "迅雷会员解锁",
+  "name": "迅雷",
   "description": "迅雷会员解锁",
   "scope": [],
   "revisionId": "49d7f45383d62916e97992b4c458b703799fee651aa48d1f1ffb58b2726080fb",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539114,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "49d7f45383d62916e97992b4c458b703799fee651aa48d1f1ffb58b2726080fb"
+  ]
 }

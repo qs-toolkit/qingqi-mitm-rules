@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0466",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "59a2c58bd51ea7e17c444f5a7da822344f6036afbde4d40c84e6f967c71128c3"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Suning",
+  "name": "苏宁易购",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "59a2c58bd51ea7e17c444f5a7da822344f6036afbde4d40c84e6f967c71128c3",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539248,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "59a2c58bd51ea7e17c444f5a7da822344f6036afbde4d40c84e6f967c71128c3"
+  ]
 }

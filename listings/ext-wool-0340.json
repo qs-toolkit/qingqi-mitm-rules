@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0340",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "f63b045abf12878b2a984a152b6b0758a9796ce722785f53c640aa0167f79f59"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "McDonalds",
+  "name": "麦当劳",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "f63b045abf12878b2a984a152b6b0758a9796ce722785f53c640aa0167f79f59",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539231,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "f63b045abf12878b2a984a152b6b0758a9796ce722785f53c640aa0167f79f59"
+  ]
 }

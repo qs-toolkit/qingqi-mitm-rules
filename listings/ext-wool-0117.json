@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0117",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1c37fc0eb50c369663f6964e542e4b49bdc9811ebd64e62418a1b41443e02337"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DaShiXiong",
+  "name": "大师兄",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "1c37fc0eb50c369663f6964e542e4b49bdc9811ebd64e62418a1b41443e02337",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539198,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "1c37fc0eb50c369663f6964e542e4b49bdc9811ebd64e62418a1b41443e02337"
+  ]
 }

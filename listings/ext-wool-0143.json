@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0143",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "bee8a70cb46cf44c287218a8b9d597839926f754705e311ca57f1669ce6ccd10"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Douban",
+  "name": "豆瓣",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "bee8a70cb46cf44c287218a8b9d597839926f754705e311ca57f1669ce6ccd10",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539201,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "bee8a70cb46cf44c287218a8b9d597839926f754705e311ca57f1669ce6ccd10"
+  ]
 }

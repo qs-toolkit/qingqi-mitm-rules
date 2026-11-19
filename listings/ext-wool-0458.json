@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0458",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4aa4360398cb954213b8d38d0a1a95f65eac09296ef56d8fb6344f9f0b5cdd0e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SogouInput",
+  "name": "搜狗输入法",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4aa4360398cb954213b8d38d0a1a95f65eac09296ef56d8fb6344f9f0b5cdd0e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539247,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4aa4360398cb954213b8d38d0a1a95f65eac09296ef56d8fb6344f9f0b5cdd0e"
+  ]
 }

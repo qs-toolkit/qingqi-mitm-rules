@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0290",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ee6835b91a60db939b702b0a725f6b84d9bc5485b07cd6ef28ccc348f6825b0a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "KuaiSuWenYiSheng",
+  "name": "快速问医生",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ee6835b91a60db939b702b0a725f6b84d9bc5485b07cd6ef28ccc348f6825b0a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539223,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ee6835b91a60db939b702b0a725f6b84d9bc5485b07cd6ef28ccc348f6825b0a"
+  ]
 }

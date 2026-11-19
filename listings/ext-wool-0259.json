@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0259",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "451d4ddce53cf80b7b1745420bbf97b6c5a877f12aff5a5b3c3eba2c3f1bd686"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "JRJ",
+  "name": "金融界",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "451d4ddce53cf80b7b1745420bbf97b6c5a877f12aff5a5b3c3eba2c3f1bd686",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539219,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "451d4ddce53cf80b7b1745420bbf97b6c5a877f12aff5a5b3c3eba2c3f1bd686"
+  ]
 }

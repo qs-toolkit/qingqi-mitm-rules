@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0311",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ac9c2e24769bc22ec5a07e2307c1ac5a7a9d22597f4dddbd72dbbd0f92bc6317"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "毒奶特供",
+  "name": "毒奶特供(2026年11月14日更新)",
   "description": "毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.…",
   "scope": [],
   "revisionId": "ac9c2e24769bc22ec5a07e2307c1ac5a7a9d22597f4dddbd72dbbd0f92bc6317",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539151,
   "targets": [],
   "upstream": "limbopro",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "ac9c2e24769bc22ec5a07e2307c1ac5a7a9d22597f4dddbd72dbbd0f92bc6317"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0127",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "bcb412ae1b4784e21df0611a59e6dac9edcce170671790e3044d6b9aea0b0425"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Calm解锁",
+  "name": "Calm解锁限制",
   "description": "Calm解锁限制",
   "scope": [],
   "revisionId": "bcb412ae1b4784e21df0611a59e6dac9edcce170671790e3044d6b9aea0b0425",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539124,
   "targets": [],
   "upstream": "lutqhysky",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "bcb412ae1b4784e21df0611a59e6dac9edcce170671790e3044d6b9aea0b0425"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0149",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "37e0c202ad4b2426d08dd91e3cb61dd3f8e9c82557ce1c51abd6fb3d954bf930"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Faintv",
+  "name": "FainTV",
   "description": "FainTV解锁会员去广告",
   "scope": [],
   "revisionId": "37e0c202ad4b2426d08dd91e3cb61dd3f8e9c82557ce1c51abd6fb3d954bf930",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539128,
   "targets": [],
   "upstream": "deezertidal",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "37e0c202ad4b2426d08dd91e3cb61dd3f8e9c82557ce1c51abd6fb3d954bf930"
+  ]
 }

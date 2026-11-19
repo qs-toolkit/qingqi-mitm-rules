@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0411",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1c2cbe09da39bf0b0303d27be0d10cefe917379d739d6babee34ac64b2f5b6e9"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Qilu",
+  "name": "齐鲁网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "1c2cbe09da39bf0b0303d27be0d10cefe917379d739d6babee34ac64b2f5b6e9",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539240,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "1c2cbe09da39bf0b0303d27be0d10cefe917379d739d6babee34ac64b2f5b6e9"
+  ]
 }

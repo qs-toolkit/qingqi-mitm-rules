@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0685",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2b492e5d0ae3a2e12e4e92be774e6af4b1ab6a55d558680ed7e9ca721d26c688"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ChinaCITICBank",
+  "name": "中信银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2b492e5d0ae3a2e12e4e92be774e6af4b1ab6a55d558680ed7e9ca721d26c688",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539278,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2b492e5d0ae3a2e12e4e92be774e6af4b1ab6a55d558680ed7e9ca721d26c688"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0320",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "aac96a3de3d5fe909fd035ee82b115087e50872b620f74bcfcc09484ea926746"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "爱奇艺会员签到.official",
+  "name": "🐻 爱奇艺 [会员签到]",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "aac96a3de3d5fe909fd035ee82b115087e50872b620f74bcfcc09484ea926746",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539081,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "aac96a3de3d5fe909fd035ee82b115087e50872b620f74bcfcc09484ea926746"
+  ]
 }

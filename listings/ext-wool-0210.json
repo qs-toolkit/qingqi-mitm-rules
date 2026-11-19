@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0210",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ca61e97228791aef3d9dd1caacda4686537f08fc29c1b93cdae33938806c6bf9"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HaierService",
+  "name": "海尔服务小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ca61e97228791aef3d9dd1caacda4686537f08fc29c1b93cdae33938806c6bf9",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539213,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ca61e97228791aef3d9dd1caacda4686537f08fc29c1b93cdae33938806c6bf9"
+  ]
 }

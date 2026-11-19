@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0311",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c14e6545cee5fb2e211ddd9e60c57bd81af32e894723b20b1e69cfd67d0e116f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LiangBuLu",
+  "name": "两步路",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c14e6545cee5fb2e211ddd9e60c57bd81af32e894723b20b1e69cfd67d0e116f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539226,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c14e6545cee5fb2e211ddd9e60c57bd81af32e894723b20b1e69cfd67d0e116f"
+  ]
 }

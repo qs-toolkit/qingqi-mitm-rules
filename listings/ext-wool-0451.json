@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0451",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "878d441f3e2e34a27aacec7ff71b2aee8358dd766a56cc3fda2865072f5994ca"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ShouQianBa",
+  "name": "收钱吧",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "878d441f3e2e34a27aacec7ff71b2aee8358dd766a56cc3fda2865072f5994ca",
@@ -15,5 +12,12 @@
   "updatedAt": 1795094539246,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts",
+    "Surge"
+  ],
+  "revisions": [
+    "878d441f3e2e34a27aacec7ff71b2aee8358dd766a56cc3fda2865072f5994ca"
+  ]
 }

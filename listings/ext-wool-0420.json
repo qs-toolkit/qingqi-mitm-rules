@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0420",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "f2d3a7749416595e26e93f17f8f510311cff479988e7707cea157b6de1636f60"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LuckinCoffee",
+  "name": "瑞幸咖啡",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "f2d3a7749416595e26e93f17f8f510311cff479988e7707cea157b6de1636f60",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539241,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "f2d3a7749416595e26e93f17f8f510311cff479988e7707cea157b6de1636f60"
+  ]
 }

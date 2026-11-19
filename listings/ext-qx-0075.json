@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0075",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1e73059aeed1ccf8bbf287eb89f7f5c82e17607f2f17cdbeddb11f0745904dab"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Accuweather解锁",
+  "name": "AccuWeather",
   "description": "AccuWeather解锁会员",
   "scope": [],
   "revisionId": "1e73059aeed1ccf8bbf287eb89f7f5c82e17607f2f17cdbeddb11f0745904dab",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539117,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "1e73059aeed1ccf8bbf287eb89f7f5c82e17607f2f17cdbeddb11f0745904dab"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0626",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6f13906ceeeb45dff1296827bfbe3bbef34614a19575369d673b47f2121a3129"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "CCTVVideo",
+  "name": "央视频",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "6f13906ceeeb45dff1296827bfbe3bbef34614a19575369d673b47f2121a3129",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539270,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "6f13906ceeeb45dff1296827bfbe3bbef34614a19575369d673b47f2121a3129"
+  ]
 }

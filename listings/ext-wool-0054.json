@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0054",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4515bcf09b82a252fbb68056be2fcd53fe9f43bf885fc4d3a401b8ecb8649147"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BYDDynasty",
+  "name": "比亚迪王朝",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4515bcf09b82a252fbb68056be2fcd53fe9f43bf885fc4d3a401b8ecb8649147",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539188,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4515bcf09b82a252fbb68056be2fcd53fe9f43bf885fc4d3a401b8ecb8649147"
+  ]
 }

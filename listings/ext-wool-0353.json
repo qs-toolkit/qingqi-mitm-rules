@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0353",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "38b85a60a91572fdb10ce476462abe61e860f0c026aa8bb148e76a0737e5e87e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MiaoPai",
+  "name": "秒拍",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "38b85a60a91572fdb10ce476462abe61e860f0c026aa8bb148e76a0737e5e87e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539233,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "38b85a60a91572fdb10ce476462abe61e860f0c026aa8bb148e76a0737e5e87e"
+  ]
 }

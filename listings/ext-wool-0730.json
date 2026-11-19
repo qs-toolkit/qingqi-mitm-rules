@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0730",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4a1c49811b6be27a3bfbf0873f0a709b949d11ad82ba94461d03342730beb3d2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZuoYeBang",
+  "name": "作业帮",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4a1c49811b6be27a3bfbf0873f0a709b949d11ad82ba94461d03342730beb3d2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539284,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4a1c49811b6be27a3bfbf0873f0a709b949d11ad82ba94461d03342730beb3d2"
+  ]
 }

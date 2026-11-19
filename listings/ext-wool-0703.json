@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0703",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8aafe3eaaf7b649eb4fcb346b2f905ab7e236da5eec51d2bfd5c55a6fb2acb22"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhangShangLOL",
+  "name": "掌上英雄联盟",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "8aafe3eaaf7b649eb4fcb346b2f905ab7e236da5eec51d2bfd5c55a6fb2acb22",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539281,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "8aafe3eaaf7b649eb4fcb346b2f905ab7e236da5eec51d2bfd5c55a6fb2acb22"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0301",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "bb97c2d643ad1b51ea3ca2020107de8687a386c8e2634a46c980c230e11432fa"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LanJie100",
+  "name": "拦截100",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "bb97c2d643ad1b51ea3ca2020107de8687a386c8e2634a46c980c230e11432fa",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539225,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "bb97c2d643ad1b51ea3ca2020107de8687a386c8e2634a46c980c230e11432fa"
+  ]
 }

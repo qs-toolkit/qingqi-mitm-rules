@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0577",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "585280d016e994bfa05dad856f40fca12c79aeb99da9c220db050e3bba50cd18"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XianYu",
+  "name": "闲鱼",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "585280d016e994bfa05dad856f40fca12c79aeb99da9c220db050e3bba50cd18",
@@ -15,5 +12,12 @@
   "updatedAt": 1795094539263,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts",
+    "Surge"
+  ],
+  "revisions": [
+    "585280d016e994bfa05dad856f40fca12c79aeb99da9c220db050e3bba50cd18"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0516",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "db15799250d2f6b4ca8577c9e4939765b0fbbab409320bc8b1038dab7e2468f4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "top-widget",
+  "name": "Top Widgets",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "db15799250d2f6b4ca8577c9e4939765b0fbbab409320bc8b1038dab7e2468f4",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539254,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "db15799250d2f6b4ca8577c9e4939765b0fbbab409320bc8b1038dab7e2468f4"
+  ]
 }

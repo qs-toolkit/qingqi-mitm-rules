@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0410",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "9788796a7c7fea4a9c8e94688f23bdb60a2dc896d875ca763053aa4e29ff9dc1"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "QiShuiMusic",
+  "name": "汽水音乐",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "9788796a7c7fea4a9c8e94688f23bdb60a2dc896d875ca763053aa4e29ff9dc1",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539240,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "9788796a7c7fea4a9c8e94688f23bdb60a2dc896d875ca763053aa4e29ff9dc1"
+  ]
 }

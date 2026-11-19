@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0304",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "dd66cafbb3c942034b67b6ba8b2c41f5e219ac56161c90eb0ca8efd37696502e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LeBaoChaoWanGuan",
+  "name": "乐堡潮玩馆小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "dd66cafbb3c942034b67b6ba8b2c41f5e219ac56161c90eb0ca8efd37696502e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539225,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "dd66cafbb3c942034b67b6ba8b2c41f5e219ac56161c90eb0ca8efd37696502e"
+  ]
 }

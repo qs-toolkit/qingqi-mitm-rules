@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0177",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "f7177ebc4eb5945171d0fd93fe51c73032c91afd6c0428bb18226d778d74a700"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ChinaGuangfaBank",
+  "name": "广发银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "f7177ebc4eb5945171d0fd93fe51c73032c91afd6c0428bb18226d778d74a700",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539206,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "f7177ebc4eb5945171d0fd93fe51c73032c91afd6c0428bb18226d778d74a700"
+  ]
 }

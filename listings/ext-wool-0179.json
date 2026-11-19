@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0179",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b1287b0ae3e41415d12704592b27a5fb1433e739c6c442d97929d163d556a3ea"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GACTrumpchi",
+  "name": "广汽传祺",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b1287b0ae3e41415d12704592b27a5fb1433e739c6c442d97929d163d556a3ea",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539206,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b1287b0ae3e41415d12704592b27a5fb1433e739c6c442d97929d163d556a3ea"
+  ]
 }

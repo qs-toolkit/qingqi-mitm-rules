@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0387",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c7b7a70c73aa02eafad41b52163adb8ea28ddbfbf16b6f7efafcbcfa71349cdd"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "PiaoXingQiu",
+  "name": "票星球",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c7b7a70c73aa02eafad41b52163adb8ea28ddbfbf16b6f7efafcbcfa71349cdd",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539237,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c7b7a70c73aa02eafad41b52163adb8ea28ddbfbf16b6f7efafcbcfa71349cdd"
+  ]
 }

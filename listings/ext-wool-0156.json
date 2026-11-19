@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0156",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "41e5424e142c0a2818d1ee8033d1ed7452cc53215b985cbe1c53914bb9bdb868"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "FanDengReading",
+  "name": "樊登读书",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "41e5424e142c0a2818d1ee8033d1ed7452cc53215b985cbe1c53914bb9bdb868",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539203,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "41e5424e142c0a2818d1ee8033d1ed7452cc53215b985cbe1c53914bb9bdb868"
+  ]
 }

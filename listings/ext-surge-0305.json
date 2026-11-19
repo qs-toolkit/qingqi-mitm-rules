@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0305",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "5c055d527cc37a1441688f1536b47139d2f8b998749ad5eee22024c4f73ae489"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "流媒体解锁检测.official",
+  "name": "流媒体解锁检测",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "5c055d527cc37a1441688f1536b47139d2f8b998749ad5eee22024c4f73ae489",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539079,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "5c055d527cc37a1441688f1536b47139d2f8b998749ad5eee22024c4f73ae489"
+  ]
 }

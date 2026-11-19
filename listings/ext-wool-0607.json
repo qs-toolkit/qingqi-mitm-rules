@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0607",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1e576b4dbe18db585c7ca8ffa12273eac5ffc31e3af718faa75a9a232056eefe"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Ximalaya",
+  "name": "喜马拉雅",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "1e576b4dbe18db585c7ca8ffa12273eac5ffc31e3af718faa75a9a232056eefe",
@@ -15,5 +12,12 @@
   "updatedAt": 1795094539267,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts",
+    "Surge"
+  ],
+  "revisions": [
+    "1e576b4dbe18db585c7ca8ffa12273eac5ffc31e3af718faa75a9a232056eefe"
+  ]
 }

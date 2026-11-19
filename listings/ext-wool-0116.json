@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0116",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "fe24d3680716f2056925d7d814bcbacf22cad8356925b7c94a2a52ba2a6d2ed2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DaDaRiderVersion",
+  "name": "达达骑士版",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "fe24d3680716f2056925d7d814bcbacf22cad8356925b7c94a2a52ba2a6d2ed2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539198,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "fe24d3680716f2056925d7d814bcbacf22cad8356925b7c94a2a52ba2a6d2ed2"
+  ]
 }

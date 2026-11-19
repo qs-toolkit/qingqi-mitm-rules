@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0442",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "75a11724636c465078ce7f7abd54dea9fb10b80ac889c4e659cd47129a28d19f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ShanXianYiXia",
+  "name": "闪现一下",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "75a11724636c465078ce7f7abd54dea9fb10b80ac889c4e659cd47129a28d19f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539245,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "75a11724636c465078ce7f7abd54dea9fb10b80ac889c4e659cd47129a28d19f"
+  ]
 }

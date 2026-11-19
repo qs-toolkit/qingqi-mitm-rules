@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0083",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4108d79c4417fa9ad0413040207ff330f3bef020276387da23d68e6c610a58be"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BoLuoBaoLightNovel",
+  "name": "菠萝包轻小说",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4108d79c4417fa9ad0413040207ff330f3bef020276387da23d68e6c610a58be",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539192,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4108d79c4417fa9ad0413040207ff330f3bef020276387da23d68e6c610a58be"
+  ]
 }

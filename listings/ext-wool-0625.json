@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0625",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "97efcfc2d83654090f970976626b36d12570c362ce57a5004bb265096f7679eb"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "CCTV",
+  "name": "央视网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "97efcfc2d83654090f970976626b36d12570c362ce57a5004bb265096f7679eb",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539270,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "97efcfc2d83654090f970976626b36d12570c362ce57a5004bb265096f7679eb"
+  ]
 }

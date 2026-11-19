@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0339",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "51fde4915e9c5637ceef447e0db687cf18c46e48ebff56715e86c574da455c80"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MaoYan",
+  "name": "猫眼",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "51fde4915e9c5637ceef447e0db687cf18c46e48ebff56715e86c574da455c80",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539231,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "51fde4915e9c5637ceef447e0db687cf18c46e48ebff56715e86c574da455c80"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0312",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4e839f7c8ede7dc668cbcde09202af9eaad60b636181168478fe171c77394010"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LiePin",
+  "name": "猎聘",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4e839f7c8ede7dc668cbcde09202af9eaad60b636181168478fe171c77394010",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539226,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4e839f7c8ede7dc668cbcde09202af9eaad60b636181168478fe171c77394010"
+  ]
 }

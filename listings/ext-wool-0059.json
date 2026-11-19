@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0059",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "abfeb7c53d3deb5e1ab4c465ed7d64623b069f90fa4bb5b0e7d3c1296962c162"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BaiduInputMethod",
+  "name": "百度输入法",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "abfeb7c53d3deb5e1ab4c465ed7d64623b069f90fa4bb5b0e7d3c1296962c162",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539189,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "abfeb7c53d3deb5e1ab4c465ed7d64623b069f90fa4bb5b0e7d3c1296962c162"
+  ]
 }

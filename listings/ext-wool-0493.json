@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0493",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4115399b38d2ccac304202af4a7857b9e5203ba7af90f18fcccae1b58d27cb57"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TianFuTong",
+  "name": "天府通",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4115399b38d2ccac304202af4a7857b9e5203ba7af90f18fcccae1b58d27cb57",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539252,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4115399b38d2ccac304202af4a7857b9e5203ba7af90f18fcccae1b58d27cb57"
+  ]
 }

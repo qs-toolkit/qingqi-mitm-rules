@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0636",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "dc5132feb59459009263d47cd786861d175f075916177f7c13bd206b1dc3d29e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "U9Game",
+  "name": "游久网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "dc5132feb59459009263d47cd786861d175f075916177f7c13bd206b1dc3d29e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539271,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "dc5132feb59459009263d47cd786861d175f075916177f7c13bd206b1dc3d29e"
+  ]
 }

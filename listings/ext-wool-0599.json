@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0599",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "19b740fe6515a58e857895d7b7485adef85ae88e2d04f8ab282a297ba49dd2d2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaoYuZhou",
+  "name": "小宇宙",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "19b740fe6515a58e857895d7b7485adef85ae88e2d04f8ab282a297ba49dd2d2",
@@ -15,5 +12,12 @@
   "updatedAt": 1795094539266,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts",
+    "Surge"
+  ],
+  "revisions": [
+    "19b740fe6515a58e857895d7b7485adef85ae88e2d04f8ab282a297ba49dd2d2"
+  ]
 }

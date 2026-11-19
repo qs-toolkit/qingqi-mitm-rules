@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0689",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "87706a999f56cb3c70a53184fbf623cdbdcbd67f463301264451ec2eee58fe39"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ChinaMerchantsBank",
+  "name": "招商银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "87706a999f56cb3c70a53184fbf623cdbdcbd67f463301264451ec2eee58fe39",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539279,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "87706a999f56cb3c70a53184fbf623cdbdcbd67f463301264451ec2eee58fe39"
+  ]
 }

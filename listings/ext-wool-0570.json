@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0570",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ad45a935de41252ac6fcb1ea264305de2d9e296e25ff389b584cb10dafe9f80c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Sunflower",
+  "name": "向日葵",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ad45a935de41252ac6fcb1ea264305de2d9e296e25ff389b584cb10dafe9f80c",
@@ -15,5 +12,12 @@
   "updatedAt": 1795094539262,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts",
+    "Surge"
+  ],
+  "revisions": [
+    "ad45a935de41252ac6fcb1ea264305de2d9e296e25ff389b584cb10dafe9f80c"
+  ]
 }

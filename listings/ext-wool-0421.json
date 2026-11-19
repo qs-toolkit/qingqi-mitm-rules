@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0421",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ac38f9cf5f0c01ff9c46cb715c49b069642b138fd1b80726deca36c6533bab4a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "NissanIntelligentConnect",
+  "name": "日产智联",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ac38f9cf5f0c01ff9c46cb715c49b069642b138fd1b80726deca36c6533bab4a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539242,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ac38f9cf5f0c01ff9c46cb715c49b069642b138fd1b80726deca36c6533bab4a"
+  ]
 }

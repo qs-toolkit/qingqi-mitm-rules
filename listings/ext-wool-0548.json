@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0548",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "5a34a64dd1542fdbcc3af56bb20236d04aa31655ff180f83cfbce613864e1e31"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "WeChatOfficialAccount",
+  "name": "微信公众号",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "5a34a64dd1542fdbcc3af56bb20236d04aa31655ff180f83cfbce613864e1e31",
@@ -15,5 +12,13 @@
   "updatedAt": 1795094539259,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts",
+    "Surge",
+    "QuantumultX"
+  ],
+  "revisions": [
+    "5a34a64dd1542fdbcc3af56bb20236d04aa31655ff180f83cfbce613864e1e31"
+  ]
 }

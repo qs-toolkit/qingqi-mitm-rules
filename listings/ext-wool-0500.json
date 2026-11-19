@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0500",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "3d1ec5c314c99a673f73d3fe9ae70fa7efcac2bc86df96017df4f82286d07306"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TmallAutoCare",
+  "name": "天猫养车",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "3d1ec5c314c99a673f73d3fe9ae70fa7efcac2bc86df96017df4f82286d07306",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539252,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "3d1ec5c314c99a673f73d3fe9ae70fa7efcac2bc86df96017df4f82286d07306"
+  ]
 }

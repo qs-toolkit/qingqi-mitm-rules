@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0631",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "51947c4c433981da0cb7421ceb359851584781dfe205359f5d43797cad3b53e8"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "FAWVW",
+  "name": "一汽大众",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "51947c4c433981da0cb7421ceb359851584781dfe205359f5d43797cad3b53e8",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539270,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "51947c4c433981da0cb7421ceb359851584781dfe205359f5d43797cad3b53e8"
+  ]
 }

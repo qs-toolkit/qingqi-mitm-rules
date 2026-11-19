@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0025",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "fc3040fc986f04173dfd71a484155403b0c213c4b4eba8324d5a7e27efec8384"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "555YingShi",
+  "name": "555影视",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "fc3040fc986f04173dfd71a484155403b0c213c4b4eba8324d5a7e27efec8384",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539185,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "fc3040fc986f04173dfd71a484155403b0c213c4b4eba8324d5a7e27efec8384"
+  ]
 }

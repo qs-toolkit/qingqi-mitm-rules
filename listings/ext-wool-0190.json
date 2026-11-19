@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0190",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6d7a0513ef2f70b136b5f7fd6249a6db1d36a90cff3824a4a0b8f43e6c3a0ede"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Gridsum",
+  "name": "国双 (Gridsum)",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "6d7a0513ef2f70b136b5f7fd6249a6db1d36a90cff3824a4a0b8f43e6c3a0ede",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539208,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "6d7a0513ef2f70b136b5f7fd6249a6db1d36a90cff3824a4a0b8f43e6c3a0ede"
+  ]
 }

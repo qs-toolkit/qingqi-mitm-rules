@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0229",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b061d98d898c1dcf3d02be7531259c93e8fe424b87fec268e619139ed8713ce4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HuaCaiShengHuo",
+  "name": "华彩生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b061d98d898c1dcf3d02be7531259c93e8fe424b87fec268e619139ed8713ce4",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539215,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b061d98d898c1dcf3d02be7531259c93e8fe424b87fec268e619139ed8713ce4"
+  ]
 }

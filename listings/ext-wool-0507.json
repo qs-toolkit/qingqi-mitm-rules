@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0507",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ec569bece4e2e777fdaf3038bd7ec7ee5e817dbd609748daa6cfbd0d49b5ccfc"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TuhuAutoCare",
+  "name": "途虎养车",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ec569bece4e2e777fdaf3038bd7ec7ee5e817dbd609748daa6cfbd0d49b5ccfc",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539253,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ec569bece4e2e777fdaf3038bd7ec7ee5e817dbd609748daa6cfbd0d49b5ccfc"
+  ]
 }

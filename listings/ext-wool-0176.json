@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0176",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "dd1b69dc38a9a84eb4305fc8ecf4eb7d4414baac0ad296a8831bad03b6085d7c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "CEB_SunshineHuiLife",
+  "name": "光大银行 阳光惠生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "dd1b69dc38a9a84eb4305fc8ecf4eb7d4414baac0ad296a8831bad03b6085d7c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539206,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "dd1b69dc38a9a84eb4305fc8ecf4eb7d4414baac0ad296a8831bad03b6085d7c"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0060",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "91f38faa20bb0808bb9ac5d26148209d672f420a8a98addaab34fc1947d2f8fc"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BaiduMaps",
+  "name": "百度地图",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "91f38faa20bb0808bb9ac5d26148209d672f420a8a98addaab34fc1947d2f8fc",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539189,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "91f38faa20bb0808bb9ac5d26148209d672f420a8a98addaab34fc1947d2f8fc"
+  ]
 }

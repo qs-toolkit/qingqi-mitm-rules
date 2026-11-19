@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0368",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "59f51703e2f8231a0ad0b8449764e04749bd6f74baeed423c460b151c3a7deb1"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "NingJu",
+  "name": "宁聚",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "59f51703e2f8231a0ad0b8449764e04749bd6f74baeed423c460b151c3a7deb1",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539235,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "59f51703e2f8231a0ad0b8449764e04749bd6f74baeed423c460b151c3a7deb1"
+  ]
 }

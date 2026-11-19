@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0552",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c720c249622708021ffa35bdb3563764cf9a0e8e724954f500c74e16e5fdfbf9"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Weidian",
+  "name": "微店",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c720c249622708021ffa35bdb3563764cf9a0e8e724954f500c74e16e5fdfbf9",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539259,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c720c249622708021ffa35bdb3563764cf9a0e8e724954f500c74e16e5fdfbf9"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0182",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "73827f008f95dac469ec2d42d7f28d11ebde666ae80522dc987dbcf3b2d36918"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GaoTieGuanJia",
+  "name": "高铁管家",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "73827f008f95dac469ec2d42d7f28d11ebde666ae80522dc987dbcf3b2d36918",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539206,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "73827f008f95dac469ec2d42d7f28d11ebde666ae80522dc987dbcf3b2d36918"
+  ]
 }

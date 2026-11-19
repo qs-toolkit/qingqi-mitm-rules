@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0038",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "35561dc59a2ac09f267227bf9b5269f1df6c4cdc849822be80a67561ceac8e06"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Kika会员解锁",
+  "name": "Kika Keyboard",
   "description": "Kika会员解锁",
   "scope": [],
   "revisionId": "35561dc59a2ac09f267227bf9b5269f1df6c4cdc849822be80a67561ceac8e06",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539113,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "35561dc59a2ac09f267227bf9b5269f1df6c4cdc849822be80a67561ceac8e06"
+  ]
 }

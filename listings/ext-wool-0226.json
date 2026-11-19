@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0226",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b90f99971ccd6327642574912405f9e4133039637a9f0aec40cb0fe91fb9bc0d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HongBanBao",
+  "name": "红版报",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b90f99971ccd6327642574912405f9e4133039637a9f0aec40cb0fe91fb9bc0d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539215,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b90f99971ccd6327642574912405f9e4133039637a9f0aec40cb0fe91fb9bc0d"
+  ]
 }

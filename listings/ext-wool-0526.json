@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0526",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6c1041a8d72d944cee02fdaf5c206288315a55f72bce6a697b47d3df64ffdc15"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BenLaiShengHuo",
+  "name": "本来生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "6c1041a8d72d944cee02fdaf5c206288315a55f72bce6a697b47d3df64ffdc15",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539256,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "6c1041a8d72d944cee02fdaf5c206288315a55f72bce6a697b47d3df64ffdc15"
+  ]
 }

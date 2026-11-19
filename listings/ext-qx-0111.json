@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0111",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "56cbb23a4213c5ad5ebed51e6a2938df48edefc37160e5d43a65cabfca7fdfd0"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "PhotosShop Express会员解锁",
+  "name": "PhotoshopExpress",
   "description": "PhotoshopExpress解锁高级订阅",
   "scope": [],
   "revisionId": "56cbb23a4213c5ad5ebed51e6a2938df48edefc37160e5d43a65cabfca7fdfd0",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539122,
   "targets": [],
   "upstream": "litieyin",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "56cbb23a4213c5ad5ebed51e6a2938df48edefc37160e5d43a65cabfca7fdfd0"
+  ]
 }

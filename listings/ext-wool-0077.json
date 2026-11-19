@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0077",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "85f4d0675bbaca976c90635eb958850815f3ac9010f95e98b57905e0c7b93143"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BilibiliComics",
+  "name": "哔哩哔哩漫画",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "85f4d0675bbaca976c90635eb958850815f3ac9010f95e98b57905e0c7b93143",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539192,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "85f4d0675bbaca976c90635eb958850815f3ac9010f95e98b57905e0c7b93143"
+  ]
 }

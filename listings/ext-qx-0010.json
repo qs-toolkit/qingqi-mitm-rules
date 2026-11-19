@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0010",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "e41aa9e078f9baa481e72bb8b80b7e8ac94e95eeee6c22a21f6c9cabc214ef7c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "spotify会员解锁",
+  "name": "Spotify Premium",
   "description": "部分解锁premium,建议重新登录,音质不能设置为超高",
   "scope": [],
   "revisionId": "e41aa9e078f9baa481e72bb8b80b7e8ac94e95eeee6c22a21f6c9cabc214ef7c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539109,
   "targets": [],
   "upstream": "app2smile",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "e41aa9e078f9baa481e72bb8b80b7e8ac94e95eeee6c22a21f6c9cabc214ef7c"
+  ]
 }

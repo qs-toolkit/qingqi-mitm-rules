@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0100",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "fb57b3e93dd3169792263f66a396d9627eb42d84aeb7bbe4510688c6f54b4689"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "bilibili去广告.official",
+  "name": "Bilibili增强",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "fb57b3e93dd3169792263f66a396d9627eb42d84aeb7bbe4510688c6f54b4689",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539048,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "fb57b3e93dd3169792263f66a396d9627eb42d84aeb7bbe4510688c6f54b4689"
+  ]
 }

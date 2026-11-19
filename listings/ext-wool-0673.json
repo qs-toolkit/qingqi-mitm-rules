@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0673",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4083f9947a69d2549d7edd4f3f53efa9eef270b1109a91f2178a4427872f60b8"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YunBaoBaoBigData",
+  "name": "云宝宝大数据",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4083f9947a69d2549d7edd4f3f53efa9eef270b1109a91f2178a4427872f60b8",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539276,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4083f9947a69d2549d7edd4f3f53efa9eef270b1109a91f2178a4427872f60b8"
+  ]
 }

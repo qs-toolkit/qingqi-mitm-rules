@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0722",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c999488993f188829f27dc379f57d06e1a7467b9a06e4932ad7fcae3aa59c055"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Zhongguancun",
+  "name": "中关村",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c999488993f188829f27dc379f57d06e1a7467b9a06e4932ad7fcae3aa59c055",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539283,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c999488993f188829f27dc379f57d06e1a7467b9a06e4932ad7fcae3aa59c055"
+  ]
 }

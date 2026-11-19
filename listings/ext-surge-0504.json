@@ -1,19 +1,22 @@
 {
   "listingId": "ext-surge-0504",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "3c2720214d4a9d4c13eac8abe51c32b17696d26cdf41c2334f065456d6fda96a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "🍟 DualSubsYouTube.official",
-  "description": "Surge 模块 · Surge",
+  "description": " Surge",
   "scope": [],
   "revisionId": "3c2720214d4a9d4c13eac8abe51c32b17696d26cdf41c2334f065456d6fda96a",
   "author": "ClashModule",
   "updatedAt": 1795094539107,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "3c2720214d4a9d4c13eac8abe51c32b17696d26cdf41c2334f065456d6fda96a"
+  ]
 }

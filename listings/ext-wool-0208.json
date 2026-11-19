@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0208",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "af9ccd8c3d6650c8ac5e3fa73a75719f9268e3e9b2ef459b09908b33854affda"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HaiTunYouHui",
+  "name": "海豚优惠",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "af9ccd8c3d6650c8ac5e3fa73a75719f9268e3e9b2ef459b09908b33854affda",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539213,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "af9ccd8c3d6650c8ac5e3fa73a75719f9268e3e9b2ef459b09908b33854affda"
+  ]
 }

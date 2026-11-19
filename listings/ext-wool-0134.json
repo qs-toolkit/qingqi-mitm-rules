@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0134",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c1f1fefdcb104cb28cfe8ed7ba08ae3d56729172d914cbde4e0e2b19fedf8c62"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Dida",
+  "name": "叮嗒出行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c1f1fefdcb104cb28cfe8ed7ba08ae3d56729172d914cbde4e0e2b19fedf8c62",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539200,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c1f1fefdcb104cb28cfe8ed7ba08ae3d56729172d914cbde4e0e2b19fedf8c62"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0014",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "570ed501972e66b25b9360d4347b40f1ab49317771ec3b30779b930aaf3a4932"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "21EconomicNet",
+  "name": "21经济网",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "570ed501972e66b25b9360d4347b40f1ab49317771ec3b30779b930aaf3a4932",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539183,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "570ed501972e66b25b9360d4347b40f1ab49317771ec3b30779b930aaf3a4932"
+  ]
 }

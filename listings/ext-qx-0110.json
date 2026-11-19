@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0110",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4b45f374a193d936619703a09e6130f7e2b4f1c82b28a09edfdd19c41f352646"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Vista看天下解锁",
+  "name": "Vista看天下",
   "description": "Vista看天下会员解锁",
   "scope": [],
   "revisionId": "4b45f374a193d936619703a09e6130f7e2b4f1c82b28a09edfdd19c41f352646",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539122,
   "targets": [],
   "upstream": "lutqhysky",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "4b45f374a193d936619703a09e6130f7e2b4f1c82b28a09edfdd19c41f352646"
+  ]
 }

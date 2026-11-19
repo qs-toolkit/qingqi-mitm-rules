@@ -1,19 +1,22 @@
 {
   "listingId": "ext-surge-0497",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "e3156b7b44ac9e6730de069d8014bb4e47b2a89edae65fa51eb1ef85c6cd01e5"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "🍟 BiliEnhanced.official",
-  "description": "Surge 模块 · Surge",
+  "description": " Surge",
   "scope": [],
   "revisionId": "e3156b7b44ac9e6730de069d8014bb4e47b2a89edae65fa51eb1ef85c6cd01e5",
   "author": "ClashModule",
   "updatedAt": 1795094539106,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "e3156b7b44ac9e6730de069d8014bb4e47b2a89edae65fa51eb1ef85c6cd01e5"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0568",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "f0b7fcbd0919cc1ce9fb225dcec899aff00547b16dbc755548f8eda5a91878e5"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SinaNews",
+  "name": "新浪新闻",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "f0b7fcbd0919cc1ce9fb225dcec899aff00547b16dbc755548f8eda5a91878e5",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539262,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "f0b7fcbd0919cc1ce9fb225dcec899aff00547b16dbc755548f8eda5a91878e5"
+  ]
 }

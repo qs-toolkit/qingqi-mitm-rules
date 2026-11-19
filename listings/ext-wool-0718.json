@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0718",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2ae3e5ba1693c4578c7bc400df7f6f5c2fa04760eb749578a2f8f2572dbbdc4c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhongTongExpress",
+  "name": "中通快递",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2ae3e5ba1693c4578c7bc400df7f6f5c2fa04760eb749578a2f8f2572dbbdc4c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539283,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2ae3e5ba1693c4578c7bc400df7f6f5c2fa04760eb749578a2f8f2572dbbdc4c"
+  ]
 }

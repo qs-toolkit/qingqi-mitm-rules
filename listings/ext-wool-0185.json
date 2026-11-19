@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0185",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "de49f26dae1324b4f2da2ce76a38d3a06fc31582b124856b808294d59bc4b613"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GongKaoLeiDa",
+  "name": "公考雷达",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "de49f26dae1324b4f2da2ce76a38d3a06fc31582b124856b808294d59bc4b613",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539207,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "de49f26dae1324b4f2da2ce76a38d3a06fc31582b124856b808294d59bc4b613"
+  ]
 }

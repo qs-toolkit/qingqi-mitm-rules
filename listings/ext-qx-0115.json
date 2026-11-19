@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0115",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6e574de65c577a031d335a93844e22e12d84cef0304681ba8661e0c1acbabf22"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Notability解锁",
+  "name": "Notability Plus",
   "description": "Notability解锁",
   "scope": [],
   "revisionId": "6e574de65c577a031d335a93844e22e12d84cef0304681ba8661e0c1acbabf22",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539122,
   "targets": [],
   "upstream": "litieyin",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "6e574de65c577a031d335a93844e22e12d84cef0304681ba8661e0c1acbabf22"
+  ]
 }

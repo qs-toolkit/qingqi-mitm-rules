@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0324",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "235003cd044709c9c984fae8316ed9885f261199099d2eaeb87ef9c28ad3b01a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ChinaMinshengBank",
+  "name": "民生银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "235003cd044709c9c984fae8316ed9885f261199099d2eaeb87ef9c28ad3b01a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539228,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "235003cd044709c9c984fae8316ed9885f261199099d2eaeb87ef9c28ad3b01a"
+  ]
 }

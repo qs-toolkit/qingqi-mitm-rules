@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0262",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "5b2bfe8beed98a631ced53bb2e829d7c9a412db19b05a66b13a309de91466b1a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "JiaKaoBaoDian",
+  "name": "驾考宝典",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "5b2bfe8beed98a631ced53bb2e829d7c9a412db19b05a66b13a309de91466b1a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539220,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "5b2bfe8beed98a631ced53bb2e829d7c9a412db19b05a66b13a309de91466b1a"
+  ]
 }

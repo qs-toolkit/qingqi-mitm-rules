@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0603",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "253d9fb6a6133cf63c1651fcf5d7ffbe5ca762c1c4f91b258ddc94fa994c08c2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaomiMall",
+  "name": "小米商城",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "253d9fb6a6133cf63c1651fcf5d7ffbe5ca762c1c4f91b258ddc94fa994c08c2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539267,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "253d9fb6a6133cf63c1651fcf5d7ffbe5ca762c1c4f91b258ddc94fa994c08c2"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0028",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "d142fa1b92ecd854fee7e5f92bbe99bd53f689c598b58864bf9cf75864215d57"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AOL",
+  "name": "AOL（美国在线）",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "d142fa1b92ecd854fee7e5f92bbe99bd53f689c598b58864bf9cf75864215d57",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539185,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "d142fa1b92ecd854fee7e5f92bbe99bd53f689c598b58864bf9cf75864215d57"
+  ]
 }

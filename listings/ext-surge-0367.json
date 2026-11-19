@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0367",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6cebb0dc2223b80697d9aa978a731302abbdc90d16c65796f3a030cdd44ebea4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "粉象生活去广告",
+  "name": "粉象生活 去广告",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "6cebb0dc2223b80697d9aa978a731302abbdc90d16c65796f3a030cdd44ebea4",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539087,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "6cebb0dc2223b80697d9aa978a731302abbdc90d16c65796f3a030cdd44ebea4"
+  ]
 }

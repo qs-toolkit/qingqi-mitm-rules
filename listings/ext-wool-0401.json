@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0401",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0523bb51a09b82a40e0131bd9b02cce64fb2312e2d8bdcc885529bf26bc38c81"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "CheryAuto",
+  "name": "奇瑞汽车",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "0523bb51a09b82a40e0131bd9b02cce64fb2312e2d8bdcc885529bf26bc38c81",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539239,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "0523bb51a09b82a40e0131bd9b02cce64fb2312e2d8bdcc885529bf26bc38c81"
+  ]
 }

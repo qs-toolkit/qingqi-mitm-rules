@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0092",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "3a2efe7c7d281751344be66139396eed6634db9e5698db7984d53bc878fa4d98"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "WallCraft解锁",
+  "name": "WallCraft",
   "description": "WallCraft解锁永久专业版",
   "scope": [],
   "revisionId": "3a2efe7c7d281751344be66139396eed6634db9e5698db7984d53bc878fa4d98",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539120,
   "targets": [],
   "upstream": "yqc007",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "3a2efe7c7d281751344be66139396eed6634db9e5698db7984d53bc878fa4d98"
+  ]
 }

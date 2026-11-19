@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0010",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "00fd5a5a0a6ca65e84d4d023d49a45a30d8d680ff277a5672036a77c56cec3b1"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "17173Game",
+  "name": "17173（网络游戏门户网站）",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "00fd5a5a0a6ca65e84d4d023d49a45a30d8d680ff277a5672036a77c56cec3b1",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539182,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "00fd5a5a0a6ca65e84d4d023d49a45a30d8d680ff277a5672036a77c56cec3b1"
+  ]
 }

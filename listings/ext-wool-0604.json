@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0604",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "d56336cc644e533d502c457b1b8956cb81c26068bb1d1304bc56fbea37c274f7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaomiPrint",
+  "name": "小米打印",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "d56336cc644e533d502c457b1b8956cb81c26068bb1d1304bc56fbea37c274f7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539267,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "d56336cc644e533d502c457b1b8956cb81c26068bb1d1304bc56fbea37c274f7"
+  ]
 }

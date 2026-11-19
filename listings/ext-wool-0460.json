@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0460",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2527bab49b8f74be1f8e56088a905dc98502995e7adfd4c23d28748608357a6c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SouDianChongDian",
+  "name": "搜电充电",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2527bab49b8f74be1f8e56088a905dc98502995e7adfd4c23d28748608357a6c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539247,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2527bab49b8f74be1f8e56088a905dc98502995e7adfd4c23d28748608357a6c"
+  ]
 }

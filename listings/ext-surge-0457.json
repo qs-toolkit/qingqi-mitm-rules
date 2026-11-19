@@ -1,9 +1,6 @@
 {
   "listingId": "ext-surge-0457",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8a68cb16cd8c46d5f39479643f8dc350953f7a91f86c27c0a76a2ddb606b3d57"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539100,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "8a68cb16cd8c46d5f39479643f8dc350953f7a91f86c27c0a76a2ddb606b3d57"
+  ]
 }

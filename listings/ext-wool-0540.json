@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0540",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c3c09feea50b44ab60a5790b9d8ea28ac3ecfec2a65b14cb2fc4772f1d173a97"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Vipshop",
+  "name": "唯品会",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c3c09feea50b44ab60a5790b9d8ea28ac3ecfec2a65b14cb2fc4772f1d173a97",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539258,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c3c09feea50b44ab60a5790b9d8ea28ac3ecfec2a65b14cb2fc4772f1d173a97"
+  ]
 }

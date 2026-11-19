@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0517",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "40952c3720de0975f0c4e25b42bc303d5cd0898616d9b7e265cafe02e31eee0c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "UCBrowser",
+  "name": "UC浏览器",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "40952c3720de0975f0c4e25b42bc303d5cd0898616d9b7e265cafe02e31eee0c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539254,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "40952c3720de0975f0c4e25b42bc303d5cd0898616d9b7e265cafe02e31eee0c"
+  ]
 }

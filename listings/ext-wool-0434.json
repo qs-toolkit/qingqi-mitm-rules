@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0434",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0f4193254f066604ccf3eee88e35a49944cc3c8a5d6e2a4aa5b28b254e405e6f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SFExpress",
+  "name": "顺丰快递",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "0f4193254f066604ccf3eee88e35a49944cc3c8a5d6e2a4aa5b28b254e405e6f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539244,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "0f4193254f066604ccf3eee88e35a49944cc3c8a5d6e2a4aa5b28b254e405e6f"
+  ]
 }

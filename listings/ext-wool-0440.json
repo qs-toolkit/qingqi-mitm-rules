@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0440",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c7332ebc110bfd97acb947a889b126aa9e1dd0cf181f5f5e683e4aefd8d97c99"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ShanDongXiaoYuan",
+  "name": "闪动校园",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c7332ebc110bfd97acb947a889b126aa9e1dd0cf181f5f5e683e4aefd8d97c99",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539244,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c7332ebc110bfd97acb947a889b126aa9e1dd0cf181f5f5e683e4aefd8d97c99"
+  ]
 }

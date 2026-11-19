@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0129",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2cc76f2eaed2cd03e736a8c016e2a75c0c1abbf6d8aeed7c7c32f5824d661120"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DiDuanYingShi",
+  "name": "低端影视",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2cc76f2eaed2cd03e736a8c016e2a75c0c1abbf6d8aeed7c7c32f5824d661120",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539199,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2cc76f2eaed2cd03e736a8c016e2a75c0c1abbf6d8aeed7c7c32f5824d661120"
+  ]
 }

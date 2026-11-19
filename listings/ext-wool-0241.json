@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0241",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "3e9d790a828e036c6cfa7f158322bf6e26535f627af2263b7a3a39a75e9d98b1"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Hupu",
+  "name": "虎扑",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "3e9d790a828e036c6cfa7f158322bf6e26535f627af2263b7a3a39a75e9d98b1",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539217,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "3e9d790a828e036c6cfa7f158322bf6e26535f627af2263b7a3a39a75e9d98b1"
+  ]
 }

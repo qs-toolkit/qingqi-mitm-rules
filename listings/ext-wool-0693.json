@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0693",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "5954d1fb0c1e524db7b218ecafbdcaa27e22d91705563ad50d8351e8b135ded1"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ChinaTelecom",
+  "name": "中国电信",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "5954d1fb0c1e524db7b218ecafbdcaa27e22d91705563ad50d8351e8b135ded1",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539279,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "5954d1fb0c1e524db7b218ecafbdcaa27e22d91705563ad50d8351e8b135ded1"
+  ]
 }

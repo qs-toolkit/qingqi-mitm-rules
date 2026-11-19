@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0593",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "d163bd603392b3bfa6b902621002e2e0f62a2a3d9a813af87194e90f3f1b67c1"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaoXiangSupermarket",
+  "name": "小象超市",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "d163bd603392b3bfa6b902621002e2e0f62a2a3d9a813af87194e90f3f1b67c1",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539265,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "d163bd603392b3bfa6b902621002e2e0f62a2a3d9a813af87194e90f3f1b67c1"
+  ]
 }

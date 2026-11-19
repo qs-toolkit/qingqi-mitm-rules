@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0165",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "61a78a9bd3ef27835f6881c77e3f9e9ad12ea25ae36eb29bf368a2f6a277250e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "哔哩漫画签到.official",
+  "name": "🐻 哔哩哔哩漫画 [签到]",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "61a78a9bd3ef27835f6881c77e3f9e9ad12ea25ae36eb29bf368a2f6a277250e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539057,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "61a78a9bd3ef27835f6881c77e3f9e9ad12ea25ae36eb29bf368a2f6a277250e"
+  ]
 }

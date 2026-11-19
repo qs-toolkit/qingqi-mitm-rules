@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0233",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "219b6f4f329d679dee9c6ff2ba3de680e24e5e96b62d728a8fee4bfb35b796e2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HuangYouXiangJi",
+  "name": "黄油相机",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "219b6f4f329d679dee9c6ff2ba3de680e24e5e96b62d728a8fee4bfb35b796e2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539216,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "219b6f4f329d679dee9c6ff2ba3de680e24e5e96b62d728a8fee4bfb35b796e2"
+  ]
 }

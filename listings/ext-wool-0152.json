@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0152",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "715b7d28ee2873d5d12b81a74b6328b0b9960bd269d4507b1d497f464a96a5ac"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "eChongDian",
+  "name": "e充电",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "715b7d28ee2873d5d12b81a74b6328b0b9960bd269d4507b1d497f464a96a5ac",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539203,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "715b7d28ee2873d5d12b81a74b6328b0b9960bd269d4507b1d497f464a96a5ac"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0081",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "fbacea8f8c5dcaafc4f0aba11dc2bbc7869efb6aa899aa96b9443af85306fd08"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "EMMO解锁",
+  "name": "Emmo",
   "description": "Emmo解锁会员",
   "scope": [],
   "revisionId": "fbacea8f8c5dcaafc4f0aba11dc2bbc7869efb6aa899aa96b9443af85306fd08",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539118,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "fbacea8f8c5dcaafc4f0aba11dc2bbc7869efb6aa899aa96b9443af85306fd08"
+  ]
 }

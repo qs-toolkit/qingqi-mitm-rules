@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0672",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "74c2a0e1847b62f60ba87dcc0c026e3aa69118c19061c65498b38e3b94cc47ff"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YuanjuNetwork",
+  "name": "元聚网络（漫画岛，追书神器，甜瓜小说）",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "74c2a0e1847b62f60ba87dcc0c026e3aa69118c19061c65498b38e3b94cc47ff",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539276,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "74c2a0e1847b62f60ba87dcc0c026e3aa69118c19061c65498b38e3b94cc47ff"
+  ]
 }

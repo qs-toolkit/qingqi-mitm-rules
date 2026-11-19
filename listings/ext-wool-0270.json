@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0270",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "60378b90901b8abee1c48fabe7c3d9b2874b0671cd839a6ca59eaa4cce14b42b"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "JinShiData",
+  "name": "金十数据",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "60378b90901b8abee1c48fabe7c3d9b2874b0671cd839a6ca59eaa4cce14b42b",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539221,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "60378b90901b8abee1c48fabe7c3d9b2874b0671cd839a6ca59eaa4cce14b42b"
+  ]
 }

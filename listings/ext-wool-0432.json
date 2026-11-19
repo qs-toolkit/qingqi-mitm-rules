@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0432",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "01313e242af0663454bc30f3574410825fa3e14e270d61241550ac700883cdcd"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "SAICVolkswagen",
+  "name": "上汽大众",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "01313e242af0663454bc30f3574410825fa3e14e270d61241550ac700883cdcd",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539243,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "01313e242af0663454bc30f3574410825fa3e14e270d61241550ac700883cdcd"
+  ]
 }

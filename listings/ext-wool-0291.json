@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0291",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "9a8bd908e1d4690b5d496e99478885aad06af9b68ac44264dba5e4c60976e43f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Kuaishou",
+  "name": "快手",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "9a8bd908e1d4690b5d496e99478885aad06af9b68ac44264dba5e4c60976e43f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539224,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "9a8bd908e1d4690b5d496e99478885aad06af9b68ac44264dba5e4c60976e43f"
+  ]
 }

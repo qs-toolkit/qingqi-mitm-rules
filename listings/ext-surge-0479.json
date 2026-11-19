@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0479",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "bdf1f81862834b3185815f9cdfe8e37d73aed8661796b079da2bd480238a241f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "飞猫管家.official",
+  "name": "飞猫管家去广告",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "bdf1f81862834b3185815f9cdfe8e37d73aed8661796b079da2bd480238a241f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539103,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "bdf1f81862834b3185815f9cdfe8e37d73aed8661796b079da2bd480238a241f"
+  ]
 }

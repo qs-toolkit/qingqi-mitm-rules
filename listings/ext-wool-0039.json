@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0039",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "d8211ba4c0c42c5720443fae029d742d6e1f9284e53358cd27aad2690a50a46e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AiYueShuXiang",
+  "name": "爱阅书香",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "d8211ba4c0c42c5720443fae029d742d6e1f9284e53358cd27aad2690a50a46e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539186,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "d8211ba4c0c42c5720443fae029d742d6e1f9284e53358cd27aad2690a50a46e"
+  ]
 }

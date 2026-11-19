@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0629",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "9cb5cce7670741848e64426a152e54c8543a3fed4d61c608bd88fa07d433e40e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Evernote",
+  "name": "印象笔记",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "9cb5cce7670741848e64426a152e54c8543a3fed4d61c608bd88fa07d433e40e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539270,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "9cb5cce7670741848e64426a152e54c8543a3fed4d61c608bd88fa07d433e40e"
+  ]
 }

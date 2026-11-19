@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0034",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "057d199a340d9f4cd20ef9d4ab18696fde8c6a38b70c460de56735b17cdf7b19"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AiPai",
+  "name": "爱拍",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "057d199a340d9f4cd20ef9d4ab18696fde8c6a38b70c460de56735b17cdf7b19",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539186,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "057d199a340d9f4cd20ef9d4ab18696fde8c6a38b70c460de56735b17cdf7b19"
+  ]
 }

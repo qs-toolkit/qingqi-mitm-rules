@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0300",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "930c246eff3d574c6783a32d6e5f9eac1589b634ffea50d6f5660b74415f116d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LanJiYin",
+  "name": "蓝基因",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "930c246eff3d574c6783a32d6e5f9eac1589b634ffea50d6f5660b74415f116d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539225,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "930c246eff3d574c6783a32d6e5f9eac1589b634ffea50d6f5660b74415f116d"
+  ]
 }

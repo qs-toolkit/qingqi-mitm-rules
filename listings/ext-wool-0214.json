@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0214",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "32095029a9af16c70b97f7e8ce5bdc939e6a285ae064818da22b93eff447d182"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HangZhouCitizen",
+  "name": "杭州市民",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "32095029a9af16c70b97f7e8ce5bdc939e6a285ae064818da22b93eff447d182",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539214,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "32095029a9af16c70b97f7e8ce5bdc939e6a285ae064818da22b93eff447d182"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0583",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0a02eae52b6792dc45b30eae5bd6bfa3f0270571956e9cb83ee1bc6601075ef8"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaoHeTuoZhan",
+  "name": "小合拓展",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "0a02eae52b6792dc45b30eae5bd6bfa3f0270571956e9cb83ee1bc6601075ef8",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539264,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "0a02eae52b6792dc45b30eae5bd6bfa3f0270571956e9cb83ee1bc6601075ef8"
+  ]
 }

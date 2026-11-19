@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0481",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "170d3d5929b50a60b8a4a23593a96e4b9c36daadec2934346136346d2e8c1d14"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TencentGamesCommunity",
+  "name": "腾讯游戏社区",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "170d3d5929b50a60b8a4a23593a96e4b9c36daadec2934346136346d2e8c1d14",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539250,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "170d3d5929b50a60b8a4a23593a96e4b9c36daadec2934346136346d2e8c1d14"
+  ]
 }

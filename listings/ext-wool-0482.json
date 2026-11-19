@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0482",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2f0c09643fdebd0578e0947843f2f2e589c2ba54faa94962515188a5a609836b"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TencentMaps",
+  "name": "腾讯地图",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2f0c09643fdebd0578e0947843f2f2e589c2ba54faa94962515188a5a609836b",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539250,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2f0c09643fdebd0578e0947843f2f2e589c2ba54faa94962515188a5a609836b"
+  ]
 }

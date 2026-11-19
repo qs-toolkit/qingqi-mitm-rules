@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0078",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c9a7fd9503e180799442c4a3080eae88d7104be666247074ec55c4da48d226a6"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Fantastical解锁",
+  "name": "Fantastical",
   "description": "Fantastical解锁会员",
   "scope": [],
   "revisionId": "c9a7fd9503e180799442c4a3080eae88d7104be666247074ec55c4da48d226a6",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539118,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "c9a7fd9503e180799442c4a3080eae88d7104be666247074ec55c4da48d226a6"
+  ]
 }

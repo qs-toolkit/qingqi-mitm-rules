@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0279",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "62a29d5bf6b85ce0f239b7ab79e47e1fd0204a4d3ba46c14f52d2f22a66f367e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "新手友好の去广告集合.official",
+  "name": "1.去除常用软件广告",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "62a29d5bf6b85ce0f239b7ab79e47e1fd0204a4d3ba46c14f52d2f22a66f367e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539075,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "62a29d5bf6b85ce0f239b7ab79e47e1fd0204a4d3ba46c14f52d2f22a66f367e"
+  ]
 }

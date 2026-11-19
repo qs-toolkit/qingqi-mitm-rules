@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0162",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "455351508812aa0aea8b60633f37b05ac8e038e86960377201aa975491857f19"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "FenQiLe",
+  "name": "分期乐",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "455351508812aa0aea8b60633f37b05ac8e038e86960377201aa975491857f19",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539204,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "455351508812aa0aea8b60633f37b05ac8e038e86960377201aa975491857f19"
+  ]
 }

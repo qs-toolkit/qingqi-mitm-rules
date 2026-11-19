@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0473",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "92c8fe07d859c14ec4d1a5eb23be106d224e52ae2bb9bbed3dde97017315f71d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TaoTaoReading",
+  "name": "淘淘阅读",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "92c8fe07d859c14ec4d1a5eb23be106d224e52ae2bb9bbed3dde97017315f71d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539249,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "92c8fe07d859c14ec4d1a5eb23be106d224e52ae2bb9bbed3dde97017315f71d"
+  ]
 }

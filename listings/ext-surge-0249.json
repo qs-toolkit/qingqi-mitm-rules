@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0249",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "1f61a22d82a9c4b46d72a7c3387b4bf829ca60036ecae361df996dff8945a6dc"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "快看漫画签到.official",
+  "name": "🐻 快看漫画 [签到]",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "1f61a22d82a9c4b46d72a7c3387b4bf829ca60036ecae361df996dff8945a6dc",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539070,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "1f61a22d82a9c4b46d72a7c3387b4bf829ca60036ecae361df996dff8945a6dc"
+  ]
 }

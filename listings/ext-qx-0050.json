@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0050",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "37a7bd7a59d0e779962330808bcb3cfae350f28f1c0e2421314428d666034345"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Ten Percent解锁",
+  "name": "Ten Percent",
   "description": "Ten Percent解锁",
   "scope": [],
   "revisionId": "37a7bd7a59d0e779962330808bcb3cfae350f28f1c0e2421314428d666034345",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539114,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "37a7bd7a59d0e779962330808bcb3cfae350f28f1c0e2421314428d666034345"
+  ]
 }

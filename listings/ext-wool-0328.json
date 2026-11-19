@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0328",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "a834ffb54231c840734fb04323a56ebe61b7ed2d5e0db631c562d93c018a1a83"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MaMaWangYunYu",
+  "name": "妈妈网孕育",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "a834ffb54231c840734fb04323a56ebe61b7ed2d5e0db631c562d93c018a1a83",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539229,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "a834ffb54231c840734fb04323a56ebe61b7ed2d5e0db631c562d93c018a1a83"
+  ]
 }

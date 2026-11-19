@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0427",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "a1237e1c38d14a9cbf8a2ecb125bfe46c019b87adabea01ee53c3a0d867d5577"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "RiRiZhu",
+  "name": "日日煮",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "a1237e1c38d14a9cbf8a2ecb125bfe46c019b87adabea01ee53c3a0d867d5577",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539242,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "a1237e1c38d14a9cbf8a2ecb125bfe46c019b87adabea01ee53c3a0d867d5577"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0390",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "95029ced01d19b469e809a833d5999f10fd4a854c5649827a4368be409ab2533"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "PingAnPocketBank",
+  "name": "平安口袋银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "95029ced01d19b469e809a833d5999f10fd4a854c5649827a4368be409ab2533",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539237,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "95029ced01d19b469e809a833d5999f10fd4a854c5649827a4368be409ab2533"
+  ]
 }

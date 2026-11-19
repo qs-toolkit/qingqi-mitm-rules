@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0084",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "62720d7837e582ae712c446c6a77b0d874c3cdf0d59ab9fcb5473b65c4b274bf"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "斑马海报解锁",
+  "name": "斑马海报",
   "description": "斑马海报解锁会员",
   "scope": [],
   "revisionId": "62720d7837e582ae712c446c6a77b0d874c3cdf0d59ab9fcb5473b65c4b274bf",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539119,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "62720d7837e582ae712c446c6a77b0d874c3cdf0d59ab9fcb5473b65c4b274bf"
+  ]
 }

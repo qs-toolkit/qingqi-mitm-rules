@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0715",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "3b8564429d7208cf8d5dcd93ef733cd14fdbdcbd7fc0499835d13d760a5aa0a2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Zhihu",
+  "name": "知乎",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "3b8564429d7208cf8d5dcd93ef733cd14fdbdcbd7fc0499835d13d760a5aa0a2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539282,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "3b8564429d7208cf8d5dcd93ef733cd14fdbdcbd7fc0499835d13d760a5aa0a2"
+  ]
 }

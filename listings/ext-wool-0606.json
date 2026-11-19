@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0606",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "e1ab827a85a147994f84f1f006edc1f89d142e5205d34f0a8d05f597f3b8b23a"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaomiYoupin",
+  "name": "小米有品",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "e1ab827a85a147994f84f1f006edc1f89d142e5205d34f0a8d05f597f3b8b23a",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539267,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "e1ab827a85a147994f84f1f006edc1f89d142e5205d34f0a8d05f597f3b8b23a"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0393",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "82ce577f907c2329b08c7624a34697f676ef71890c313768ec574c2f16b9a9ec"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "PuDaXiBen",
+  "name": "浦大喜奔",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "82ce577f907c2329b08c7624a34697f676ef71890c313768ec574c2f16b9a9ec",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539238,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "82ce577f907c2329b08c7624a34697f676ef71890c313768ec574c2f16b9a9ec"
+  ]
 }

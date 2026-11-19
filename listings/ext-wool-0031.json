@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0031",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c8f8215b1ef2b58be5e9959a1eeca47f6beff95c4b202209265782182c82883e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AdobeFlash",
+  "name": "Adobe Flash China Special Edition",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c8f8215b1ef2b58be5e9959a1eeca47f6beff95c4b202209265782182c82883e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539185,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c8f8215b1ef2b58be5e9959a1eeca47f6beff95c4b202209265782182c82883e"
+  ]
 }

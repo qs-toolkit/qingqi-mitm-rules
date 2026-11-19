@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0486",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "9125d3f5c35f8c9d911f17a893276e6abc29a1b784b0736831b49f0ec42c5a74"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TencentSports",
+  "name": "腾讯体育",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "9125d3f5c35f8c9d911f17a893276e6abc29a1b784b0736831b49f0ec42c5a74",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539251,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "9125d3f5c35f8c9d911f17a893276e6abc29a1b784b0736831b49f0ec42c5a74"
+  ]
 }

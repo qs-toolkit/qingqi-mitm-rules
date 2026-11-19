@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0547",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "aef7e49b234c08a37c2dccec286c75f3d247377a749cd820f41df88899e7518b"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Waps",
+  "name": "Waps（无线广告交易中心）",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "aef7e49b234c08a37c2dccec286c75f3d247377a749cd820f41df88899e7518b",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539259,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "aef7e49b234c08a37c2dccec286c75f3d247377a749cd820f41df88899e7518b"
+  ]
 }

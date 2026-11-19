@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0665",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "030552525618170c98f5b3eb20ee77a20621a3409b9563eb455ae03e030c1cef"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YouXiAPP",
+  "name": "悠洗APP",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "030552525618170c98f5b3eb20ee77a20621a3409b9563eb455ae03e030c1cef",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539275,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "030552525618170c98f5b3eb20ee77a20621a3409b9563eb455ae03e030c1cef"
+  ]
 }

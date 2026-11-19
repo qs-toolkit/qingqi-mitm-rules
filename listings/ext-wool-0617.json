@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0617",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "718009949615b417cb1a7a613c4dacf49df087c623622d801da7b1aab99d791b"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XunYiWenYao",
+  "name": "寻医问药",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "718009949615b417cb1a7a613c4dacf49df087c623622d801da7b1aab99d791b",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539269,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "718009949615b417cb1a7a613c4dacf49df087c623622d801da7b1aab99d791b"
+  ]
 }

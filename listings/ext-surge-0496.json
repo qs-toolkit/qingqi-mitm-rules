@@ -1,19 +1,22 @@
 {
   "listingId": "ext-surge-0496",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6cbf9114d2e9c91d02757a74b3496cbf43595c4cbfa6c85d464d4d71ec719279"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
   "name": "🍟 BiliADBlock.official",
-  "description": "Surge 模块 · Surge",
+  "description": " Surge",
   "scope": [],
   "revisionId": "6cbf9114d2e9c91d02757a74b3496cbf43595c4cbfa6c85d464d4d71ec719279",
   "author": "ClashModule",
   "updatedAt": 1795094539105,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "6cbf9114d2e9c91d02757a74b3496cbf43595c4cbfa6c85d464d4d71ec719279"
+  ]
 }

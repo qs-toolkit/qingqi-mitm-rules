@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0560",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "4846431a4a61201f7bb825cbcab03ce5157950632596ff672a145acb115b6e75"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BananaIsAFruit",
+  "name": "香蕉是一种水果",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "4846431a4a61201f7bb825cbcab03ce5157950632596ff672a145acb115b6e75",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539260,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "4846431a4a61201f7bb825cbcab03ce5157950632596ff672a145acb115b6e75"
+  ]
 }

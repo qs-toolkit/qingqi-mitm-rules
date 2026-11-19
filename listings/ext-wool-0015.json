@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0015",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "2868a2c5d69ed76e246905ab8edcd1dfbe61d80da7f7b23840cb301cf7d629be"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "2345WeatherKing",
+  "name": "2345天气王",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "2868a2c5d69ed76e246905ab8edcd1dfbe61d80da7f7b23840cb301cf7d629be",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539183,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "2868a2c5d69ed76e246905ab8edcd1dfbe61d80da7f7b23840cb301cf7d629be"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0642",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "c1ac495a1093b3953573768697e09ae687e81791c743b3a978086e310a6b0c48"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YaoyingMedical",
+  "name": "曜影医疗",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "c1ac495a1093b3953573768697e09ae687e81791c743b3a978086e310a6b0c48",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539272,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "c1ac495a1093b3953573768697e09ae687e81791c743b3a978086e310a6b0c48"
+  ]
 }

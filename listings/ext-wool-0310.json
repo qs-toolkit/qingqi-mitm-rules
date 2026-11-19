@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0310",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6ee3347abe07e92c7b34101a9a181d315b619df592b2473c685dd1023630e375"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LenovoPrint",
+  "name": "联想至像打印",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "6ee3347abe07e92c7b34101a9a181d315b619df592b2473c685dd1023630e375",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539226,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "6ee3347abe07e92c7b34101a9a181d315b619df592b2473c685dd1023630e375"
+  ]
 }

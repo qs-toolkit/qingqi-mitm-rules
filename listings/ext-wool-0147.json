@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0147",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8f8a9a4bc3492213c24681f5d716c444b44989940c77455dfcd341585e3a6e38"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DuoDuoXiuYuanQuan",
+  "name": "朵朵校友圈",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "8f8a9a4bc3492213c24681f5d716c444b44989940c77455dfcd341585e3a6e38",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539202,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "8f8a9a4bc3492213c24681f5d716c444b44989940c77455dfcd341585e3a6e38"
+  ]
 }

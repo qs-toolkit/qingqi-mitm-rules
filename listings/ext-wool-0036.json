@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0036",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b63b27d0d9d7e7ded178073da6d61cbad9eca71a6a36c565f8d2dcca6420aef4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "AiQianGua",
+  "name": "爱牵挂care",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b63b27d0d9d7e7ded178073da6d61cbad9eca71a6a36c565f8d2dcca6420aef4",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539186,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b63b27d0d9d7e7ded178073da6d61cbad9eca71a6a36c565f8d2dcca6420aef4"
+  ]
 }

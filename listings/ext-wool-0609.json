@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0609",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ab1a7797cf442f0660a13a53a530a8181d502a28315584e4ca424e087c71458f"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XinYueClub",
+  "name": "心悦俱乐部",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ab1a7797cf442f0660a13a53a530a8181d502a28315584e4ca424e087c71458f",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539268,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ab1a7797cf442f0660a13a53a530a8181d502a28315584e4ca424e087c71458f"
+  ]
 }

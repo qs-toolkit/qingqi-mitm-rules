@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0180",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "bce36c7ecb34c933016bffe3ebcae5ecbd2a41ba95f3cb1a0670e0ff6206ff76"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GaiDePaiHang",
+  "name": "盖得排行",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "bce36c7ecb34c933016bffe3ebcae5ecbd2a41ba95f3cb1a0670e0ff6206ff76",
@@ -15,5 +12,12 @@
   "updatedAt": 1795094539206,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts",
+    "Surge"
+  ],
+  "revisions": [
+    "bce36c7ecb34c933016bffe3ebcae5ecbd2a41ba95f3cb1a0670e0ff6206ff76"
+  ]
 }

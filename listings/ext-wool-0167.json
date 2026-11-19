@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0167",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "574622dc1a9b75a05a66978076ec9497ba511ae02681b30d210db4701a2e75b2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "FuXiangTaiPing",
+  "name": "福享太平",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "574622dc1a9b75a05a66978076ec9497ba511ae02681b30d210db4701a2e75b2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539204,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "574622dc1a9b75a05a66978076ec9497ba511ae02681b30d210db4701a2e75b2"
+  ]
 }

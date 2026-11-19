@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0714",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ed334e771b2245cf4c78312db10f28386df7301b88c554dbb8c389ff3f90fd18"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhiXingAPP",
+  "name": "智行APP",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ed334e771b2245cf4c78312db10f28386df7301b88c554dbb8c389ff3f90fd18",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539282,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ed334e771b2245cf4c78312db10f28386df7301b88c554dbb8c389ff3f90fd18"
+  ]
 }

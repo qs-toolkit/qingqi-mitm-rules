@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0297",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "861a345fe21363df12c6771d2e51e5780dd4ee56f17c8900960fbe732adedde8"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "LaiDian",
+  "name": "来电",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "861a345fe21363df12c6771d2e51e5780dd4ee56f17c8900960fbe732adedde8",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539224,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "861a345fe21363df12c6771d2e51e5780dd4ee56f17c8900960fbe732adedde8"
+  ]
 }

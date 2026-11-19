@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0723",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "de33539875d5dfc06f052c0953cac9032c3fd537e603cbc3b4bc985fac42859c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhuBaJie",
+  "name": "猪八戒",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "de33539875d5dfc06f052c0953cac9032c3fd537e603cbc3b4bc985fac42859c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539283,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "de33539875d5dfc06f052c0953cac9032c3fd537e603cbc3b4bc985fac42859c"
+  ]
 }

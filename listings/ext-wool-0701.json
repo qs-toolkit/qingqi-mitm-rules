@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0701",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0627639c5adcc1bbc094e932d9e710637e7a2c27e4b1c4783ff98a4a65fead50"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZhangShangDaoJuCheng",
+  "name": "掌上道具城",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "0627639c5adcc1bbc094e932d9e710637e7a2c27e4b1c4783ff98a4a65fead50",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539281,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "0627639c5adcc1bbc094e932d9e710637e7a2c27e4b1c4783ff98a4a65fead50"
+  ]
 }

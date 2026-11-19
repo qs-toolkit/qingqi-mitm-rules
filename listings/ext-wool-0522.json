@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0522",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "be4e5826bdc7cfb3a62eb40d9c42cad574648ab744b4c7591093b7cf4592512d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "VIVO",
+  "name": "Vivo",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "be4e5826bdc7cfb3a62eb40d9c42cad574648ab744b4c7591093b7cf4592512d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539255,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "be4e5826bdc7cfb3a62eb40d9c42cad574648ab744b4c7591093b7cf4592512d"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0216",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "0798346dc6201f2268e116e296350bf476337fcc1c0a25b0a9f2e11b273c4050"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HaoHaoZhu",
+  "name": "好好住",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "0798346dc6201f2268e116e296350bf476337fcc1c0a25b0a9f2e11b273c4050",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539214,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "0798346dc6201f2268e116e296350bf476337fcc1c0a25b0a9f2e11b273c4050"
+  ]
 }

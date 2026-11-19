@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0217",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "99ab4b2e117c83d1145dccdd43e774e80a6f11f8414fc449e1d7ec03e47f2596"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "HaoQiXinDaily",
+  "name": "好奇心日报",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "99ab4b2e117c83d1145dccdd43e774e80a6f11f8414fc449e1d7ec03e47f2596",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539214,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "99ab4b2e117c83d1145dccdd43e774e80a6f11f8414fc449e1d7ec03e47f2596"
+  ]
 }

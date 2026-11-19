@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0377",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "68a467c1b246a980def3b47654c8a57b48738cdce4a7b762517a70b77c185375"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Outfit7",
+  "name": "Outfit7（会说话的汤姆猫）",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "68a467c1b246a980def3b47654c8a57b48738cdce4a7b762517a70b77c185375",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539236,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "68a467c1b246a980def3b47654c8a57b48738cdce4a7b762517a70b77c185375"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0596",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "576eef224799bd521a7372b5bf61d9eba32a1e78d93803a4cd715a2ec01f8dcc"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "XiaoXiongArt",
+  "name": "小熊艺术",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "576eef224799bd521a7372b5bf61d9eba32a1e78d93803a4cd715a2ec01f8dcc",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539266,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "576eef224799bd521a7372b5bf61d9eba32a1e78d93803a4cd715a2ec01f8dcc"
+  ]
 }

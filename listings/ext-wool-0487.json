@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0487",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "7659d62f5b84acf6a1d385e98069517f3283c0e9d266d2c60effd7a60d7ab8b2"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TencentVideo",
+  "name": "腾讯视频",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "7659d62f5b84acf6a1d385e98069517f3283c0e9d266d2c60effd7a60d7ab8b2",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539251,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "7659d62f5b84acf6a1d385e98069517f3283c0e9d266d2c60effd7a60d7ab8b2"
+  ]
 }

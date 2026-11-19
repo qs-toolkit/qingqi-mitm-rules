@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0429",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "21439e02741db5c22b22f3e9d21ab7e67075f1eb78bc69fe5adae414e9221971"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "BTGHomeinns",
+  "name": "首旅如家",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "21439e02741db5c22b22f3e9d21ab7e67075f1eb78bc69fe5adae414e9221971",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539243,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "21439e02741db5c22b22f3e9d21ab7e67075f1eb78bc69fe5adae414e9221971"
+  ]
 }

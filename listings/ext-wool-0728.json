@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0728",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "35f22ef39343f32970b6fd45251cbe3624ad342d3024ba514cb986701072f1a4"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ZiRu",
+  "name": "自如",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "35f22ef39343f32970b6fd45251cbe3624ad342d3024ba514cb986701072f1a4",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539284,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "35f22ef39343f32970b6fd45251cbe3624ad342d3024ba514cb986701072f1a4"
+  ]
 }

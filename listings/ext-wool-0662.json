@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0662",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ff7fae2821a307753199024a8947fa7b1bd7db2750a3c5a218e15a002388e6fa"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YouShu",
+  "name": "优书",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ff7fae2821a307753199024a8947fa7b1bd7db2750a3c5a218e15a002388e6fa",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539275,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ff7fae2821a307753199024a8947fa7b1bd7db2750a3c5a218e15a002388e6fa"
+  ]
 }

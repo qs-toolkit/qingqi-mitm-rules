@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0666",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "bae05f479e28540e7cd9858da0afed29cb46fd628c0ad2ed8b20adfdb5235c31"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Youku",
+  "name": "优酷",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "bae05f479e28540e7cd9858da0afed29cb46fd628c0ad2ed8b20adfdb5235c31",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539275,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "bae05f479e28540e7cd9858da0afed29cb46fd628c0ad2ed8b20adfdb5235c31"
+  ]
 }

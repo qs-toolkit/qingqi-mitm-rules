@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0198",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8f37015a0cd2aad8e1f84c25f078f16949acd8315eb3c48e9d54e6d2104f5e70"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "ICBCELife",
+  "name": "工银E生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "8f37015a0cd2aad8e1f84c25f078f16949acd8315eb3c48e9d54e6d2104f5e70",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539211,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "8f37015a0cd2aad8e1f84c25f078f16949acd8315eb3c48e9d54e6d2104f5e70"
+  ]
 }

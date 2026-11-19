@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0027",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6c0cb50e01ac7e6158f531b24c74383de85136b9b065b24b7ca2480a043f6f13"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Alarmy闹钟解锁",
+  "name": "Alarmy Premium",
   "description": "使命闹钟会员解锁",
   "scope": [],
   "revisionId": "6c0cb50e01ac7e6158f531b24c74383de85136b9b065b24b7ca2480a043f6f13",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539111,
   "targets": [],
   "upstream": "Marol62926",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "6c0cb50e01ac7e6158f531b24c74383de85136b9b065b24b7ca2480a043f6f13"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0438",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "7e0903351fdfe1c8e2eb4461c11783a08931e734b2c2e65c1084a85c1e66b0e7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "起点中文去广告.official",
+  "name": "起点App去广告",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "7e0903351fdfe1c8e2eb4461c11783a08931e734b2c2e65c1084a85c1e66b0e7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539097,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "7e0903351fdfe1c8e2eb4461c11783a08931e734b2c2e65c1084a85c1e66b0e7"
+  ]
 }

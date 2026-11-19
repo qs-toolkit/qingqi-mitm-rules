@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0359",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "fa2032143c9456c2e0be8333f822d96b46f411f09bccdc359460a15d9ea5ccb9"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MojiWeather",
+  "name": "墨迹天气",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "fa2032143c9456c2e0be8333f822d96b46f411f09bccdc359460a15d9ea5ccb9",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539233,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "fa2032143c9456c2e0be8333f822d96b46f411f09bccdc359460a15d9ea5ccb9"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0192",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "6100c284652c4c5cda867731f4e413724ba267858f00b0e231995df1fc804d9e"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GuaiShouChongDian",
+  "name": "怪兽充电",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "6100c284652c4c5cda867731f4e413724ba267858f00b0e231995df1fc804d9e",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539208,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "6100c284652c4c5cda867731f4e413724ba267858f00b0e231995df1fc804d9e"
+  ]
 }

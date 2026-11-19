@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0186",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "85f070dfc8fa3a3a9e8df2577348b12daf4ee5827735d854dc9c2cb18b2b748d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "GongShiJiLu",
+  "name": "工时记录",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "85f070dfc8fa3a3a9e8df2577348b12daf4ee5827735d854dc9c2cb18b2b748d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539207,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "85f070dfc8fa3a3a9e8df2577348b12daf4ee5827735d854dc9c2cb18b2b748d"
+  ]
 }

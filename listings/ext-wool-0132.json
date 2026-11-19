@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0132",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b60085e4d1a0c28c976d9aa52d9707fb301611b2a162d2a34b4999272eace9c7"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "DianShiJia",
+  "name": "电视家",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b60085e4d1a0c28c976d9aa52d9707fb301611b2a162d2a34b4999272eace9c7",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539200,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b60085e4d1a0c28c976d9aa52d9707fb301611b2a162d2a34b4999272eace9c7"
+  ]
 }

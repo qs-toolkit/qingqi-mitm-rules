@@ -1,13 +1,10 @@
 {
   "listingId": "ext-surge-0015",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "fe2029b271229c17f6105f07f439029a3de411d9eb00cba064157d7e2c4bea6c"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Bilibili Helper.official",
+  "name": "Bilibili Helper",
   "description": "Surge 模块",
   "scope": [],
   "revisionId": "fe2029b271229c17f6105f07f439029a3de411d9eb00cba064157d7e2c4bea6c",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539035,
   "targets": [],
   "upstream": "ClashModule",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "Surge"
+  ],
+  "revisions": [
+    "fe2029b271229c17f6105f07f439029a3de411d9eb00cba064157d7e2c4bea6c"
+  ]
 }

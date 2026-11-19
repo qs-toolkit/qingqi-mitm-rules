@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0117",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "e906d059c5e6592a00ef49b5003766a14fc34bc0e975a37cd6e4dbe34c53cf24"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "白描黄金会员",
+  "name": "白描",
   "description": "白描黄金会员",
   "scope": [],
   "revisionId": "e906d059c5e6592a00ef49b5003766a14fc34bc0e975a37cd6e4dbe34c53cf24",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539123,
   "targets": [],
   "upstream": "iEwha",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "e906d059c5e6592a00ef49b5003766a14fc34bc0e975a37cd6e4dbe34c53cf24"
+  ]
 }

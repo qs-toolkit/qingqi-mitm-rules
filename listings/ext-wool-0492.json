@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0492",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "b6e5fe2ebc05f7c0887e90070508ea3de4b50418d06b17beddbdb33940d0aabb"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "TianFuShiMinYun",
+  "name": "天府市民云",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "b6e5fe2ebc05f7c0887e90070508ea3de4b50418d06b17beddbdb33940d0aabb",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539251,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "b6e5fe2ebc05f7c0887e90070508ea3de4b50418d06b17beddbdb33940d0aabb"
+  ]
 }

@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0619",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "646bc15b11dd850d55c876f0a714b1a5d374e271808954e647cf8d5e0f428905"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "iFlytek",
+  "name": "讯飞",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "646bc15b11dd850d55c876f0a714b1a5d374e271808954e647cf8d5e0f428905",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539269,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "646bc15b11dd850d55c876f0a714b1a5d374e271808954e647cf8d5e0f428905"
+  ]
 }

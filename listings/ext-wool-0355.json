@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0355",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "a23ccec5dd83832b375e6443e3dce63e266c525b38c68359d535413ed6d44b22"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "MiguVideo",
+  "name": "咪咕视频",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "a23ccec5dd83832b375e6443e3dce63e266c525b38c68359d535413ed6d44b22",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539233,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "a23ccec5dd83832b375e6443e3dce63e266c525b38c68359d535413ed6d44b22"
+  ]
 }

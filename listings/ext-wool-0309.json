@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0309",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "8a9fed5594b9025b451b4c60de3179a82c29d083c09da7d3dc3c95b25719f232"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Lenovo",
+  "name": "联想",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "8a9fed5594b9025b451b4c60de3179a82c29d083c09da7d3dc3c95b25719f232",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539226,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "8a9fed5594b9025b451b4c60de3179a82c29d083c09da7d3dc3c95b25719f232"
+  ]
 }

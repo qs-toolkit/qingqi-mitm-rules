@@ -1,13 +1,10 @@
 {
   "listingId": "ext-qx-0076",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "9ca4dafed8e315e60796dfd8bc73788c220ce1b967b324e8242b0808059625de"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "Meistertask解锁",
+  "name": "MeisterTask",
   "description": "MeisterTask解锁会员",
   "scope": [],
   "revisionId": "9ca4dafed8e315e60796dfd8bc73788c220ce1b967b324e8242b0808059625de",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539118,
   "targets": [],
   "upstream": "ddgksf2013",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "QuantumultX"
+  ],
+  "revisions": [
+    "9ca4dafed8e315e60796dfd8bc73788c220ce1b967b324e8242b0808059625de"
+  ]
 }

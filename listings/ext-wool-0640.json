@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0640",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "ec04e860c1e955d058b4379478228542a95874e45d1a760ca113b60426e0ccbf"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "YaNaiFei",
+  "name": "鸭奈飞",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "ec04e860c1e955d058b4379478228542a95874e45d1a760ca113b60426e0ccbf",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539272,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "ec04e860c1e955d058b4379478228542a95874e45d1a760ca113b60426e0ccbf"
+  ]
 }

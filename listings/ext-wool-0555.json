@@ -1,13 +1,10 @@
 {
   "listingId": "ext-wool-0555",
   "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
-  "revisions": [
-    "7ddef70c19f722b37dbe34e5c235a1ed90ec7388146251d8dc4bb33fc674799d"
-  ],
   "ratingSum": 0,
   "ratingCount": 0,
   "parentListingId": "",
-  "name": "WinnipegStation",
+  "name": "温尼伯站",
   "description": "fmz200/wool_scripts",
   "scope": [],
   "revisionId": "7ddef70c19f722b37dbe34e5c235a1ed90ec7388146251d8dc4bb33fc674799d",
@@ -15,5 +12,11 @@
   "updatedAt": 1795094539260,
   "targets": [],
   "upstream": "fmz200",
-  "homepage": ""
+  "homepage": "",
+  "sources": [
+    "wool_scripts"
+  ],
+  "revisions": [
+    "7ddef70c19f722b37dbe34e5c235a1ed90ec7388146251d8dc4bb33fc674799d"
+  ]
 }
