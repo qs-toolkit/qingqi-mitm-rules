@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "银盛通",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=银盛通\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = ad.ysepay.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/ad\\.ysepay\\.com\\/yst-ad\\/ST101001\\/[0-9]{11}\\.jpg/i then reject(404)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

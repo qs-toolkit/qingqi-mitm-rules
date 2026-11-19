@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "哔哩哔哩去广告.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=哔哩哔哩去广告.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = app.bilibili.com, grpc.biliapi.net\n\n[Script]\nhttp-response ^https:\\/\\/app\\.bilibili\\.com\\/x\\/(v2\\/(splash\\/(list|show)|feed\\/index\\?)|resource\\/show\\/tab\\/v2), requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/bilibili-json.js\nhttp-response ^https:\\/\\/(grpc\\.biliapi\\.net|app\\.bilibili\\.com)\\/bilibili\\.app\\.(viewunite\\.v1\\.View\\/View|dynamic\\.v2\\.Dynamic\\/DynAll)$, requires-body=1, binary-body-mode=1, max-size=0, script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/bilibili-proto.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

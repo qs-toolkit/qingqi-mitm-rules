@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0325",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "猫耳FM去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "537d7f0de83d602f1b36022b84ee8dc91003fcede9fcf766f7ace0635b28bfb4",
+  "author": "ClashModule",
+  "updatedAt": 1795093945627,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "537d7f0de83d602f1b36022b84ee8dc91003fcede9fcf766f7ace0635b28bfb4"
+  ]
+}

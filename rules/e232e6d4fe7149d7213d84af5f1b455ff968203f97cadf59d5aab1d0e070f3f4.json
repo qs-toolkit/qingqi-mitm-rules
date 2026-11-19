@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "微信公众号",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=微信公众号\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = mp.weixin.qq.com\n\n[Rewrite]\nresponse if ${url} ~= /^https?:\\/\\/mp\\.weixin\\.qq\\.com\\/mp\\/getappmsgad/i then response.body.replace(/advertisement/, \"fmz200\")\nrequest if ${url} ~= /^https?:\\/\\/mp\\.weixin\\.qq\\.com\\/mp\\/cps_product_info\\?action/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

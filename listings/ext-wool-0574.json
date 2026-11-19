@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0574",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "下厨房",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "745d30cf18fb832293bf8a78d7a7d3176e15ef7fcd2e0da521b5b8734b30ddec",
+  "author": "奶思",
+  "updatedAt": 1795093945690,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "745d30cf18fb832293bf8a78d7a7d3176e15ef7fcd2e0da521b5b8734b30ddec"
+  ]
+}

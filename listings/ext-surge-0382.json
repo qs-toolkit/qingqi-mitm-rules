@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0382",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "网络连通性测试.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "fb7e7dd447f092bec90dc4b24133efe73e647de948333145e3f3632bfde27481",
+  "author": "ClashModule",
+  "updatedAt": 1795093945632,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "fb7e7dd447f092bec90dc4b24133efe73e647de948333145e3f3632bfde27481"
+  ]
+}

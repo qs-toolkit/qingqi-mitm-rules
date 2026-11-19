@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0086",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "VVebo时间线修复",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "80aa7a471b3d8fbd60b84d3c3162707be18d7f9169fdf9efc8085c0ed05bf460",
+  "author": "ClashModule",
+  "updatedAt": 1795093945603,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "80aa7a471b3d8fbd60b84d3c3162707be18d7f9169fdf9efc8085c0ed05bf460"
+  ]
+}

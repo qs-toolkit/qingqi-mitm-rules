@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0415",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "萝卜快跑去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "b946aa95211b0128bb3a645de808de2a9e757e88b1776604102f02cbcbd2cf24",
+  "author": "ClashModule",
+  "updatedAt": 1795093945636,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "b946aa95211b0128bb3a645de808de2a9e757e88b1776604102f02cbcbd2cf24"
+  ]
+}

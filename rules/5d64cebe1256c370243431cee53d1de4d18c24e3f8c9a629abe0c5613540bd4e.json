@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "RARBG",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=RARBG\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = dyncdn.me\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/dyncdn\\.me\\/static\\/\\d{0,2}\\/js\\/expla\\d{0,4}\\.js$/i then reject(200)\nresponse if ${url} ~= /^https?:\\/\\/dyncdn\\.me\\/static\\/\\d{0,2}\\/js\\/showads\\.js$/i then response.body.replace(/true/, \"false\")\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

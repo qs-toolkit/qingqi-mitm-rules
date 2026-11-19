@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "磁力宅播放器去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=磁力宅播放器去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = cili.xfuse.fun, i.micecube.com, img.mofyi.com\n\n[Rewrite]\n^https:\\/\\/cili\\.xfuse\\.fun\\/s\\/ - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

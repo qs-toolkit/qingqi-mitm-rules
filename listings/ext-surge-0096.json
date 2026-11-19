@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0096",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Youtube (Music) Enhance.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "37b2fd5b365a3b8d3e07415d4d0f158a34c8589e25acd03f84357bfb122ad732",
+  "author": "ClashModule",
+  "updatedAt": 1795093945604,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "37b2fd5b365a3b8d3e07415d4d0f158a34c8589e25acd03f84357bfb122ad732"
+  ]
+}

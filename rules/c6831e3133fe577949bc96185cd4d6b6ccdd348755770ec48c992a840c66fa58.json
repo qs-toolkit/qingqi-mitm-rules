@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "HTTPDNS拦截器",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=HTTPDNS拦截器\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = appconf.mail.163.com, msglb.91160.com, ucdc2-upaas.uc.cn\n\n[Rewrite]\n^https?:\\/\\/cdn\\.wup\\.huya\\.com\\/monitor\\/monitor\\.jsp - reject\n^https:\\/\\/gslbali\\.ximalaya\\.com\\/linkeye-cloud\\/httpdns\\/ - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

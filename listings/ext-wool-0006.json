@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0006",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "获取cookie&token合集",
+  "description": "fmz200/wool_scripts · 整合大部分获取cookie和token的配置Loon版，获取后禁用该配置",
+  "scope": [],
+  "revisionId": "c0a8976c4b085dfa68ff8ec723f294de31e72d92ceda4ec7a702c6f6c183745f",
+  "author": "奶思[https://github.com/fmz200]",
+  "updatedAt": 1795093945646,
+  "targets": [],
+  "upstream": "奶思[https://github.com/fmz200]",
+  "homepage": "",
+  "revisions": [
+    "c0a8976c4b085dfa68ff8ec723f294de31e72d92ceda4ec7a702c6f6c183745f"
+  ]
+}

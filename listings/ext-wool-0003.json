@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0003",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "X(Twitter)网页版去广告",
+  "description": "fmz200/wool_scripts · 移除网页版 X (Twitter) 广告。",
+  "scope": [],
+  "revisionId": "e340f083c914b813dd3e6f91d2b19ea334b8b001048b3e653ff28f763f2737d2",
+  "author": "奶思[https://github.com/fmz200]",
+  "updatedAt": 1795093945645,
+  "targets": [],
+  "upstream": "奶思[https://github.com/fmz200]",
+  "homepage": "",
+  "revisions": [
+    "e340f083c914b813dd3e6f91d2b19ea334b8b001048b3e653ff28f763f2737d2"
+  ]
+}

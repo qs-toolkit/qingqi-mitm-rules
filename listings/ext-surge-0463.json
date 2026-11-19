@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0463",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "阿里 DNS.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "16e3aefd4dab31eb5690cf068b8ab21edbcbf6a01b42e9d924ce4d565ab8a370",
+  "author": "ClashModule",
+  "updatedAt": 1795093945640,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "16e3aefd4dab31eb5690cf068b8ab21edbcbf6a01b42e9d924ce4d565ab8a370"
+  ]
+}

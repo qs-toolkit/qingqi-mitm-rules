@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "WPS每日签到",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=WPS每日签到\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = moapi.wps.cn\n\n[Script]\nhttp-request ^https:\\/\\/moapi\\.wps\\.cn\\/app\\/ios\\/v1\\/app$, script-path=https://kelee.one/Resource/JavaScript/WPS/WPS_checkin.js, requires-body=1\nWPS每日签到 = type=cron, cronexp={{{CRONEXP}}}, script-path=https://kelee.one/Resource/JavaScript/WPS/WPS_checkin.js, timeout=120, argument=\"[{{{AK}}},{{{SK}}},{{{MAX_RETRIES}}}]\"\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

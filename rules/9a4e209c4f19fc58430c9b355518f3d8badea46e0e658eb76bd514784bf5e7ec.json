@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "发现精彩",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=发现精彩\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = static.95508.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/static\\.95508\\.com\\/mmg\\/images\\/ads\\/.+\\/(.+1125?.+2436|.+%.+%|.+_.+_)/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/static\\.95508\\.com\\/mmg\\/ciop\\/sysabbr\\/cmep\\/images\\/(apppopupads|popupads)/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

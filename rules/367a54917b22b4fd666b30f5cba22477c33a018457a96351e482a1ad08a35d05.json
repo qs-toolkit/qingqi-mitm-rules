@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "浦发银行",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=浦发银行\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = lban.spdb.com.cn, wap.spdb.com.cn\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/lban\\.spdb\\.com\\.cn\\/mspmk-web-component\\/getAdvList\\.ah$/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/lban\\.spdb\\.com\\.cn\\/mspmk-web-component\\/getAdvertisementList\\.ah/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/lban\\.spdb\\.com\\.cn\\/mspmk-web-component\\/prefetchAdvList\\.ah/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/wap\\.spdb\\.com\\.cn\\/mspmk-web-homeassist\\/OpenScreenAdv\\.ah$/i then reject(404)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

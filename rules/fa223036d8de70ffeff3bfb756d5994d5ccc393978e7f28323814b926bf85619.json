@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "牛津高阶词典第十版",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=牛津高阶词典第十版\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = oxadmin.cp.com.cn\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/oxadmin\\.cp\\.com\\.cn\\/api\\/hot\\/index/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/oxadmin\\.cp\\.com\\.cn\\/api\\/advertise\\/banner/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

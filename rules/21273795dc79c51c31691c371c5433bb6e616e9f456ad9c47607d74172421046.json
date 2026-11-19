@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "小特 - 首选特斯拉中文社区",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=小特 - 首选特斯拉中文社区\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = lcen.xiaote.net\n\n[Rewrite]\nresponse if ${url} ~= /^https?:\\/\\/lcen\\.xiaote\\.net\\/api\\/graphql/i then response.body.replace(/screenSplashAd/, \"fmz200\")\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

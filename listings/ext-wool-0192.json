@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0192",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "怪兽充电",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "532d9efa80a3fd621140d2b6d8e56edcec1c77e9a554bbe972cf529fa45c5f04",
+  "author": "奶思",
+  "updatedAt": 1795093945660,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "532d9efa80a3fd621140d2b6d8e56edcec1c77e9a554bbe972cf529fa45c5f04"
+  ]
+}

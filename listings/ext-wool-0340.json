@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0340",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "麦当劳",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "6b7e0dbad5a2729fef62a720225a55705bf2e6a19c5227487aa82150e61df312",
+  "author": "奶思",
+  "updatedAt": 1795093945672,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "6b7e0dbad5a2729fef62a720225a55705bf2e6a19c5227487aa82150e61df312"
+  ]
+}

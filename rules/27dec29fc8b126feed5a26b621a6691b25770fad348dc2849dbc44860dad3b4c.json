@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "小艺",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=小艺\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = api.xiaoyi.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api.xiaoyi.com\\/v5\\/app\\/mobile\\/ads/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/api.xiaoyi.com\\/v5\\/app\\/config\\?userid=.*/i then reject(404)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

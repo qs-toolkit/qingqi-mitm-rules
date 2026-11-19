@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "拼多多去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=拼多多去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = api.pinduoduo.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "快手去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=快手去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = az*-api.ksapisrv.com, az4-api-idc.ksapisrv.com, az*-api-idc.ksapisrv.com, apissl.gifshow.com, apissl.ksapisrv.com, az*-api-js.gifshow.com, az*-live.ksapisrv.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

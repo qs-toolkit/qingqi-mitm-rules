@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0202",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "小蚕霸王餐去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "8cbc139e7110f38d6908a00900ea498c7d8b60b993552c8286a3ef099d4ca41e",
+  "author": "ClashModule",
+  "updatedAt": 1795093945614,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "8cbc139e7110f38d6908a00900ea498c7d8b60b993552c8286a3ef099d4ca41e"
+  ]
+}

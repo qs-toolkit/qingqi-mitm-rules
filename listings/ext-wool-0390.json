@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0390",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "平安口袋银行",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "e3e6c012095ced59ca407a504d9b069cd4902429821fe7ea5c0437b4d207372c",
+  "author": "奶思",
+  "updatedAt": 1795093945674,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "e3e6c012095ced59ca407a504d9b069cd4902429821fe7ea5c0437b4d207372c"
+  ]
+}

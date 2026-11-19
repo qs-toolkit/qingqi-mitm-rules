@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "一汽大众",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=一汽大众\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = oneapp-api.faw-vw.com\n\n[Rewrite]\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/search\\/firstPage\\/getPromptList\\/v1\\?.*/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/benefits\\/benefitsCard\\/getInfo\\/v1\\?.*/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/booth\\/getBoothList\\/v1\\?.*showPositionCode=VWAPP_HOME_BUOY/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/booth\\/getBoothList\\/v1\\?.*showPositionCode=VWAPP_(ICE|MEB)_(OPEN_SCREEN_ADS|CAR_ZHIHU_COLLEGE)/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/booth\\/getBoothList\\/v1\\?.*showPositionCode=VWAPP_(ICE|MEB)_HOME_(OWNER_BANNER|PROSPECTS_BANNER|CUSTOM_BANNER|KONGO|CUSTOM_KONGO)/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/(customize\\/getCustomizePageName|recommend\\/getRecommendInfoFlows|activity\\/getSquareActivityList|theme\\/getThemeList|post\\/getPostsByTags|evaluate\\/getEvaluateCards)\\/v1\\?.*/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/(collection\\/getCollectionList)\\/v1\\?.*/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: {} }\")\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

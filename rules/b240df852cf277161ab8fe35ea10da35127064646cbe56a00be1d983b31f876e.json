@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "每日精选",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=每日精选\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[Rewrite]\nresponse if ${url} ~= /http:\\/\\/dili.sqcosmos.com\\/jiekou\\/mains\\/p\\d+.html/i then response.json.jq(\".album |= map(select(.id != \\\"4154\\\" and .id != \\\"4165\\\"))\")\nrequest if ${url} ~= /http:\\/\\/dili.sqcosmos.com\\/jiekou\\/endpage\\/ad/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

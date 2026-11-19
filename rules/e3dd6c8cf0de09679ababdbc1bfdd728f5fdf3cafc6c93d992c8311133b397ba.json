@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "酷我音乐",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=酷我音乐\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = audiobookpay.kuwo.cn, mgxhtj.kuwo.cn, nmobi.kuwo.cn, searchrecterm.kuwo.cn, musicpay.kuwo.cn, vip1.kuwo.cn\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/audiobookpay\\.kuwo\\.cn\\/a\\.p\\?op=get_advertright_endtime/i then reject_dict(200)\n\n[Script]\nresponse if ${url} ~= /^https?:\\/\\/(mgxhtj|nmobi|searchrecterm)\\.kuwo\\.cn\\/(mgxh|mobi|recterm)\\.s/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js\") with enable=${kuwoybyt_enable}, tag=\"酷我音乐\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/audiobookpay\\.kuwo\\.cn\\/a\\.p/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js\") with enable=${kuwoybyt_enable}, tag=\"酷我音乐\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/musicpay\\.kuwo\\.cn\\/music\\.pay/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js\") with enable=${kuwoybyt_enable}, tag=\"酷我音乐\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/vip1\\.kuwo\\.cn\\/vip\\/(enc\\/user\\/vip\\?op=ui|v\\d\\/theme\\?op=gd)/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js\") with enable=${kuwoybyt_enable}, tag=\"酷我音乐\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/vip1\\.kuwo\\.cn\\/vip\\/v\\d\\/user\\/vip\\?op=ui/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kuwo/kuwo.js\") with enable=${kuwoybyt_enable}, tag=\"酷我音乐\", timeout=60, requires_body=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

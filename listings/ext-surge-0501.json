@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0501",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "🍟 DualSubsNetflix.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "c03736fe9857eddd4e1aa38c6eda5d2999c37e0902f67ad168ccadfd2cfef294",
+  "author": "ClashModule",
+  "updatedAt": 1795093945644,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "c03736fe9857eddd4e1aa38c6eda5d2999c37e0902f67ad168ccadfd2cfef294"
+  ]
+}

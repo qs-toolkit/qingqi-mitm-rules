@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0034",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Google搜索重定向",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "99f493d31697b0ea52c6082a02e59b3747d106432f9921f2d5e16fa113993e47",
+  "author": "ClashModule",
+  "updatedAt": 1795093945597,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "99f493d31697b0ea52c6082a02e59b3747d106432f9921f2d5e16fa113993e47"
+  ]
+}

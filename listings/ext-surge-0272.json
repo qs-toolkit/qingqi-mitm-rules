@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0272",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "携程旅行签到.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "603aae20042d0e274ab1f6c24883da5749427c93ad05aac8757fcc063f9103aa",
+  "author": "ClashModule",
+  "updatedAt": 1795093945621,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "603aae20042d0e274ab1f6c24883da5749427c93ad05aac8757fcc063f9103aa"
+  ]
+}

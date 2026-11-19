@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "育学园",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=育学园\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = *.yuxueyuan.cn\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/.*\\.yuxueyuan\\.cn\\/yxy-api-gateway\\/api\\/json\\/advert\\/getsAdStartScreen/i then reject(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

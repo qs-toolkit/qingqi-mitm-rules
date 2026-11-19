@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0291",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "有道翻译官去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "f05ce6e3847245079f19178f529c8da95e3982686736790b351ed3ce57c4a7c8",
+  "author": "ClashModule",
+  "updatedAt": 1795093945624,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "f05ce6e3847245079f19178f529c8da95e3982686736790b351ed3ce57c4a7c8"
+  ]
+}

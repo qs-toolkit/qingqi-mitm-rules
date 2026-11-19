@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0199",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "工银e生活小程序",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "41fce9851634731b14ec68b1fa5f2b309692be193b0ca1b530824a39b0604068",
+  "author": "奶思",
+  "updatedAt": 1795093945661,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "41fce9851634731b14ec68b1fa5f2b309692be193b0ca1b530824a39b0604068"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "clicli",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=clicli\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = js-ad.ayximgs.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/js-ad\\.ayximgs\\.com\\.ad-universe-cdn\\.hzhcbkj\\.cn\\/xgapp\\.php\\/v2\\/top_notice/i then reject(404)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

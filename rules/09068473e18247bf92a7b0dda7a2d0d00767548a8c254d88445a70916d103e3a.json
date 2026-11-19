@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "汽水音乐去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=汽水音乐去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = webcast-open.douyin.com, beta-luna.douyin.com, api.qishui.com, api5-lq.qishui.com, tnc*-*.zijieapi.com\n\n[Script]\nhttp-response ^https:\\/\\/(beta-luna\\.douyin|api5-lq\\.qishui)\\.com\\/luna\\/me\\/recently-played-media\\?, script-path=https://kelee.one/Resource/JavaScript/SodaMusic/SodaMusic_remove_ads.js, requires-body=1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0214",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "广告过滤器",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "e8ad13564d598ca9b6d94aaba5d5b7cd6a5cc1a06263d62371c3b5e5d442c95b",
+  "author": "ClashModule",
+  "updatedAt": 1795093945615,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "e8ad13564d598ca9b6d94aaba5d5b7cd6a5cc1a06263d62371c3b5e5d442c95b"
+  ]
+}

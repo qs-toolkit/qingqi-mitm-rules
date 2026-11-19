@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0010",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "360智慧生活去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "ff8009a026c41a3e27ada0a7b10d2de8941c7e8f423c3dd101858f59a1701907",
+  "author": "ClashModule",
+  "updatedAt": 1795093945594,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "ff8009a026c41a3e27ada0a7b10d2de8941c7e8f423c3dd101858f59a1701907"
+  ]
+}

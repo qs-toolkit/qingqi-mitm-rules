@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "网易大神",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=网易大神\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = god.gameyw.netease.com, app-conf.ds.163.com\n\n[Rewrite]\nrequest if ${url} ~= /^https:\\/\\/god\\.gameyw\\.netease\\.com\\/v\\d\\/ad/i then reject(404)\nrequest if ${url} ~= /^https:\\/\\/god\\.gameyw\\.netease\\.com\\/v\\d\\/app\\/static\\/conf\\/getByModuleNameList$/i then reject_dict(200)\nresponse if ${url} ~= /^https:\\/\\/app-conf\\.ds\\.163\\.com\\/v\\d\\/app\\/base\\/conf\\/static\\/start-config\\?/i then response.json.delete(\"result.updateConfig[2].itemList[94].itemList[2]\")\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

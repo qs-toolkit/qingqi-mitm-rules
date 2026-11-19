@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "⭐️ Sub-Store.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=⭐️ Sub-Store.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = sub.store\n\n[Script]\nhttp-request ^https?:\\/\\/sub\\.store\\/((download)|api\\/(preview|sync|(utils\\/node-info))), script-path=https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-1.min.js, requires-body=1, timeout={{{timeout}}}, max-size={{{max_size}}}\nhttp-request ^https?:\\/\\/sub\\.store, script-path=https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-0.min.js, requires-body=1, timeout={{{timeout}}}, max-size={{{max_size}}}\n{{{sync}}}=type=cron,cronexp=\"{{{cronexp}}}\",wake-system=1,timeout={{{timeout}}},script-path=https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js,engine={{{engine}}}\n{{{produce}}}=type=cron,cronexp=\"{{{produce_cronexp}}}\",wake-system=1,timeout={{{timeout}}},script-path=https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js,engine={{{engine}}},argument=\"sub={{{produce_sub}}}&col={{{produce_col}}}\"\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0186",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "将推特用户转换成RSS订阅.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "dd5d205efa0537f1ac6947fb0141758c221860b27cbb55dd44b87bea087ed6e6",
+  "author": "ClashModule",
+  "updatedAt": 1795093945613,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "dd5d205efa0537f1ac6947fb0141758c221860b27cbb55dd44b87bea087ed6e6"
+  ]
+}

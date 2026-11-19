@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "虎牙直播",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=虎牙直播\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = cdn.wup.huya.com, business.msstatic.com, cdnfile1.msstatic.com, live-ads.huya.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/cdn\\.wup\\.huya\\.com\\/launch\\/queryHttpDns$/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/business\\.msstatic\\.com\\/advertiser\\/material/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/cdnfile1\\.msstatic\\.com\\/cdnfile\\/appad\\//i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/live-ads\\.huya\\.com\\/live\\/getAllEntrance.*$/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

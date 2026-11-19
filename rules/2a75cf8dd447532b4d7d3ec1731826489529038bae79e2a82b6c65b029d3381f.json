@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "⭐️ Script Hub.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=⭐️ Script Hub.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = script.hub, *.script.hub\n\n[Script]\nhttp-request ^https?:\\/\\/script\\.hub\\/($|edit\\/|reload), script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/script-hub.js, timeout=300\nhttp-request ^https?:\\/\\/script\\.hub\\/file\\/_start_\\/.+type=(?:qx-rewrite|surge-module|loon-plugin|all-module), script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/Rewrite-Parser.js, timeout=300\nhttp-request ^https?:\\/\\/script\\.hub\\/file\\/_start_\\/.+type=rule-set, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/rule-parser.js, timeout=300\nhttp-request ^https?:\\/\\/script\\.hub\\/convert\\/, script-path=https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/script-converter.js, timeout=300\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

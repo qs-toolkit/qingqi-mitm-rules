@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0046",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "KOOK去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "46fd6fc35a17f270b9acfe7f9c6afdc4c29d75b87c6709a263c2b3a98934bc20",
+  "author": "ClashModule",
+  "updatedAt": 1795093945598,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "46fd6fc35a17f270b9acfe7f9c6afdc4c29d75b87c6709a263c2b3a98934bc20"
+  ]
+}

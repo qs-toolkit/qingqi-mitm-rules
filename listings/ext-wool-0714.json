@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0714",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "智行APP",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "185ce3075724e2cb45db8f9204bba6cc063265e8f54c6be589d5283b46bed3bb",
+  "author": "奶思",
+  "updatedAt": 1795093945702,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "185ce3075724e2cb45db8f9204bba6cc063265e8f54c6be589d5283b46bed3bb"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "X(Twitter)网页版去广告",
+  "description": "fmz200/wool_scripts · 移除网页版 X (Twitter) 广告。",
+  "scope": [],
+  "text": "#!name=X(Twitter)网页版去广告\n#!desc=fmz200/wool_scripts · 移除网页版 X (Twitter) 广告。\n#!author=奶思[https://github.com/fmz200]\n\n[MITM]\nhostname = x.com\n\n[Script]\nhttp-response ^https?:\\/\\/x\\.com\\/i\\/api\\/graphql\\/[^\\/]+\\/(HomeTimeline|HomeLatestTimeline|TweetDetail) script-path=https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/X/X_ads.js, requires-body=true, tag=X网页版去广告\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

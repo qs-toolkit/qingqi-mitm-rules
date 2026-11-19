@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "剑网三无界去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=剑网三无界去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = jx3comm.xoyocdn.com\n\n[Rewrite]\n^https:\\/\\/jx3comm\\.xoyocdn\\.com\\/jx3gc\\/zhcn\\/login_ad\\/WebCareer\\/WebCareerTab\\.txt - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

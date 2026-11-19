@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "滴滴代驾",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=滴滴代驾\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = daijia.kuaidadi.com, as.xiaojukeji.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/as\\.xiaojukeji\\.com\\/ep\\/as\\/conf\\?ns=daijia-front&name=/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/daijia\\.kuaidadi\\.com\\/gateway\\?api=prado\\.cms\\.delivery\\.batch&apiVe/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "2345天气王",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=2345天气王\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = tianqi.2345.com\n\n[Rewrite]\nrequest if ${url} ~= /^http?:\\/\\/tianqi\\.2345\\.com\\/api\\/content\\/getContentFeeds\\.php/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "快手联盟,优量汇,穿山甲「广告联盟」",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=快手联盟,优量汇,穿山甲「广告联盟」\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = api-access.pangolin-sdk-toutiao.com, mi.gdt.qq.com, open.e.kuaishou.com\n\n[Script]\nresponse if ${url} ~= /^https:\\/\\/(api-access\\.pangolin-sdk-toutiao\\.com\\/api\\/ad\\/union\\/sdk\\/get_ads|open\\.e\\.kuaishou\\.com\\/rest\\/e\\/v3\\/open\\/univ$|mi\\.gdt\\.qq\\.com\\/gdt_mview\\.fcg\\?)/i then script(\"https://raw.githubusercontent.com/app2smile/rules/master/js/adsense.js\") with enable=${glgclmmg_enable}, tag=\"快手联盟\", timeout=60, requires_body=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

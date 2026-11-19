@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "流量统计.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=流量统计.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[Script]\nTrafficStatistics = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/fishingworld/something/main/PanelScripts/trafficstatistics.js, argument=icon=bonjour&color=#007aff\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

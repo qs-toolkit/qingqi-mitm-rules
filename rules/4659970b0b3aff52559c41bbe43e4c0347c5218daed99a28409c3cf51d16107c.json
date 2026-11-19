@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "SDGun 社区 Tablet 访问",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=SDGun 社区 Tablet 访问\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = bbs.sdgun.com.cn, picapp.sdgun.net\n\n[Rewrite]\n^https://picapp\\.sdgun\\.net http://picapp\\.sdgun\\.net header\n\n[Script]\nhttp-request ^https?:\\/\\/picapp\\.sdgun\\.net\\/video\\/.*?\\.mp4, script-path=https://raw.githubusercontent.com/xream/scripts/main/surge/modules/sdgun/sdgun_video.js, timeout=120\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

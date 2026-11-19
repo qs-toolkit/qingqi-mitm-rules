@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0490",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "天府银行小程序",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "9ab40769c5748d17588dd27858fa2b5b15fa423d53d04ae0707b1eeb254b181e",
+  "author": "奶思",
+  "updatedAt": 1795093945683,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "9ab40769c5748d17588dd27858fa2b5b15fa423d53d04ae0707b1eeb254b181e"
+  ]
+}

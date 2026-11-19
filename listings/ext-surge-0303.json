@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0303",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "波点音乐去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "c2fd4785986ab53eb6726cdc27a7a8bf57bd0d118b2992cefbb29ac832d3b27b",
+  "author": "ClashModule",
+  "updatedAt": 1795093945625,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "c2fd4785986ab53eb6726cdc27a7a8bf57bd0d118b2992cefbb29ac832d3b27b"
+  ]
+}

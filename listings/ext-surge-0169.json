@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0169",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "图怪兽去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "6c8fb6374c24d898929d1f247f7456f9192f494cce00228002317e015f69d1d5",
+  "author": "ClashModule",
+  "updatedAt": 1795093945611,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "6c8fb6374c24d898929d1f247f7456f9192f494cce00228002317e015f69d1d5"
+  ]
+}

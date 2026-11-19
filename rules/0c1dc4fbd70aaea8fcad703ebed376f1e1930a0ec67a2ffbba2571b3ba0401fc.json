@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Roborock去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=Roborock去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = cniot.roborock.com, api.roborock.com\n\n[Rewrite]\n^https:\\/\\/cniot\\.roborock\\.com\\/api\\/v1\\/app\\/theme\\/device\\/icon\\? - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

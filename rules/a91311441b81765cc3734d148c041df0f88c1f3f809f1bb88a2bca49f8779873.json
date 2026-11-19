@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "旅途随身听",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=旅途随身听\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = www.1314zhilv.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/www\\.1314zhilv\\.com\\/ltsstnew\\/(guideScenic\\/getRecentlyUpdatedScenic|city\\/getWeatherByCityName)/i then reject_dict(200)\n\n[Script]\nresponse if ${url} ~= /^https?:\\/\\/www\\.1314zhilv\\.com\\/ltsstnew\\/(common\\/getJGQIconNew|city\\/getAllBannelByCity)/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/lvtusuishenting/ltsst-ad.js\") with enable=${lvtusvuftk_enable}, tag=\"旅途随身听\", timeout=60, requires_body=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

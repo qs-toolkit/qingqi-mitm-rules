@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "爱企查去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=爱企查去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = aiqicha.baidu.com\n\n[Rewrite]\n^https:\\/\\/aiqicha\\.baidu\\.com\\/app\\/commonstatusAjax - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

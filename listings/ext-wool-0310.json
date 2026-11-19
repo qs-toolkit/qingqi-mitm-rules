@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0310",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "联想至像打印",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "b59f7df6ad535d2215eabd7da439b1e5f4f664ebc34f6e00976301e0d40f6b8c",
+  "author": "奶思",
+  "updatedAt": 1795093945669,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "b59f7df6ad535d2215eabd7da439b1e5f4f664ebc34f6e00976301e0d40f6b8c"
+  ]
+}

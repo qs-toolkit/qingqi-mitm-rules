@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "QQ音乐",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=QQ音乐\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = us.l.qq.com, y.gtimg.cn, music.y.qq.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/us\\.l\\.qq\\.com\\/exapp/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/y\\.gtimg\\.cn\\/music\\/common\\/upload\\/t_splash_info\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/.+?\\/music\\/common\\/upload\\/t_splash_info\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/y\\.gtimg\\.cn\\/music\\/common\\/\\/upload\\/kg_ad\\/.*?\\d{4}\\.jpg/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/y\\.gtimg\\.cn\\/music\\/common\\/upload\\/targeted_ads/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/((25[0-5]|2[0-4]\\d|1\\d{2}|[1-9]?\\d)\\.){3}(25[0-5]|2[0-4]\\d|1\\d{2}|[1-9]?\\d)\\/music\\/common\\/upload\\/t_splash_info\\//i then reject(404)\nrequest if ${url} ~= /^https:\\/\\/music\\.y\\.qq\\.com\\/maproxy\\/getPbCompressAd/i then reject(404)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

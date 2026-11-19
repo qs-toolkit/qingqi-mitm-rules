@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "简讯",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=简讯\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = api.tipsoon.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api\\.tipsoon\\.com\\/api\\/v1\\/top\\/ad/i then reject_img(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

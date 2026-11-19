@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "🍟 通用模块.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=🍟 通用模块.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = -*.facebook.com, -*.instagram.com, -*.twitter.com, -*.snssdk.com, -*.pstatp.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

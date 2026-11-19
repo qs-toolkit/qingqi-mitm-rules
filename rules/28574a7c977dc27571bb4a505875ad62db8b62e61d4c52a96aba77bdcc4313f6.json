@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "广州农商银行",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=广州农商银行\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = mbank.grcbank.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/mbank\\.grcbank\\.com\\/ydyh\\/resources\\/startpage\\/.*.(jpg|png)/i then reject(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0489",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "高德地图去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "d56c46cb5005c0a0e7920c487f34d36dc72dcce9bf3fd813cccb428c12237c95",
+  "author": "ClashModule",
+  "updatedAt": 1795093945643,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "d56c46cb5005c0a0e7920c487f34d36dc72dcce9bf3fd813cccb428c12237c95"
+  ]
+}

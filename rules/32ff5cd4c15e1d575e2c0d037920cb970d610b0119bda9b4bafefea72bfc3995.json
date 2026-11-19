@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "稿定设计",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=稿定设计\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = qiye.gaoding.com\n\n[Rewrite]\nrequest if ${url} ~= /^https:\\/\\/qiye\\.gaoding\\.com\\/api\\/v3\\/oc\\/v2\\/delivery-pits\\/ios-splash\\//i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

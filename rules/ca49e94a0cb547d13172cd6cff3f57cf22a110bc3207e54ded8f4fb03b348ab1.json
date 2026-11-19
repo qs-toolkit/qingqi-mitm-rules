@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Spotify去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=Spotify去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = *-spclient.spotify.com, spclient.wg.spotify.com\n\n[Rewrite]\n^https:\\/\\/(?:\\w+-spclient|spclient\\.wg)\\.spotify\\.com(?::443)?\\/artistview\\/v1\\/artist\\/(.*)&platform=iphone https://spclient.wg.spotify.com/artistview/v1/artist/$1&platform=ipad header\n\n[Script]\nhttp-response ^https:\\/\\/(?:\\w+-spclient|spclient\\.wg)\\.spotify\\.com(?::443)?\\/(?:bootstrap|user-customization-service), script-path=https://kelee.one/Resource/JavaScript/Spotify/Spotify_remove_ads.js, requires-body=1, binary-body-mode=true, timeout=5\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

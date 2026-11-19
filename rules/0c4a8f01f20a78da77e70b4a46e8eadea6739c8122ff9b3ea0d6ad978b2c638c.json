@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "哔哩哔哩去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=哔哩哔哩去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = grpc.biliapi.net, app.bilibili.com, api.bilibili.com, api.live.bilibili.com\n\n[Script]\nhttp-response ^https:\\/\\/(?:grpc\\.biliapi\\.net|app\\.bilibili\\.com)\\/bilibili\\.(?:app\\.(?:interface\\.v1\\.(?:Teenagers\\/ModeStatus|Search\\/DefaultWords)|show\\.v1\\.Popular\\/Index|dynamic\\.v2\\.Dynamic\\/DynAll|view(?:unite)?\\.v1\\.View\\/(?:View|ViewProgress|TFInfo|RelatesFeed)|playurl\\.v1\\.PlayURL\\/PlayView|playerunite\\.v1\\.Player\\/PlayViewUnite)|polymer\\.app\\.search\\.v1\\.Search\\/SearchAll|community\\.service\\.dm\\.v1\\.DM\\/DmView|main\\.community\\.reply\\.v1\\.Reply\\/MainList|pgc\\.gateway\\.player\\.v2\\.PlayURL\\/PlayView)$, script-path=https://kelee.one/Resource/Script/Bilibili/Bilibili_proto_kokoryh.js, requires-body=1, binary-body-mode=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

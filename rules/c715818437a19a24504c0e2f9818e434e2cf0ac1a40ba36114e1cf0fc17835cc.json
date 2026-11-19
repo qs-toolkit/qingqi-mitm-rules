@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "贴吧去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=贴吧去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = tiebac.baidu.com, tieba.baidu.com\n\n[Script]\nhttp-response ^https:\\/\\/tiebac\\.baidu\\.com\\/livefeed\\/feed, script-path=https://kelee.one/Resource/Script/Tieba/Tieba_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/tiebac\\.baidu\\.com\\/c\\/f\\/sidebar\\/home, script-path=https://kelee.one/Resource/Script/Tieba/Tieba_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/tiebac\\.baidu\\.com\\/c\\/u\\/user\\/profile, script-path=https://kelee.one/Resource/Script/Tieba/Tieba_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/tieba\\.baidu\\.com\\/c\\/f\\/frs\\/frsBottom, script-path=https://kelee.one/Resource/Script/Tieba/Tieba_remove_ads.js, requires-body=1\nhttp-response ^http(s:\\/\\/tiebac|:\\/\\/c\\.tieba)\\.baidu\\.com\\/(c\\/f\\/(frs\\/(page|threadlist|generalTabList)|pb\\/page|excellent\\/personalized)$|tiebaads\\/commonbatch|c\\/s\\/sync$), script-path=https://kelee.one/Resource/Script/Tieba/tieba-json.js, requires-body=1, timeout=10\nhttp-response ^http(s:\\/\\/tiebac|:\\/\\/c\\.tieba)\\.baidu\\.com\\/c\\/f\\/(frs\\/(page|threadlist|generalTabList)|pb\\/page|excellent\\/personalized)\\?cmd, script-path=https://kelee.one/Resource/Script/Tieba/tieba-proto.js, requires-body=1, binary-body-mode=true, timeout=10\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

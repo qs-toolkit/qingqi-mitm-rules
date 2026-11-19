@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0368",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "纵横小说去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "10e9ad8c9132123982d17d218a77b0540b49c784e12238b6b4ef98f6b944eaf9",
+  "author": "ClashModule",
+  "updatedAt": 1795093945631,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "10e9ad8c9132123982d17d218a77b0540b49c784e12238b6b4ef98f6b944eaf9"
+  ]
+}

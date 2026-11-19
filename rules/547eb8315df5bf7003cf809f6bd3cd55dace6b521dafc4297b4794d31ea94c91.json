@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "天府市民云",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=天府市民云\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = tfsmy.chengdu.gov.cn, tft-app.cdtft.cn\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/tfsmy\\.chengdu\\.gov\\.cn\\/api\\/v5\\/core\\/version/i then reject(200)\nresponse if ${url} ~= /^https?:\\/\\/tft-app\\.cdtft\\.cn\\/gateway-customer\\/tftapp\\/tft-ams\\/api\\/appAd/i then response.body.replace(/officialAdvertResultVo/, \"fmz200\")\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

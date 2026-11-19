@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0002",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "WeChatMiniAds",
+  "description": "fmz200/wool_scripts · WeChatMiniAds",
+  "scope": [],
+  "revisionId": "d98ad82bc9eb180ecedda9132598bce81ab549da261a6b32771d8553868b569a",
+  "author": "fmz200",
+  "updatedAt": 1795093945645,
+  "targets": [],
+  "upstream": "fmz200",
+  "homepage": "",
+  "revisions": [
+    "d98ad82bc9eb180ecedda9132598bce81ab549da261a6b32771d8553868b569a"
+  ]
+}

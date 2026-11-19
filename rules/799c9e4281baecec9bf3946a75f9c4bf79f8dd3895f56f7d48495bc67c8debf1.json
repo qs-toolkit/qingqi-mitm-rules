@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "健康160去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=健康160去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = patientgate.91160.com, soapi.91160.com, snsapi.91160.com, msglb.91160.com, patientappapi.91160.com\n\n[Rewrite]\n^https:\\/\\/patientappapi\\.91160\\.com\\/cus_index\\.php\\?c=adver - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

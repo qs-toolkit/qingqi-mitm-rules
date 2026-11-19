@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "网络连通性测试.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=网络连通性测试.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[Script]\nConnectivity_Test = type=generic,timeout=3,script-path= https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/script/ConnectivityTest.js,argument=title=Connectivity Test&icon=icloud.and.arrow.down&color=#FF9F0A&server=false\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

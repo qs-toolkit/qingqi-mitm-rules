@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0432",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "贝壳找房去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "d2dca2706033646eeb7234e51507dd2bf1bf13e21ec06a016ffb0ea43e04087d",
+  "author": "ClashModule",
+  "updatedAt": 1795093945637,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "d2dca2706033646eeb7234e51507dd2bf1bf13e21ec06a016ffb0ea43e04087d"
+  ]
+}

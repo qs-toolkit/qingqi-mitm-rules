@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0360",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "磁力宅播放器去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "a6c3c00b61eeaaa6e5e2a661980a3154f7e11b859b76cf4b8daedd7363919bc9",
+  "author": "ClashModule",
+  "updatedAt": 1795093945630,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "a6c3c00b61eeaaa6e5e2a661980a3154f7e11b859b76cf4b8daedd7363919bc9"
+  ]
+}

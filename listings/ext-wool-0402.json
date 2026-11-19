@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0402",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "全家便利店",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "94b615571df9646dc35bdfe5115bec67d7e03fc7e87964a8019b81e8454936c7",
+  "author": "奶思",
+  "updatedAt": 1795093945676,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "94b615571df9646dc35bdfe5115bec67d7e03fc7e87964a8019b81e8454936c7"
+  ]
+}

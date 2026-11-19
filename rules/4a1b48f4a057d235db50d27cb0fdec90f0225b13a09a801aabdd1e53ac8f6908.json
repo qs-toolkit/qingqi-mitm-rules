@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "TikTok多地区解锁",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=TikTok多地区解锁\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = *.byteoversea.com, *.tik-tokapi.com, *.tiktokv.com, *.tiktokcdn.com\n\n[Rewrite]\n^https:\\/\\/api-va\\.tiktokv\\.com\\/api\\/ad\\/ - reject\n^https:\\/\\/tnc\\d+-platform-\\w+\\.tiktokv\\.com\\/get_domains\\/ - reject\n\n[Script]\nhttp-request https?:\\/\\/.+.(tiktokv|tiktokcdn).com\\/.+(region\\d?=CN|&mcc_mnc=\\d+), script-path=https://kelee.one/Resource/Script/TikTok/TikTok_redirect.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

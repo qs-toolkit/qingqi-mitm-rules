@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "ECOVACS HOME去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=ECOVACS HOME去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = gl-cn-api.ecovacs.cn, api-app.dc-cn.cn.ecouser.net\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

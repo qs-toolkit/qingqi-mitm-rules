@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0705",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "掌上生活",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "3e7523668b77dd5518c3f6612629e974fff3c9ff0f32f5a9d5b259aef374f0db",
+  "author": "奶思",
+  "updatedAt": 1795093945701,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "3e7523668b77dd5518c3f6612629e974fff3c9ff0f32f5a9d5b259aef374f0db"
+  ]
+}

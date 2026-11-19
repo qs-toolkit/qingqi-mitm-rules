@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "京东比价",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=京东比价\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = in.m.jd.com, apapia-sqk-weblogic.manmanbuy.com\n\n[Script]\nhttp-request ^https?:\\/\\/apapia-sqk-weblogic\\.manmanbuy\\.com\\/baoliao\\/center\\/menu$, script-path=https://kelee.one/Resource/JavaScript/JD/JD_Price.js, requires-body=1, timeout=10\nhttp-response ^https?:\\/\\/in\\.m\\.jd\\.com\\/product\\/graphext\\/\\d+\\.html, script-path=https://kelee.one/Resource/JavaScript/JD/JD_Price.js, requires-body=1, timeout=10\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

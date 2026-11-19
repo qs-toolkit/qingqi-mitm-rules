@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "哔哩漫画抢券.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=哔哩漫画抢券.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[Script]\n哔哩漫画[积分抢购] = type=cron,cronexp=\"{{{定时抢购}}}\",script-update-interval=0,timeout=60,wake-system=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/ExchangePoints.js,argument=\"ProductName={{{商品名称}}}&ProductNum={{{抢购数量}}}&ExchangeNum={{{抢购次数}}}\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

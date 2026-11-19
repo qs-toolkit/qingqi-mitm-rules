@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "动画疯",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=动画疯\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = api.gamer.com.tw\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api\\.gamer\\.com\\.tw\\/mobile_app\\/anime\\/v\\d\\/anime_get_question\\.php/i then reject_dict(200)\n\n[Script]\nresponse if ${url} ~= /^https?:\\/\\/api\\.gamer\\.com\\.tw\\/mobile_app\\/anime\\/v\\d\\/(token|m3u8).php\\?/i then script(\"https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutAnimeAds.js\") with enable=${dshxfg_enable}, tag=\"动画疯\", timeout=60, requires_body=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

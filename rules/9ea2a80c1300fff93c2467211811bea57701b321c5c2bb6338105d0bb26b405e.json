@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "⭐️ BoxJs.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=⭐️ BoxJs.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = boxjs.com, boxjs.net, *.boxjs.com, *.boxjs.net\n\n[Script]\nhttp-request ^https?:\\/\\/(.+\\.)?boxjs\\.(com|net), script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js, requires-body=1, timeout=120\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

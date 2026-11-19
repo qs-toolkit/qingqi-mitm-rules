@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "懂球帝",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=懂球帝\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = ap.dongdianqiu.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/ap\\.dongdianqiu\\.com\\/plat\\/v4/i then reject(404)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

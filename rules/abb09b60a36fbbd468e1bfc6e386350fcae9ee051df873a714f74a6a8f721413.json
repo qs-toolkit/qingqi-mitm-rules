@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "厦门航空",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=厦门航空\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = mobileapi.xiamenair.com\n\n[Rewrite]\nrequest if ${url} ~= /^https:\\/\\/mobileapi\\.xiamenair\\.com\\/mobile-starter/i then reject(404)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

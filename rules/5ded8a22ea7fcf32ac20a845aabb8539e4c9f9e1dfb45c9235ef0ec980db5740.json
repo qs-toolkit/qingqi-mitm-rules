@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "花小猪",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=花小猪\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = res.hongyibo.com.cn\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/res\\.hongyibo\\.com\\.cn\\/os\\/gs\\/resapi\\/activity\\/mget\\?_t/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

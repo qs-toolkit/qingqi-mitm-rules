@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0484",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "驾校一点通去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "592659112d798ce6ca2637432e2a7c9408b6fd1da3193b4820d6e04c3d35437c",
+  "author": "ClashModule",
+  "updatedAt": 1795093945642,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "592659112d798ce6ca2637432e2a7c9408b6fd1da3193b4820d6e04c3d35437c"
+  ]
+}

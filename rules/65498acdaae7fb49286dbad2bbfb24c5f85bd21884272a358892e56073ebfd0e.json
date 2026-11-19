@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Spotify歌词翻译",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=Spotify歌词翻译\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = api.spotify.com, spclient.wg.spotify.com\n\n[Script]\nhttp-response ^https?:\\/\\/api\\.spotify\\.com\\/v1\\/tracks\\?, script-path=https://kelee.one/Resource/JavaScript/Spotify/Spotify_response.js, requires-body=1\nhttp-request ^https?:\\/\\/spclient\\.wg\\.spotify\\.com\\/color-lyrics\\/v2\\/track\\/(.+)\\?(.*)format=json, script-path=https://kelee.one/Resource/JavaScript/Spotify/Spotify_request.js, requires-body=1\nhttp-request ^https?:\\/\\/spclient\\.wg\\.spotify\\.com\\/color-lyrics\\/v2\\/track\\/\\w+\\?(.*), script-path=https://kelee.one/Resource/JavaScript/Spotify/Spotify_request.js, requires-body=1, binary-body-mode=true\nhttp-response ^https?:\\/\\/spclient\\.wg\\.spotify\\.com\\/color-lyrics\\/v2\\/track\\/(.+)\\?(.*)format=json(.*)subtype=Translate, script-path=https://kelee.one/Resource/JavaScript/Spotify/Translate_response.js, requires-body=1\nhttp-response ^https?:\\/\\/spclient\\.wg\\.spotify\\.com\\/color-lyrics\\/v2\\/track\\/\\w+\\?(.*)subtype=Translate, script-path=https://kelee.one/Resource/JavaScript/Spotify/Translate_response.js, requires-body=1, binary-body-mode=true\nhttp-response ^https?:\\/\\/spclient\\.wg\\.spotify\\.com\\/color-lyrics\\/v2\\/track\\/(.+)\\?(.*)format=json(.*)subtype=External, script-path=https://kelee.one/Resource/JavaScript/Spotify/External_Lyrics_response.js, requires-body=1\nhttp-response ^https?:\\/\\/spclient\\.wg\\.spotify\\.com\\/color-lyrics\\/v2\\/track\\/\\w+\\?(.*)subtype=External, script-path=https://kelee.one/Resource/JavaScript/Spotify/External_Lyrics_response.js, requires-body=1, binary-body-mode=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0493",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "🍟 Apple 地图优化.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "ec7ad308ee09cabfdc9112b4e7fde4229317f9dc96d0de9fc97ffab226b9f628",
+  "author": "ClashModule",
+  "updatedAt": 1795093945643,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "ec7ad308ee09cabfdc9112b4e7fde4229317f9dc96d0de9fc97ffab226b9f628"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "国泰君安",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=国泰君安\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = dl.app.gtja.com, dl*.app.gtja.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/dl\\.app\\.gtja\\.com\\/dzswem\\/kvController/i then reject(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0153",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "叮咚买菜去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "c1962a87a39a1b6ac1a265ccc3573cc3b5a470688857973be738578a00407aa9",
+  "author": "ClashModule",
+  "updatedAt": 1795093945609,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "c1962a87a39a1b6ac1a265ccc3573cc3b5a470688857973be738578a00407aa9"
+  ]
+}

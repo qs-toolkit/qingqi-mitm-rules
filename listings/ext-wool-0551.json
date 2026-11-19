@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0551",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Weico(微博客户端)",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "bec970bfa18e95857ddd71db24dc9b435b644c2466ef76d9b6cffee6a46d7e37",
+  "author": "奶思",
+  "updatedAt": 1795093945688,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "bec970bfa18e95857ddd71db24dc9b435b644c2466ef76d9b6cffee6a46d7e37"
+  ]
+}

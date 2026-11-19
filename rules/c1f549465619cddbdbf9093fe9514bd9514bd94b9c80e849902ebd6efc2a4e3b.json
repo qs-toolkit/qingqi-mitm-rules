@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "哔哩漫画签到.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=哔哩漫画签到.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[Script]\n哔哩漫画[签到] = type=cron,cronexp=\"{{{定时签到}}}\",wake-system=1,script-update-interval=0,timeout=60,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js\nhttp-request ^https:\\/\\/app\\.bilibili\\.com\\/x\\/v\\d\\/account\\/myinfo, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

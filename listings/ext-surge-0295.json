@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0295",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "机场流量信息面板.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "29f37e8654a37a48bd97c5ca505b9d1fd74742522bd1b041a9656c5af7cda445",
+  "author": "ClashModule",
+  "updatedAt": 1795093945624,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "29f37e8654a37a48bd97c5ca505b9d1fd74742522bd1b041a9656c5af7cda445"
+  ]
+}

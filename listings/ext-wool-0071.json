@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0071",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "贝壳找房",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "e496264118ecb659c7ff38caff00a0feed04866ff3ebd5a8a6ef8fc409f22a6a",
+  "author": "奶思",
+  "updatedAt": 1795093945650,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "e496264118ecb659c7ff38caff00a0feed04866ff3ebd5a8a6ef8fc409f22a6a"
+  ]
+}

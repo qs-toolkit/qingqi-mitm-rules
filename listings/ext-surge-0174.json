@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0174",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "大众评球去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "292a0da8899b8e8118dc6e87f0f46d60023820eb58473241a63de5d52c306007",
+  "author": "ClashModule",
+  "updatedAt": 1795093945612,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "292a0da8899b8e8118dc6e87f0f46d60023820eb58473241a63de5d52c306007"
+  ]
+}

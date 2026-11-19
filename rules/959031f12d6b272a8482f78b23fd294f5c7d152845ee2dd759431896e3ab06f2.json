@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "菜鸟去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=菜鸟去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = netflow-mtop.cainiao.com, nbcps-mtop.cainiao.com, cn-acs.m.cainiao.com, e2e-mtop.cainiao.com, longquan-mtop.cainiao.com\n\n[Rewrite]\n^https:\\/\\/nbcps-mtop\\.cainiao\\.com\\/gw\\/mtop\\.cainiao\\.nbcps\\.presentation\\.fetch\\.cn - reject\n^https:\\/\\/netflow-mtop\\.cainiao\\.com\\/gw\\/mtop\\.cainiao\\.guoguo\\.nbnetflow\\.ads\\.index - reject\n^https:\\/\\/cn-acs\\.m\\.cainiao\\.com\\/gw\\/mtop\\.cainiao\\.adkeyword\\.get\\.cn - reject\n^https:\\/\\/cn-acs\\.m\\.cainiao\\.com\\/gw\\/mtop\\.cainiao\\.guoguo\\.nbnetflow\\.ads\\.m?show - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

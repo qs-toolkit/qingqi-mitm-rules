@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "百度网页去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=百度网页去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = m.baidu.com, www.baidu.com\n\n[Script]\nhttp-response \"^https?:\\/\\/(www|m)\\.baidu\\.com\\/?($|\\?from=\\w{8, script-path=https://kelee.one/Resource/JavaScript/BaiduSearch/BaiduSearchHomePage_remove_ads.js, requires-body=1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

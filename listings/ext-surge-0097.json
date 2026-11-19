@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0097",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Youtube 去广告 (不去贴片).official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "ca90b1e2390dfdc238038351118eb38686a5beda44b2492a1ccfdc745b59c950",
+  "author": "ClashModule",
+  "updatedAt": 1795093945604,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "ca90b1e2390dfdc238038351118eb38686a5beda44b2492a1ccfdc745b59c950"
+  ]
+}

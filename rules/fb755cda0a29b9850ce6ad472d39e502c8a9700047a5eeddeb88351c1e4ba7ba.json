@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "51信用卡管家",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=51信用卡管家\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = api.u51.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api\\.u51\\.com\\/(generic-config-gateway|rs-resys)\\/api\\/v\\d\\/(creditpage-config|recommend)/i then reject(200)\n\n[Script]\nresponse if ${url} ~= /^https?:\\/\\/api\\.u51\\.com\\/liabilitygateway\\/api\\/v\\d\\/homepage\\/liabilityline/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/51card.js\") with enable=${51xyk_enable}, tag=\"51信用卡管家\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/api\\.u51\\.com\\/generic-config-gateway\\/api\\/v\\d\\/guanjia\\/me-tab2\\/config/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/51card.js\") with enable=${51xyk_enable}, tag=\"51信用卡管家\", timeout=60, requires_body=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

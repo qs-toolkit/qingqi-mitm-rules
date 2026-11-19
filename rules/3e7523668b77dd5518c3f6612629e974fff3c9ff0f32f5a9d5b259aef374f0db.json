@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "掌上生活",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=掌上生活\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = mbasecc.bas.cmbchina.com, mbasecc.bcs.cmbchina.com, intellicc.bas.cmbchina.com, intellicc.bcs.cmbchina.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/mbasecc\\.(bas|bcs)\\.cmbchina\\.com\\/Edge\\/api\\/mlife\\.clientface\\.clientservice\\.api\\.advertiseService\\/preCacheAdvertiseSec/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/intellicc\\.bas\\.cmbchina\\.com\\/Edge\\/api\\/mlife\\.intelli\\.render\\.api\\.render\\/getDynamicDataSec/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/intellicc\\.bcs\\.cmbchina\\.com\\/Edge\\/api\\/mlife\\.intelli\\.adrender\\.api\\.AdWork\\/getAdsBySlotId/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

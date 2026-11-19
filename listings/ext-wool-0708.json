@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0708",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "浙里办",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "c8394fc776bbecd28baa556da1006fde1bc8682b8e7233241cec9c373039a5b0",
+  "author": "奶思",
+  "updatedAt": 1795093945701,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "c8394fc776bbecd28baa556da1006fde1bc8682b8e7233241cec9c373039a5b0"
+  ]
+}

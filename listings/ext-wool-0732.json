@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0732",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "微博去广告&净化",
+  "description": "fmz200/wool_scripts · 去除常见的广告和部分多余的模块",
+  "scope": [],
+  "revisionId": "f1359237426452b82e17bb44b0cf36cc76959ea25694d73112836fc62decefd0",
+  "author": "奶思[https://github.com/fmz200]",
+  "updatedAt": 1795093945703,
+  "targets": [],
+  "upstream": "奶思[https://github.com/fmz200]",
+  "homepage": "",
+  "revisions": [
+    "f1359237426452b82e17bb44b0cf36cc76959ea25694d73112836fc62decefd0"
+  ]
+}

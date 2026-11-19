@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "虎扑去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=虎扑去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = games.mobileapi.hupu.com, fairy.mobileapi.hupu.com, bbs.mobileapi.hupu.com, goblin.hupu.com\n\n[Script]\nhttp-response ^https:\\/\\/fairy\\.mobileapi\\.hupu\\.com\\/mang\\/preview\\/banners, script-path=https://kelee.one/Resource/JavaScript/HUPU/HUPU_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/bbs\\.mobileapi\\.hupu\\.com\\/\\d\\/\\d\\.\\d\\.\\d+\\/bbsallapi\\/lego\\/data, script-path=https://kelee.one/Resource/JavaScript/HUPU/HUPU_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/games\\.mobileapi\\.hupu\\.com\\/\\d\\/\\d\\.\\d\\.\\d+\\/buffer\\/hotList, script-path=https://kelee.one/Resource/JavaScript/HUPU/HUPU_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/games\\.mobileapi\\.hupu\\.com\\/\\d\\/\\d\\.\\d\\.\\d+\\/bplapi\\/user\\/v1\\/more, script-path=https://kelee.one/Resource/JavaScript/HUPU/HUPU_remove_ads.js, requires-body=1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

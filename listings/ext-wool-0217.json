@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0217",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "好奇心日报",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "30e20e60fefef91e744be8cb3ce62ff01ed6c1ed62c8e42b9f2b512614a316f0",
+  "author": "奶思",
+  "updatedAt": 1795093945662,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "30e20e60fefef91e744be8cb3ce62ff01ed6c1ed62c8e42b9f2b512614a316f0"
+  ]
+}

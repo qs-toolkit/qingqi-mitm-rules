@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0237",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "微脉圈去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "65562177318dfa3faf51a8163b1c466aaf664ec2d840296ced0e70a6af474b40",
+  "author": "ClashModule",
+  "updatedAt": 1795093945618,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "65562177318dfa3faf51a8163b1c466aaf664ec2d840296ced0e70a6af474b40"
+  ]
+}

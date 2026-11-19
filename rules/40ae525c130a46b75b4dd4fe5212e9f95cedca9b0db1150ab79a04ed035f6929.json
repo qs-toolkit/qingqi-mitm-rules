@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "易车",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=易车\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = api.ycapp.yiche.com, cheyouapi.ycapp.yiche.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api\\.ycapp\\.yiche\\.com\\/appnews\\/getadlist/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/api\\.ycapp\\.yiche\\.com\\/yicheapp\\/getadlist/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/cheyouapi\\.ycapp\\.yiche\\.com\\/appforum\\/getusermessagecount/i then reject_img(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

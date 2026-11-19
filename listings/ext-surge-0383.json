@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0383",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "美丽修行去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "e6c1de460fc13a46a5786f101db373ef1efabb9ad256f72996d157c0020126ad",
+  "author": "ClashModule",
+  "updatedAt": 1795093945633,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "e6c1de460fc13a46a5786f101db373ef1efabb9ad256f72996d157c0020126ad"
+  ]
+}

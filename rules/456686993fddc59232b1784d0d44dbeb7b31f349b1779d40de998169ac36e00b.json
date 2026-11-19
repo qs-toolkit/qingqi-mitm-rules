@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "TubeMax去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=TubeMax去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = *.i18n-pglstatp.com\n\n[Rewrite]\n^https:\\/\\/.*\\.i18n-pglstatp\\.com\\/obj\\/ad-pattern-sg - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

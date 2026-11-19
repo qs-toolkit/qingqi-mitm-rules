@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0060",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "ReelShort去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "afa3cc7f1546b212c51e3eea73e03ac61349cfa4fe4a368fbd7597b8cad30af0",
+  "author": "ClashModule",
+  "updatedAt": 1795093945600,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "afa3cc7f1546b212c51e3eea73e03ac61349cfa4fe4a368fbd7597b8cad30af0"
+  ]
+}

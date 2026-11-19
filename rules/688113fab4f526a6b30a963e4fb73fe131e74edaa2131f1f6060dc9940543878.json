@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "中国移动云盘去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=中国移动云盘去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = jzts.cmpassport.com, ad.mcloud.139.com\n\n[Script]\nhttp-response ^https:\\/\\/jzts\\.cmpassport\\.com\\/personalized\\/getPushContent, script-path=https://kelee.one/Resource/JavaScript/mobileClouds/mobileClouds_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/ad\\.mcloud\\.139\\.com\\/advertapi\\/adv-filter\\/, script-path=https://kelee.one/Resource/JavaScript/mobileClouds/mobileClouds_remove_ads.js, requires-body=1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0442",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "闪现一下",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "7879bc2db8fb5549ba8ac28c2ac6e58aa79aff23967c966d0503612ea36a7ba7",
+  "author": "奶思",
+  "updatedAt": 1795093945679,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "7879bc2db8fb5549ba8ac28c2ac6e58aa79aff23967c966d0503612ea36a7ba7"
+  ]
+}

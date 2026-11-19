@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "节假日信息.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=节假日信息.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[Script]\nTimecard = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/smartmimi/conf/master/surge/timecard.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

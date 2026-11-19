@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0205",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "汇丰汇选",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "44fc8d5111c90255de929b924bd66b7c017f431c5718093d219d6bb6e5fbfa51",
+  "author": "奶思",
+  "updatedAt": 1795093945661,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "44fc8d5111c90255de929b924bd66b7c017f431c5718093d219d6bb6e5fbfa51"
+  ]
+}

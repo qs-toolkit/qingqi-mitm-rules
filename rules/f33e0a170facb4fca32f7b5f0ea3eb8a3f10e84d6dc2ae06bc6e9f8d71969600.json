@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "七猫小说去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=七猫小说去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = api-cfg.wtzw.com, sf3-fe-tos.pglstatp-toutiao.com, api-bc.wtzw.com, api-gw.wtzw.com, cdn.wtzw.com\n\n[Rewrite]\n^https:\\/\\/sf3-fe-tos\\.pglstatp-toutiao\\.com\\/obj\\/ad-pattern\\/ - reject\n^https:\\/\\/api-cfg\\.wtzw\\.com\\/v\\d\\/reward\\/ - reject\n^https:\\/\\/api-cfg\\.wtzw\\.com\\/v\\d\\/adv\\/ - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0218",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "彩云天气去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "81a81a32fa1c62118ff6c427c6bd77e1befb7c5525d251b25d39fc6211c225d3",
+  "author": "ClashModule",
+  "updatedAt": 1795093945616,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "81a81a32fa1c62118ff6c427c6bd77e1befb7c5525d251b25d39fc6211c225d3"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0568",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "新浪新闻",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "c64a8119681c5c4765c68c470419005c31cb6d60596bfcaeabc16ad907e8d110",
+  "author": "奶思",
+  "updatedAt": 1795093945689,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "c64a8119681c5c4765c68c470419005c31cb6d60596bfcaeabc16ad907e8d110"
+  ]
+}

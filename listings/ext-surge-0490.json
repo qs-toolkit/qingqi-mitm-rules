@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0490",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "🍟 Apple News 解锁.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "12c39c27dd4e04e165a4eb04c2b1097a23d6fab5310b00c20811b4aa0edf39da",
+  "author": "ClashModule",
+  "updatedAt": 1795093945643,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "12c39c27dd4e04e165a4eb04c2b1097a23d6fab5310b00c20811b4aa0edf39da"
+  ]
+}

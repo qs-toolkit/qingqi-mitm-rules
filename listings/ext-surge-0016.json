@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0016",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "CC直播去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "9eba9cf5b6da045ed795fc805f245ca80ed846ae32f696df8ef97e63fa13e6c7",
+  "author": "ClashModule",
+  "updatedAt": 1795093945595,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "9eba9cf5b6da045ed795fc805f245ca80ed846ae32f696df8ef97e63fa13e6c7"
+  ]
+}

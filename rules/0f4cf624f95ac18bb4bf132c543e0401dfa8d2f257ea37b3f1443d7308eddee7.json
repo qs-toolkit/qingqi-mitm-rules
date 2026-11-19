@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "微信外部链接解锁",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=微信外部链接解锁\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = weixin110.qq.com, security.wechat.com\n\n[Script]\nhttp-response ^https\\:\\/\\/(weixin110\\.qq|security.wechat)\\.com\\/cgi-bin\\/mmspamsupport-bin\\/newredirectconfirmcgi\\?, script-path=https://kelee.one/Resource/JavaScript/Weixin/Weixin_external_links_unlock.js, requires-body=1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

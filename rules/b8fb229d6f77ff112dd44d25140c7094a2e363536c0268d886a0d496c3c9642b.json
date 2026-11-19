@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Uki去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=Uki去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = api.chenlongtech.cn\n\n[Script]\nhttp-response ^https:\\/\\/api\\.chenlongtech\\.cn\\/v\\d\\/lover\\/productList, script-path=https://kelee.one/Resource/JavaScript/Uki/Uki_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/api\\.chenlongtech\\.cn\\/v\\d\\/friends\\/closeFriend\\/home, script-path=https://kelee.one/Resource/JavaScript/Uki/Uki_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/api\\.chenlongtech\\.cn\\/v\\d\\/party\\/config$, script-path=https://kelee.one/Resource/JavaScript/Uki/Uki_remove_ads.js, requires-body=1\nhttp-response ^https:\\/\\/api\\.chenlongtech\\.cn\\/v1\\/post\\/fetchSearchRecommend$, script-path=https://kelee.one/Resource/JavaScript/Uki/Uki_remove_ads.js, requires-body=1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

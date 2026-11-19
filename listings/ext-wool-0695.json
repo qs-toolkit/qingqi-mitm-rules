@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0695",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "中国天气网小程序",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "64513d16ff9efcdaa9c4e17f5b4c14ba21393e21029b078c5cfb4d98af6be6af",
+  "author": "奶思",
+  "updatedAt": 1795093945700,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "64513d16ff9efcdaa9c4e17f5b4c14ba21393e21029b078c5cfb4d98af6be6af"
+  ]
+}

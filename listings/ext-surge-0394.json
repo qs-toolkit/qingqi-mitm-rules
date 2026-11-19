@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0394",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "胖乖生活去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "862f57ebc9ab506dc834bf99667d76aa0c3a2d940ab10434fbbd75ce6c65d8fd",
+  "author": "ClashModule",
+  "updatedAt": 1795093945634,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "862f57ebc9ab506dc834bf99667d76aa0c3a2d940ab10434fbbd75ce6c65d8fd"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0166",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "喜马拉雅去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "dd377e2bd9fe1bbe352d6b6884b70fa2c9fe48907a35a0c04b7880eff0ec2765",
+  "author": "ClashModule",
+  "updatedAt": 1795093945611,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "dd377e2bd9fe1bbe352d6b6884b70fa2c9fe48907a35a0c04b7880eff0ec2765"
+  ]
+}

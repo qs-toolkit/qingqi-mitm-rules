@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "香蕉是一种水果",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=香蕉是一种水果\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = *.pipiapps.com, *.fuliapps.com, *.xiangjiaoapps.com, *.xiangxiangapps.com\n\n[Script]\nresponse if ${url} ~= /^https?:\\/\\/.+?\\.(pipi|fuli|xiang(jiao|xiang))apps\\.com\\/(ucp\\/index|getGlobalData|(\\/|)vod\\/reqplay\\/)/i then script(\"https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js\") with enable=${xljnuiyivsuvgo_enable}, tag=\"香蕉是一种水果\", timeout=60, requires_body=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

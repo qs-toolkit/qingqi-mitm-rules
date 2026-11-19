@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0188",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "小喵看书去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "b539ae911377a53abcfd008358049aaa1652223e9fada7aca285af226021ad7e",
+  "author": "ClashModule",
+  "updatedAt": 1795093945613,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "b539ae911377a53abcfd008358049aaa1652223e9fada7aca285af226021ad7e"
+  ]
+}

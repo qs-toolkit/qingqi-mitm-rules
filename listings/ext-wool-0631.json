@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0631",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "一汽大众",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "23a60832d47602269591d61ccc9700075484fc78a95a9df00fe333c26d9622f7",
+  "author": "奶思",
+  "updatedAt": 1795093945695,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "23a60832d47602269591d61ccc9700075484fc78a95a9df00fe333c26d9622f7"
+  ]
+}

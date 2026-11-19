@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0265",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "掌上穿越火线去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "87bdb6fad1f4786ed1cbf3a4a5dc2164d8b47d26231ea6ff8270fc908c59489c",
+  "author": "ClashModule",
+  "updatedAt": 1795093945620,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "87bdb6fad1f4786ed1cbf3a4a5dc2164d8b47d26231ea6ff8270fc908c59489c"
+  ]
+}

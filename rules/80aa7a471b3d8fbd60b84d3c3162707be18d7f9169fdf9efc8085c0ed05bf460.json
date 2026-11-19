@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "VVebo时间线修复",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=VVebo时间线修复\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = api.weibo.cn\n\n[Script]\nhttp-request ^https:\\/\\/api\\.weibo\\.cn\\/2\\/users\\/show\\?, script-path=https://kelee.one/Resource/JavaScript/VVebo/VVebo_repair.js\nhttp-request ^https:\\/\\/api\\.weibo\\.cn\\/2\\/statuses\\/user_timeline\\?, script-path=https://kelee.one/Resource/JavaScript/VVebo/VVebo_repair.js\nhttp-request ^https:\\/\\/api\\.weibo\\.cn\\/2\\/remind\\/unread_count\\?, script-path=https://kelee.one/Resource/JavaScript/VVebo/VVebo_repair.js\nhttp-response ^https:\\/\\/api\\.weibo\\.cn\\/2\\/profile\\/statuses\\/tab\\?, script-path=https://kelee.one/Resource/JavaScript/VVebo/VVebo_repair.js, requires-body=1\nhttp-response ^https:\\/\\/api\\.weibo\\.cn\\/2\\/cardlist\\?, script-path=https://kelee.one/Resource/JavaScript/VVebo/VVebo_repair.js, requires-body=1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

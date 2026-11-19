@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0093",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "YouTube去广告[Maasea].official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "2b4254b4652270d7df3fe7d1cba1f754848d6be3b8d7245d0b9327216597328c",
+  "author": "ClashModule",
+  "updatedAt": 1795093945603,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "2b4254b4652270d7df3fe7d1cba1f754848d6be3b8d7245d0b9327216597328c"
+  ]
+}

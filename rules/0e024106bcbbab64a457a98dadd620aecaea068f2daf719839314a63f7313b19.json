@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "看东方（百视TV）",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=看东方（百视TV）\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = bp-api.bestv.com.cn, bp-api.bestv.cn\n\n[Rewrite]\nrequest if ${url} ~= /^https:\\/\\/bp-api\\.bestv\\.com\\.cn\\/cms\\/api\\/free\\/open\\/advertisingV2/i then reject_dict(200)\nresponse if ${url} ~= /^https:\\/\\/bp-api\\.bestv\\.cn\\/cms\\/api\\/free\\/open\\/advertisingV2/i then response.json.jq(\".dt = []\")\nresponse if ${url} ~= /^https:\\/\\/bp-api\\.bestv\\.cn\\/cms\\/api\\/c\\/search\\/hot\\/v(2|4)/i then response.json.jq(\".dt.hot = [] | .dt.recommand = [] | .dt.bannerList = []\")\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

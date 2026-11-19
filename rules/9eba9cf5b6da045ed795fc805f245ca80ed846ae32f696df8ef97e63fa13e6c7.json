@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "CC直播去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=CC直播去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = api.cc.163.com, cc.163.com, mshare.cc.163.com, appapi.cc.163.com\n\n[Rewrite]\n^https:\\/\\/cc\\.163\\.com\\/act\\/m\\/daily\\/ad_ - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "广发银行",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=广发银行\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = static.95508.com, mps.95508.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/static\\.95508\\.com\\/icppweb\\/images\\/modelMaterial\\/accurate\\/202\\d{5}\\/.*.(png|jpg)/i then reject(200)\nrequest if ${url} ~= /^https?:\\/\\/static\\.95508\\.com\\/icppweb\\/images\\/modelMaterial\\/advertising\\/202\\d{5}\\/.*.(png|jpg)/i then reject(200)\nrequest if ${url} ~= /^https?:\\/\\/mps\\.95508\\.com\\/mps\\/club\\/cardPortals\\/adv\\/\\d{25}\\.(png|jpg)/i then reject_img(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

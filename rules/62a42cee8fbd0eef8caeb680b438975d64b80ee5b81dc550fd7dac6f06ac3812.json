@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "微信解除链接限制",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=微信解除链接限制\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = weixin110.qq.com, security.wechat.com\n\n[Script]\nresponse if ${url} ~= /^https\\:\\/\\/(weixin110\\.qq|security.wechat)\\.com\\/cgi-bin\\/mmspamsupport-bin\\/newredirectconfirmcgi\\?/i then script(\"https://raw.githubusercontent.com/zZPiglet/Task/master/asset/UnblockURLinWeChat.js\") with enable=${lmjpxmvi_enable}, tag=\"UnblockURLinWeChat-解除微信链接限制\", timeout=60, requires_body=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

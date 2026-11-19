@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "WiFi万能钥匙",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=WiFi万能钥匙\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = cds.wifi188.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/cds\\.wifi188\\.com\\/feeds\\.sec/i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

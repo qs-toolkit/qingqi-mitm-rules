@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "中国国际航空",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=中国国际航空\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = m.airchina.com.cn\n\n[Script]\nresponse if ${url} ~= /^https:\\/\\/m\\.airchina\\.com\\.cn\\/airchina\\/gateway\\/v\\d(\\.\\d)*\\/api\\/services/i then script(\"https://raw.githubusercontent.com/zirawell/R-Store/main/Res/Scripts/AntiAd/airchina.js\") with enable=${vsgogojihhks_enable}, tag=\"中国国际航空\", timeout=60\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

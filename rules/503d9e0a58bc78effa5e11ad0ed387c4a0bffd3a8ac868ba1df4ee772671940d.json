@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "12306去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=12306去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = ad.12306.cn, mobile.12306.cn\n\n[Script]\nhttp-request ^https:\\/\\/ad\\.12306\\.cn\\/ad\\/ser\\/getAdList$, script-path=https://kelee.one/Resource/JavaScript/12306/12306_remove_splashscreen_ads.js, requires-body=1\nhttp-request ^https:\\/\\/mobile\\.12306\\.cn\\/otsmobile\\/app\\/mgs\\/mgw\\.htm$, script-path=https://kelee.one/Resource/JavaScript/12306/12306_remove_ads.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

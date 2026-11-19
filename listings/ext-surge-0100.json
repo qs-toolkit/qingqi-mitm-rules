@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0100",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "bilibili去广告.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "a4dd74bb710efbad792bbad22977ba77719a4c023b10d6d3e449a090d72f73e0",
+  "author": "ClashModule",
+  "updatedAt": 1795093945604,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "a4dd74bb710efbad792bbad22977ba77719a4c023b10d6d3e449a090d72f73e0"
+  ]
+}

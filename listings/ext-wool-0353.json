@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0353",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "秒拍",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "011a4619d1df9775b945fdbc3914141d09c30cf05ab9ab3902dcc42dcec0d56f",
+  "author": "奶思",
+  "updatedAt": 1795093945672,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "011a4619d1df9775b945fdbc3914141d09c30cf05ab9ab3902dcc42dcec0d56f"
+  ]
+}

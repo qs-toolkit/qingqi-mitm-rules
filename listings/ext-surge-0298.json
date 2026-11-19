@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0298",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "汽水音乐去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "09068473e18247bf92a7b0dda7a2d0d00767548a8c254d88445a70916d103e3a",
+  "author": "ClashModule",
+  "updatedAt": 1795093945624,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "09068473e18247bf92a7b0dda7a2d0d00767548a8c254d88445a70916d103e3a"
+  ]
+}

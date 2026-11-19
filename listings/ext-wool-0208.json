@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-wool-0208",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "海豚优惠",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "revisionId": "e9eb40f6ecb3439190b0156a9df6e8b6d3a2bcf9a2a736a1f817605510070a1f",
+  "author": "奶思",
+  "updatedAt": 1795093945661,
+  "targets": [],
+  "upstream": "奶思",
+  "homepage": "",
+  "revisions": [
+    "e9eb40f6ecb3439190b0156a9df6e8b6d3a2bcf9a2a736a1f817605510070a1f"
+  ]
+}

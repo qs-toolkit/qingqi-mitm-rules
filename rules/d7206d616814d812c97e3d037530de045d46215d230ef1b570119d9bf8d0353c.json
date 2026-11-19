@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "爱奇艺会员签到.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=爱奇艺会员签到.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[Script]\n爱奇艺[会员签到] = type=cron,cronexp=\"{{{定时签到}}}\",wake-system=1,script-update-interval=0,timeout=60,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js\nhttp-request ^https:\\/\\/passport\\.iqiyi\\.com\\/apis\\/user\\/, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

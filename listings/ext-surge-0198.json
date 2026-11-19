@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0198",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "小米音箱去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "5b002cdb1c1b7b85b5f626ef4df321aa7ea55800b90131f28abba52a1df36a9b",
+  "author": "ClashModule",
+  "updatedAt": 1795093945614,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "5b002cdb1c1b7b85b5f626ef4df321aa7ea55800b90131f28abba52a1df36a9b"
+  ]
+}

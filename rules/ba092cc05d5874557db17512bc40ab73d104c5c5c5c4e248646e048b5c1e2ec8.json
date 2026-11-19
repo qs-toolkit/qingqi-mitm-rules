@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "搜狐",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=搜狐\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = *.souhu.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api\\.k\\.sohu\\.com\\/api\\/news\\/adsense/i then reject(200)\nrequest if ${url} ~= /^https?:\\/\\/pic\\.k\\.sohu\\.com\\/img8\\/wb\\/tj\\//i then reject(200)\nrequest if ${url} ~= /^https?:\\/\\/s1\\.api\\.tv\\.itc\\.cn\\/v4\\/mobile\\/control\\/switch\\.json/i then reject(200)\nrequest if ${url} ~= /^https?:\\/\\/(api|api-bk\\d+)\\.tv\\.sohu\\.com\\/agg\\/api\\/app\\/config\\/bootstrap/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/agn\\.aty\\.sohu\\.com\\/m?/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/api\\.k\\.sohu\\.com\\/api\\/channel\\/ad\\//i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/hui\\.sohu\\.com\\/predownload2\\/?/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/m\\.aty\\.sohu\\.com\\/openload?/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/mmg\\.aty\\.sohu\\.com\\/mqs?/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/mmg\\.aty\\.sohu\\.com\\/pvlog?/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/photocdn\\.sohu\\.com\\/tvmobilemvms/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/pic\\.k\\.sohu\\.com\\/img\\d\\/wb\\/tj\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/s\\.go\\.sohu\\.com\\/adgtr\\/\\?gbcode=/i then reject_img(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

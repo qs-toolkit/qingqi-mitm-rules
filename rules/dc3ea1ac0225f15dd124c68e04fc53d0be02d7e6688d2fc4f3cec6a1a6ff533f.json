@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "优酷",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=优酷\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = acs.youku.com, push.m.youku.com, un-acs.youku.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/acs\\.youku\\.com\\/gw\\/mtop\\.youku\\.(pisp\\.scripts\\.get|xspace\\.play\\.position\\.preload\\.query|xspace\\.poplayer\\.position\\.query)/i then reject_dict(200)\n\n[Script]\nresponse if ${url} ~= /^https?:\\/\\/acs\\.youku\\.com\\/gw\\/mtop\\.youku\\.columbus\\.(gateway\\.new\\.execute|home\\.feed|home\\.query|uc\\.query|ycp\\.query)/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cnftp.js\") with enable=${yzku_enable}, tag=\"优酷\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/acs\\.youku\\.com\\/gw\\/mtop\\.youku\\.haidai\\.lantern\\.appconfig\\.get/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cnftp.js\") with enable=${yzku_enable}, tag=\"优酷底部tab\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/acs\\.youku\\.com\\/gw\\/mtop\\.youku\\.huluwa\\.dispatcher\\.youthmode\\.config2/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cnftp.js\") with enable=${yzku_enable}, tag=\"优酷青少年模式弹窗\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/acs\\.youku\\.com\\/gw\\/mtop\\.youku\\.soku\\.yksearch/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cnftp.js\") with enable=${yzku_enable}, tag=\"优酷搜索列表\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/push\\.m\\.youku\\.com\\/collect-api\\/get_push_interval_config_wx\\?/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cnftp.js\") with enable=${yzku_enable}, tag=\"优酷热剧弹窗\", timeout=60, requires_body=true\nresponse if ${url} ~= /^https?:\\/\\/un-acs\\.youku\\.com\\/gw\\/mtop\\.youku\\.play\\.ups\\.appinfo\\.get/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cnftp.js\") with enable=${yzku_enable}, tag=\"优酷开屏广告\", timeout=60, requires_body=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

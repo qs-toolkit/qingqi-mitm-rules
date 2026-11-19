@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0410",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "芒果TV去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "0e18f4d28a7609361fe6fad44fb9bb2339617c7323ab1b7e8b5227bd6b60b0ec",
+  "author": "ClashModule",
+  "updatedAt": 1795093945635,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "0e18f4d28a7609361fe6fad44fb9bb2339617c7323ab1b7e8b5227bd6b60b0ec"
+  ]
+}

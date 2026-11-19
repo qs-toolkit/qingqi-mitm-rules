@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "太平洋知科技",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=太平洋知科技\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = mrobot.pconline.com.cn\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/mrobot\\.pconline\\.com\\.cn\\/s-900\\/onlineinfo\\/cms\\/launch/i then reject(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

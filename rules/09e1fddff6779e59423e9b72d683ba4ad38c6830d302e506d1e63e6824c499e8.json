@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "郑好办",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=郑好办\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = app-izz.zhengzhou.gov.cn\n\n[Rewrite]\nresponse if ${url} ~= /^https?:\\/\\/app-izz\\.zhengzhou\\.gov\\.cn:10019\\/bizgw\\/gateway\\.do/i then response.body.replace(/\"imgUrl19_5x9\":\".+?\"/, \"\\\"imgUrl19_5x9\\\":\\\"\\\"\")\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

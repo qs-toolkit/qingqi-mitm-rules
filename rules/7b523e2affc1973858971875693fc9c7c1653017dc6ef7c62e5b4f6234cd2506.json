@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "天府通",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=天府通\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = ams-cdn.cdtft.cn\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/ams-cdn\\.cdtft\\.cn\\/prod\\/tft-ams\\//i then reject_dict(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

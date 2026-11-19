@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "小米商城",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=小米商城\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = api.m.mi.com\n\n[Script]\nresponse if ${url} ~= /^https?:\\/\\/api\\.m\\.mi\\.com\\/v1\\/app\\/start/i then script(\"https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/myBlockAds.js\") with enable=${xnmiuhig_enable}, tag=\"小米商城\", timeout=60, requires_body=true\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

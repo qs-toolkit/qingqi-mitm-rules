@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "芒果TV去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=芒果TV去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = dc?.bz.mgtv.com, mobileso.bz.mgtv.com, damang.api.mgtv.com, hb-boom.api.mgtv.com, mobile.api.mgtv.com, mobile.api.hunantv.com, me.bz.mgtv.com, mobile-thor.api.mgtv.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

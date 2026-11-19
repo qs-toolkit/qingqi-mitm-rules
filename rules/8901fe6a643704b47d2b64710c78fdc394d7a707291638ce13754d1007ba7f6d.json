@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "安徽掌上10000",
+  "description": "fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！",
+  "scope": [],
+  "text": "#!name=安徽掌上10000\n#!desc=fmz200/wool_scripts · 某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n\n[MITM]\nhostname = www.ahzs10000.com\n\n[Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/www\\.ahzs10000\\.com\\/palmhall\\/client\\/base\\/newVerson_getStartUp\\.action/i then reject(200)\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}
