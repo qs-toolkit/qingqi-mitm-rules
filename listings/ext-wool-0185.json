@@ -7,7 +7,7 @@
   "name": "公考雷达",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "de49f26dae1324b4f2da2ce76a38d3a06fc31582b124856b808294d59bc4b613",
+  "revisionId": "62dbb4f9dca0f4619de5d2d36de26a27597ab5b2be8a5f4151aa67e6c2d36c2c",
   "author": "fmz200",
   "updatedAt": 1795094539207,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "de49f26dae1324b4f2da2ce76a38d3a06fc31582b124856b808294d59bc4b613"
+    "62dbb4f9dca0f4619de5d2d36de26a27597ab5b2be8a5f4151aa67e6c2d36c2c"
   ]
 }

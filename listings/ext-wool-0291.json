@@ -7,7 +7,7 @@
   "name": "快手",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9a8bd908e1d4690b5d496e99478885aad06af9b68ac44264dba5e4c60976e43f",
+  "revisionId": "4e3424a966f7e4074e8cdde505e709ef4f3f4d099e36965ebf052039feecf393",
   "author": "fmz200",
   "updatedAt": 1795094539224,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9a8bd908e1d4690b5d496e99478885aad06af9b68ac44264dba5e4c60976e43f"
+    "4e3424a966f7e4074e8cdde505e709ef4f3f4d099e36965ebf052039feecf393"
   ]
 }

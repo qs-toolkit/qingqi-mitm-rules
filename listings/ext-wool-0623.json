@@ -7,7 +7,7 @@
   "name": "亚朵开屏",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c365e8a2553e080ea7ec285faace0dde6a03528cd80ebf5b0b5104dee636d958",
+  "revisionId": "b2e5b648af20775a89a08854304428d2e1c0f63235424f6a23916b02a2eff06f",
   "author": "fmz200",
   "updatedAt": 1795094539269,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c365e8a2553e080ea7ec285faace0dde6a03528cd80ebf5b0b5104dee636d958"
+    "b2e5b648af20775a89a08854304428d2e1c0f63235424f6a23916b02a2eff06f"
   ]
 }

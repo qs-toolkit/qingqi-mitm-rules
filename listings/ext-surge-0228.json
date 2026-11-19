@@ -7,7 +7,7 @@
   "name": "微信小程序去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "69315ed2bd43c411f22cac533fb4a43bb622467523a043807cfa36e360a70929",
+  "revisionId": "d7de9145dbc57f9e5d287646d732025fdf0582159edce84e8e3e9b4cf3376984",
   "author": "ClashModule",
   "updatedAt": 1795094539067,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "69315ed2bd43c411f22cac533fb4a43bb622467523a043807cfa36e360a70929"
+    "d7de9145dbc57f9e5d287646d732025fdf0582159edce84e8e3e9b4cf3376984"
   ]
 }

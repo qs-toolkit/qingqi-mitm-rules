@@ -7,7 +7,7 @@
   "name": "网易云音乐",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "50a907436b89dc1dd0d2a8c694d70715f6fd99e952416be6833617ff519212ea",
+  "revisionId": "64bddc91b56291b4bd91711988c43283ad0cb36fee2762dea9d7cce545c7d429",
   "author": "fmz200",
   "updatedAt": 1795094539256,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "50a907436b89dc1dd0d2a8c694d70715f6fd99e952416be6833617ff519212ea"
+    "64bddc91b56291b4bd91711988c43283ad0cb36fee2762dea9d7cce545c7d429"
   ]
 }

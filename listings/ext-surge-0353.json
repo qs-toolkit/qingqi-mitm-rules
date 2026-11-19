@@ -7,7 +7,7 @@
   "name": "省钱快报去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "95d50949e85d038d217290e40d709adc21cd331a6d5c97ffcd7f808d76d24235",
+  "revisionId": "a02dae9e78c2f0738aee8d9398d6b565ec5afd6c0021b627a9f930de56bcd6b8",
   "author": "ClashModule",
   "updatedAt": 1795094539085,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "95d50949e85d038d217290e40d709adc21cd331a6d5c97ffcd7f808d76d24235"
+    "a02dae9e78c2f0738aee8d9398d6b565ec5afd6c0021b627a9f930de56bcd6b8"
   ]
 }

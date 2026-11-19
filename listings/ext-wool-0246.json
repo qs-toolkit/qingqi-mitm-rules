@@ -7,7 +7,7 @@
   "name": "IT之家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a44789a5887fc3c60c035e332404c985499dcc57b96edbdf23d76926aab081d7",
+  "revisionId": "5b2524291507a9b3e61dea080600668190163064418f5746231d35feaec2901b",
   "author": "fmz200",
   "updatedAt": 1795094539217,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a44789a5887fc3c60c035e332404c985499dcc57b96edbdf23d76926aab081d7"
+    "5b2524291507a9b3e61dea080600668190163064418f5746231d35feaec2901b"
   ]
 }

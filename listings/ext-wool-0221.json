@@ -7,7 +7,7 @@
   "name": "合利宝展业通",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "88fb52650c8497153e35fc9fedc524132a24f382b604599d9f30f4c3bf8f197d",
+  "revisionId": "633d24049a01dc9106a4540d1d28d474a42a635a7dfa7c9aba0447f9ffee2542",
   "author": "fmz200",
   "updatedAt": 1795094539215,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "88fb52650c8497153e35fc9fedc524132a24f382b604599d9f30f4c3bf8f197d"
+    "633d24049a01dc9106a4540d1d28d474a42a635a7dfa7c9aba0447f9ffee2542"
   ]
 }

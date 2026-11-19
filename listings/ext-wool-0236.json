@@ -7,7 +7,7 @@
   "name": "华住会",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c56781455b74051bb50e501855d37fff40587f64cf0f7097a7ded129fd6d1aa5",
+  "revisionId": "ec7cfce6b3f8ac393a8e3f4f60aba7a0bb654589a4f055b92e251f08e1803da7",
   "author": "fmz200",
   "updatedAt": 1795094539216,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c56781455b74051bb50e501855d37fff40587f64cf0f7097a7ded129fd6d1aa5"
+    "ec7cfce6b3f8ac393a8e3f4f60aba7a0bb654589a4f055b92e251f08e1803da7"
   ]
 }

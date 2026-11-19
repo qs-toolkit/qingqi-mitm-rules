@@ -7,7 +7,7 @@
   "name": "美图秀秀",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bbd91687698c19f6121b2e154e27e011550f9f927b94497ed190aa364672414a",
+  "revisionId": "1833bb43380a66bb357678f64dc85312f7b4bedfd1c5469cfe31ed63de6521d8",
   "author": "fmz200",
   "updatedAt": 1795094539232,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bbd91687698c19f6121b2e154e27e011550f9f927b94497ed190aa364672414a"
+    "1833bb43380a66bb357678f64dc85312f7b4bedfd1c5469cfe31ed63de6521d8"
   ]
 }

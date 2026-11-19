@@ -7,7 +7,7 @@
   "name": "同花顺",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0274a9a8206ab54a9e7c6d4286b314d87d845999a5662dbb1638de400196150a",
+  "revisionId": "877686f0e732ad8faa4d57870b67c28b556d32153e5fa8bee37afe459fac9dd2",
   "author": "fmz200",
   "updatedAt": 1795094539254,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0274a9a8206ab54a9e7c6d4286b314d87d845999a5662dbb1638de400196150a"
+    "877686f0e732ad8faa4d57870b67c28b556d32153e5fa8bee37afe459fac9dd2"
   ]
 }

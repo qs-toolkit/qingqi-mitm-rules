@@ -7,7 +7,7 @@
   "name": "悟空遥控器",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1651a005cdc14ad7e1c15097679712283001cb74be518ff00f90abec33fed300",
+  "revisionId": "98608271cd39fef17ac845c6eea1099575519cb8a645a8058ed91d6332a2df5c",
   "author": "fmz200",
   "updatedAt": 1795094539260,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1651a005cdc14ad7e1c15097679712283001cb74be518ff00f90abec33fed300"
+    "98608271cd39fef17ac845c6eea1099575519cb8a645a8058ed91d6332a2df5c"
   ]
 }

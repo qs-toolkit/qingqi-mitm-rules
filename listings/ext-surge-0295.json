@@ -7,7 +7,7 @@
   "name": "机场流量信息",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "aac0ccabaa43a5bc6b3065c458eec346cff4099253942a5d2615b4550b4b7278",
+  "revisionId": "4b3b3a5ae6b1cf1de952f040163d304f476d2d39989d4c823ce67bb0548b71c0",
   "author": "ClashModule",
   "updatedAt": 1795094539077,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "aac0ccabaa43a5bc6b3065c458eec346cff4099253942a5d2615b4550b4b7278"
+    "4b3b3a5ae6b1cf1de952f040163d304f476d2d39989d4c823ce67bb0548b71c0"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "微信解除链接限制",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "026e18469e7822688cc87177f0b28890d775e57efed25720df7371cdc85009b9",
+  "revisionId": "baf9e28464362fec62829c432777be844d62d843a2ac1d1e7fbc9f43bf94e98e",
   "author": "fmz200",
   "updatedAt": 1795094539259,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "026e18469e7822688cc87177f0b28890d775e57efed25720df7371cdc85009b9"
+    "baf9e28464362fec62829c432777be844d62d843a2ac1d1e7fbc9f43bf94e98e"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "阿里云盘",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "56b4bbcd446a2ff4bc2b3419c0975dbe2c2633b4d5d8be555e9ff1e689f7c483",
+  "revisionId": "1eec8d42ce67c50dc31f29c2ee4f61eba6b373b55042a7e4c9000ab251ead270",
   "author": "fmz200",
   "updatedAt": 1795094539187,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "56b4bbcd446a2ff4bc2b3419c0975dbe2c2633b4d5d8be555e9ff1e689f7c483"
+    "1eec8d42ce67c50dc31f29c2ee4f61eba6b373b55042a7e4c9000ab251ead270"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "超级课程表",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0c737879e5ab7642da33b6baaeaaef512781e921a6b22f19ee2c0c60086e5377",
+  "revisionId": "8ba85ef02492b91bdcc3f8b38632a3178dd8108cbf249583c33ad8b6213156b0",
   "author": "fmz200",
   "updatedAt": 1795094539196,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0c737879e5ab7642da33b6baaeaaef512781e921a6b22f19ee2c0c60086e5377"
+    "8ba85ef02492b91bdcc3f8b38632a3178dd8108cbf249583c33ad8b6213156b0"
   ]
 }

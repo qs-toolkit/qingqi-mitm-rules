@@ -7,7 +7,7 @@
   "name": "vgTime",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "09d9ee19652160fc572513fbcec47c8b281afebca391f588acdd376647cbae00",
+  "revisionId": "1c1d8a81a67462f5ac3ea2c58515de79b6691d7e6f39d8dbd9b82d644babac6d",
   "author": "fmz200",
   "updatedAt": 1795094539256,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "09d9ee19652160fc572513fbcec47c8b281afebca391f588acdd376647cbae00"
+    "1c1d8a81a67462f5ac3ea2c58515de79b6691d7e6f39d8dbd9b82d644babac6d"
   ]
 }

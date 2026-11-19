@@ -7,7 +7,7 @@
   "name": "Line去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "71d4728c0b21abb9e28169c2ae942d7c89cb88aba562c7c7739848fc68bf2759",
+  "revisionId": "3c91ac02cd59fbdfa6af8488b3071e140670ffc5c084358b8838487bd56e27e8",
   "author": "ClashModule",
   "updatedAt": 1795094539040,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "71d4728c0b21abb9e28169c2ae942d7c89cb88aba562c7c7739848fc68bf2759"
+    "3c91ac02cd59fbdfa6af8488b3071e140670ffc5c084358b8838487bd56e27e8"
   ]
 }

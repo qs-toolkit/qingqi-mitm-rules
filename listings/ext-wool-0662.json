@@ -7,7 +7,7 @@
   "name": "优书",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ff7fae2821a307753199024a8947fa7b1bd7db2750a3c5a218e15a002388e6fa",
+  "revisionId": "133a05bd9b684eb72afd193ee1380af30a33a9ca59d5eab0ace385791295a278",
   "author": "fmz200",
   "updatedAt": 1795094539275,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ff7fae2821a307753199024a8947fa7b1bd7db2750a3c5a218e15a002388e6fa"
+    "133a05bd9b684eb72afd193ee1380af30a33a9ca59d5eab0ace385791295a278"
   ]
 }

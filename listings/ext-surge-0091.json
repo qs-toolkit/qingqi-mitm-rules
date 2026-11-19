@@ -7,7 +7,7 @@
   "name": "YY语音去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ac14ae2fea2c147827a738bdf49832acca2c7b3d9bd85b0f0845e6e8f0928d96",
+  "revisionId": "070237d5bd4b1f1651fcec0726d454e5f44704273ca838661e0097f653b0abcf",
   "author": "ClashModule",
   "updatedAt": 1795094539047,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "ac14ae2fea2c147827a738bdf49832acca2c7b3d9bd85b0f0845e6e8f0928d96"
+    "070237d5bd4b1f1651fcec0726d454e5f44704273ca838661e0097f653b0abcf"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "漫客栈去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c97e419af6c48008d557b0a84e9cb5888d6977bb15e407de5d126b05b68d68dd",
+  "revisionId": "242c1f741a45ede8dcd3de696f4b8b79ca28a08da3fc4de44dc0db6b90bec50a",
   "author": "ClashModule",
   "updatedAt": 1795094539080,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "c97e419af6c48008d557b0a84e9cb5888d6977bb15e407de5d126b05b68d68dd"
+    "242c1f741a45ede8dcd3de696f4b8b79ca28a08da3fc4de44dc0db6b90bec50a"
   ]
 }

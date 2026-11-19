@@ -7,7 +7,7 @@
   "name": "飞猫管家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a7f635fbc78f00ecb8bfeae507c53552d667dcff15a997de3616b99f4d4774a3",
+  "revisionId": "8dc2b2ede827c787d4a570e07b93ed56ce758c80f6258fd07eeb6eb5a622b611",
   "author": "fmz200",
   "updatedAt": 1795094539203,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a7f635fbc78f00ecb8bfeae507c53552d667dcff15a997de3616b99f4d4774a3"
+    "8dc2b2ede827c787d4a570e07b93ed56ce758c80f6258fd07eeb6eb5a622b611"
   ]
 }

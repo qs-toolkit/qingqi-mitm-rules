@@ -7,7 +7,7 @@
   "name": "QQ钱包",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e77237530a647867d2f8a24ad897fb63bfcde96fd0a914f9e04b8f63f6bc72d7",
+  "revisionId": "1ea4aa1454de2a72b78e85834d732352f4e1e9ec34f883acaf221ec0d072d12b",
   "author": "fmz200",
   "updatedAt": 1795094539239,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e77237530a647867d2f8a24ad897fb63bfcde96fd0a914f9e04b8f63f6bc72d7"
+    "1ea4aa1454de2a72b78e85834d732352f4e1e9ec34f883acaf221ec0d072d12b"
   ]
 }

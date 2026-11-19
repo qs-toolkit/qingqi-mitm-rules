@@ -7,7 +7,7 @@
   "name": "百度网盘",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f34ff6da9f27b184b60f3bd2768f549fff2fb0e10c9eff59976aaa467edf59e3",
+  "revisionId": "ea5736795f81b4e14af9a2033485c5ff2fdf056550791317bf6d1ed5f6b65a93",
   "author": "fmz200",
   "updatedAt": 1795094539189,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f34ff6da9f27b184b60f3bd2768f549fff2fb0e10c9eff59976aaa467edf59e3"
+    "ea5736795f81b4e14af9a2033485c5ff2fdf056550791317bf6d1ed5f6b65a93"
   ]
 }

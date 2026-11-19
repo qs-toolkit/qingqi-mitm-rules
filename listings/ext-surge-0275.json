@@ -7,7 +7,7 @@
   "name": "数字心动去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9910e0472fb8a917c43547b4c36cd76bc8a0dd812586ca1c987ccc1ab12f26f7",
+  "revisionId": "760ae7396275d3197413f3e247119398b4e55d4326427bcddb88d1364b0cb340",
   "author": "ClashModule",
   "updatedAt": 1795094539074,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "9910e0472fb8a917c43547b4c36cd76bc8a0dd812586ca1c987ccc1ab12f26f7"
+    "760ae7396275d3197413f3e247119398b4e55d4326427bcddb88d1364b0cb340"
   ]
 }

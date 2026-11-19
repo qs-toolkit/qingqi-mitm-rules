@@ -7,7 +7,7 @@
   "name": "555电影去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "3cac9f198e2172ecce4b45022cb31dedb16fefbfe90979b6aeae2efe7cdfb8f8",
+  "revisionId": "06a0914f7420984b42aa1202a883391d0c0fe240db15bd81573bb7d442ee0077",
   "author": "ClashModule",
   "updatedAt": 1795094539034,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "3cac9f198e2172ecce4b45022cb31dedb16fefbfe90979b6aeae2efe7cdfb8f8"
+    "06a0914f7420984b42aa1202a883391d0c0fe240db15bd81573bb7d442ee0077"
   ]
 }

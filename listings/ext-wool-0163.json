@@ -7,7 +7,7 @@
   "name": "丰巢",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "99670c2d508f479681ddab63cb4cbe5e9fd2de6420fafc571c287f5ee36b4cb5",
+  "revisionId": "d07515eeaabdab0e73c390ec87efe1f6087abc10b8c964c62a183cd9611538e5",
   "author": "fmz200",
   "updatedAt": 1795094539204,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "99670c2d508f479681ddab63cb4cbe5e9fd2de6420fafc571c287f5ee36b4cb5"
+    "d07515eeaabdab0e73c390ec87efe1f6087abc10b8c964c62a183cd9611538e5"
   ]
 }

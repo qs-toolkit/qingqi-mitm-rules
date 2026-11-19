@@ -7,7 +7,7 @@
   "name": "米读",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b39efbb535d7c25f1fbc4ab8b2044e5fd8308145938b038c792eab60eea38a2d",
+  "revisionId": "b5cdb9c22d72ea9c4e0ab8db8e761ab5b2687e00da8c85d0e8000a2e5cce350d",
   "author": "fmz200",
   "updatedAt": 1795094539261,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b39efbb535d7c25f1fbc4ab8b2044e5fd8308145938b038c792eab60eea38a2d"
+    "b5cdb9c22d72ea9c4e0ab8db8e761ab5b2687e00da8c85d0e8000a2e5cce350d"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "金十数据",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "60378b90901b8abee1c48fabe7c3d9b2874b0671cd839a6ca59eaa4cce14b42b",
+  "revisionId": "dd3c8c615c19e74d9b0ad365f4ccaa13706bbdfc707e46b35e547456505adac8",
   "author": "fmz200",
   "updatedAt": 1795094539221,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "60378b90901b8abee1c48fabe7c3d9b2874b0671cd839a6ca59eaa4cce14b42b"
+    "dd3c8c615c19e74d9b0ad365f4ccaa13706bbdfc707e46b35e547456505adac8"
   ]
 }

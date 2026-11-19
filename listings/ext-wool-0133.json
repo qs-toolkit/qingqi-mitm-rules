@@ -7,7 +7,7 @@
   "name": "电影猎手",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c5e32f3b2e778b62bd714be8979305f5f21dd0a1def22b0dc8375bc169883ddb",
+  "revisionId": "90f1883a37d913c057be2c6cfdc188f37d037634f32bc5bd55a7e3db316bd7f3",
   "author": "fmz200",
   "updatedAt": 1795094539200,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c5e32f3b2e778b62bd714be8979305f5f21dd0a1def22b0dc8375bc169883ddb"
+    "90f1883a37d913c057be2c6cfdc188f37d037634f32bc5bd55a7e3db316bd7f3"
   ]
 }

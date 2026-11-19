@@ -7,7 +7,7 @@
   "name": "快看",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6a1a013d56304e0c9bbcfe5df811318cd12817e30ba8da94bf55108176c58305",
+  "revisionId": "f285793f03d6b19e123563193f85a246f8829e7cc05356942db0065fc778a71f",
   "author": "fmz200",
   "updatedAt": 1795094539223,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6a1a013d56304e0c9bbcfe5df811318cd12817e30ba8da94bf55108176c58305"
+    "f285793f03d6b19e123563193f85a246f8829e7cc05356942db0065fc778a71f"
   ]
 }

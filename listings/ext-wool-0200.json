@@ -7,7 +7,7 @@
   "name": "国家医保服务平台",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a90be345b488094388ddd0d4ad5d5b6a5dabf77bdc68e1711628578411dc90a7",
+  "revisionId": "75c9b32e6b5a0721e869e6da4cc205d0be84006389241bc3e7cc89503a0575a9",
   "author": "fmz200",
   "updatedAt": 1795094539211,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a90be345b488094388ddd0d4ad5d5b6a5dabf77bdc68e1711628578411dc90a7"
+    "75c9b32e6b5a0721e869e6da4cc205d0be84006389241bc3e7cc89503a0575a9"
   ]
 }

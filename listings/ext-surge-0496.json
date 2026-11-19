@@ -7,7 +7,7 @@
   "name": "🍟 BiliADBlock.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "6cbf9114d2e9c91d02757a74b3496cbf43595c4cbfa6c85d464d4d71ec719279",
+  "revisionId": "ceafdde6ec441786bde37dc2b4c50574eaaea9546d97d6b63bdd0c1bb7fe2bcb",
   "author": "ClashModule",
   "updatedAt": 1795094539105,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "6cbf9114d2e9c91d02757a74b3496cbf43595c4cbfa6c85d464d4d71ec719279"
+    "ceafdde6ec441786bde37dc2b4c50574eaaea9546d97d6b63bdd0c1bb7fe2bcb"
   ]
 }

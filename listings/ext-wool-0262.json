@@ -7,7 +7,7 @@
   "name": "驾考宝典",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5b2bfe8beed98a631ced53bb2e829d7c9a412db19b05a66b13a309de91466b1a",
+  "revisionId": "3f1ca60f177acae588ed95c97b76a6192a4f58ebf428142a4cfbfd2dd30cdcf3",
   "author": "fmz200",
   "updatedAt": 1795094539220,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5b2bfe8beed98a631ced53bb2e829d7c9a412db19b05a66b13a309de91466b1a"
+    "3f1ca60f177acae588ed95c97b76a6192a4f58ebf428142a4cfbfd2dd30cdcf3"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "乐橙",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "64f9dd5c45b39c9ca83b44e3d7a6f675d65728a6b242e7f9be84452744f2b7f4",
+  "revisionId": "ad5544dad628ee8d7cb6c04b7e0a605fb4c064862fbda369d598cb90dad54910",
   "author": "fmz200",
   "updatedAt": 1795094539225,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "64f9dd5c45b39c9ca83b44e3d7a6f675d65728a6b242e7f9be84452744f2b7f4"
+    "ad5544dad628ee8d7cb6c04b7e0a605fb4c064862fbda369d598cb90dad54910"
   ]
 }

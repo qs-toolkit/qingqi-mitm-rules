@@ -7,7 +7,7 @@
   "name": "Bilibili Helper",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fe2029b271229c17f6105f07f439029a3de411d9eb00cba064157d7e2c4bea6c",
+  "revisionId": "6ded3d77375b612a8ac09b12f825091739ce2bdccc1be99caf24f88605bb7eb9",
   "author": "ClashModule",
   "updatedAt": 1795094539035,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fe2029b271229c17f6105f07f439029a3de411d9eb00cba064157d7e2c4bea6c"
+    "6ded3d77375b612a8ac09b12f825091739ce2bdccc1be99caf24f88605bb7eb9"
   ]
 }

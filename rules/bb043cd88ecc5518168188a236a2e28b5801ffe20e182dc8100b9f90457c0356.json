@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "京东比价",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=京东比价\n#!desc=首次使用需安装慢慢买应用，之后点击进入[我的]页面以捕获Cookie，捕获成功后方可在商品详情页面查看比价内容。\n#!author=wf021325[https://github.com/wf021325], githubdulong[https://github.com/githubdulong], mw418[https://github.com/mw418]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/JD.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id414245413\n#!tag=功能增强\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-05-15 05:41:50\n#!format=sgmodule\n\n[Script]\n捕获令牌 = type=http-request, pattern=^https?:\\/\\/apapia-sqk-weblogic\\.manmanbuy\\.com\\/baoliao\\/center\\/menu$, script-path=https://kelee.one/Resource/JavaScript/JD/JD_Price.js, requires-body=true, timeout=10\n京东比价 = type=http-response, pattern=^https?:\\/\\/in\\.m\\.jd\\.com\\/product\\/graphext\\/\\d+\\.html, script-path=https://kelee.one/Resource/JavaScript/JD/JD_Price.js, requires-body=true, timeout=10\n\n[MITM]\nhostname = %APPEND% in.m.jd.com, apapia-sqk-weblogic.manmanbuy.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

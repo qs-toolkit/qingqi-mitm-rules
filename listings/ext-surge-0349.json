@@ -7,7 +7,7 @@
   "name": "皮皮虾去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "e29559ceb10bed2f0ccc7ef838e7573c8bc226f7fb1aacc89945940cc5b83771",
+  "revisionId": "c9aedaf7566c293793376ec11b0afc365a1d78b5d89990cc1c9af1593d2fc9e3",
   "author": "ClashModule",
   "updatedAt": 1795094539085,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "e29559ceb10bed2f0ccc7ef838e7573c8bc226f7fb1aacc89945940cc5b83771"
+    "c9aedaf7566c293793376ec11b0afc365a1d78b5d89990cc1c9af1593d2fc9e3"
   ]
 }

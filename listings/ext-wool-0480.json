@@ -7,7 +7,7 @@
   "name": "腾讯游戏",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1ad669d59aa988a633b9158c7ef78182b271233fca95c0a3740f43337b093921",
+  "revisionId": "8413af6e1c93acc0f5a0740ba3f163dd85e4e8c9a798ff4d8beadd0129362bde",
   "author": "fmz200",
   "updatedAt": 1795094539250,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1ad669d59aa988a633b9158c7ef78182b271233fca95c0a3740f43337b093921"
+    "8413af6e1c93acc0f5a0740ba3f163dd85e4e8c9a798ff4d8beadd0129362bde"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "兴业银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "084f49434f3340692b86f83c55882cab4208552bec6c967ebb612aaa2429eec8",
+  "revisionId": "39178f189e31a2cc5a4c9594ea070374c6b960424787de7295ec37da4dd12bf0",
   "author": "fmz200",
   "updatedAt": 1795094539261,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "084f49434f3340692b86f83c55882cab4208552bec6c967ebb612aaa2429eec8"
+    "39178f189e31a2cc5a4c9594ea070374c6b960424787de7295ec37da4dd12bf0"
   ]
 }

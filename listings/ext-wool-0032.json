@@ -7,7 +7,7 @@
   "name": "爱回收",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8dc9e406aa068f7f8a3f8211c70d6697be7e1c5023c9dc2d8381579af708c276",
+  "revisionId": "ea3be90050b1c81e6e81f52540f1001d3c0966f311f2442d9f467aaf90ec0a78",
   "author": "fmz200",
   "updatedAt": 1795094539185,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8dc9e406aa068f7f8a3f8211c70d6697be7e1c5023c9dc2d8381579af708c276"
+    "ea3be90050b1c81e6e81f52540f1001d3c0966f311f2442d9f467aaf90ec0a78"
   ]
 }

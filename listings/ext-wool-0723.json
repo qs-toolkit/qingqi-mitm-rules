@@ -7,7 +7,7 @@
   "name": "猪八戒",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "de33539875d5dfc06f052c0953cac9032c3fd537e603cbc3b4bc985fac42859c",
+  "revisionId": "0707aa972c8920668f6fa24733cfd94396642716c0592c11ee3b456100dd245d",
   "author": "fmz200",
   "updatedAt": 1795094539283,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "de33539875d5dfc06f052c0953cac9032c3fd537e603cbc3b4bc985fac42859c"
+    "0707aa972c8920668f6fa24733cfd94396642716c0592c11ee3b456100dd245d"
   ]
 }

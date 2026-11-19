@@ -7,7 +7,7 @@
   "name": "完美世界电竞",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4d3a810416c096002c0277b8cceec46206b72fb79fdd104fc53120545cadd52d",
+  "revisionId": "25d4c074139c7f52f815cc205d42fa9a9ed7785529c6abc1cd069b98522b18de",
   "author": "fmz200",
   "updatedAt": 1795094539257,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4d3a810416c096002c0277b8cceec46206b72fb79fdd104fc53120545cadd52d"
+    "25d4c074139c7f52f815cc205d42fa9a9ed7785529c6abc1cd069b98522b18de"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "途家民宿",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ff9f1423d8a4f936ca7dfd603289f62046f378c3d9ad810c0ac28a0ec7fbf11a",
+  "revisionId": "5b146bd347b1784209e590156ae13a04c42d2e1db22e4a2ba3e92a84d4bd5951",
   "author": "fmz200",
   "updatedAt": 1795094539253,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ff9f1423d8a4f936ca7dfd603289f62046f378c3d9ad810c0ac28a0ec7fbf11a"
+    "5b146bd347b1784209e590156ae13a04c42d2e1db22e4a2ba3e92a84d4bd5951"
   ]
 }

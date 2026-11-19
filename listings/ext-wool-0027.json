@@ -7,7 +7,7 @@
   "name": "58同城",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "835be38c7c088f28c41a505ec7389b06152d0e74e8973c1ee3f0162b67e74c90",
+  "revisionId": "dc2bc0e545c06c019adad0a31080bc3ff69bdf202ea212bb09a76fdd24baf9e1",
   "author": "fmz200",
   "updatedAt": 1795094539185,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "835be38c7c088f28c41a505ec7389b06152d0e74e8973c1ee3f0162b67e74c90"
+    "dc2bc0e545c06c019adad0a31080bc3ff69bdf202ea212bb09a76fdd24baf9e1"
   ]
 }

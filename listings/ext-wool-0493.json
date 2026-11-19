@@ -7,7 +7,7 @@
   "name": "天府通",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4115399b38d2ccac304202af4a7857b9e5203ba7af90f18fcccae1b58d27cb57",
+  "revisionId": "798681b34d06eb3dfcad2094343c8b026ad91f02b053f3b3f5665bbb99f676fb",
   "author": "fmz200",
   "updatedAt": 1795094539252,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4115399b38d2ccac304202af4a7857b9e5203ba7af90f18fcccae1b58d27cb57"
+    "798681b34d06eb3dfcad2094343c8b026ad91f02b053f3b3f5665bbb99f676fb"
   ]
 }

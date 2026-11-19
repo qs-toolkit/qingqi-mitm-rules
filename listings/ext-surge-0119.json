@@ -7,7 +7,7 @@
   "name": "丰巢去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a017a248de7fb1471ed962dade2255b6c2a77312887970aba452b66b8cc08929",
+  "revisionId": "94ab4ca378253da3e87feeaeb688c2448d0de653e1f4aa868dede38e897df95e",
   "author": "ClashModule",
   "updatedAt": 1795094539051,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "a017a248de7fb1471ed962dade2255b6c2a77312887970aba452b66b8cc08929"
+    "94ab4ca378253da3e87feeaeb688c2448d0de653e1f4aa868dede38e897df95e"
   ]
 }

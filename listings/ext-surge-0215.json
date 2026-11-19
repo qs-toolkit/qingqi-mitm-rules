@@ -7,7 +7,7 @@
   "name": "库街区去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "155a1db0c018be326351ac8aceefdac0da7f4fc8500f04803a805c9e0f916d7f",
+  "revisionId": "dcf5051e428d405ef12e8aa4cda741b5b8b091faccbe7b3b05a7402c06eb081c",
   "author": "ClashModule",
   "updatedAt": 1795094539065,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "155a1db0c018be326351ac8aceefdac0da7f4fc8500f04803a805c9e0f916d7f"
+    "dcf5051e428d405ef12e8aa4cda741b5b8b091faccbe7b3b05a7402c06eb081c"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "VVebo时间线修复",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "5137191e4ce40be1e7040fc977774d83753c33e12fc3d1a3cf06dc5f8ca59c09",
+  "revisionId": "fbc75dc330629b762ddac67b9aac8bab73e29462b457b44ced65b1376159f5cb",
   "author": "ClashModule",
   "updatedAt": 1795094539046,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "5137191e4ce40be1e7040fc977774d83753c33e12fc3d1a3cf06dc5f8ca59c09"
+    "fbc75dc330629b762ddac67b9aac8bab73e29462b457b44ced65b1376159f5cb"
   ]
 }

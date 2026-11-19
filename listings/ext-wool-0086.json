@@ -7,7 +7,7 @@
   "name": "乐刻",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3efcf3a567a46ec3899766fe59985a2f7747cadf8b7e3c6a27e93b4b66562be8",
+  "revisionId": "67ceedfc7e6e6e1e4ed957ffd4b84d341075cce804495b7b6f6be0b43a077570",
   "author": "fmz200",
   "updatedAt": 1795094539193,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3efcf3a567a46ec3899766fe59985a2f7747cadf8b7e3c6a27e93b4b66562be8"
+    "67ceedfc7e6e6e1e4ed957ffd4b84d341075cce804495b7b6f6be0b43a077570"
   ]
 }

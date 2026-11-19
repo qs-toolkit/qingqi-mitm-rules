@@ -7,7 +7,7 @@
   "name": "YouTube",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4fa73e0c73ae2b22b2d579d0a76a9c37d5e6f97b2a1af5b6a0a957aeb84e41d1",
+  "revisionId": "96f567a2cccd5d3af543014f06d73e705e6d71e4d461dcdedebc5d070b5b9eb6",
   "author": "fmz200",
   "updatedAt": 1795094539275,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4fa73e0c73ae2b22b2d579d0a76a9c37d5e6f97b2a1af5b6a0a957aeb84e41d1"
+    "96f567a2cccd5d3af543014f06d73e705e6d71e4d461dcdedebc5d070b5b9eb6"
   ]
 }

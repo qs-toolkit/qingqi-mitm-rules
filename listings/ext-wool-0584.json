@@ -7,7 +7,7 @@
   "name": "小桔科技",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2bb6b5e806c124a38b0fee3431ae42ede7e792cbc5bd414068369c1c66c9a907",
+  "revisionId": "439e0e945370f92a2624321debd8bdfb3bf9abae1bbf484e3f55d7f17eb7902d",
   "author": "fmz200",
   "updatedAt": 1795094539264,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2bb6b5e806c124a38b0fee3431ae42ede7e792cbc5bd414068369c1c66c9a907"
+    "439e0e945370f92a2624321debd8bdfb3bf9abae1bbf484e3f55d7f17eb7902d"
   ]
 }

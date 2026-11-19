@@ -7,7 +7,7 @@
   "name": "图怪兽去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c7607af69e5b000a30f05991c138d84807e4840d951504d852f389db1dce0ba3",
+  "revisionId": "1700c73c388309e10c3b6317cb857aacd399b4a3224fd4ac773e919721110266",
   "author": "ClashModule",
   "updatedAt": 1795094539057,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "c7607af69e5b000a30f05991c138d84807e4840d951504d852f389db1dce0ba3"
+    "1700c73c388309e10c3b6317cb857aacd399b4a3224fd4ac773e919721110266"
   ]
 }

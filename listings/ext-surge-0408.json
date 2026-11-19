@@ -7,7 +7,7 @@
   "name": "NetSpeed",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b15624fd10efd48bff95f62e0beb692566c9086c00cd48552166c58590eb7994",
+  "revisionId": "2b619ed39a845cea3c17c84bd2800676facd2535b393210857d103d49f4bd35e",
   "author": "ClashModule",
   "updatedAt": 1795094539092,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b15624fd10efd48bff95f62e0beb692566c9086c00cd48552166c58590eb7994"
+    "2b619ed39a845cea3c17c84bd2800676facd2535b393210857d103d49f4bd35e"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "小红书",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6257ab1aabd8de6ada985998be3fd6ad1b92957599dd5f1ffeaa9402612f192b",
+  "revisionId": "5780a6aa9b0d084d665211a7ee0b1b6f3f9d1cc8ab60464c3192b9c152dd6bdd",
   "author": "fmz200",
   "updatedAt": 1795094539266,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6257ab1aabd8de6ada985998be3fd6ad1b92957599dd5f1ffeaa9402612f192b"
+    "5780a6aa9b0d084d665211a7ee0b1b6f3f9d1cc8ab60464c3192b9c152dd6bdd"
   ]
 }

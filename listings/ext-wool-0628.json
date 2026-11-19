@@ -7,7 +7,7 @@
   "name": "艺龙旅行网",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f8f0ea5345d291765799afc3ee221812ed5a0b91b7ccc136ac66b35e3232019a",
+  "revisionId": "a7ff51ffb8b51fffde0f288963870534803df8818a42bb9d0ab1cd6facfd9f54",
   "author": "fmz200",
   "updatedAt": 1795094539270,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f8f0ea5345d291765799afc3ee221812ed5a0b91b7ccc136ac66b35e3232019a"
+    "a7ff51ffb8b51fffde0f288963870534803df8818a42bb9d0ab1cd6facfd9f54"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "爱企查去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "0998bc06ce5aa9d2ded1c4562cb98b1f319410a38f9ef2688791d05e24005360",
+  "revisionId": "9a12080bc4ce8f1db7f12cd701d7bb07bc77c7958d7aa53ff42b100daaa66352",
   "author": "ClashModule",
   "updatedAt": 1795094539081,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "0998bc06ce5aa9d2ded1c4562cb98b1f319410a38f9ef2688791d05e24005360"
+    "9a12080bc4ce8f1db7f12cd701d7bb07bc77c7958d7aa53ff42b100daaa66352"
   ]
 }

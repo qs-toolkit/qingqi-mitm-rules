@@ -7,7 +7,7 @@
   "name": "海尔服务小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ca61e97228791aef3d9dd1caacda4686537f08fc29c1b93cdae33938806c6bf9",
+  "revisionId": "59b3e1fcbd45cb2a1c37101f6f5e5922ea9d62837fefcc137d2da57bcd539d02",
   "author": "fmz200",
   "updatedAt": 1795094539213,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ca61e97228791aef3d9dd1caacda4686537f08fc29c1b93cdae33938806c6bf9"
+    "59b3e1fcbd45cb2a1c37101f6f5e5922ea9d62837fefcc137d2da57bcd539d02"
   ]
 }

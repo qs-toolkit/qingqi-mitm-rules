@@ -7,7 +7,7 @@
   "name": "天星金融",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3cb296afb726f4ad3381ce09f49bebf3df345bc3baff12ec6b3cdc1b81225c83",
+  "revisionId": "92d696ec338daa3b6a37e4c0d4f0cd88d2e1d6e3920bce300f44a13106bf9f23",
   "author": "fmz200",
   "updatedAt": 1795094539252,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3cb296afb726f4ad3381ce09f49bebf3df345bc3baff12ec6b3cdc1b81225c83"
+    "92d696ec338daa3b6a37e4c0d4f0cd88d2e1d6e3920bce300f44a13106bf9f23"
   ]
 }

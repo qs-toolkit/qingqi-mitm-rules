@@ -7,7 +7,7 @@
   "name": "奇瑞汽车",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0523bb51a09b82a40e0131bd9b02cce64fb2312e2d8bdcc885529bf26bc38c81",
+  "revisionId": "276ebc3f7894f056598716e4cd53df14d874b92ec262c2f15c64968ebe92c8cd",
   "author": "fmz200",
   "updatedAt": 1795094539239,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0523bb51a09b82a40e0131bd9b02cce64fb2312e2d8bdcc885529bf26bc38c81"
+    "276ebc3f7894f056598716e4cd53df14d874b92ec262c2f15c64968ebe92c8cd"
   ]
 }

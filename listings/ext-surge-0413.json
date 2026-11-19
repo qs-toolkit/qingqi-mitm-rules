@@ -7,7 +7,7 @@
   "name": "萌娘百科去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "906d1a50549d429a9e82b80df19bb2c55f813b586cd3725210a5dd04b8350ded",
+  "revisionId": "ee28d89bde2827d8142c70e3a1dd5ea24a66d8a720090d4e7d2d90251b313e7b",
   "author": "ClashModule",
   "updatedAt": 1795094539093,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "906d1a50549d429a9e82b80df19bb2c55f813b586cd3725210a5dd04b8350ded"
+    "ee28d89bde2827d8142c70e3a1dd5ea24a66d8a720090d4e7d2d90251b313e7b"
   ]
 }

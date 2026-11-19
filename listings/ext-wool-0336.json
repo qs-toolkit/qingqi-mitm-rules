@@ -7,7 +7,7 @@
   "name": "漫画人",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "85b6278aacb177c3923525f781ea2d588816becaeacf882cb52a096dd0877766",
+  "revisionId": "6c8a33e0a3c1dc0665379ce0bec2d3adde7510c79aa0761f6b9d10fc2a7ad81e",
   "author": "fmz200",
   "updatedAt": 1795094539230,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "85b6278aacb177c3923525f781ea2d588816becaeacf882cb52a096dd0877766"
+    "6c8a33e0a3c1dc0665379ce0bec2d3adde7510c79aa0761f6b9d10fc2a7ad81e"
   ]
 }

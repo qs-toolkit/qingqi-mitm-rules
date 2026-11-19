@@ -7,7 +7,7 @@
   "name": "华盛通",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9802ca53004bbf88b45d9f6be7caee87fb4ba53c4108b973a2505a477d50c413",
+  "revisionId": "b7ba646371f3bf3bcffae86d877781511acd0e0d5b6379ef1017ed08db835be9",
   "author": "fmz200",
   "updatedAt": 1795094539216,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9802ca53004bbf88b45d9f6be7caee87fb4ba53c4108b973a2505a477d50c413"
+    "b7ba646371f3bf3bcffae86d877781511acd0e0d5b6379ef1017ed08db835be9"
   ]
 }

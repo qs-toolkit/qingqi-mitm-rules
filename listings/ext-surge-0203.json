@@ -7,7 +7,7 @@
   "name": "小象超市去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "33a8b07373ec50842c968b6cbe853eaf802adda4128029c2c07d2e07ff4901e4",
+  "revisionId": "eaa5e92cf4673b6796e4326685dbe79fa1017669a2ceea2d0a5da4386c3d382e",
   "author": "ClashModule",
   "updatedAt": 1795094539063,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "33a8b07373ec50842c968b6cbe853eaf802adda4128029c2c07d2e07ff4901e4"
+    "eaa5e92cf4673b6796e4326685dbe79fa1017669a2ceea2d0a5da4386c3d382e"
   ]
 }

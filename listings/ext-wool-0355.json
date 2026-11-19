@@ -7,7 +7,7 @@
   "name": "咪咕视频",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a23ccec5dd83832b375e6443e3dce63e266c525b38c68359d535413ed6d44b22",
+  "revisionId": "f49317c990bcd92dee2ffa3ba093300be3e4addc8c80c2e849afc48f0982ea1f",
   "author": "fmz200",
   "updatedAt": 1795094539233,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a23ccec5dd83832b375e6443e3dce63e266c525b38c68359d535413ed6d44b22"
+    "f49317c990bcd92dee2ffa3ba093300be3e4addc8c80c2e849afc48f0982ea1f"
   ]
 }

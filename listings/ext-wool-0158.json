@@ -7,7 +7,7 @@
   "name": "番茄小说",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d305578ec723167bd978cabd92575437a9edf9168fc0de60760c702a3b61f1ee",
+  "revisionId": "efca84547305e94ebf83e8216b5bb5085dbe5ecd8822be9c85f117c68d457b71",
   "author": "fmz200",
   "updatedAt": 1795094539203,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d305578ec723167bd978cabd92575437a9edf9168fc0de60760c702a3b61f1ee"
+    "efca84547305e94ebf83e8216b5bb5085dbe5ecd8822be9c85f117c68d457b71"
   ]
 }

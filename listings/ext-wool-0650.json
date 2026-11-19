@@ -7,7 +7,7 @@
   "name": "翼支付",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c43b1262c90ce33cc2b7a7c1ab65e2270f4462ca0f987facfd99fda7324088fa",
+  "revisionId": "8049a329ce7908541d01f09c7526cf240999c93572ca4f9e1ecb3fa4d814772c",
   "author": "fmz200",
   "updatedAt": 1795094539273,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c43b1262c90ce33cc2b7a7c1ab65e2270f4462ca0f987facfd99fda7324088fa"
+    "8049a329ce7908541d01f09c7526cf240999c93572ca4f9e1ecb3fa4d814772c"
   ]
 }

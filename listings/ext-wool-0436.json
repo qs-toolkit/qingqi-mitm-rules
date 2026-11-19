@@ -7,7 +7,7 @@
   "name": "什么值得买",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "77269ba9cb0d900e3bca7ce7c220f64a6b653d729b2f346546ff6afe9ef90759",
+  "revisionId": "10fc3ad852dd1f19c6b41f51ac2722305f02233a6fdc4956346be10de71f931e",
   "author": "fmz200",
   "updatedAt": 1795094539244,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "77269ba9cb0d900e3bca7ce7c220f64a6b653d729b2f346546ff6afe9ef90759"
+    "10fc3ad852dd1f19c6b41f51ac2722305f02233a6fdc4956346be10de71f931e"
   ]
 }

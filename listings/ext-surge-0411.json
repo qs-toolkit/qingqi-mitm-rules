@@ -7,7 +7,7 @@
   "name": "菜鸟去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8d3c11751f00427e7ebd9b2d29540628f5a0aaf1bdcb45740a77be56f08e1601",
+  "revisionId": "13c0b8ff061bd393cb806a523f10ed513450346867ad391446fc52165091ed68",
   "author": "ClashModule",
   "updatedAt": 1795094539093,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "8d3c11751f00427e7ebd9b2d29540628f5a0aaf1bdcb45740a77be56f08e1601"
+    "13c0b8ff061bd393cb806a523f10ed513450346867ad391446fc52165091ed68"
   ]
 }

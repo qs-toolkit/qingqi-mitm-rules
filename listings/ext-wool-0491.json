@@ -7,7 +7,7 @@
   "name": "天府手机银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a102bc9ab2ed74e5b6e26c670d29ba9d6b13daaf601bca7f9a32491bad332504",
+  "revisionId": "13f9d1e9ec6c8e4237ac9069510b37b4169acfc4a1067e148bdf387d6a3000b7",
   "author": "fmz200",
   "updatedAt": 1795094539251,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a102bc9ab2ed74e5b6e26c670d29ba9d6b13daaf601bca7f9a32491bad332504"
+    "13f9d1e9ec6c8e4237ac9069510b37b4169acfc4a1067e148bdf387d6a3000b7"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "Sub-Store",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "dd22f0a2f68197c083fb96388034c43b72a192a66491c8e8d7a4acc40861d6d5",
+  "revisionId": "7cb1c980a51cca4193a2f0db7ccdbf7719505e4afcc399a6e1a6c1bb099bb014",
   "author": "ClashModule",
   "updatedAt": 1795094539048,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "dd22f0a2f68197c083fb96388034c43b72a192a66491c8e8d7a4acc40861d6d5"
+    "7cb1c980a51cca4193a2f0db7ccdbf7719505e4afcc399a6e1a6c1bb099bb014"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "吉林银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4283319ca02dc935f21c84bd91b366bb810d8a636e220ca4f58435d74ae1cb83",
+  "revisionId": "769f7a99b8be9c218f3b432202fa869823cddd4b5dfc8a8b0478e5c1609eed4d",
   "author": "fmz200",
   "updatedAt": 1795094539218,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4283319ca02dc935f21c84bd91b366bb810d8a636e220ca4f58435d74ae1cb83"
+    "769f7a99b8be9c218f3b432202fa869823cddd4b5dfc8a8b0478e5c1609eed4d"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "小宇宙",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "19b740fe6515a58e857895d7b7485adef85ae88e2d04f8ab282a297ba49dd2d2",
+  "revisionId": "bd17eb67ee1f53ae9577560b72282da77fdd1b5c0bdbf8defc5244875e0e0180",
   "author": "fmz200",
   "updatedAt": 1795094539266,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "19b740fe6515a58e857895d7b7485adef85ae88e2d04f8ab282a297ba49dd2d2"
+    "bd17eb67ee1f53ae9577560b72282da77fdd1b5c0bdbf8defc5244875e0e0180"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "WPS每日签到",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "73f8925c4ac5166dc2cebd3ddfb5faa8746bef308dab2ffc5aa2e7ee5ea56d20",
+  "revisionId": "7430bc4291b0c867edf6ae1443dc5cfdd9606937e1530456342103d9d8d777fd",
   "author": "ClashModule",
   "updatedAt": 1795094539046,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "73f8925c4ac5166dc2cebd3ddfb5faa8746bef308dab2ffc5aa2e7ee5ea56d20"
+    "7430bc4291b0c867edf6ae1443dc5cfdd9606937e1530456342103d9d8d777fd"
   ]
 }

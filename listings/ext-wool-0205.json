@@ -7,7 +7,7 @@
   "name": "汇丰汇选",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "18ce5b9c4f09c852cda82c95b1c0953c4d2ec556ff65133f031c7c97bf8f581b",
+  "revisionId": "0d3f981fb5c2a2ebeae4244fa74866881745c11c5ae62b2566f72c6f22125eac",
   "author": "fmz200",
   "updatedAt": 1795094539212,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "18ce5b9c4f09c852cda82c95b1c0953c4d2ec556ff65133f031c7c97bf8f581b"
+    "0d3f981fb5c2a2ebeae4244fa74866881745c11c5ae62b2566f72c6f22125eac"
   ]
 }

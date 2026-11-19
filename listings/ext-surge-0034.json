@@ -7,7 +7,7 @@
   "name": "Google搜索重定向",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "29349a3cc4bc884c8186cdc0f7ffaca4f013ae1baa5306de99a38815cf3a54f5",
+  "revisionId": "1fde3df6ee9515344c6eec684a6f7a0e54ce5d86637d27cc5e4f3b0826fbb64e",
   "author": "ClashModule",
   "updatedAt": 1795094539037,
   "targets": [],
@@ -18,6 +18,6 @@
     "QuantumultX"
   ],
   "revisions": [
-    "29349a3cc4bc884c8186cdc0f7ffaca4f013ae1baa5306de99a38815cf3a54f5"
+    "1fde3df6ee9515344c6eec684a6f7a0e54ce5d86637d27cc5e4f3b0826fbb64e"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "看东方（百视TV）",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9c9cddcbfa96bcf083d03c9e42cc4157b6c87b8e5f354e5d6a1c6de57d33ec84",
+  "revisionId": "53cc6e77b5e46f214b953b94fa6580f9464a6ab25b5541dfd149a7770db45d6a",
   "author": "fmz200",
   "updatedAt": 1795094539222,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9c9cddcbfa96bcf083d03c9e42cc4157b6c87b8e5f354e5d6a1c6de57d33ec84"
+    "53cc6e77b5e46f214b953b94fa6580f9464a6ab25b5541dfd149a7770db45d6a"
   ]
 }

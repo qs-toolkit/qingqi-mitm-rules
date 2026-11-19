@@ -7,7 +7,7 @@
   "name": "中国天气网小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5aa1aff316f8b502f7af47bf2bbbe706d7868eba7b6991b62356f0cfc0cdcbd1",
+  "revisionId": "0870a740f3f618f46f475313485758271314a0292485e29af049cd7352419e7a",
   "author": "fmz200",
   "updatedAt": 1795094539279,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5aa1aff316f8b502f7af47bf2bbbe706d7868eba7b6991b62356f0cfc0cdcbd1"
+    "0870a740f3f618f46f475313485758271314a0292485e29af049cd7352419e7a"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "冠寓",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4ef04074cc2cd4a629c198ddecacb01e303f82c0e8af764288e13167172445a5",
+  "revisionId": "2eb39197de6cd397e08b3eaeaafbfcb447c6de29c50707cffd19c1672fb10399",
   "author": "fmz200",
   "updatedAt": 1795094539208,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4ef04074cc2cd4a629c198ddecacb01e303f82c0e8af764288e13167172445a5"
+    "2eb39197de6cd397e08b3eaeaafbfcb447c6de29c50707cffd19c1672fb10399"
   ]
 }

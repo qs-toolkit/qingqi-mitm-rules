@@ -7,7 +7,7 @@
   "name": "迅雷去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "d0e98987396e43814f23971655fb4220930956031bcc730e8e157e811a7d0d84",
+  "revisionId": "338bd7eeedfef474eb451f4839b07754b02c63c30aa0ba0ea5d6880bddbbff6a",
   "author": "ClashModule",
   "updatedAt": 1795094539098,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "d0e98987396e43814f23971655fb4220930956031bcc730e8e157e811a7d0d84"
+    "338bd7eeedfef474eb451f4839b07754b02c63c30aa0ba0ea5d6880bddbbff6a"
   ]
 }

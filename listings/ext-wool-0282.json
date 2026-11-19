@@ -7,7 +7,7 @@
   "name": "口袋校园",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "86a21a5ff601fe76aef389fc83baa7905c0ec7552898e6f8c9b51042f0954384",
+  "revisionId": "c0cedef67d3f249c0327ea17983662c8ab8a222bfbe2eff997e7a341ea51bfc3",
   "author": "fmz200",
   "updatedAt": 1795094539222,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "86a21a5ff601fe76aef389fc83baa7905c0ec7552898e6f8c9b51042f0954384"
+    "c0cedef67d3f249c0327ea17983662c8ab8a222bfbe2eff997e7a341ea51bfc3"
   ]
 }

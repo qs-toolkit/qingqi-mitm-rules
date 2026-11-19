@@ -7,7 +7,7 @@
   "name": "小芒",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9c0c4fd9ced1c41ce631cd837651f77fcd8850231f370aeb0f420f82c7bba2cf",
+  "revisionId": "da7af9fb0519f9a3136020f048f607cb806d7a8f2738bc8d5713af9bed89b5ce",
   "author": "fmz200",
   "updatedAt": 1795094539264,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9c0c4fd9ced1c41ce631cd837651f77fcd8850231f370aeb0f420f82c7bba2cf"
+    "da7af9fb0519f9a3136020f048f607cb806d7a8f2738bc8d5713af9bed89b5ce"
   ]
 }

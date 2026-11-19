@@ -7,7 +7,7 @@
   "name": "下厨房去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c9a8cab44ac9c53877c0f7b14a6d0492b789342c753ef353d4b7876dfac0186d",
+  "revisionId": "411eef909d387ce1df8ca758e33e0ee10722f933bef8fb646c095a409d0d36be",
   "author": "ClashModule",
   "updatedAt": 1795094539049,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "c9a8cab44ac9c53877c0f7b14a6d0492b789342c753ef353d4b7876dfac0186d"
+    "411eef909d387ce1df8ca758e33e0ee10722f933bef8fb646c095a409d0d36be"
   ]
 }

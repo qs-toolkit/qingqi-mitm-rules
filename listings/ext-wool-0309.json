@@ -7,7 +7,7 @@
   "name": "联想",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8a9fed5594b9025b451b4c60de3179a82c29d083c09da7d3dc3c95b25719f232",
+  "revisionId": "5f7245c07a9024af752faa38820c54ca6384b6efdbf3e092dcfbd92cc8f114eb",
   "author": "fmz200",
   "updatedAt": 1795094539226,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8a9fed5594b9025b451b4c60de3179a82c29d083c09da7d3dc3c95b25719f232"
+    "5f7245c07a9024af752faa38820c54ca6384b6efdbf3e092dcfbd92cc8f114eb"
   ]
 }

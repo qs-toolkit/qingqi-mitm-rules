@@ -7,7 +7,7 @@
   "name": "稿定设计去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "eba6b89d59aa69a26d6d66d94b9335f16c194d4d2a7c95a3018c3268bebf3b79",
+  "revisionId": "35e847877ab27660d081679e336c97c703fb53d9acad41589db28376b491af86",
   "author": "ClashModule",
   "updatedAt": 1795094539086,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "eba6b89d59aa69a26d6d66d94b9335f16c194d4d2a7c95a3018c3268bebf3b79"
+    "35e847877ab27660d081679e336c97c703fb53d9acad41589db28376b491af86"
   ]
 }

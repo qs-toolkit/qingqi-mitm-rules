@@ -7,7 +7,7 @@
   "name": "北京首汽",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "41146953cf6e7ab13969aa2d8150905822780935146096497f909c0518b2ab0e",
+  "revisionId": "3481f5951bc77ba210bccac36494fb9e64e44154a49a7dae83dba038eac5c099",
   "author": "fmz200",
   "updatedAt": 1795094539191,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "41146953cf6e7ab13969aa2d8150905822780935146096497f909c0518b2ab0e"
+    "3481f5951bc77ba210bccac36494fb9e64e44154a49a7dae83dba038eac5c099"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "懂球帝",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b94cd881e5af010d4b09eed19689a120d32410a1e153473be8808d58cdcdb05c",
+  "revisionId": "d737f1e42fdb3f3bfd9d3acc56c176c4f0352780ea8d180f7506c2f931320a71",
   "author": "fmz200",
   "updatedAt": 1795094539197,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b94cd881e5af010d4b09eed19689a120d32410a1e153473be8808d58cdcdb05c"
+    "d737f1e42fdb3f3bfd9d3acc56c176c4f0352780ea8d180f7506c2f931320a71"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "芒果TV去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8da478d82cf9ed24e77047d0fabd66793998895ab65b37ed03dfc8cd501c7359",
+  "revisionId": "f8cbe4c891f9b8897a1880a32ac41da18953f36a56ba0131df4e82676588a06d",
   "author": "ClashModule",
   "updatedAt": 1795094539093,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "8da478d82cf9ed24e77047d0fabd66793998895ab65b37ed03dfc8cd501c7359"
+    "f8cbe4c891f9b8897a1880a32ac41da18953f36a56ba0131df4e82676588a06d"
   ]
 }

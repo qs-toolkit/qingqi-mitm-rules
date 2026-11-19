@@ -7,7 +7,7 @@
   "name": "YouTube双语翻译",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "01de55efc8b8047527799a7197eb74e84e5600c0b3a2f318546ac2d35dddea92",
+  "revisionId": "89df8f85213c7fdb0615ac63b4e4e34a8682b1b67c2e198712f879ee95ed55cc",
   "author": "ClashModule",
   "updatedAt": 1795094539047,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "01de55efc8b8047527799a7197eb74e84e5600c0b3a2f318546ac2d35dddea92"
+    "89df8f85213c7fdb0615ac63b4e4e34a8682b1b67c2e198712f879ee95ed55cc"
   ]
 }

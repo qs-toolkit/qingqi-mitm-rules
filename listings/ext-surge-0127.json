@@ -7,7 +7,7 @@
   "name": "云闪付去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "d85bbe21a069561796e81541c6bbbcefca09985f83bc15b00c17be2580de906d",
+  "revisionId": "bbd3202a6c2cdd10f842746c48caa45c695ec3de49a16ca71f8fe6451c1709e2",
   "author": "ClashModule",
   "updatedAt": 1795094539052,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "d85bbe21a069561796e81541c6bbbcefca09985f83bc15b00c17be2580de906d"
+    "bbd3202a6c2cdd10f842746c48caa45c695ec3de49a16ca71f8fe6451c1709e2"
   ]
 }

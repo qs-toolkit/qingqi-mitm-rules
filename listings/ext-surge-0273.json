@@ -7,7 +7,7 @@
   "name": "收银通商户端去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "74368cdf9516ec3a229873e189e6d3ef8efbf9fb2a4277ac958f7efb4dbf465a",
+  "revisionId": "c12e3c488c981347d3d6d862962944908b7a11f46b4b46b5bbe084f66c59b1b9",
   "author": "ClashModule",
   "updatedAt": 1795094539074,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "74368cdf9516ec3a229873e189e6d3ef8efbf9fb2a4277ac958f7efb4dbf465a"
+    "c12e3c488c981347d3d6d862962944908b7a11f46b4b46b5bbe084f66c59b1b9"
   ]
 }

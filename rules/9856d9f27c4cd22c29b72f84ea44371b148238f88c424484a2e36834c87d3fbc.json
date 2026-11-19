@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "滴答出行去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=滴答出行去广告\n#!desc=移除开屏广告、弹窗广告、横幅广告，精简底栏和我的页面。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/DidaPincheTaxi.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id921478733\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-12-07 06:51:00\n#!format=sgmodule\n\n[Map Local]\n^https:\\/\\/capis\\.didapinche\\.com\\/adbase\\/ data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% capis.didapinche.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

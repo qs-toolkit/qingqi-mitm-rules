@@ -7,7 +7,7 @@
   "name": "航旅纵横去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "11922b6c46cf40d330cd22c53ec0829c8144530dc96c561c0f771e95a0181cc2",
+  "revisionId": "444e73a93aca08379ccccb6f00fc32d1ea6c31d82172ad8cc44e418adcc32171",
   "author": "ClashModule",
   "updatedAt": 1795094539092,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "11922b6c46cf40d330cd22c53ec0829c8144530dc96c561c0f771e95a0181cc2"
+    "444e73a93aca08379ccccb6f00fc32d1ea6c31d82172ad8cc44e418adcc32171"
   ]
 }

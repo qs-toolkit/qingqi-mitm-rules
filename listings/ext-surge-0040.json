@@ -7,7 +7,7 @@
   "name": "IPA工具箱助手",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "e4e093cae2930dfe0abc38e3b3199ac6655769c1ecc2b42e3db08de431bff6ce",
+  "revisionId": "f5d5fb666437482e140dc615ce2ab2f9e90fece3519df92794175dc62c14f5fd",
   "author": "ClashModule",
   "updatedAt": 1795094539039,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "e4e093cae2930dfe0abc38e3b3199ac6655769c1ecc2b42e3db08de431bff6ce"
+    "f5d5fb666437482e140dc615ce2ab2f9e90fece3519df92794175dc62c14f5fd"
   ]
 }

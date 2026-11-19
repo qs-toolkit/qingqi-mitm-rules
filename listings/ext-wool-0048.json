@@ -7,7 +7,7 @@
   "name": "AppSo",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ba01c78f4783691e1290ba5a0502ade26fa655cf4cac343171fe5b86c697d42c",
+  "revisionId": "bb18a667c36f670b8ac59789484c24a32b011778623121f1fd6279eb1be189f5",
   "author": "fmz200",
   "updatedAt": 1795094539188,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ba01c78f4783691e1290ba5a0502ade26fa655cf4cac343171fe5b86c697d42c"
+    "bb18a667c36f670b8ac59789484c24a32b011778623121f1fd6279eb1be189f5"
   ]
 }

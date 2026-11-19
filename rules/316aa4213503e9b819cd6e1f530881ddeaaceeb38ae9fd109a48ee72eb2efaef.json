@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "WandaCinema",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=万达电影\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partW/WandaCinema.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nresponse if ${url} ~= /^https:\\/\\/misc-api-prd-mx\\.wandafilm\\.com\\/commend\\/common_banner_batch\\.api/i then response.json.jq(\".data.objects[\\\"OpenAPP-&-FlashAD\\\"] = [] | .data.objects[\\\"InTheaters-&-BoxAD\\\"] = []\")\nresponse if ${url} ~= /^https?:\\/\\/misc-api-prd-mx\\.wandafilm\\.com\\/commend\\/common_banner_batch\\.api\\?bannerInfos=%5B%7B%22cinemaI/i then response.body.replace(/\"WX_index_mp-&-boxAD\"/, \"\\\"fmz200\\\"\")\n\n[MITM]\nhostname = %APPEND% misc-api-prd-mx.wandafilm.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

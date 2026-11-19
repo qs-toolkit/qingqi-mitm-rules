@@ -7,7 +7,7 @@
   "name": "Reddit 去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a5df66c3bcc7b469973f5ada5d086b281a869cba443c6e43d81a852e780f3276",
+  "revisionId": "98811e8f0178d419def2a2c9b7d2cb9116f3df44206edb63b88c059d0e534b60",
   "author": "ClashModule",
   "updatedAt": 1795094539041,
   "targets": [],
@@ -18,6 +18,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a5df66c3bcc7b469973f5ada5d086b281a869cba443c6e43d81a852e780f3276"
+    "98811e8f0178d419def2a2c9b7d2cb9116f3df44206edb63b88c059d0e534b60"
   ]
 }

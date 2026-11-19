@@ -7,7 +7,7 @@
   "name": "帆书去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "381bcf39a923e8f5a92bc4e6aca35a8cd462e16b32185925cc9958cb293743ad",
+  "revisionId": "99e35a3cc420f331603c2482e7be2237f140316a14b16db5cb7407ec3082f497",
   "author": "ClashModule",
   "updatedAt": 1795094539064,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "381bcf39a923e8f5a92bc4e6aca35a8cd462e16b32185925cc9958cb293743ad"
+    "99e35a3cc420f331603c2482e7be2237f140316a14b16db5cb7407ec3082f497"
   ]
 }

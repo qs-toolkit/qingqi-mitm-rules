@@ -7,7 +7,7 @@
   "name": "工商银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "139e6a1dfc79ab727e7b46a915e355679645f82fc3ba4d3b8ce2e6ba1109c5e1",
+  "revisionId": "f5235da56a18746f0b9680546d00ce301ba8ef902708b84ab1519ccd63ef6aa8",
   "author": "fmz200",
   "updatedAt": 1795094539211,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "139e6a1dfc79ab727e7b46a915e355679645f82fc3ba4d3b8ce2e6ba1109c5e1"
+    "f5235da56a18746f0b9680546d00ce301ba8ef902708b84ab1519ccd63ef6aa8"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "小艺",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1f6886b58f32c228f15dcc70bb664d42ee1a42e269ddae72082adcf2367b87c7",
+  "revisionId": "031ac16ffb1f2faea569a383870656dcc09e138f321af7265da0756aa0169306",
   "author": "fmz200",
   "updatedAt": 1795094539266,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1f6886b58f32c228f15dcc70bb664d42ee1a42e269ddae72082adcf2367b87c7"
+    "031ac16ffb1f2faea569a383870656dcc09e138f321af7265da0756aa0169306"
   ]
 }

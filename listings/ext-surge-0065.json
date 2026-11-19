@@ -7,7 +7,7 @@
   "name": "SDGun 社区去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "31522e10cc96e3357b59fa443ada1cf75aa6469052539a8e6a64d6e8b589124a",
+  "revisionId": "cadf30905309e0860a17dd4ad8cc1fd255f04b1e775bc0cbc6916a6098135f70",
   "author": "ClashModule",
   "updatedAt": 1795094539042,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "31522e10cc96e3357b59fa443ada1cf75aa6469052539a8e6a64d6e8b589124a"
+    "cadf30905309e0860a17dd4ad8cc1fd255f04b1e775bc0cbc6916a6098135f70"
   ]
 }

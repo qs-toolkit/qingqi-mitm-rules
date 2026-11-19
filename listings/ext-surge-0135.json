@@ -7,7 +7,7 @@
   "name": "京东比价",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "bc0427c42c78920d728b45e1e367eb23d251d70929381bbf33a5d22c170d979a",
+  "revisionId": "bb043cd88ecc5518168188a236a2e28b5801ffe20e182dc8100b9f90457c0356",
   "author": "ClashModule",
   "updatedAt": 1795094539053,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "bc0427c42c78920d728b45e1e367eb23d251d70929381bbf33a5d22c170d979a"
+    "bb043cd88ecc5518168188a236a2e28b5801ffe20e182dc8100b9f90457c0356"
   ]
 }

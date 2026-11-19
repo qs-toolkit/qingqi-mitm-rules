@@ -7,7 +7,7 @@
   "name": "广告联盟去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ee27855743a10d9a8a98805464905f47c2e268b0cfb167ee006951d2e784ca61",
+  "revisionId": "846c422af02d32c86fc27fd88f846ae87f6cda1a61f543faf2e802ed2f3c3b46",
   "author": "ClashModule",
   "updatedAt": 1795094539065,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "ee27855743a10d9a8a98805464905f47c2e268b0cfb167ee006951d2e784ca61"
+    "846c422af02d32c86fc27fd88f846ae87f6cda1a61f543faf2e802ed2f3c3b46"
   ]
 }

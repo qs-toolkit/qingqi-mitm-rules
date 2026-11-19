@@ -7,7 +7,7 @@
   "name": "酷狗铃声去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "f8be76bedd23f9fb50aefb929b75166a4be9ce3708a399b8c2d8466744becee1",
+  "revisionId": "138f134e8f5dfb40feda470f60d402671c21b7818083827ee431292d7bcaaed8",
   "author": "ClashModule",
   "updatedAt": 1795094539099,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "f8be76bedd23f9fb50aefb929b75166a4be9ce3708a399b8c2d8466744becee1"
+    "138f134e8f5dfb40feda470f60d402671c21b7818083827ee431292d7bcaaed8"
   ]
 }

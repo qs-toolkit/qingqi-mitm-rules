@@ -7,7 +7,7 @@
   "name": "低端影视",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2cc76f2eaed2cd03e736a8c016e2a75c0c1abbf6d8aeed7c7c32f5824d661120",
+  "revisionId": "6100b94a0d691f3e380e8301bc31b5a93043c0e16862b86928661f9fdf68a1b7",
   "author": "fmz200",
   "updatedAt": 1795094539199,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2cc76f2eaed2cd03e736a8c016e2a75c0c1abbf6d8aeed7c7c32f5824d661120"
+    "6100b94a0d691f3e380e8301bc31b5a93043c0e16862b86928661f9fdf68a1b7"
   ]
 }

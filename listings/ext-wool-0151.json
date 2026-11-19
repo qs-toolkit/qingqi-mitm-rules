@@ -7,7 +7,7 @@
   "name": "饿了么",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "502dc665e69d117d65c8fe9f28fae478addff4e40226068a44e842bc9c28aa79",
+  "revisionId": "6809c0aada27fff26cb426563c0d047c322e8b3892c37d50a9354608e86e0c85",
   "author": "fmz200",
   "updatedAt": 1795094539202,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "502dc665e69d117d65c8fe9f28fae478addff4e40226068a44e842bc9c28aa79"
+    "6809c0aada27fff26cb426563c0d047c322e8b3892c37d50a9354608e86e0c85"
   ]
 }

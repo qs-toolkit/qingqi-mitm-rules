@@ -7,7 +7,7 @@
   "name": "微信外部链接解锁",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b4cebb0f2aa68daadb0e4c06da5d83b52facf055dbac14f2d909475e9a4cc869",
+  "revisionId": "9366d124b504289eb836936a52b2064d82c6b443c97d934258642344bebe0c1f",
   "author": "ClashModule",
   "updatedAt": 1795094539067,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b4cebb0f2aa68daadb0e4c06da5d83b52facf055dbac14f2d909475e9a4cc869"
+    "9366d124b504289eb836936a52b2064d82c6b443c97d934258642344bebe0c1f"
   ]
 }

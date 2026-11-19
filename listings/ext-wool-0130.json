@@ -7,7 +7,7 @@
   "name": "电E宝",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2069dded7a6b64dac23bb912a953c160f018fb3198641a67d1e8e3ec4538c1c4",
+  "revisionId": "42f93280bc8524004e47b0d5daca460c7798523358924c5579b733fe3e90a838",
   "author": "fmz200",
   "updatedAt": 1795094539200,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2069dded7a6b64dac23bb912a953c160f018fb3198641a67d1e8e3ec4538c1c4"
+    "42f93280bc8524004e47b0d5daca460c7798523358924c5579b733fe3e90a838"
   ]
 }

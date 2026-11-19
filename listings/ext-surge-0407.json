@@ -7,7 +7,7 @@
   "name": "节假日信息",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "0df46fa4fd4cc46b76ae2997a2011db4662da1623be4459f125ba3995d56e6ef",
+  "revisionId": "f12d9141161366db1f17f49e083538dd91e287e6d375fc3c269e291b9cf23d8d",
   "author": "ClashModule",
   "updatedAt": 1795094539092,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "0df46fa4fd4cc46b76ae2997a2011db4662da1623be4459f125ba3995d56e6ef"
+    "f12d9141161366db1f17f49e083538dd91e287e6d375fc3c269e291b9cf23d8d"
   ]
 }

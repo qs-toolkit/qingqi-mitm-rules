@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "PuPuSupermarket",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=朴朴超市\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partP/PuPuSupermarket.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nresponse if ${url} ~= /^https:\\/\\/j1\\.pupuapi\\.com\\/client\\/notification\\/message_center\\/unread_number/i then response.json.jq(\".data = []\")\nrequest if ${url} ~= /^http:\\/\\/139\\.196\\.12\\.179:8053\\/httpdns\\//i then reject(404)\nrequest if ${url} ~= /^http:\\/\\/106\\.55\\.220\\.18:8053\\/httpdns\\//i then reject(404)\nrequest if ${url} ~= /^http:\\/\\/54\\.222\\.159\\.138:8053\\/httpdns\\//i then reject(404)\nrequest if ${url} ~= /^http:\\/\\/101\\.42\\.130\\.147\\/httpdns\\/resolve\\//i then reject(404)\nrequest if ${url} ~= /^https:\\/\\/j1\\.pupuapi\\.com\\/client\\/member_card\\/index\\/my/i then reject(404)\nrequest if ${url} ~= /^https:\\/\\/j1\\.pupuapi\\.com\\/client\\/marketing\\/advertisement\\/search_input_ranking/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/j1\\.pupuapi\\.com\\/client\\/assets\\/discount\\/order/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/j1\\.pupuapi\\.com\\/client\\/marketing\\/channel\\/global_redeem\\/top_tip\\/v2/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/j1\\.pupuapi\\.com\\/client\\/recommendation\\/hub\\/interests\\/products\\/v2/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/j1\\.pupuapi\\.com\\/client\\/member_card\\/premium\\/user_center/i then reject_dict(200)\n\n[MITM]\nhostname = %APPEND% j1.pupuapi.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

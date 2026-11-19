@@ -7,7 +7,7 @@
   "name": "小店掌柜去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "6346238e9a32f1ac91f984ca15dea079e70241fce5d16b0a3983fc16391be646",
+  "revisionId": "313248959de36960773ef667b8f6bb7e46b6716a8c89e4a7006509ea95c093af",
   "author": "ClashModule",
   "updatedAt": 1795094539061,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "6346238e9a32f1ac91f984ca15dea079e70241fce5d16b0a3983fc16391be646"
+    "313248959de36960773ef667b8f6bb7e46b6716a8c89e4a7006509ea95c093af"
   ]
 }

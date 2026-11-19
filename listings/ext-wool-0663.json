@@ -7,7 +7,7 @@
   "name": "有兔阅读(米兔)",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a32f7d0a1c9d521a194c927632b0f73a137ec038188bb43b98b9e73466a1e69c",
+  "revisionId": "7bcb8c95565cc2f7a5129bcca32a67de6451fd72ccdf045a8d91f54b9cfa3485",
   "author": "fmz200",
   "updatedAt": 1795094539275,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a32f7d0a1c9d521a194c927632b0f73a137ec038188bb43b98b9e73466a1e69c"
+    "7bcb8c95565cc2f7a5129bcca32a67de6451fd72ccdf045a8d91f54b9cfa3485"
   ]
 }

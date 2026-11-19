@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "自动加入TF",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=自动加入TestFlight\n#!desc=自动监控TestFlight名额，一旦有新的名额即刻加入。\n#!author=DecoAri[https://github.com/DecoAri], xream[https://github.com/xream]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/TestFlight.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id899247664\n#!tag=定时任务\n#!loon_version=3.2.4(787)\n#!homepage=https://github.com/luestr/ProxyResource/blob/main/README.md\n#!date=2025-05-13 15:17:08\n#!format=sgmodule\n\n[Script]\n获取账号令牌 = type=http-request, pattern=^https?:\\/\\/testflight\\.apple\\.com\\/v3\\/accounts\\/.*\\/apps$, script-path=https://kelee.one/Resource/JavaScript/TestFlight/TF_keys.js\n应用ID捕获 = type=http-request, pattern=^https://testflight.apple.com/join/(.*), script-path=https://kelee.one/Resource/JavaScript/TestFlight/TF_keys.js\n\n[MITM]\nhostname = %APPEND% testflight.apple.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -7,7 +7,7 @@
   "name": "兴业证券",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8b55bf66fbc9e837a188a104edd65ae745e335b01c684e300321cc633863983d",
+  "revisionId": "8ef02bd6abdd28ac9517c18cf10dc9a999b4ed4020420fbefa51cd0eb352965a",
   "author": "fmz200",
   "updatedAt": 1795094539268,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8b55bf66fbc9e837a188a104edd65ae745e335b01c684e300321cc633863983d"
+    "8ef02bd6abdd28ac9517c18cf10dc9a999b4ed4020420fbefa51cd0eb352965a"
   ]
 }

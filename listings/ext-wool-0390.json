@@ -7,7 +7,7 @@
   "name": "平安口袋银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "95029ced01d19b469e809a833d5999f10fd4a854c5649827a4368be409ab2533",
+  "revisionId": "27e1db58423e8493a54a937dc0bb673355479200a5d2405eb17bc3b58fd067af",
   "author": "fmz200",
   "updatedAt": 1795094539237,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "95029ced01d19b469e809a833d5999f10fd4a854c5649827a4368be409ab2533"
+    "27e1db58423e8493a54a937dc0bb673355479200a5d2405eb17bc3b58fd067af"
   ]
 }

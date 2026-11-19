@@ -7,7 +7,7 @@
   "name": "🍟 BiliGlobal.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "4cf38cc5ea16f49ed97139d1539eb7f0b6e5cf009df51b42bb30a07902846097",
+  "revisionId": "474f7c993fecf8058947c3da9473ccc702af08e1572e04c4f580ef2ad376db6e",
   "author": "ClashModule",
   "updatedAt": 1795094539106,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "4cf38cc5ea16f49ed97139d1539eb7f0b6e5cf009df51b42bb30a07902846097"
+    "474f7c993fecf8058947c3da9473ccc702af08e1572e04c4f580ef2ad376db6e"
   ]
 }

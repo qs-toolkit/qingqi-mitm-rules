@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "大众评球去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=大众评球去广告\n#!desc=使用前需要卸载重装软件 by sliverkiss\n#!format=sgmodule\n\n[Map Local]\n^https:\\/\\/api\\.wxcjgg\\.cn\\/ad\\/map data-type=text data=\"{}\" status-code=200\n^http:\\/\\/api-tx\\.dsocial\\.xyz\\/api\\/v2\\/ad_config data-type=text data=\"{}\" status-code=200\n\n[MITM]\nhostname = %APPEND% api.wxcjgg.cn, api-tx.dsocial.xyz\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

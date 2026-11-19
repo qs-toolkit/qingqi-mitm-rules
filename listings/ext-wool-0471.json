@@ -7,7 +7,7 @@
   "name": "Talkatone",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ca8d33a1fb9f054b0fd1fb377f4f35128f32f770c95f1a20eb886a3c602ebad3",
+  "revisionId": "06f6b44642d86c7957e0251ae45fe21caa36f3dec33cbd25382ec55418ddb303",
   "author": "fmz200",
   "updatedAt": 1795094539249,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ca8d33a1fb9f054b0fd1fb377f4f35128f32f770c95f1a20eb886a3c602ebad3"
+    "06f6b44642d86c7957e0251ae45fe21caa36f3dec33cbd25382ec55418ddb303"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "萤石",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e9323cbbd3e15d68bc9d82e36f06f5d831e9ee113906ede84d2e978c9131cd7d",
+  "revisionId": "470a0b40dc26bcb74990489620afb2f57214cb9a4c240dce73bacde4a649c9a0",
   "author": "fmz200",
   "updatedAt": 1795094539270,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e9323cbbd3e15d68bc9d82e36f06f5d831e9ee113906ede84d2e978c9131cd7d"
+    "470a0b40dc26bcb74990489620afb2f57214cb9a4c240dce73bacde4a649c9a0"
   ]
 }

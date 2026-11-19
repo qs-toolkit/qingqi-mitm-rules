@@ -7,7 +7,7 @@
   "name": "小熊艺术",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "576eef224799bd521a7372b5bf61d9eba32a1e78d93803a4cd715a2ec01f8dcc",
+  "revisionId": "1e59bcd90c2a6e67af79ecf47c1d3000ae38498a5e6b3f6d3b6634e394ea719f",
   "author": "fmz200",
   "updatedAt": 1795094539266,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "576eef224799bd521a7372b5bf61d9eba32a1e78d93803a4cd715a2ec01f8dcc"
+    "1e59bcd90c2a6e67af79ecf47c1d3000ae38498a5e6b3f6d3b6634e394ea719f"
   ]
 }

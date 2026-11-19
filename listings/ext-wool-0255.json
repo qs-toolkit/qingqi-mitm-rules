@@ -7,7 +7,7 @@
   "name": "京东云无线宝",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4ea9f6a9c9d8e70ff75e0e3a15ffe7f12b48f7400894ac1d8230934005f16ea1",
+  "revisionId": "2f23afee9002aca485b3f8a8db70fb6e606a34ee71d429102734df4f96ce8df4",
   "author": "fmz200",
   "updatedAt": 1795094539219,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4ea9f6a9c9d8e70ff75e0e3a15ffe7f12b48f7400894ac1d8230934005f16ea1"
+    "2f23afee9002aca485b3f8a8db70fb6e606a34ee71d429102734df4f96ce8df4"
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "ChinaUnicom",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=中国联通\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partZ/ChinaUnicom.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/m\\.client\\.10010\\.com\\/mobileService\\/(activity|customer)\\/(accountListData|get_client_adv|get_startadv)/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/m\\.client\\.10010\\.com\\/mobileService\\/customer\\/getclientconfig\\.htm/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/m\\.client\\.10010\\.com\\/uniAdmsInterface\\/(getHomePageAd|getWelcomeAd)/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/[^(apple|10010)]+\\.(com|cn)\\/(a|A)d(s|v)?(\\/|\\.js)/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/m1\\.ad\\.10010\\.com\\/noticeMag\\/images\\/imageUpload\\/2\\d{3}/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/res\\.mall\\.10010\\.cn\\/mall\\/common\\/js\\/fa\\.js?referer=/i then reject_img(200)\n\n[Rule]\nDOMAIN-SUFFIX,m1.ad.10010.com,REJECT\n\n[MITM]\nhostname = %APPEND% m.client.10010.com, m1.ad.10010.com, res.mall.10010.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -7,7 +7,7 @@
   "name": "蜻蜓FM去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "04ecbf720f905767ac9ec32fd5cdecef0390f97f36f9275dcfdb690fd8d3ca22",
+  "revisionId": "6a2f53592f177d6d6b0438d90005358be1af0d1768473a51a1431b003e691bef",
   "author": "ClashModule",
   "updatedAt": 1795094539095,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "04ecbf720f905767ac9ec32fd5cdecef0390f97f36f9275dcfdb690fd8d3ca22"
+    "6a2f53592f177d6d6b0438d90005358be1af0d1768473a51a1431b003e691bef"
   ]
 }

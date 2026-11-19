@@ -7,7 +7,7 @@
   "name": "哔哩哔哩漫画",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "85f4d0675bbaca976c90635eb958850815f3ac9010f95e98b57905e0c7b93143",
+  "revisionId": "8338f9df15b285b514d221d3f6b1222ce9a50a9da7e795091434457b1170840e",
   "author": "fmz200",
   "updatedAt": 1795094539192,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "85f4d0675bbaca976c90635eb958850815f3ac9010f95e98b57905e0c7b93143"
+    "8338f9df15b285b514d221d3f6b1222ce9a50a9da7e795091434457b1170840e"
   ]
 }

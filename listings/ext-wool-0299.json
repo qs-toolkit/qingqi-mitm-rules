@@ -7,7 +7,7 @@
   "name": "拉卡拉",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "aa7a707da2020d2614df9264c273a8d0b4dfca9f16326839f5e7659021a2e568",
+  "revisionId": "29db0dab06ddf6838055b48bb19ab06bd597a462ac6089261335e4565e9a8d2e",
   "author": "fmz200",
   "updatedAt": 1795094539225,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "aa7a707da2020d2614df9264c273a8d0b4dfca9f16326839f5e7659021a2e568"
+    "29db0dab06ddf6838055b48bb19ab06bd597a462ac6089261335e4565e9a8d2e"
   ]
 }

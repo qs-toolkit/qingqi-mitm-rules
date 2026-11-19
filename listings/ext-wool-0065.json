@@ -7,7 +7,7 @@
   "name": "百信银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2b2a1c1c278c31c445f399fa3174877a91417de41dbc86c27f134249e4198296",
+  "revisionId": "45ca1e289e47707ccf2078bc43b4eabd6fff7590dd6d2ab9d5d80b03cb3a11da",
   "author": "fmz200",
   "updatedAt": 1795094539190,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2b2a1c1c278c31c445f399fa3174877a91417de41dbc86c27f134249e4198296"
+    "45ca1e289e47707ccf2078bc43b4eabd6fff7590dd6d2ab9d5d80b03cb3a11da"
   ]
 }

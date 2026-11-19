@@ -7,7 +7,7 @@
   "name": "刺猬猫去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "05ed138f260d94969bf35d2404727fcabc466ed7a6cb328b500be86b2a50db96",
+  "revisionId": "3afa7726b630b44c1f0a2a04acc40005a87b73295c2d8e1fef4afa8a6f7ae55d",
   "author": "ClashModule",
   "updatedAt": 1795094539054,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "05ed138f260d94969bf35d2404727fcabc466ed7a6cb328b500be86b2a50db96"
+    "3afa7726b630b44c1f0a2a04acc40005a87b73295c2d8e1fef4afa8a6f7ae55d"
   ]
 }

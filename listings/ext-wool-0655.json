@@ -7,7 +7,7 @@
   "name": "银盛小Y管家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "89f0dbeb5218629593caedc4602ab483ecdf1485ea6411971777e1b7c3c8b7e9",
+  "revisionId": "85e5b5a6c1f3d5456445e0d95e52ffe586ac4b36092d821092b0cc2c049bcc06",
   "author": "fmz200",
   "updatedAt": 1795094539274,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "89f0dbeb5218629593caedc4602ab483ecdf1485ea6411971777e1b7c3c8b7e9"
+    "85e5b5a6c1f3d5456445e0d95e52ffe586ac4b36092d821092b0cc2c049bcc06"
   ]
 }

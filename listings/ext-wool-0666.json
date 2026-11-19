@@ -7,7 +7,7 @@
   "name": "优酷",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bae05f479e28540e7cd9858da0afed29cb46fd628c0ad2ed8b20adfdb5235c31",
+  "revisionId": "602560679f73b0df0f5c629e03e2798eb3cca7f32821493c2f7474fa6dd6ea7c",
   "author": "fmz200",
   "updatedAt": 1795094539275,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bae05f479e28540e7cd9858da0afed29cb46fd628c0ad2ed8b20adfdb5235c31"
+    "602560679f73b0df0f5c629e03e2798eb3cca7f32821493c2f7474fa6dd6ea7c"
   ]
 }

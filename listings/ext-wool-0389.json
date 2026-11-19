@@ -7,7 +7,7 @@
   "name": "平安好车主",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c4634468166b4112f3b2c7e37d8d507a584afafe4e5de3e181e50d16c31df60e",
+  "revisionId": "50d1b187849acad4319a3e70d54321af50cf275fa04a0ae8c53544ba70e0a36e",
   "author": "fmz200",
   "updatedAt": 1795094539237,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c4634468166b4112f3b2c7e37d8d507a584afafe4e5de3e181e50d16c31df60e"
+    "50d1b187849acad4319a3e70d54321af50cf275fa04a0ae8c53544ba70e0a36e"
   ]
 }

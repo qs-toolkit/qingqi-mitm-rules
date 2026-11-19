@@ -7,7 +7,7 @@
   "name": "爱企查",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d86ec4a012af6278e32a904a8958f7a25a7ed506cd81c68b7699e3a09e1fcd05",
+  "revisionId": "556f9ea0a09b88cc99ba2d445fd06687927bf112b82fcdc872b2ce5ac2e8c74b",
   "author": "fmz200",
   "updatedAt": 1795094539186,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d86ec4a012af6278e32a904a8958f7a25a7ed506cd81c68b7699e3a09e1fcd05"
+    "556f9ea0a09b88cc99ba2d445fd06687927bf112b82fcdc872b2ce5ac2e8c74b"
   ]
 }

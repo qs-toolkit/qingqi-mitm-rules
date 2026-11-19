@@ -7,7 +7,7 @@
   "name": "clicli",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7fc25249f09e1a54047ebf4bdc8298c6ebcf307bf689d37cd5f5eedbccc2af52",
+  "revisionId": "67b7e9e0ec25de1ddd64522ff71c429d4e4dd0eef606f0fdaa25f00387961ef8",
   "author": "fmz200",
   "updatedAt": 1795094539197,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7fc25249f09e1a54047ebf4bdc8298c6ebcf307bf689d37cd5f5eedbccc2af52"
+    "67b7e9e0ec25de1ddd64522ff71c429d4e4dd0eef606f0fdaa25f00387961ef8"
   ]
 }

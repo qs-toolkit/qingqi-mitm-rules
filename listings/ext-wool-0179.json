@@ -7,7 +7,7 @@
   "name": "广汽传祺",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b1287b0ae3e41415d12704592b27a5fb1433e739c6c442d97929d163d556a3ea",
+  "revisionId": "b4f3754c58b93d0fb23e474faf261540ff22a1d1b89ddb72e83322b1a89196a0",
   "author": "fmz200",
   "updatedAt": 1795094539206,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b1287b0ae3e41415d12704592b27a5fb1433e739c6c442d97929d163d556a3ea"
+    "b4f3754c58b93d0fb23e474faf261540ff22a1d1b89ddb72e83322b1a89196a0"
   ]
 }

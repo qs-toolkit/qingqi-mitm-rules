@@ -7,7 +7,7 @@
   "name": "牛津高阶词典第十版",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ace8de4c69c07ae2be8aec324ffb9b2d503072e1ba214d0bc71eb6986c60bf99",
+  "revisionId": "b523ae807a6c3aefd73188eef98bad8117ace3df3cb15661cbfce4961c208d4e",
   "author": "fmz200",
   "updatedAt": 1795094539235,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ace8de4c69c07ae2be8aec324ffb9b2d503072e1ba214d0bc71eb6986c60bf99"
+    "b523ae807a6c3aefd73188eef98bad8117ace3df3cb15661cbfce4961c208d4e"
   ]
 }

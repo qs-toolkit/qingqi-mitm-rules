@@ -7,7 +7,7 @@
   "name": "Oray",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e360939984373f87b59d5b86215aa00e42c2584119cb6356cd57ac460bd623fc",
+  "revisionId": "ffaca31acdb47514c40c8636312b4022be5c681ea4b96003eec82c664c15b1b6",
   "author": "fmz200",
   "updatedAt": 1795094539235,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e360939984373f87b59d5b86215aa00e42c2584119cb6356cd57ac460bd623fc"
+    "ffaca31acdb47514c40c8636312b4022be5c681ea4b96003eec82c664c15b1b6"
   ]
 }

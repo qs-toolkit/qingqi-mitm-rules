@@ -7,7 +7,7 @@
   "name": "正气助手",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ad62d29df53f853125b53c40296d01d47c0857c9ce1e6f6c6607debd4d01cf8c",
+  "revisionId": "b8ae764a79e3d182437a3201f04239f66dc086dd45ea39aafa4a2f402c55f8e5",
   "author": "fmz200",
   "updatedAt": 1795094539282,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ad62d29df53f853125b53c40296d01d47c0857c9ce1e6f6c6607debd4d01cf8c"
+    "b8ae764a79e3d182437a3201f04239f66dc086dd45ea39aafa4a2f402c55f8e5"
   ]
 }

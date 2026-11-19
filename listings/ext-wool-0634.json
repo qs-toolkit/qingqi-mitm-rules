@@ -7,7 +7,7 @@
   "name": "映客直播",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f42b2633e8e43a6cd28e9d16d386abe8eba8a0d9c70f5dbf493c688095e8b66c",
+  "revisionId": "d342afa218d6bc80c6413c51d485b03a2dbcd40359fc9fedd50fa5cfd57b87af",
   "author": "fmz200",
   "updatedAt": 1795094539271,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f42b2633e8e43a6cd28e9d16d386abe8eba8a0d9c70f5dbf493c688095e8b66c"
+    "d342afa218d6bc80c6413c51d485b03a2dbcd40359fc9fedd50fa5cfd57b87af"
   ]
 }

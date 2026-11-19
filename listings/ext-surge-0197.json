@@ -7,7 +7,7 @@
   "name": "小米音箱去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "bf35c538df3db2025b5f5807a9bac9796ccdb6b2d01fc63de59cce8ed20773b9",
+  "revisionId": "269a797362a202e6e87eadccca9a0a2ac6d081102b65b792ad8379de2edfb4f2",
   "author": "ClashModule",
   "updatedAt": 1795094539062,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "bf35c538df3db2025b5f5807a9bac9796ccdb6b2d01fc63de59cce8ed20773b9"
+    "269a797362a202e6e87eadccca9a0a2ac6d081102b65b792ad8379de2edfb4f2"
   ]
 }

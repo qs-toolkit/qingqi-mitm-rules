@@ -7,7 +7,7 @@
   "name": "Follow每日签到",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "34e754b699df01a40abdd8feb72e25e7999387de02bae85503d4837f401c181d",
+  "revisionId": "b92b31cea04e704937d1cc051c57dfbb75049bc74a449596f9ef5724c939288a",
   "author": "ClashModule",
   "updatedAt": 1795094539037,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "34e754b699df01a40abdd8feb72e25e7999387de02bae85503d4837f401c181d"
+    "b92b31cea04e704937d1cc051c57dfbb75049bc74a449596f9ef5724c939288a"
   ]
 }

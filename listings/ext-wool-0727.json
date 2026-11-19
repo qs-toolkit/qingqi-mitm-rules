@@ -7,7 +7,7 @@
   "name": "追书神器",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2fee31a49ffa2f3673787f3792f703535c4e02905f22ab2bf96e0bbdd03b78c5",
+  "revisionId": "31de7e984975af5ee44f86a7aa5c90662d147ef99f909de90feefeb5c3cdee24",
   "author": "fmz200",
   "updatedAt": 1795094539284,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2fee31a49ffa2f3673787f3792f703535c4e02905f22ab2bf96e0bbdd03b78c5"
+    "31de7e984975af5ee44f86a7aa5c90662d147ef99f909de90feefeb5c3cdee24"
   ]
 }

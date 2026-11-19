@@ -7,7 +7,7 @@
   "name": "Keep",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e99c798a3bce0658b21c6610df8b1caec9b81e61719fc69c54696e79b16e7272",
+  "revisionId": "9a216ae4ae3bda3c2de28dd466496c13548ed747d5bdcfd21f3229e32ac76e32",
   "author": "fmz200",
   "updatedAt": 1795094539222,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e99c798a3bce0658b21c6610df8b1caec9b81e61719fc69c54696e79b16e7272"
+    "9a216ae4ae3bda3c2de28dd466496c13548ed747d5bdcfd21f3229e32ac76e32"
   ]
 }

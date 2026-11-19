@@ -7,7 +7,7 @@
   "name": "NTPlay",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "57e87cd62c2bd92f0a83d0b3a3746077066005fccbfe2a7236f5f6a1c2d2e54f",
+  "revisionId": "f1d5db026c7caa2212ee0c3413f7845bce945f150d924144d156d480a72b5a72",
   "author": "fmz200",
   "updatedAt": 1795094539234,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "57e87cd62c2bd92f0a83d0b3a3746077066005fccbfe2a7236f5f6a1c2d2e54f"
+    "f1d5db026c7caa2212ee0c3413f7845bce945f150d924144d156d480a72b5a72"
   ]
 }

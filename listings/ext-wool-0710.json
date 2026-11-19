@@ -7,7 +7,7 @@
   "name": "郑好办",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ab040d32976ce6a401a301765c15ad96fc13ae7101bbd8771c51583a8b378c46",
+  "revisionId": "44aec64c255c93e9ab1b0cb3e45eb6ed30e6e4b5b910023262d95421158f57a3",
   "author": "fmz200",
   "updatedAt": 1795094539282,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ab040d32976ce6a401a301765c15ad96fc13ae7101bbd8771c51583a8b378c46"
+    "44aec64c255c93e9ab1b0cb3e45eb6ed30e6e4b5b910023262d95421158f57a3"
   ]
 }

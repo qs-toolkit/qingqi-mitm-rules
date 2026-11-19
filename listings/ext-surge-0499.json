@@ -7,7 +7,7 @@
   "name": "🍟 BiliRedirect.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "c8a7367b7ba9d456dfe0c42c57406ba2ae29c0b8843017a304d0345524feb3ec",
+  "revisionId": "b80cf2a010271dff1bc6eaec55c3302389fabcfd72a47e00f0268cefaf1c426b",
   "author": "ClashModule",
   "updatedAt": 1795094539106,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "c8a7367b7ba9d456dfe0c42c57406ba2ae29c0b8843017a304d0345524feb3ec"
+    "b80cf2a010271dff1bc6eaec55c3302389fabcfd72a47e00f0268cefaf1c426b"
   ]
 }

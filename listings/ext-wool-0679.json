@@ -7,7 +7,7 @@
   "name": "中银跨境GO",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fd49b0c2804b648fb316cba21b72285d968afa63a610e32d567ce72b2304e9b7",
+  "revisionId": "078d5af0300f2844ca84d25193f39f7d7e016506e6ef573293ceff39f4e9e861",
   "author": "fmz200",
   "updatedAt": 1795094539277,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fd49b0c2804b648fb316cba21b72285d968afa63a610e32d567ce72b2304e9b7"
+    "078d5af0300f2844ca84d25193f39f7d7e016506e6ef573293ceff39f4e9e861"
   ]
 }

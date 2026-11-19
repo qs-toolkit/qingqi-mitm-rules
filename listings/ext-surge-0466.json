@@ -7,7 +7,7 @@
   "name": "随手记去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "32eb3e90b860da4d95541fb90ce64a154774d2cd8e8f624f6800cd193fe6c328",
+  "revisionId": "f8831e9ddafbb3a9f9c422e9c643820d762fdba26dbad8f65d2c6d237868a746",
   "author": "ClashModule",
   "updatedAt": 1795094539101,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "32eb3e90b860da4d95541fb90ce64a154774d2cd8e8f624f6800cd193fe6c328"
+    "f8831e9ddafbb3a9f9c422e9c643820d762fdba26dbad8f65d2c6d237868a746"
   ]
 }

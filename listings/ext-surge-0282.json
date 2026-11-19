@@ -7,7 +7,7 @@
   "name": "智慧苏州去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "70f43223c276f1de0a55744fa9f74d84cedf15de003a5694d2a6e386e37217c2",
+  "revisionId": "f3184033ea18765fd1da47d67ecfef2e5fc0b2fada54e1b2d4e3df28b3d51d7f",
   "author": "ClashModule",
   "updatedAt": 1795094539075,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "70f43223c276f1de0a55744fa9f74d84cedf15de003a5694d2a6e386e37217c2"
+    "f3184033ea18765fd1da47d67ecfef2e5fc0b2fada54e1b2d4e3df28b3d51d7f"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "Spotify(>=iOS15)",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "f3a65064f9bb27d60dab5de8773211c5fe75aedba9353f3865f994cdf01294f0",
+  "revisionId": "ed39e51a48d5fa23d3d5dcf41bb49f366cb7df935be5f39dff0a0d6d14c01731",
   "author": "ClashModule",
   "updatedAt": 1795094539043,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "f3a65064f9bb27d60dab5de8773211c5fe75aedba9353f3865f994cdf01294f0"
+    "ed39e51a48d5fa23d3d5dcf41bb49f366cb7df935be5f39dff0a0d6d14c01731"
   ]
 }

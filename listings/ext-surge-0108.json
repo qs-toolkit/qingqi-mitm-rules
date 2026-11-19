@@ -7,7 +7,7 @@
   "name": "七猫小说去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "f7e8fdc1a2cb96dede5879e69692c402820b9991b5e723b842396b8f3f0b3782",
+  "revisionId": "9444aafead7b3d7b306b3562c326907af16b38cf60b0dbd57dd36fbc4d6b3c14",
   "author": "ClashModule",
   "updatedAt": 1795094539049,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "f7e8fdc1a2cb96dede5879e69692c402820b9991b5e723b842396b8f3f0b3782"
+    "9444aafead7b3d7b306b3562c326907af16b38cf60b0dbd57dd36fbc4d6b3c14"
   ]
 }

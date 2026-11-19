@@ -7,7 +7,7 @@
   "name": "酷狗概念版去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "67669d0ca9c2d0d2262c65538349ae8cb82161297180d4aeca151a22b8426710",
+  "revisionId": "d4480b78fc4d3dc7b5e018bd20e943f4a2e2b7de066c7a03319ab665ebede8bc",
   "author": "ClashModule",
   "updatedAt": 1795094539099,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "67669d0ca9c2d0d2262c65538349ae8cb82161297180d4aeca151a22b8426710"
+    "d4480b78fc4d3dc7b5e018bd20e943f4a2e2b7de066c7a03319ab665ebede8bc"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "🐻 哔哩哔哩漫画 [积分抢购]",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "3710bf13230677fb99513a1aef839935dfcfcbdf02fa09b658e99cc6e2a101aa",
+  "revisionId": "6d013354975fa3b404aa39055ce40c675ee2c3bc33d2ef769c9e0cd6df3e25d4",
   "author": "ClashModule",
   "updatedAt": 1795094539056,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "3710bf13230677fb99513a1aef839935dfcfcbdf02fa09b658e99cc6e2a101aa"
+    "6d013354975fa3b404aa39055ce40c675ee2c3bc33d2ef769c9e0cd6df3e25d4"
   ]
 }

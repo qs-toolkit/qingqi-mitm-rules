@@ -7,7 +7,7 @@
   "name": "金山文档去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8a68cb16cd8c46d5f39479643f8dc350953f7a91f86c27c0a76a2ddb606b3d57",
+  "revisionId": "0a14c4a60795fbb3fe7fee87a94df46f45e12d963c5cd05d6ff66398c25c56b5",
   "author": "ClashModule",
   "updatedAt": 1795094539100,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "8a68cb16cd8c46d5f39479643f8dc350953f7a91f86c27c0a76a2ddb606b3d57"
+    "0a14c4a60795fbb3fe7fee87a94df46f45e12d963c5cd05d6ff66398c25c56b5"
   ]
 }

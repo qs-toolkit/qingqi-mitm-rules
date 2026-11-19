@@ -7,7 +7,7 @@
   "name": "网易新闻去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b04369a2f8fb63d03f71ef1edd7845a8734716d8c1f2b6d730eb905734e52088",
+  "revisionId": "75f154e58d6c26d3f965a33e224d26efd69711657cff63e11d3e1dce06878110",
   "author": "ClashModule",
   "updatedAt": 1795094539088,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b04369a2f8fb63d03f71ef1edd7845a8734716d8c1f2b6d730eb905734e52088"
+    "75f154e58d6c26d3f965a33e224d26efd69711657cff63e11d3e1dce06878110"
   ]
 }

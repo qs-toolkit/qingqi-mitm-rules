@@ -7,7 +7,7 @@
   "name": "红版报",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b90f99971ccd6327642574912405f9e4133039637a9f0aec40cb0fe91fb9bc0d",
+  "revisionId": "6c9cd5d433437d07825ec7692a91651215379ef419aceda66a6299a02b15afd3",
   "author": "fmz200",
   "updatedAt": 1795094539215,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b90f99971ccd6327642574912405f9e4133039637a9f0aec40cb0fe91fb9bc0d"
+    "6c9cd5d433437d07825ec7692a91651215379ef419aceda66a6299a02b15afd3"
   ]
 }

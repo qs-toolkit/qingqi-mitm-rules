@@ -7,7 +7,7 @@
   "name": "酷狗音乐去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "09cf53d0e9d013be795ba434b0d805274ee5a26409c6082a593b6d23c5f61b0e",
+  "revisionId": "3f180c9a1240f7ec61a4f4f0eef4084f755a6b13dacf70af028d1e6085f8edb3",
   "author": "ClashModule",
   "updatedAt": 1795094539099,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "09cf53d0e9d013be795ba434b0d805274ee5a26409c6082a593b6d23c5f61b0e"
+    "3f180c9a1240f7ec61a4f4f0eef4084f755a6b13dacf70af028d1e6085f8edb3"
   ]
 }

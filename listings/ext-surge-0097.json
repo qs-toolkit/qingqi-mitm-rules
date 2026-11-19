@@ -7,7 +7,7 @@
   "name": "YouTube去广告(>=iOS15)",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "0c47246b643b6599eebc7205054980a64fd5be2e8dc9573fb71c91063a2b50cb",
+  "revisionId": "645381004bdaeb83d32a861a2016430ae4d31e53278106cb1a67831d4caa30b8",
   "author": "ClashModule",
   "updatedAt": 1795094539048,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "0c47246b643b6599eebc7205054980a64fd5be2e8dc9573fb71c91063a2b50cb"
+    "645381004bdaeb83d32a861a2016430ae4d31e53278106cb1a67831d4caa30b8"
   ]
 }

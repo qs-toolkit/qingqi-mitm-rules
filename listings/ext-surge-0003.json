@@ -7,7 +7,7 @@
   "name": "12306去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a2d25322ce4f93ec869618291f0d02221bffa8c7ae3ab297a94d1c0b98fda2ba",
+  "revisionId": "253b46491af0b1509606e11f1b581c6c20d58490672a842de6c436a10da232c2",
   "author": "ClashModule",
   "updatedAt": 1795094539033,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "a2d25322ce4f93ec869618291f0d02221bffa8c7ae3ab297a94d1c0b98fda2ba"
+    "253b46491af0b1509606e11f1b581c6c20d58490672a842de6c436a10da232c2"
   ]
 }

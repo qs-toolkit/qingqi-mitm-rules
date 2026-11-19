@@ -7,7 +7,7 @@
   "name": "乐堡潮玩馆小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "dd66cafbb3c942034b67b6ba8b2c41f5e219ac56161c90eb0ca8efd37696502e",
+  "revisionId": "9784abcaa6e941c1dfd5235c4d8e620c2459d4726d0440ed003d42fdb7576c6a",
   "author": "fmz200",
   "updatedAt": 1795094539225,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "dd66cafbb3c942034b67b6ba8b2c41f5e219ac56161c90eb0ca8efd37696502e"
+    "9784abcaa6e941c1dfd5235c4d8e620c2459d4726d0440ed003d42fdb7576c6a"
   ]
 }

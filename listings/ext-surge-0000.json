@@ -7,7 +7,7 @@
   "name": "1.1.1.1配置管理",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8c1cd6ef6fd5751564417a0f1893995663e57dba29fa5c83cf1c43cd6331ea10",
+  "revisionId": "bdf1a454bc6933903bd84958fc1480c0c58a1190bcbe5ac379c556b87dc4451b",
   "author": "ClashModule",
   "updatedAt": 1795094539032,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "8c1cd6ef6fd5751564417a0f1893995663e57dba29fa5c83cf1c43cd6331ea10"
+    "bdf1a454bc6933903bd84958fc1480c0c58a1190bcbe5ac379c556b87dc4451b"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "钉钉",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b5ee6cf479209a699fb8bb6f403bd966fcfd2648d8cf393af5408ad89b1e29c6",
+  "revisionId": "9f8813e1f715c01cacc5d1635a00a21211d6c5d888d22ef8f38f5780124293ec",
   "author": "fmz200",
   "updatedAt": 1795094539200,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b5ee6cf479209a699fb8bb6f403bd966fcfd2648d8cf393af5408ad89b1e29c6"
+    "9f8813e1f715c01cacc5d1635a00a21211d6c5d888d22ef8f38f5780124293ec"
   ]
 }

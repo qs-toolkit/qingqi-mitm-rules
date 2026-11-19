@@ -7,7 +7,7 @@
   "name": "虎扑",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3e9d790a828e036c6cfa7f158322bf6e26535f627af2263b7a3a39a75e9d98b1",
+  "revisionId": "881c2b2109468c2084ff115e3b8369735764189120c74e33dad81cfda4b0a20d",
   "author": "fmz200",
   "updatedAt": 1795094539217,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3e9d790a828e036c6cfa7f158322bf6e26535f627af2263b7a3a39a75e9d98b1"
+    "881c2b2109468c2084ff115e3b8369735764189120c74e33dad81cfda4b0a20d"
   ]
 }

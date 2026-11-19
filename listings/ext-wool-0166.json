@@ -7,7 +7,7 @@
   "name": "Flightradar24",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8b74cf769fbe09d58449934d1cb299ae195a568f31b8f872b61b5572232c55f0",
+  "revisionId": "bee0f30814795260e36e45060ffbe867738a36bf94252f65c2d420d38040f05c",
   "author": "fmz200",
   "updatedAt": 1795094539204,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8b74cf769fbe09d58449934d1cb299ae195a568f31b8f872b61b5572232c55f0"
+    "bee0f30814795260e36e45060ffbe867738a36bf94252f65c2d420d38040f05c"
   ]
 }

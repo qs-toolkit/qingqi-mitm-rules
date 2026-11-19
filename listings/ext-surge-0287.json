@@ -7,7 +7,7 @@
   "name": "最右去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fcac22aa97684a91db0f9dbab878aabbf1dbd66342a946cbb2b118c85237f3b0",
+  "revisionId": "0f3e8ab3dc5031128df85e1489fe465a52923b52775573373f2ef0e02a94b081",
   "author": "ClashModule",
   "updatedAt": 1795094539076,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fcac22aa97684a91db0f9dbab878aabbf1dbd66342a946cbb2b118c85237f3b0"
+    "0f3e8ab3dc5031128df85e1489fe465a52923b52775573373f2ef0e02a94b081"
   ]
 }

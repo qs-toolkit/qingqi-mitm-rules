@@ -7,7 +7,7 @@
   "name": "全民K歌去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "d8f9eb5a69e70b18859118b9e49574b9b52608998254b2274df634dcd1fa2605",
+  "revisionId": "e2f1317632ccdb0a4515f174c2e56d0b2d932384b1230341b2f3f5ca1785d0ed",
   "author": "ClashModule",
   "updatedAt": 1795094539054,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "d8f9eb5a69e70b18859118b9e49574b9b52608998254b2274df634dcd1fa2605"
+    "e2f1317632ccdb0a4515f174c2e56d0b2d932384b1230341b2f3f5ca1785d0ed"
   ]
 }

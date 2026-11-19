@@ -7,7 +7,7 @@
   "name": "永辉",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "235f5b3bb92c755c814ec36f6e5d784b400e2e89a9c0765ed4b151246efd57a9",
+  "revisionId": "5586130fb8c8a4c0e7df62a0a4ddac05c5accdcf9e205814fb37bc67f572a3d9",
   "author": "fmz200",
   "updatedAt": 1795094539274,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "235f5b3bb92c755c814ec36f6e5d784b400e2e89a9c0765ed4b151246efd57a9"
+    "5586130fb8c8a4c0e7df62a0a4ddac05c5accdcf9e205814fb37bc67f572a3d9"
   ]
 }

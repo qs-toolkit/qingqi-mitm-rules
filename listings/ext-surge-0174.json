@@ -7,7 +7,7 @@
   "name": "大众评球去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b3d52d3474451c10049d08a05e3e8093b07f497f7f03795562ce41e6bfd94ea1",
+  "revisionId": "c91e989543f45478536b0cef7031ac7ca2c952080bb0d5a800ad3f66e4c43f55",
   "author": "ClashModule",
   "updatedAt": 1795094539058,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b3d52d3474451c10049d08a05e3e8093b07f497f7f03795562ce41e6bfd94ea1"
+    "c91e989543f45478536b0cef7031ac7ca2c952080bb0d5a800ad3f66e4c43f55"
   ]
 }

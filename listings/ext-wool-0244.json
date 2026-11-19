@@ -7,7 +7,7 @@
   "name": "华尔街见闻",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "32bd649af57ae67aba2683bd3fcb9a3dfe897d01ea41e087b86a0806ee1776d1",
+  "revisionId": "340942cccfd3eecae690f41d2de8e6a9cdbd624703dfe60a3cb46f2ec01aa4af",
   "author": "fmz200",
   "updatedAt": 1795094539217,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "32bd649af57ae67aba2683bd3fcb9a3dfe897d01ea41e087b86a0806ee1776d1"
+    "340942cccfd3eecae690f41d2de8e6a9cdbd624703dfe60a3cb46f2ec01aa4af"
   ]
 }

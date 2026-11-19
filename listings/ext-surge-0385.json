@@ -7,7 +7,7 @@
   "name": "美图秀秀去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9487487598aa20af8c7fe6e568c25807f3be3cb3ab0e23c95f44aba9fcf0fd25",
+  "revisionId": "84a6a6fa84970b8df7267e59d5ff463c5cb9af660dff03d3ffd0e8e499d96d04",
   "author": "ClashModule",
   "updatedAt": 1795094539089,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "9487487598aa20af8c7fe6e568c25807f3be3cb3ab0e23c95f44aba9fcf0fd25"
+    "84a6a6fa84970b8df7267e59d5ff463c5cb9af660dff03d3ffd0e8e499d96d04"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "中华万年历去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fb0fbfa0a5d2d877b2964568ba6e6993158727c3033fd7ed67aa3b99416bbbf9",
+  "revisionId": "fd47d8505b4628930aa78409e2a560795f73b7b4295709bbc095af70c40e12f5",
   "author": "ClashModule",
   "updatedAt": 1795094539050,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fb0fbfa0a5d2d877b2964568ba6e6993158727c3033fd7ed67aa3b99416bbbf9"
+    "fd47d8505b4628930aa78409e2a560795f73b7b4295709bbc095af70c40e12f5"
   ]
 }

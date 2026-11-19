@@ -7,7 +7,7 @@
   "name": "东方财富",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "eaee336fb7dae4bb29cbe2e3d3979b372a0bc56551bd7431d2f1893f19a71f20",
+  "revisionId": "d53e326dcb710bff7e554a4f507ee0785665ff2179ef6ca4653cccbdc16c561e",
   "author": "fmz200",
   "updatedAt": 1795094539201,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "eaee336fb7dae4bb29cbe2e3d3979b372a0bc56551bd7431d2f1893f19a71f20"
+    "d53e326dcb710bff7e554a4f507ee0785665ff2179ef6ca4653cccbdc16c561e"
   ]
 }

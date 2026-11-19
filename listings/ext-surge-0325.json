@@ -7,7 +7,7 @@
   "name": "猫耳FM去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "dab060e45819ce63aa4d7b98d380448f32c73cba82fe31d8b1f97a1a6de48d18",
+  "revisionId": "1cc62cb765f975ae78dbb6e3f584cdde6b6aa4d2534f44e63d54f815c5a619d0",
   "author": "ClashModule",
   "updatedAt": 1795094539082,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "dab060e45819ce63aa4d7b98d380448f32c73cba82fe31d8b1f97a1a6de48d18"
+    "1cc62cb765f975ae78dbb6e3f584cdde6b6aa4d2534f44e63d54f815c5a619d0"
   ]
 }

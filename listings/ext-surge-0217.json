@@ -7,7 +7,7 @@
   "name": "彩云天气去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "2dc3bb6ca371bd700caa7065a747b1ce6513030e5301a6fdf2c7850276cfd14c",
+  "revisionId": "9e876094eba62ade2ff3ed256a0011b5af20333f9cd3e65e08db901093b3f579",
   "author": "ClashModule",
   "updatedAt": 1795094539065,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "2dc3bb6ca371bd700caa7065a747b1ce6513030e5301a6fdf2c7850276cfd14c"
+    "9e876094eba62ade2ff3ed256a0011b5af20333f9cd3e65e08db901093b3f579"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "农业银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "995f24022bdf331cbf31985be1aa7f937b99d271170776d650a249857617f70e",
+  "revisionId": "818e9ad7a7b8bc54d4b1af0a59428a66460cf2cf7a67c288476382cd77650a70",
   "author": "fmz200",
   "updatedAt": 1795094539234,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "995f24022bdf331cbf31985be1aa7f937b99d271170776d650a249857617f70e"
+    "818e9ad7a7b8bc54d4b1af0a59428a66460cf2cf7a67c288476382cd77650a70"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "中国广电",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fe3f6a7d4191d824f1164fca117af78c0f7bf1c1b4df580b32b6dba8f2c13be9",
+  "revisionId": "99b60e674783f0946cd1ee85210c243c449c0439c1a05030f73047a9ccf8504a",
   "author": "fmz200",
   "updatedAt": 1795094539278,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fe3f6a7d4191d824f1164fca117af78c0f7bf1c1b4df580b32b6dba8f2c13be9"
+    "99b60e674783f0946cd1ee85210c243c449c0439c1a05030f73047a9ccf8504a"
   ]
 }

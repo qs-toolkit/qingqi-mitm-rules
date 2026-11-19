@@ -7,7 +7,7 @@
   "name": "ReelShort去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "2f569cc3a53e9104ef85e8375d4d268cef47570b8e43dde74aba80f8eec0e2ac",
+  "revisionId": "abd315302b1073755ab3d2fd26b7a55c320595bb1df42c7cad691062e41cf5bf",
   "author": "ClashModule",
   "updatedAt": 1795094539042,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "2f569cc3a53e9104ef85e8375d4d268cef47570b8e43dde74aba80f8eec0e2ac"
+    "abd315302b1073755ab3d2fd26b7a55c320595bb1df42c7cad691062e41cf5bf"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "韭菜公社",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1792b03d5a48f7334f8df00e75147df8b5d27b21eb001c9ef846bbb812806530",
+  "revisionId": "21725f537fb7474cc9785682cce879a2109c79ef26f1f492bfc726eb8fe35196",
   "author": "fmz200",
   "updatedAt": 1795094539221,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1792b03d5a48f7334f8df00e75147df8b5d27b21eb001c9ef846bbb812806530"
+    "21725f537fb7474cc9785682cce879a2109c79ef26f1f492bfc726eb8fe35196"
   ]
 }

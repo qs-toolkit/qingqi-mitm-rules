@@ -7,7 +7,7 @@
   "name": "省省回头车",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ec773b396992e211d7d94706826cf9db5de997f39b3f997ab05309d61e0f33cc",
+  "revisionId": "7dcee9d71d1dccc199c0ea5e58964d1a9094b3ac4c856298263a2ce2364f0999",
   "author": "fmz200",
   "updatedAt": 1795094539246,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ec773b396992e211d7d94706826cf9db5de997f39b3f997ab05309d61e0f33cc"
+    "7dcee9d71d1dccc199c0ea5e58964d1a9094b3ac4c856298263a2ce2364f0999"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "小爱音箱",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c7a6c57d1e3022699af515b3a27411959b537b760ffb12496a6bacdeae9aa8c7",
+  "revisionId": "6be0ad5865e768a1a89c5a115525ae773c41dc45d1cbbf42a44881fea8734842",
   "author": "fmz200",
   "updatedAt": 1795094539263,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c7a6c57d1e3022699af515b3a27411959b537b760ffb12496a6bacdeae9aa8c7"
+    "6be0ad5865e768a1a89c5a115525ae773c41dc45d1cbbf42a44881fea8734842"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "腾讯乘车码",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2e01b40f2f85b4db6ef3db72965f4e348f6cfa0cdcd997bd5853e8f7d1cd591d",
+  "revisionId": "d3c8914d88c7a5cd28a94f50852d8aa4f1ebca9432e41238739490e1b9f8af30",
   "author": "fmz200",
   "updatedAt": 1795094539251,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2e01b40f2f85b4db6ef3db72965f4e348f6cfa0cdcd997bd5853e8f7d1cd591d"
+    "d3c8914d88c7a5cd28a94f50852d8aa4f1ebca9432e41238739490e1b9f8af30"
   ]
 }

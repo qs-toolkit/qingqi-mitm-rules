@@ -7,7 +7,7 @@
   "name": "优酷视频去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "5787a30e059fdc7184b63b94033f6d2f26331f42b04acb4a12706c5c9965566b",
+  "revisionId": "9976a31c156ed4a3f68d20040992667bdabc3aa5ffba7c9024d55141f6b9fbb9",
   "author": "ClashModule",
   "updatedAt": 1795094539053,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "5787a30e059fdc7184b63b94033f6d2f26331f42b04acb4a12706c5c9965566b"
+    "9976a31c156ed4a3f68d20040992667bdabc3aa5ffba7c9024d55141f6b9fbb9"
   ]
 }

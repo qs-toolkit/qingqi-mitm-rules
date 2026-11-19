@@ -7,7 +7,7 @@
   "name": "票星球",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c7b7a70c73aa02eafad41b52163adb8ea28ddbfbf16b6f7efafcbcfa71349cdd",
+  "revisionId": "6e772c5deb7b5893156856a97337f69656dfc0335b4d9af5361ce371d6001b69",
   "author": "fmz200",
   "updatedAt": 1795094539237,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c7b7a70c73aa02eafad41b52163adb8ea28ddbfbf16b6f7efafcbcfa71349cdd"
+    "6e772c5deb7b5893156856a97337f69656dfc0335b4d9af5361ce371d6001b69"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "中国移动云盘",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0944c071c8bff2bca409abb94fb684d0407d1fb7b16512a011d03a36a4c63515",
+  "revisionId": "6d6248f0ec0fa18e865bb5b23c9b09696bf1ab16a7884f4932cd768d92e57dc6",
   "author": "fmz200",
   "updatedAt": 1795094539279,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0944c071c8bff2bca409abb94fb684d0407d1fb7b16512a011d03a36a4c63515"
+    "6d6248f0ec0fa18e865bb5b23c9b09696bf1ab16a7884f4932cd768d92e57dc6"
   ]
 }

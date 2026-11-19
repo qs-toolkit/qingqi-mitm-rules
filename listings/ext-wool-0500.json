@@ -7,7 +7,7 @@
   "name": "天猫养车",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3d1ec5c314c99a673f73d3fe9ae70fa7efcac2bc86df96017df4f82286d07306",
+  "revisionId": "d76de58a37a1b5188c1e2fe51f6a6103e7b9021f7a3737443116d0f250c79f48",
   "author": "fmz200",
   "updatedAt": 1795094539252,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3d1ec5c314c99a673f73d3fe9ae70fa7efcac2bc86df96017df4f82286d07306"
+    "d76de58a37a1b5188c1e2fe51f6a6103e7b9021f7a3737443116d0f250c79f48"
   ]
 }

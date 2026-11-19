@@ -7,7 +7,7 @@
   "name": "指点天下",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "30d0b726f5ce186f797ef7030ab25d089ea7b13fc430c4524916d5a537174345",
+  "revisionId": "5bbd6ddc670a66d483a48e0c3cf043511d96ee386ded1025a75d318fb09fc5f9",
   "author": "fmz200",
   "updatedAt": 1795094539282,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "30d0b726f5ce186f797ef7030ab25d089ea7b13fc430c4524916d5a537174345"
+    "5bbd6ddc670a66d483a48e0c3cf043511d96ee386ded1025a75d318fb09fc5f9"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "小睡眠",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "effdbbe58a76d2f096aee71f4e3a9c83e7e561665e1fa0fda603a4610c25cb21",
+  "revisionId": "0f12c404227a2e58dc3da64c41889a9c91815c3bdbb19d093d4110e8f46360b3",
   "author": "fmz200",
   "updatedAt": 1795094539265,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "effdbbe58a76d2f096aee71f4e3a9c83e7e561665e1fa0fda603a4610c25cb21"
+    "0f12c404227a2e58dc3da64c41889a9c91815c3bdbb19d093d4110e8f46360b3"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "西施眼",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cf83569e96f09ca874819af9f37745f3a5377539abb66ead153e4e2298625613",
+  "revisionId": "de1a84f0ea41ec78db952f31be54c63ea59ee830c1656a40bd02d8ed378ca278",
   "author": "fmz200",
   "updatedAt": 1795094539263,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "cf83569e96f09ca874819af9f37745f3a5377539abb66ead153e4e2298625613"
+    "de1a84f0ea41ec78db952f31be54c63ea59ee830c1656a40bd02d8ed378ca278"
   ]
 }

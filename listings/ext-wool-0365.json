@@ -7,7 +7,7 @@
   "name": "奈菲影视",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7358bf62baded0b3eab098b75cfbe2dc78e3189ad0e2fbbd759a4dce76e8f6b6",
+  "revisionId": "83cbdec4e29e1c6b7062b9b7e300a885544c5705bbee6af4851f1a2987aced13",
   "author": "fmz200",
   "updatedAt": 1795094539234,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7358bf62baded0b3eab098b75cfbe2dc78e3189ad0e2fbbd759a4dce76e8f6b6"
+    "83cbdec4e29e1c6b7062b9b7e300a885544c5705bbee6af4851f1a2987aced13"
   ]
 }

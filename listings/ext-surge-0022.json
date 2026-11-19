@@ -7,7 +7,7 @@
   "name": "Dlabel云标签去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "e597e1958d63736a609906297e9a8d565253d5cb0c9915c33ef39e838ab122e1",
+  "revisionId": "25b37157361698a2be0047f38da27a553bb5677b7f1013702add7e4c9de47207",
   "author": "ClashModule",
   "updatedAt": 1795094539036,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "e597e1958d63736a609906297e9a8d565253d5cb0c9915c33ef39e838ab122e1"
+    "25b37157361698a2be0047f38da27a553bb5677b7f1013702add7e4c9de47207"
   ]
 }

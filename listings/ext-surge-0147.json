@@ -7,7 +7,7 @@
   "name": "前程无忧去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c55691876fcaca982152d55e1862b0a9fe6b0ea2b0e2c3a8c7c3a92a4091c912",
+  "revisionId": "6b4ebe4bd6feb650a79c5bc08319cbd1efd551ad7d57a5d031ba38085b64e9f5",
   "author": "ClashModule",
   "updatedAt": 1795094539054,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "c55691876fcaca982152d55e1862b0a9fe6b0ea2b0e2c3a8c7c3a92a4091c912"
+    "6b4ebe4bd6feb650a79c5bc08319cbd1efd551ad7d57a5d031ba38085b64e9f5"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "WiFi万能钥匙",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "edc1f785b0274a4e70862c0d82e2bca7b5ebe81baeff45f4a339c62162915ac9",
+  "revisionId": "7fe40b19545e30b72b1a957bb7d80f1f88a5b5103c1a30f803cf53ab5ea5eea5",
   "author": "fmz200",
   "updatedAt": 1795094539260,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "edc1f785b0274a4e70862c0d82e2bca7b5ebe81baeff45f4a339c62162915ac9"
+    "7fe40b19545e30b72b1a957bb7d80f1f88a5b5103c1a30f803cf53ab5ea5eea5"
   ]
 }

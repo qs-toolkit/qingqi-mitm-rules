@@ -7,7 +7,7 @@
   "name": "作业帮",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4a1c49811b6be27a3bfbf0873f0a709b949d11ad82ba94461d03342730beb3d2",
+  "revisionId": "7e83dfa9f9fa0d5afbe5c06a53d679777f9809efaf0f9d086b3c52e41f5b481a",
   "author": "fmz200",
   "updatedAt": 1795094539284,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4a1c49811b6be27a3bfbf0873f0a709b949d11ad82ba94461d03342730beb3d2"
+    "7e83dfa9f9fa0d5afbe5c06a53d679777f9809efaf0f9d086b3c52e41f5b481a"
   ]
 }

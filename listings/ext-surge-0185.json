@@ -7,7 +7,7 @@
   "name": "实时油价模块",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "466482b96b2677bb919b75fdc32363f15195536cf24ee9b76e986fc38ee29224",
+  "revisionId": "31a220b8c13ffdaeb40ea05aed63afc31000ac7689f8ea880c8bf079da5a3b74",
   "author": "ClashModule",
   "updatedAt": 1795094539060,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "466482b96b2677bb919b75fdc32363f15195536cf24ee9b76e986fc38ee29224"
+    "31a220b8c13ffdaeb40ea05aed63afc31000ac7689f8ea880c8bf079da5a3b74"
   ]
 }

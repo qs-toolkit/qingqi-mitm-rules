@@ -7,7 +7,7 @@
   "name": "Yahoo",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3326745ace554e632e8a9bd61e6e14239b3d9daef0826a776c49237f1009308e",
+  "revisionId": "e96b81e0df286aa2f9abb7fed1d8fe2df932e8cfcf0434f904ba2af52f1f4599",
   "author": "fmz200",
   "updatedAt": 1795094539272,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3326745ace554e632e8a9bd61e6e14239b3d9daef0826a776c49237f1009308e"
+    "e96b81e0df286aa2f9abb7fed1d8fe2df932e8cfcf0434f904ba2af52f1f4599"
   ]
 }

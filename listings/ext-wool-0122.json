@@ -7,7 +7,7 @@
   "name": "到梦空间",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cecf6cf8872da34fd90a36d21a8484037f31dd968b97fc5f9ba59e3ac5a20ded",
+  "revisionId": "a2f39c7d80b6e3743388509d263d88cb5016aaa00deba8331241f8d95a995468",
   "author": "fmz200",
   "updatedAt": 1795094539199,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "cecf6cf8872da34fd90a36d21a8484037f31dd968b97fc5f9ba59e3ac5a20ded"
+    "a2f39c7d80b6e3743388509d263d88cb5016aaa00deba8331241f8d95a995468"
   ]
 }

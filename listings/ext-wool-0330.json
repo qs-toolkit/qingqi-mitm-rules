@@ -7,7 +7,7 @@
   "name": "马蜂窝",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c65aa4a07938109f4c2963b4103bf2074990ea2a76bf93bc894fe5e9783f901f",
+  "revisionId": "7935f3b1abaded9a63f57cbf5d3ada11161779906453855dc045efee068ae232",
   "author": "fmz200",
   "updatedAt": 1795094539229,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "c65aa4a07938109f4c2963b4103bf2074990ea2a76bf93bc894fe5e9783f901f"
+    "7935f3b1abaded9a63f57cbf5d3ada11161779906453855dc045efee068ae232"
   ]
 }

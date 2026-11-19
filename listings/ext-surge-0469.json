@@ -7,7 +7,7 @@
   "name": "雪球去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4d43ce831d7a87aceacb357c41b392d4bd01ef8c554de8f4b076c3f176518542",
+  "revisionId": "2e0bdfa291764b9cc4ee0f816c08d5c52eefbffe76f089ea43fb9f98e85e2870",
   "author": "ClashModule",
   "updatedAt": 1795094539101,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "4d43ce831d7a87aceacb357c41b392d4bd01ef8c554de8f4b076c3f176518542"
+    "2e0bdfa291764b9cc4ee0f816c08d5c52eefbffe76f089ea43fb9f98e85e2870"
   ]
 }

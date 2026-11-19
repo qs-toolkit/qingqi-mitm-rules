@@ -7,7 +7,7 @@
   "name": "薄荷健康去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "43629e88af7d0158c4a1339d58d5e49a25b74a725fb551af39bce0981e436000",
+  "revisionId": "b4b13c89538fac56abf9fd8e16d84b122443a6f751eb2309bad0de27e1fd8183",
   "author": "ClashModule",
   "updatedAt": 1795094539094,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "43629e88af7d0158c4a1339d58d5e49a25b74a725fb551af39bce0981e436000"
+    "b4b13c89538fac56abf9fd8e16d84b122443a6f751eb2309bad0de27e1fd8183"
   ]
 }

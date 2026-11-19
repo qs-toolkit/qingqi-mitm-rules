@@ -7,7 +7,7 @@
   "name": "笑容加",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1d69979ded5e01c7246be338ea1320d43ef0e2dbaa0252cdbab70a93fd620d01",
+  "revisionId": "1c821d68355884832e99f18d365e581b811bd7ac365426546636dcf281a7a12e",
   "author": "fmz200",
   "updatedAt": 1795094539265,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1d69979ded5e01c7246be338ea1320d43ef0e2dbaa0252cdbab70a93fd620d01"
+    "1c821d68355884832e99f18d365e581b811bd7ac365426546636dcf281a7a12e"
   ]
 }

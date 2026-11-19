@@ -7,7 +7,7 @@
   "name": "职工普惠",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "09d9eda8019770526f22fdcae3ec0628b086b9d6a6d5ce17b46671045fdd5729",
+  "revisionId": "ec577bbeb4924a61ffcde102069cdc9736ca01c887337c26ce2c8474a5dd1121",
   "author": "fmz200",
   "updatedAt": 1795094539282,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "09d9eda8019770526f22fdcae3ec0628b086b9d6a6d5ce17b46671045fdd5729"
+    "ec577bbeb4924a61ffcde102069cdc9736ca01c887337c26ce2c8474a5dd1121"
   ]
 }

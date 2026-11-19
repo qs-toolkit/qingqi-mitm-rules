@@ -7,7 +7,7 @@
   "name": "腾讯视频",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7659d62f5b84acf6a1d385e98069517f3283c0e9d266d2c60effd7a60d7ab8b2",
+  "revisionId": "fe9cfc1bca31c48d20a0c373cfb316da75ef4f0793c3fe30ca01c6d82a5067ed",
   "author": "fmz200",
   "updatedAt": 1795094539251,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7659d62f5b84acf6a1d385e98069517f3283c0e9d266d2c60effd7a60d7ab8b2"
+    "fe9cfc1bca31c48d20a0c373cfb316da75ef4f0793c3fe30ca01c6d82a5067ed"
   ]
 }

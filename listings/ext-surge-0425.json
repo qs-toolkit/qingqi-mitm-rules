@@ -7,7 +7,7 @@
   "name": "触站去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "504909efcf8a6b64479ac6015c84c234063c3b2571553a79355634ba302820ce",
+  "revisionId": "1178273369e54eea7affee5d2901cfdaef1d00357aa3d056e251889f766fef82",
   "author": "ClashModule",
   "updatedAt": 1795094539095,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "504909efcf8a6b64479ac6015c84c234063c3b2571553a79355634ba302820ce"
+    "1178273369e54eea7affee5d2901cfdaef1d00357aa3d056e251889f766fef82"
   ]
 }

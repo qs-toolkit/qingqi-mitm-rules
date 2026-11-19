@@ -7,7 +7,7 @@
   "name": "驾考宝典去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "dec5140a34c2785ade485fcb281be433cdd8cf5722fa3912eace9ea32d9ed57f",
+  "revisionId": "ccad469489dd4b5944ca8979750999ce170f66641bd0d90939209a68e16cdccf",
   "author": "ClashModule",
   "updatedAt": 1795094539104,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "dec5140a34c2785ade485fcb281be433cdd8cf5722fa3912eace9ea32d9ed57f"
+    "ccad469489dd4b5944ca8979750999ce170f66641bd0d90939209a68e16cdccf"
   ]
 }

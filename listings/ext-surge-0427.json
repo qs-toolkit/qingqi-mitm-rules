@@ -7,7 +7,7 @@
   "name": "豆瓣去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b43de7c976f5e10e95b401d4f11f7b3158a27fb6c58fd47d7661942a9d5abe9a",
+  "revisionId": "59b09ecdcb2a1dccc02e74ee531f230b9aa06283b75045fbbdbc1b6ab15f473b",
   "author": "ClashModule",
   "updatedAt": 1795094539095,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b43de7c976f5e10e95b401d4f11f7b3158a27fb6c58fd47d7661942a9d5abe9a"
+    "59b09ecdcb2a1dccc02e74ee531f230b9aa06283b75045fbbdbc1b6ab15f473b"
   ]
 }

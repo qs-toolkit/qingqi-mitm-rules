@@ -7,7 +7,7 @@
   "name": "福享太平",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "574622dc1a9b75a05a66978076ec9497ba511ae02681b30d210db4701a2e75b2",
+  "revisionId": "bc33e90577843db6f5a04c6002fb6c3b773d3e3c9f14cb6581e0a0cffa2bd5e8",
   "author": "fmz200",
   "updatedAt": 1795094539204,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "574622dc1a9b75a05a66978076ec9497ba511ae02681b30d210db4701a2e75b2"
+    "bc33e90577843db6f5a04c6002fb6c3b773d3e3c9f14cb6581e0a0cffa2bd5e8"
   ]
 }

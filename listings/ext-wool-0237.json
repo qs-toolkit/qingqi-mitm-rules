@@ -7,7 +7,7 @@
   "name": "汇付天下",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "60a8ac2fa60e67cb80c1fd33808c2ed71257cad8ef2ff91a6a35df866ab2d304",
+  "revisionId": "ab416bc6648b0e103907196d8c4093302e5d7911d411236407a88792c801afa8",
   "author": "fmz200",
   "updatedAt": 1795094539216,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "60a8ac2fa60e67cb80c1fd33808c2ed71257cad8ef2ff91a6a35df866ab2d304"
+    "ab416bc6648b0e103907196d8c4093302e5d7911d411236407a88792c801afa8"
   ]
 }

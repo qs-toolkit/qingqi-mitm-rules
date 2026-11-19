@@ -7,7 +7,7 @@
   "name": "Youtube (Music) Enhance",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "51ebc5c7a8ba223caf3c639b7d847b327e1ec0d0e63cfcfdef7734d96e5ce860",
+  "revisionId": "c2e5739d3940851458c6c0427cd3ddc4ea69d9a5932207902cd46d3035a54a1a",
   "author": "ClashModule",
   "updatedAt": 1795094539047,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "51ebc5c7a8ba223caf3c639b7d847b327e1ec0d0e63cfcfdef7734d96e5ce860"
+    "c2e5739d3940851458c6c0427cd3ddc4ea69d9a5932207902cd46d3035a54a1a"
   ]
 }

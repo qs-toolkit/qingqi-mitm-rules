@@ -7,7 +7,7 @@
   "name": "腾讯视频去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4b16c19edffde62b7943f448dae7cc8a7ae098c871b893f0f047b4dedd3738f8",
+  "revisionId": "9f6c22adb8f11929769d7570cdbfb020ffc5421d3386d751d2a37f176d8859fd",
   "author": "ClashModule",
   "updatedAt": 1795094539091,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "4b16c19edffde62b7943f448dae7cc8a7ae098c871b893f0f047b4dedd3738f8"
+    "9f6c22adb8f11929769d7570cdbfb020ffc5421d3386d751d2a37f176d8859fd"
   ]
 }

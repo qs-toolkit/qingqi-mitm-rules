@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "FAWVW",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=一汽大众\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partY/FAWVW.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/search\\/firstPage\\/getPromptList\\/v1\\?.*/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/benefits\\/benefitsCard\\/getInfo\\/v1\\?.*/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/booth\\/getBoothList\\/v1\\?.*showPositionCode=VWAPP_HOME_BUOY/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/booth\\/getBoothList\\/v1\\?.*showPositionCode=VWAPP_(ICE|MEB)_(OPEN_SCREEN_ADS|CAR_ZHIHU_COLLEGE)/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/booth\\/getBoothList\\/v1\\?.*showPositionCode=VWAPP_(ICE|MEB)_HOME_(OWNER_BANNER|PROSPECTS_BANNER|CUSTOM_BANNER|KONGO|CUSTOM_KONGO)/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/(customize\\/getCustomizePageName|recommend\\/getRecommendInfoFlows|activity\\/getSquareActivityList|theme\\/getThemeList|post\\/getPostsByTags|evaluate\\/getEvaluateCards)\\/v1\\?.*/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: [] }\")\nresponse if ${url} ~= /^https?:\\/\\/oneapp-api\\.faw-vw\\.com\\/content\\/(collection\\/getCollectionList)\\/v1\\?.*/i then response.json.jq(\". = { returnStatus: \\\"SUCCEED\\\", hasMore: false, data: {} }\")\n\n[MITM]\nhostname = %APPEND% oneapp-api.faw-vw.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

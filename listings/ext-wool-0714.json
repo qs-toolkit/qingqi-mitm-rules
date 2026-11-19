@@ -7,7 +7,7 @@
   "name": "智行APP",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ed334e771b2245cf4c78312db10f28386df7301b88c554dbb8c389ff3f90fd18",
+  "revisionId": "e5df1faff6769c7efbc6d1978f2270077c7d299247cd8a97927bc3b22b081ad1",
   "author": "fmz200",
   "updatedAt": 1795094539282,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ed334e771b2245cf4c78312db10f28386df7301b88c554dbb8c389ff3f90fd18"
+    "e5df1faff6769c7efbc6d1978f2270077c7d299247cd8a97927bc3b22b081ad1"
   ]
 }

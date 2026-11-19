@@ -7,7 +7,7 @@
   "name": "快影去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "dd7850d63baabcb87bc346a5ee3918a6c0c1824ffd2499061815160bf4d8bb5d",
+  "revisionId": "2d61772f80393b8a2e5094d01889575d65b37d7a9360f06474fbfeb64f54f1eb",
   "author": "ClashModule",
   "updatedAt": 1795094539069,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "dd7850d63baabcb87bc346a5ee3918a6c0c1824ffd2499061815160bf4d8bb5d"
+    "2d61772f80393b8a2e5094d01889575d65b37d7a9360f06474fbfeb64f54f1eb"
   ]
 }

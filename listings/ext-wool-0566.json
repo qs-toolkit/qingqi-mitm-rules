@@ -7,7 +7,7 @@
   "name": "希沃白板5",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "69aad9074a6490c360e446461f22912a2feaea91c8ef0962ab3b02ea042a1b1f",
+  "revisionId": "4119b1f4d5e4cb7ecf6e216ec4ed031af8a72b2ef2552a3fb656b11130745b73",
   "author": "fmz200",
   "updatedAt": 1795094539261,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "69aad9074a6490c360e446461f22912a2feaea91c8ef0962ab3b02ea042a1b1f"
+    "4119b1f4d5e4cb7ecf6e216ec4ed031af8a72b2ef2552a3fb656b11130745b73"
   ]
 }

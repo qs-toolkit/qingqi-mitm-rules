@@ -7,7 +7,7 @@
   "name": "omofun",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8a3c50aebb0195977d7189db69e2870b515cd1863d56c18e5710e4e62da4d464",
+  "revisionId": "58a5bef7a25beab9db15f351d86617d56c69d25375afcd694e6a297015f05590",
   "author": "fmz200",
   "updatedAt": 1795094539236,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8a3c50aebb0195977d7189db69e2870b515cd1863d56c18e5710e4e62da4d464"
+    "58a5bef7a25beab9db15f351d86617d56c69d25375afcd694e6a297015f05590"
   ]
 }

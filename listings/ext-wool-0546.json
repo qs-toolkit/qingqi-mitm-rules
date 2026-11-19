@@ -7,7 +7,7 @@
   "name": "网上国网",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "63578e24bbc4979d01c94f68c053ff46328831ab3480cf5c5d14edefb490a2e6",
+  "revisionId": "beb0f5742e537f2014ef5b0a3aef6f6cf81eaf2996c1b7189e128e5214a410b3",
   "author": "fmz200",
   "updatedAt": 1795094539258,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "63578e24bbc4979d01c94f68c053ff46328831ab3480cf5c5d14edefb490a2e6"
+    "beb0f5742e537f2014ef5b0a3aef6f6cf81eaf2996c1b7189e128e5214a410b3"
   ]
 }

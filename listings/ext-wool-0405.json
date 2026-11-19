@@ -7,7 +7,7 @@
   "name": "QQ音乐",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7a1193aa0c2c9ab33ff4fc7e01171787e12a433fe1bef8c65927b79ae5b3eec2",
+  "revisionId": "f12e079b21a2500c1bc9975aee472ebfae4799bccd32d7a58848d9025964a931",
   "author": "fmz200",
   "updatedAt": 1795094539239,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7a1193aa0c2c9ab33ff4fc7e01171787e12a433fe1bef8c65927b79ae5b3eec2"
+    "f12e079b21a2500c1bc9975aee472ebfae4799bccd32d7a58848d9025964a931"
   ]
 }

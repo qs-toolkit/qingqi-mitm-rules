@@ -7,7 +7,7 @@
   "name": "识货",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cc7c5b4f742975f3b2ed1b0e9e91eeefefee80685a8fce677db90710b165a663",
+  "revisionId": "556e21645fbc0df41262a5aa8813302dc770803f09c90b21c3804ca61341c376",
   "author": "fmz200",
   "updatedAt": 1795094539246,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "cc7c5b4f742975f3b2ed1b0e9e91eeefefee80685a8fce677db90710b165a663"
+    "556e21645fbc0df41262a5aa8813302dc770803f09c90b21c3804ca61341c376"
   ]
 }

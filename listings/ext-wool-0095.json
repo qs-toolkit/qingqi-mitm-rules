@@ -7,7 +7,7 @@
   "name": "CSDN",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3702db027549f346206929fee5d1cba1f80cd577170bc4245b0d5cf383117e78",
+  "revisionId": "917a57a7c69ee522fead21c2628187d64b792d9db7087b46455dc61da027acc4",
   "author": "fmz200",
   "updatedAt": 1795094539195,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3702db027549f346206929fee5d1cba1f80cd577170bc4245b0d5cf383117e78"
+    "917a57a7c69ee522fead21c2628187d64b792d9db7087b46455dc61da027acc4"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "网易严选",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "939e717bce18a053c8ff1cd731387a835bb56581f6a1163f172e417197fb45b3",
+  "revisionId": "ff476aa61d96f83f3ee66439380889ba58d1f15276608376fd0672d5545bf8ab",
   "author": "fmz200",
   "updatedAt": 1795094539257,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "939e717bce18a053c8ff1cd731387a835bb56581f6a1163f172e417197fb45b3"
+    "ff476aa61d96f83f3ee66439380889ba58d1f15276608376fd0672d5545bf8ab"
   ]
 }

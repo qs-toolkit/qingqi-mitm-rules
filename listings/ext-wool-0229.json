@@ -7,7 +7,7 @@
   "name": "华彩生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b061d98d898c1dcf3d02be7531259c93e8fe424b87fec268e619139ed8713ce4",
+  "revisionId": "c54516060ff07a01b638022edce8ceb97913b5df26713a42d228b5e95a84b02d",
   "author": "fmz200",
   "updatedAt": 1795094539215,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b061d98d898c1dcf3d02be7531259c93e8fe424b87fec268e619139ed8713ce4"
+    "c54516060ff07a01b638022edce8ceb97913b5df26713a42d228b5e95a84b02d"
   ]
 }

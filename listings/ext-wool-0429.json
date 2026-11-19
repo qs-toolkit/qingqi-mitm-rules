@@ -7,7 +7,7 @@
   "name": "首旅如家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "21439e02741db5c22b22f3e9d21ab7e67075f1eb78bc69fe5adae414e9221971",
+  "revisionId": "62571021ce572dc33b5d3155dc85abe9425f5e81560fcdefca03f421e1f027dd",
   "author": "fmz200",
   "updatedAt": 1795094539243,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "21439e02741db5c22b22f3e9d21ab7e67075f1eb78bc69fe5adae414e9221971"
+    "62571021ce572dc33b5d3155dc85abe9425f5e81560fcdefca03f421e1f027dd"
   ]
 }

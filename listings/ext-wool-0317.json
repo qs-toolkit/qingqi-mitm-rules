@@ -7,7 +7,7 @@
   "name": "lofter",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "578676b7bd2a55a0db849324e96a012990b199bc3479db4be85008a107ae6b91",
+  "revisionId": "69c10c08134e1a2aef039218d41dd0658fb0cddec7c45ffbc03d742b736cc485",
   "author": "fmz200",
   "updatedAt": 1795094539227,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "578676b7bd2a55a0db849324e96a012990b199bc3479db4be85008a107ae6b91"
+    "69c10c08134e1a2aef039218d41dd0658fb0cddec7c45ffbc03d742b736cc485"
   ]
 }

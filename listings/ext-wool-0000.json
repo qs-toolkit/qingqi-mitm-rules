@@ -7,7 +7,7 @@
   "name": "Auto_Join_TF",
   "description": "fmz200/wool_scripts · Surge",
   "scope": [],
-  "revisionId": "effaf1a399e37b2010b69ce3db87a001f2e93439ed791aae7c2ac65767a28048",
+  "revisionId": "e51b5e4def58d09de1101e128c08b05388e1986ad9e891e51f64645f79cb2725",
   "author": "fmz200",
   "updatedAt": 1795094539176,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "effaf1a399e37b2010b69ce3db87a001f2e93439ed791aae7c2ac65767a28048"
+    "e51b5e4def58d09de1101e128c08b05388e1986ad9e891e51f64645f79cb2725"
   ]
 }

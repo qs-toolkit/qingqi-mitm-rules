@@ -7,7 +7,7 @@
   "name": "雪球",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "dfeb29daeb4be1b5f9ea0e793576e945e926ab4d4a7b7ae8f7820daa3c90ca77",
+  "revisionId": "e1752553c77441768be3bc078be444bf40a051f57521710f94ee40e6eead318e",
   "author": "fmz200",
   "updatedAt": 1795094539268,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "dfeb29daeb4be1b5f9ea0e793576e945e926ab4d4a7b7ae8f7820daa3c90ca77"
+    "e1752553c77441768be3bc078be444bf40a051f57521710f94ee40e6eead318e"
   ]
 }

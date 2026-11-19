@@ -7,7 +7,7 @@
   "name": "向日葵",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ad45a935de41252ac6fcb1ea264305de2d9e296e25ff389b584cb10dafe9f80c",
+  "revisionId": "a178d603254ae0445200df8c27b877adf3506405fc947b210407e7f2d12db018",
   "author": "fmz200",
   "updatedAt": 1795094539262,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "ad45a935de41252ac6fcb1ea264305de2d9e296e25ff389b584cb10dafe9f80c"
+    "a178d603254ae0445200df8c27b877adf3506405fc947b210407e7f2d12db018"
   ]
 }

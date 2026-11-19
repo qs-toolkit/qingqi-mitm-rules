@@ -7,7 +7,7 @@
   "name": "配音秀去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8b2cad3e0489075a1de23b422d063fdd4692b60a26dfb5829594c3e347bf9fed",
+  "revisionId": "1bbeb625df45f910a19011efb2a3aec7d5b0566d7cbe2cd435ef10aca9eb0914",
   "author": "ClashModule",
   "updatedAt": 1795094539098,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "8b2cad3e0489075a1de23b422d063fdd4692b60a26dfb5829594c3e347bf9fed"
+    "1bbeb625df45f910a19011efb2a3aec7d5b0566d7cbe2cd435ef10aca9eb0914"
   ]
 }

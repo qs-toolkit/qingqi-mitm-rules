@@ -7,7 +7,7 @@
   "name": "米游社",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3c6cd4036b4fe31d1de174248adf71a9875981f5aadccc98bd6556b54dc7e47e",
+  "revisionId": "7955bab48cb7cced3e50d6010f4e474472032b6ecb59825e42bc8655d0c578a0",
   "author": "fmz200",
   "updatedAt": 1795094539261,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3c6cd4036b4fe31d1de174248adf71a9875981f5aadccc98bd6556b54dc7e47e"
+    "7955bab48cb7cced3e50d6010f4e474472032b6ecb59825e42bc8655d0c578a0"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "小蚕霸王餐",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4123b2a0216c144ec0cf2e7eb811188f950de45a0bc8b4c61262d7a538b93017",
+  "revisionId": "6e5079d41353d00e5d31dda93d8d73d0cf864ee68d6baa8afd90367b97fb0f36",
   "author": "fmz200",
   "updatedAt": 1795094539264,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4123b2a0216c144ec0cf2e7eb811188f950de45a0bc8b4c61262d7a538b93017"
+    "6e5079d41353d00e5d31dda93d8d73d0cf864ee68d6baa8afd90367b97fb0f36"
   ]
 }

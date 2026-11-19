@@ -7,7 +7,7 @@
   "name": "快捷搜索",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "dafba31b90e61f1770ed806b81aff580673760326b38a09d81f5d0e195d021d5",
+  "revisionId": "54360c00c856ca2fc6870aa1634812e981c3cef31ae770407cbbe3219c6a85db",
   "author": "ClashModule",
   "updatedAt": 1795094539070,
   "targets": [],
@@ -18,6 +18,6 @@
     "QuantumultX"
   ],
   "revisions": [
-    "dafba31b90e61f1770ed806b81aff580673760326b38a09d81f5d0e195d021d5"
+    "54360c00c856ca2fc6870aa1634812e981c3cef31ae770407cbbe3219c6a85db"
   ]
 }

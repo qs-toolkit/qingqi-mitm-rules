@@ -7,7 +7,7 @@
   "name": "ECOVACS HOME去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4026e9763b3d43751c9148a5f3bc70e67488e55263190e1ec7cb44accadf1c08",
+  "revisionId": "8626a34269de1263d36b6abb7b587c5a64b86885855c8beb289f29820d9dbd84",
   "author": "ClashModule",
   "updatedAt": 1795094539036,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "4026e9763b3d43751c9148a5f3bc70e67488e55263190e1ec7cb44accadf1c08"
+    "8626a34269de1263d36b6abb7b587c5a64b86885855c8beb289f29820d9dbd84"
   ]
 }

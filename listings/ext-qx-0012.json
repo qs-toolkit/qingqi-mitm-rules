@@ -7,7 +7,7 @@
   "name": "代理链路检测",
   "description": "一款支持Surge、QuantumultX、Loon的节点代理链路检测模块 · Surge",
   "scope": [],
-  "revisionId": "02d9b876ac4835e54c14455a9e2778e3c15e5b692c8a680455e08a13fd242563",
+  "revisionId": "ebdf25d23a0f6f8f1374d364a9c9003106d7006fea0a0f2fbb0733ca5b14719c",
   "author": "I-am-R-E",
   "updatedAt": 1795094539109,
   "targets": [],
@@ -17,6 +17,6 @@
     "QuantumultX"
   ],
   "revisions": [
-    "02d9b876ac4835e54c14455a9e2778e3c15e5b692c8a680455e08a13fd242563"
+    "ebdf25d23a0f6f8f1374d364a9c9003106d7006fea0a0f2fbb0733ca5b14719c"
   ]
 }

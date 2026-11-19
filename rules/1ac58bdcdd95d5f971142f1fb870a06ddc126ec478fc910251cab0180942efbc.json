@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "云鲸智能去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=云鲸智能去广告\n#!desc=移除开屏广告、横幅推广，禁用商城。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/NarwelRobots.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id1462004352\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2026-02-27 22:23:04\n#!format=sgmodule\n\n[Map Local]\n^https:\\/\\/cn-app\\.narwaltech\\.com\\/operate\\/appPosition\\/listSplash\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n^https:\\/\\/cn-app\\.narwaltech\\.com\\/operate\\/cactivity\\/listByResourceIds\\?resourceIds=(user_center_banner|index_banner) data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n^https:\\/\\/store\\.narwal\\.com\\/mall\\/customPage\\/getByPageKeyword\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[MITM]\nhostname = %APPEND% cn-app.narwaltech.com, store.narwal.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

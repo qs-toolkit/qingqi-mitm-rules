@@ -7,7 +7,7 @@
   "name": "广告拦截&净化合集",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "eb80a64f3309143cdebf1ea1da7d4570a86c3df4c507b28e3c586a9ce2b1985e",
+  "revisionId": "d65031ccbec11c70e75fb6312b5670db63938e5e421dc15d3579d70ab6b6fd3c",
   "author": "fmz200",
   "updatedAt": 1795094539182,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "eb80a64f3309143cdebf1ea1da7d4570a86c3df4c507b28e3c586a9ce2b1985e"
+    "d65031ccbec11c70e75fb6312b5670db63938e5e421dc15d3579d70ab6b6fd3c"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "一刻相册去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fa911f7e7758832ca57c5676986a75621ec90721e499614d0279bdb8f9ae75a9",
+  "revisionId": "a3c60a3454dba28337fcd827d592d3110f10eec9a112b68a4f5a691fd881d4a0",
   "author": "ClashModule",
   "updatedAt": 1795094539049,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fa911f7e7758832ca57c5676986a75621ec90721e499614d0279bdb8f9ae75a9"
+    "a3c60a3454dba28337fcd827d592d3110f10eec9a112b68a4f5a691fd881d4a0"
   ]
 }

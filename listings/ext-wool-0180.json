@@ -7,7 +7,7 @@
   "name": "盖得排行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bce36c7ecb34c933016bffe3ebcae5ecbd2a41ba95f3cb1a0670e0ff6206ff76",
+  "revisionId": "950c365d69deaf320513899baf8f6f582772ea13e930d35239cfc42aac724a56",
   "author": "fmz200",
   "updatedAt": 1795094539206,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "bce36c7ecb34c933016bffe3ebcae5ecbd2a41ba95f3cb1a0670e0ff6206ff76"
+    "950c365d69deaf320513899baf8f6f582772ea13e930d35239cfc42aac724a56"
   ]
 }

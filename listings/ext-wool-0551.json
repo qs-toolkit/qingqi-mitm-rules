@@ -7,7 +7,7 @@
   "name": "Weico(微博客户端)",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "eada63803cef410756b750ccd458f011235510f3a0b4358155c6f608a14c8080",
+  "revisionId": "670df790882e4e30800d08a720156a85db2f57aa39a3e01975517bcd202cc091",
   "author": "fmz200",
   "updatedAt": 1795094539259,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "eada63803cef410756b750ccd458f011235510f3a0b4358155c6f608a14c8080"
+    "670df790882e4e30800d08a720156a85db2f57aa39a3e01975517bcd202cc091"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "叮咚买菜去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8ba7bdc76aa545e5c48b8a77e84a0acfcf7495ff8a59636e32d7ea04661fe456",
+  "revisionId": "14342b1aeb371a0eccdad537c242d93fef4d466c7c40ebe1ea1f7a4143c77f80",
   "author": "ClashModule",
   "updatedAt": 1795094539055,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "8ba7bdc76aa545e5c48b8a77e84a0acfcf7495ff8a59636e32d7ea04661fe456"
+    "14342b1aeb371a0eccdad537c242d93fef4d466c7c40ebe1ea1f7a4143c77f80"
   ]
 }

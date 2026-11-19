@@ -7,7 +7,7 @@
   "name": "网易邮箱大师去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "860049590b0c7fef1c5f701d4b382bbe055f572abe79df5789b231b73e5413bf",
+  "revisionId": "c7194b5184b306d438502843b206b07062ee578dcca4c598a2cdfcab981920f9",
   "author": "ClashModule",
   "updatedAt": 1795094539089,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "860049590b0c7fef1c5f701d4b382bbe055f572abe79df5789b231b73e5413bf"
+    "c7194b5184b306d438502843b206b07062ee578dcca4c598a2cdfcab981920f9"
   ]
 }

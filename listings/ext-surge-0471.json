@@ -7,7 +7,7 @@
   "name": "顺丰速运去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "72b7b49f8c53deb81ba4cc9ea4b87d03f6611b3851dee3d844ba3927ba699ba3",
+  "revisionId": "eaed2663cc1313884314108e90e500d3b2dffdc69ac52a6983d40b505f61902e",
   "author": "ClashModule",
   "updatedAt": 1795094539102,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "72b7b49f8c53deb81ba4cc9ea4b87d03f6611b3851dee3d844ba3927ba699ba3"
+    "eaed2663cc1313884314108e90e500d3b2dffdc69ac52a6983d40b505f61902e"
   ]
 }

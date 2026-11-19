@@ -7,7 +7,7 @@
   "name": "Jump去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "3aa0af985b9354d1026769f922b5466c072b94c5d4466d8079efcb75ef56b876",
+  "revisionId": "f6d2794d1242aef24a7c1b803c9fc40f92a407f8313ef49b818a6e41774aca4a",
   "author": "ClashModule",
   "updatedAt": 1795094539039,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "3aa0af985b9354d1026769f922b5466c072b94c5d4466d8079efcb75ef56b876"
+    "f6d2794d1242aef24a7c1b803c9fc40f92a407f8313ef49b818a6e41774aca4a"
   ]
 }

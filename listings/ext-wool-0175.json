@@ -7,7 +7,7 @@
   "name": "光大银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "de4444d90018e48eb0dfa773a07d64b457f89321e769f76075ee12080987fc9a",
+  "revisionId": "3789d323845a000266c88a8002752cd859c1aa18ff8dba0e390a58d6ac7206e0",
   "author": "fmz200",
   "updatedAt": 1795094539206,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "de4444d90018e48eb0dfa773a07d64b457f89321e769f76075ee12080987fc9a"
+    "3789d323845a000266c88a8002752cd859c1aa18ff8dba0e390a58d6ac7206e0"
   ]
 }

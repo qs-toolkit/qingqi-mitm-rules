@@ -7,7 +7,7 @@
   "name": "飞客去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b906b44f9fd35b3b97b679dddf41d584a26f7cef892ab7a6cbfaac175e5b9e43",
+  "revisionId": "d73c550fe430650984f24370526f64a31bc53d9880ee63c8789d929a63151808",
   "author": "ClashModule",
   "updatedAt": 1795094539102,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b906b44f9fd35b3b97b679dddf41d584a26f7cef892ab7a6cbfaac175e5b9e43"
+    "d73c550fe430650984f24370526f64a31bc53d9880ee63c8789d929a63151808"
   ]
 }

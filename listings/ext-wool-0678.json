@@ -7,7 +7,7 @@
   "name": "中国银行 缤纷生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "667ba304735a363142e816c2ec1c66f52a2b119958eaf3c3971b96a88c0edb43",
+  "revisionId": "ef9d31ef469b2a11d01b1b1868a86d8ff690021ba920741ac2b2e3bfe1e6094a",
   "author": "fmz200",
   "updatedAt": 1795094539277,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "667ba304735a363142e816c2ec1c66f52a2b119958eaf3c3971b96a88c0edb43"
+    "ef9d31ef469b2a11d01b1b1868a86d8ff690021ba920741ac2b2e3bfe1e6094a"
   ]
 }

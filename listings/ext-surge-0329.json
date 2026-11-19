@@ -7,7 +7,7 @@
   "name": "瑞幸咖啡去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "5978f0995b12e5fa91c871978e3b79c84d6810f99811cc50442c249b39fd4304",
+  "revisionId": "fc7fe06f4dfca2e98d32d9f0d08371b11f14ab714ce21969e058c449c3f2269c",
   "author": "ClashModule",
   "updatedAt": 1795094539082,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "5978f0995b12e5fa91c871978e3b79c84d6810f99811cc50442c249b39fd4304"
+    "fc7fe06f4dfca2e98d32d9f0d08371b11f14ab714ce21969e058c449c3f2269c"
   ]
 }

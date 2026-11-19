@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "360智慧生活去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=360智慧生活去广告\n#!desc=移除开屏广告、首页推广横幅、商城入口及我的页面推广。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/SafetyHome.png\n#!category=iKeLee\n#!openUrl=https://apps.apple.com/app/id1488904375\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-05-13 15:17:08\n#!format=sgmodule\n\n[Map Local]\n^https:\\/\\/app\\.home\\.360\\.cn\\/v1\\/config\\/custom_config data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[Rule]\nDOMAIN,ad.iot.360.cn,REJECT,extended-matching,pre-matching\n\n[MITM]\nhostname = %APPEND% app.home.360.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

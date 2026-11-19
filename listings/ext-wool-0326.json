@@ -7,7 +7,7 @@
   "name": "马达出行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3ece361c63d3ea02aae8b93337d1441602504e167eff74cfbc909766665455e2",
+  "revisionId": "7ed4f32c1d51de1132aef5ed5a01f0fc99615fe37538f62268ba19689271df27",
   "author": "fmz200",
   "updatedAt": 1795094539229,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3ece361c63d3ea02aae8b93337d1441602504e167eff74cfbc909766665455e2"
+    "7ed4f32c1d51de1132aef5ed5a01f0fc99615fe37538f62268ba19689271df27"
   ]
 }

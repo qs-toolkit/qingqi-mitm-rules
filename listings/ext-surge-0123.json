@@ -7,7 +7,7 @@
   "name": "书旗小说去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "11206512f8519b2ba06f811a093ad1ea57452211ca652bf8101fd7f3f94f5def",
+  "revisionId": "7237f450e8b9a18e97fe87b70cd61780fc4e814a685c94759475d48114a0390d",
   "author": "ClashModule",
   "updatedAt": 1795094539051,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "11206512f8519b2ba06f811a093ad1ea57452211ca652bf8101fd7f3f94f5def"
+    "7237f450e8b9a18e97fe87b70cd61780fc4e814a685c94759475d48114a0390d"
   ]
 }

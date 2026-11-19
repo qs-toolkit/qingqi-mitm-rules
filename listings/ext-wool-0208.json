@@ -7,7 +7,7 @@
   "name": "海豚优惠",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "af9ccd8c3d6650c8ac5e3fa73a75719f9268e3e9b2ef459b09908b33854affda",
+  "revisionId": "2561342f5c9bf25543d9e74051424145700d564a04f209052223e93bf49b8331",
   "author": "fmz200",
   "updatedAt": 1795094539213,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "af9ccd8c3d6650c8ac5e3fa73a75719f9268e3e9b2ef459b09908b33854affda"
+    "2561342f5c9bf25543d9e74051424145700d564a04f209052223e93bf49b8331"
   ]
 }

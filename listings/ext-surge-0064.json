@@ -7,7 +7,7 @@
   "name": "SDGun 社区 Tablet 访问",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b5e4b76b699ffc15a63b5e195b789f4657c00b82a52e936953b1be08a1ff4de5",
+  "revisionId": "7394353066bb5b098e0127e527c2ec836f18fd34247ccadcf8e519aa98da7756",
   "author": "ClashModule",
   "updatedAt": 1795094539042,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b5e4b76b699ffc15a63b5e195b789f4657c00b82a52e936953b1be08a1ff4de5"
+    "7394353066bb5b098e0127e527c2ec836f18fd34247ccadcf8e519aa98da7756"
   ]
 }

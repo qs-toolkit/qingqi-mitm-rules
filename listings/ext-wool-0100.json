@@ -7,7 +7,7 @@
   "name": "财新网",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "eca16c2e36b377341f83fe59afd4513a2a03feba6bd9c7c0c1540f937b2d3919",
+  "revisionId": "e077fdd99be9209f2d9244fa6865b43a3efdfe86e8ac783a1cdfb0a74f90748e",
   "author": "fmz200",
   "updatedAt": 1795094539195,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "eca16c2e36b377341f83fe59afd4513a2a03feba6bd9c7c0c1540f937b2d3919"
+    "e077fdd99be9209f2d9244fa6865b43a3efdfe86e8ac783a1cdfb0a74f90748e"
   ]
 }

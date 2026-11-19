@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "京东去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=京东去广告\n#!desc=移除京东开屏广告，精简我的页面产品推广。\n#!author=RuCu6[https://github.com/RuCu6], Maasea[https://github.com/Maasea]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/JD.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id414245413\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-05-13 15:17:08\n#!format=sgmodule\n\n[Script]\n移除京东广告 = type=http-response, pattern=^https:\\/\\/api\\.m\\.jd\\.com\\/client\\.action\\?functionId=(deliverLayer|getTabHomeInfo|myOrderInfo|orderTrackBusiness|personinfoBusiness|start|welcomeHome), script-path=https://kelee.one/Resource/JavaScript/JD/JD_remove_ads.js, requires-body=true\n\n[Map Local]\n^https:\\/\\/api\\.m\\.jd\\.com\\/client\\.action\\?functionId=(searchBoxWord|stationPullService|uniformRecommend[06]) data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/api\\.m\\.jd\\.com\\/client\\.action\\?functionId=basicConfig 'if (getpath([\"data\",\"JDMessage\",\"socketmonitor\"]) | has(\"isSocketEstablishedAhead\")) then (setpath([\"data\",\"JDMessage\",\"socketmonitor\",\"isSocketEstablishedAhead\"]; 0)) else . end'\nhttp-response-jq ^https:\\/\\/api\\.m\\.jd\\.com\\/client\\.action\\?functionId=basicConfig 'if (getpath([\"data\",\"JDMessage\",\"socketmonitor\"]) | has(\"isSocketReport\")) then (setpath([\"data\",\"JDMessage\",\"socketmonitor\",\"isSocketReport\"]; 0)) else . end'\nhttp-response-jq ^https:\\/\\/api\\.m\\.jd\\.com\\/client\\.action\\?functionId=basicConfig 'if (getpath([\"data\",\"JDHttpToolKit\",\"httpdns\"]) | has(\"httpdns\")) then (setpath([\"data\",\"JDHttpToolKit\",\"httpdns\",\"httpdns\"]; 0)) else . end'\n\n[Rule]\nURL-REGEX,\"^http:\\/\\/\\w{32}\\.jddebug\\.com\\/diagnose\\?\",REJECT,extended-matching\n\n[MITM]\nhostname = %APPEND% api.m.jd.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -7,7 +7,7 @@
   "name": "萝卜快跑去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b6c8638ecc38fac8cdfaa3a32993cf4ce876bb3d4348f7458a5068e08570410e",
+  "revisionId": "b56f2e0eda792868d2347ce6396a30efdcdd9ee64ea6431301500adf0189d51b",
   "author": "ClashModule",
   "updatedAt": 1795094539093,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b6c8638ecc38fac8cdfaa3a32993cf4ce876bb3d4348f7458a5068e08570410e"
+    "b56f2e0eda792868d2347ce6396a30efdcdd9ee64ea6431301500adf0189d51b"
   ]
 }

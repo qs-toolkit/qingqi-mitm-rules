@@ -7,7 +7,7 @@
   "name": "哈富证券",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "df4200b06b2f6b1119a40d0d82915442008bf07b5953be3cebd886816dd6de7e",
+  "revisionId": "f1245c30165271f285499c05950d35ee0bfa759ff4aae4c5f3b45b2b7a46e448",
   "author": "fmz200",
   "updatedAt": 1795094539212,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "df4200b06b2f6b1119a40d0d82915442008bf07b5953be3cebd886816dd6de7e"
+    "f1245c30165271f285499c05950d35ee0bfa759ff4aae4c5f3b45b2b7a46e448"
   ]
 }

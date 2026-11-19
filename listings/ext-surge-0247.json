@@ -7,7 +7,7 @@
   "name": "快看漫画去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9cca4f169830dc844c3a69e543b19912f8bbdff63ea0916f1ca7dd1409dcd853",
+  "revisionId": "cc28f64c5582b31372396d34300fb4ece1856ca2c2f91fca30faf81b713f8fa4",
   "author": "ClashModule",
   "updatedAt": 1795094539070,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "9cca4f169830dc844c3a69e543b19912f8bbdff63ea0916f1ca7dd1409dcd853"
+    "cc28f64c5582b31372396d34300fb4ece1856ca2c2f91fca30faf81b713f8fa4"
   ]
 }

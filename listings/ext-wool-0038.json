@@ -7,7 +7,7 @@
   "name": "爱桐乡",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "53d3d46c4734f9702a78e0b5c982a8e5a23a5bad2828914f43c5182d24e3154b",
+  "revisionId": "b45c355d9374d272bd652712961a4befcdb9103a60cc04e352cacd38403464b1",
   "author": "fmz200",
   "updatedAt": 1795094539186,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "53d3d46c4734f9702a78e0b5c982a8e5a23a5bad2828914f43c5182d24e3154b"
+    "b45c355d9374d272bd652712961a4befcdb9103a60cc04e352cacd38403464b1"
   ]
 }

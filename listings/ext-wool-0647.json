@@ -7,7 +7,7 @@
   "name": "一起考教师",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bf2d5d10843cb152456d226a54aa416db56f871a9ca1cc8324e20c31839554c5",
+  "revisionId": "282f4cb572b600f3d373413a515bf31406ba874e8e21df4a9639cc29c1e79c31",
   "author": "fmz200",
   "updatedAt": 1795094539272,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bf2d5d10843cb152456d226a54aa416db56f871a9ca1cc8324e20c31839554c5"
+    "282f4cb572b600f3d373413a515bf31406ba874e8e21df4a9639cc29c1e79c31"
   ]
 }

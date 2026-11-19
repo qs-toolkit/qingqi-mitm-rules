@@ -7,7 +7,7 @@
   "name": "一号店",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9fee8f23389fd218d9d9c667e235615609076bba1d58ce5496e41c8b4c4c452f",
+  "revisionId": "dab6479095592750efc35e9583d66eaf9a649c8a10f8e0d56279b3d8e7533fe0",
   "author": "fmz200",
   "updatedAt": 1795094539272,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9fee8f23389fd218d9d9c667e235615609076bba1d58ce5496e41c8b4c4c452f"
+    "dab6479095592750efc35e9583d66eaf9a649c8a10f8e0d56279b3d8e7533fe0"
   ]
 }

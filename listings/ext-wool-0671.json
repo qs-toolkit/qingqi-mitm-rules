@@ -7,7 +7,7 @@
   "name": "猿辅导",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f804cb62a8c750ffe6fd19bbb0fb2237802080851aa6137b1b61f0ae23d8e6c9",
+  "revisionId": "f03ba01ab0e576e498a20e3d39f6df148cd6c0cd0f8b814c100962d8079cbac6",
   "author": "fmz200",
   "updatedAt": 1795094539276,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f804cb62a8c750ffe6fd19bbb0fb2237802080851aa6137b1b61f0ae23d8e6c9"
+    "f03ba01ab0e576e498a20e3d39f6df148cd6c0cd0f8b814c100962d8079cbac6"
   ]
 }

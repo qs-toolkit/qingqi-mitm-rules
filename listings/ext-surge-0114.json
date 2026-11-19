@@ -7,7 +7,7 @@
   "name": "中国人保去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "275891bfc40dbdbdaf5fe13fc26952cef0fc7ad24c5f4b468ce8eed4484e0d11",
+  "revisionId": "cff156363eca75367971e1d3df4aac11d9800c4d5d3a6dc24e72a99e2a55b23f",
   "author": "ClashModule",
   "updatedAt": 1795094539050,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "275891bfc40dbdbdaf5fe13fc26952cef0fc7ad24c5f4b468ce8eed4484e0d11"
+    "cff156363eca75367971e1d3df4aac11d9800c4d5d3a6dc24e72a99e2a55b23f"
   ]
 }

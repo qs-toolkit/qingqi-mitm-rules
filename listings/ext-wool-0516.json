@@ -7,7 +7,7 @@
   "name": "Top Widgets",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "db15799250d2f6b4ca8577c9e4939765b0fbbab409320bc8b1038dab7e2468f4",
+  "revisionId": "42e830e34fb6fdc32e2b9c59bf7f178df7d2a089864e1edac0cdf90366046576",
   "author": "fmz200",
   "updatedAt": 1795094539254,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "db15799250d2f6b4ca8577c9e4939765b0fbbab409320bc8b1038dab7e2468f4"
+    "42e830e34fb6fdc32e2b9c59bf7f178df7d2a089864e1edac0cdf90366046576"
   ]
 }

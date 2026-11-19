@@ -7,7 +7,7 @@
   "name": "阿里 DNS",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "3bf0493409cc26a2bf469f443f0b389af641c12341e09f0799ff4bc5a2332ee0",
+  "revisionId": "e3b9ae3630aa67fdde211b0c6d4b806b3425109bd7a3b224f239e59c499bb94f",
   "author": "ClashModule",
   "updatedAt": 1795094539101,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "3bf0493409cc26a2bf469f443f0b389af641c12341e09f0799ff4bc5a2332ee0"
+    "e3b9ae3630aa67fdde211b0c6d4b806b3425109bd7a3b224f239e59c499bb94f"
   ]
 }

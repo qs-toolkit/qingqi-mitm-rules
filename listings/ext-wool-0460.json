@@ -7,7 +7,7 @@
   "name": "搜电充电",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2527bab49b8f74be1f8e56088a905dc98502995e7adfd4c23d28748608357a6c",
+  "revisionId": "f9df1c43b541e6c9d730a6d7f71dae69615284ebac3820401827fa24e30063eb",
   "author": "fmz200",
   "updatedAt": 1795094539247,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2527bab49b8f74be1f8e56088a905dc98502995e7adfd4c23d28748608357a6c"
+    "f9df1c43b541e6c9d730a6d7f71dae69615284ebac3820401827fa24e30063eb"
   ]
 }

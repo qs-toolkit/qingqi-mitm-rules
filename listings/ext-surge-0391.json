@@ -7,7 +7,7 @@
   "name": "美食杰去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "35ccc5ca9c8123fa1259771840660e6fbf768bbdba6773478f7119b62ee9298d",
+  "revisionId": "3766dfa372ba3edab123d78749aeaa25736f8d5c16ba7adc1091b9f7aef8993d",
   "author": "ClashModule",
   "updatedAt": 1795094539090,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "35ccc5ca9c8123fa1259771840660e6fbf768bbdba6773478f7119b62ee9298d"
+    "3766dfa372ba3edab123d78749aeaa25736f8d5c16ba7adc1091b9f7aef8993d"
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "SDGun 社区去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=SDGun 社区去广告\n#!desc=去开屏, 轮播等\n#!category=xream\n#!format=sgmodule\n\n[Map Local]\n^https?:\\/\\/mag1\\.sdgun\\.net\\/mag\\/operative\\/v1\\/ad\\/listNotEndByPlace data-type=text data='{\"success\":true,\"code\":100,\"msg\":null,\"list\":[]}' header='Content-Type:application/json'\n^https?:\\/\\/mag1\\.sdgun\\.net\\/mag\\/operative\\/v1\\/Ad\\/listNotEndByPlaceWap data-type=text data='{\"success\":true,\"code\":100,\"data\":{\"themeTop\":[],\"wap_topic_content_ad\":[],\"themeBottom\":[],\"appThemeTopStyle\":\"1\",\"userBehindAdStyle\":\"1\",\"appThemeBottom\":[],\"cloud_ad_type\":\"\",\"commentTop\":[],\"userBehindAd\":[],\"themeTopStyle\":\"1\",\"appThemeTop\":[],\"appThemeBottomStyle\":\"1\"},\"msg\":null}' header='Content-Type:application/json'\n\n[Body Rewrite]\nhttp-response-jq ^https?:\\/\\/mag1\\.sdgun\\.net\\/mag\\/info\\/v2\\/channel\\/infoListByCatId '.list |= map(select(._type != \"pic_ad\"))'\nhttp-response-jq ^https?:\\/\\/mag1\\.sdgun\\.net\\/mag\\/circle\\/v2\\/forum\\/forumViewV2 '.list |= map(select(.info_list_ad_style_type != 1))'\nhttp-response-jq ^https?:\\/\\/mag1\\.sdgun\\.net\\/mag\\/circle\\/v4\\/show\\/showView 'del(.ads)'\n\n[MITM]\nhostname = %APPEND% mag1.sdgun.net\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

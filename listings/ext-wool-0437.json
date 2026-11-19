@@ -7,7 +7,7 @@
   "name": "山姆会员商店",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c962a142ac66a1aa8cad26d189ee40e6b76d1f2fb5ef732d9fa8a00d01683755",
+  "revisionId": "d58156395eb2bf027d9e1c40dc225e2072d7e6c41c5cbde87c16d0432f4f6cdb",
   "author": "fmz200",
   "updatedAt": 1795094539244,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c962a142ac66a1aa8cad26d189ee40e6b76d1f2fb5ef732d9fa8a00d01683755"
+    "d58156395eb2bf027d9e1c40dc225e2072d7e6c41c5cbde87c16d0432f4f6cdb"
   ]
 }

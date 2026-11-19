@@ -7,7 +7,7 @@
   "name": "e充电",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "715b7d28ee2873d5d12b81a74b6328b0b9960bd269d4507b1d497f464a96a5ac",
+  "revisionId": "d7f3910e7720441daab5661d2f82c442ef03256488ae59be510bd70c4a1a942c",
   "author": "fmz200",
   "updatedAt": 1795094539203,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "715b7d28ee2873d5d12b81a74b6328b0b9960bd269d4507b1d497f464a96a5ac"
+    "d7f3910e7720441daab5661d2f82c442ef03256488ae59be510bd70c4a1a942c"
   ]
 }

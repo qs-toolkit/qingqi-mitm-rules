@@ -7,7 +7,7 @@
   "name": "虎嗅",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5aedc4999dcd28fdacc2f849f8c1ea8b391d1eb1ad362cba1808e9dad3ae3dac",
+  "revisionId": "e099d558e853305a856e8cc28621c835948aa8953f3178ec07463e7ea54c51f2",
   "author": "fmz200",
   "updatedAt": 1795094539217,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5aedc4999dcd28fdacc2f849f8c1ea8b391d1eb1ad362cba1808e9dad3ae3dac"
+    "e099d558e853305a856e8cc28621c835948aa8953f3178ec07463e7ea54c51f2"
   ]
 }

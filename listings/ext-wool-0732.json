@@ -7,7 +7,7 @@
   "name": "微博去广告&净化",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4ef70e53bee1b817cd5f5fb7d8006d861be596c787d3c5c9c93120b2e820ec8f",
+  "revisionId": "6e491ac93485bea4cd351a27a7ac5a0bcf186fed0d65682c62023f8535fe48c3",
   "author": "fmz200",
   "updatedAt": 1795094539285,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4ef70e53bee1b817cd5f5fb7d8006d861be596c787d3c5c9c93120b2e820ec8f"
+    "6e491ac93485bea4cd351a27a7ac5a0bcf186fed0d65682c62023f8535fe48c3"
   ]
 }

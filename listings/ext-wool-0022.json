@@ -7,7 +7,7 @@
   "name": "500",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e06db7ff673caebdef95a9a65ba054c0a37b3b57a0fba80d8ee4ec2cd43c91bf",
+  "revisionId": "3dcf2ef609432047f508be6dfdeffd2fbc70630e1e86b18a4078be679a2d367e",
   "author": "fmz200",
   "updatedAt": 1795094539184,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e06db7ff673caebdef95a9a65ba054c0a37b3b57a0fba80d8ee4ec2cd43c91bf"
+    "3dcf2ef609432047f508be6dfdeffd2fbc70630e1e86b18a4078be679a2d367e"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "比亚迪王朝",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4515bcf09b82a252fbb68056be2fcd53fe9f43bf885fc4d3a401b8ecb8649147",
+  "revisionId": "e5785d1dd1f1299b2aba6f568a0ebfbe973fd549fad264692b5d41a005753532",
   "author": "fmz200",
   "updatedAt": 1795094539188,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4515bcf09b82a252fbb68056be2fcd53fe9f43bf885fc4d3a401b8ecb8649147"
+    "e5785d1dd1f1299b2aba6f568a0ebfbe973fd549fad264692b5d41a005753532"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "一刻相册",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a48022bd2e22de04e2dff656aa9f20a2df3e829e4dedd5a6390513c3c39b768e",
+  "revisionId": "900fc0eb4ccba56469020d15570535c606c3395405552d6bf3c7c9bdf2050182",
   "author": "fmz200",
   "updatedAt": 1795094539272,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a48022bd2e22de04e2dff656aa9f20a2df3e829e4dedd5a6390513c3c39b768e"
+    "900fc0eb4ccba56469020d15570535c606c3395405552d6bf3c7c9bdf2050182"
   ]
 }

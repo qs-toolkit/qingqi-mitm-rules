@@ -7,7 +7,7 @@
   "name": "百度文库去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "98be69c82e17e906b563ed2fccfdc016ddb354b03b91ab5f1ce398773a7dd76a",
+  "revisionId": "31da531ee584c785fdb086f97505e59189d2a1bdd0665b152748a7aee770de7c",
   "author": "ClashModule",
   "updatedAt": 1795094539083,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "98be69c82e17e906b563ed2fccfdc016ddb354b03b91ab5f1ce398773a7dd76a"
+    "31da531ee584c785fdb086f97505e59189d2a1bdd0665b152748a7aee770de7c"
   ]
 }

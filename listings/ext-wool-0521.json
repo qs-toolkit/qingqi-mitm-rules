@@ -7,7 +7,7 @@
   "name": "udn news",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1636314df963d49e258be353a28ce155a9dd53ce3b1d07f2aaa213a7587c147e",
+  "revisionId": "3e1891a84ef46487edfd7f4b2ade2350884fd3fd6e13cf983c66276e36ae9ce1",
   "author": "fmz200",
   "updatedAt": 1795094539255,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1636314df963d49e258be353a28ce155a9dd53ce3b1d07f2aaa213a7587c147e"
+    "3e1891a84ef46487edfd7f4b2ade2350884fd3fd6e13cf983c66276e36ae9ce1"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "亲宝宝",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "52bdbd234abc9802becf76d7f6601436cc8b76a6b6e91e0fbc554f0bd93f47ef",
+  "revisionId": "b467d4c28bad14913d4c4ce6c2714c292c883af01027d8c676e2fb7460c04262",
   "author": "fmz200",
   "updatedAt": 1795094539240,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "52bdbd234abc9802becf76d7f6601436cc8b76a6b6e91e0fbc554f0bd93f47ef"
+    "b467d4c28bad14913d4c4ce6c2714c292c883af01027d8c676e2fb7460c04262"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "厦门航空",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "afb873b40bacc550e1f07f5c9d13f9bbb222f6b0ca2bb3cd63efc0b825010953",
+  "revisionId": "dc255e8877c9d8e2cdacd0afb693be80448d70698351c568cc666b831c458105",
   "author": "fmz200",
   "updatedAt": 1795094539263,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "afb873b40bacc550e1f07f5c9d13f9bbb222f6b0ca2bb3cd63efc0b825010953"
+    "dc255e8877c9d8e2cdacd0afb693be80448d70698351c568cc666b831c458105"
   ]
 }

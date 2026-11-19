@@ -7,7 +7,7 @@
   "name": "自动加入TestFlight",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fb6fad565f81648442e273cb3cdd2a1602de3c2aa69f1c7ee9fddd9ac69c9f54",
+  "revisionId": "e4b7ad9b55d53ec0209970ac96c8f3f2561c511bab77df0f20cd4e6b1c0035e4",
   "author": "ClashModule",
   "updatedAt": 1795094539092,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fb6fad565f81648442e273cb3cdd2a1602de3c2aa69f1c7ee9fddd9ac69c9f54"
+    "e4b7ad9b55d53ec0209970ac96c8f3f2561c511bab77df0f20cd4e6b1c0035e4"
   ]
 }

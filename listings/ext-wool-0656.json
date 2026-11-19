@@ -7,7 +7,7 @@
   "name": "盈宝证券",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4ae5d9f9f0de29e9af332c9c7fa6438ff818ac9705f0fa9262ef08f2d286393c",
+  "revisionId": "14996ea12063bfde914e9024844e65641c7f7fee7fae7bdf7807725129d70581",
   "author": "fmz200",
   "updatedAt": 1795094539274,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4ae5d9f9f0de29e9af332c9c7fa6438ff818ac9705f0fa9262ef08f2d286393c"
+    "14996ea12063bfde914e9024844e65641c7f7fee7fae7bdf7807725129d70581"
   ]
 }

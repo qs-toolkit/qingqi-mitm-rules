@@ -7,7 +7,7 @@
   "name": "芒果TV",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "155d534cc67975e069534367a0b14aaa0fdc51813d266327f27afffaa919f8a1",
+  "revisionId": "c1a1d1129ac1a2f334b83b6100efc4844198cf5d1a1bee609132438de13789e4",
   "author": "fmz200",
   "updatedAt": 1795094539230,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "155d534cc67975e069534367a0b14aaa0fdc51813d266327f27afffaa919f8a1"
+    "c1a1d1129ac1a2f334b83b6100efc4844198cf5d1a1bee609132438de13789e4"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "ZAKER去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fbeff92237cec8c36ffbbba39fe224562719882d9961231eed746921355453da",
+  "revisionId": "a0429555e5c5e90c2f17d72cbb95c167ceda5aca6640fc9fc0f062970c51e041",
   "author": "ClashModule",
   "updatedAt": 1795094539048,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fbeff92237cec8c36ffbbba39fe224562719882d9961231eed746921355453da"
+    "a0429555e5c5e90c2f17d72cbb95c167ceda5aca6640fc9fc0f062970c51e041"
   ]
 }

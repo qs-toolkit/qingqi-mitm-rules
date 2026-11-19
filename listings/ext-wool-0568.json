@@ -7,7 +7,7 @@
   "name": "新浪新闻",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f0b7fcbd0919cc1ce9fb225dcec899aff00547b16dbc755548f8eda5a91878e5",
+  "revisionId": "62662100b562b7ad276141f5140307339717fc1204150dc75bec59deaec150d8",
   "author": "fmz200",
   "updatedAt": 1795094539262,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f0b7fcbd0919cc1ce9fb225dcec899aff00547b16dbc755548f8eda5a91878e5"
+    "62662100b562b7ad276141f5140307339717fc1204150dc75bec59deaec150d8"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "小米商城",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "253d9fb6a6133cf63c1651fcf5d7ffbe5ca762c1c4f91b258ddc94fa994c08c2",
+  "revisionId": "2e33f0ec5e1f250e2ea8f9ffcc22df8ec7549876f2ac4a2bb8582abbc5a3418b",
   "author": "fmz200",
   "updatedAt": 1795094539267,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "253d9fb6a6133cf63c1651fcf5d7ffbe5ca762c1c4f91b258ddc94fa994c08c2"
+    "2e33f0ec5e1f250e2ea8f9ffcc22df8ec7549876f2ac4a2bb8582abbc5a3418b"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "好奇心日报",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "99ab4b2e117c83d1145dccdd43e774e80a6f11f8414fc449e1d7ec03e47f2596",
+  "revisionId": "e87a68730d14bb217342b20a060f140fae21977ddb28fb9ec423c8f107b99c56",
   "author": "fmz200",
   "updatedAt": 1795094539214,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "99ab4b2e117c83d1145dccdd43e774e80a6f11f8414fc449e1d7ec03e47f2596"
+    "e87a68730d14bb217342b20a060f140fae21977ddb28fb9ec423c8f107b99c56"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "广告平台拦截器",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "5425aadbca0eed8d5ab4b4309e616295e38d15832fa1128121a8689f82750f32",
+  "revisionId": "b4df096b2daa621cf8a4695ecbfc83139440a79abd97f0e3dae941d461df5a0b",
   "author": "ClashModule",
   "updatedAt": 1795094539064,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "5425aadbca0eed8d5ab4b4309e616295e38d15832fa1128121a8689f82750f32"
+    "b4df096b2daa621cf8a4695ecbfc83139440a79abd97f0e3dae941d461df5a0b"
   ]
 }

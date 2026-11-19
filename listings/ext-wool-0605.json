@@ -7,7 +7,7 @@
   "name": "小米运动",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "06f7a3b933eb460c3409b2fe37e13d284a2187828592f1b48332f866d29400a3",
+  "revisionId": "314388e663e0f951edbcd3c08f81d6283f8612b319f92a1790b0c599bb262755",
   "author": "fmz200",
   "updatedAt": 1795094539267,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "06f7a3b933eb460c3409b2fe37e13d284a2187828592f1b48332f866d29400a3"
+    "314388e663e0f951edbcd3c08f81d6283f8612b319f92a1790b0c599bb262755"
   ]
 }

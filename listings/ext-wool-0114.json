@@ -7,7 +7,7 @@
   "name": "大疆商城",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6365fff9052ca22b41fd67c46f88c80bc5435461cf3c8d4f20fea6df2f33f39d",
+  "revisionId": "73613702886f3acf35ff4059f34144e6e80cdfc4b1c4bb47da23ed0ff84cefa3",
   "author": "fmz200",
   "updatedAt": 1795094539198,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6365fff9052ca22b41fd67c46f88c80bc5435461cf3c8d4f20fea6df2f33f39d"
+    "73613702886f3acf35ff4059f34144e6e80cdfc4b1c4bb47da23ed0ff84cefa3"
   ]
 }

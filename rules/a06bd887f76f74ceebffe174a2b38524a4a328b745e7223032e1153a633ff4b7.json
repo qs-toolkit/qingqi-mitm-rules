@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "NingJu",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=宁聚\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partN/NingJu.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api\\.nj\\.nbtv\\.cn\\/v2\\/advertise\\/advertise-r1\\/get-list\\?data=u8obKDIrIWt2NR9wBuMwQ5O61eEsP/i then reject(200)\nrequest if ${url} ~= /^https?:\\/\\/api\\.nj\\.nbtv\\.cn\\/v\\d\\/common\\/system-boot-inform\\/detail/i then reject(200)\n\n[MITM]\nhostname = %APPEND% api.nj.nbtv.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

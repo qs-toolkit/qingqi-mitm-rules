@@ -7,7 +7,7 @@
   "name": "掌上道具城",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0627639c5adcc1bbc094e932d9e710637e7a2c27e4b1c4783ff98a4a65fead50",
+  "revisionId": "92005e5fe27b49681bc7bc5856a52d30c389fb2c6280dce10f7abd08ed0100d2",
   "author": "fmz200",
   "updatedAt": 1795094539281,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0627639c5adcc1bbc094e932d9e710637e7a2c27e4b1c4783ff98a4a65fead50"
+    "92005e5fe27b49681bc7bc5856a52d30c389fb2c6280dce10f7abd08ed0100d2"
   ]
 }

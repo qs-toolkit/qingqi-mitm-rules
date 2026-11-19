@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Thunder",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=迅雷\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partT/Thunder.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/images\\.client\\.vip\\.xunlei\\.com\\/.+?\\/advert\\//i then reject(200)\nrequest if ${url} ~= /^https?:\\/\\/api-shoulei-ssl\\.xunlei\\.com\\/flowhub\\/v\\d\\/slots:batchGet/i then reject(200)\n\n[Rule]\nDOMAIN-SUFFIX, adsp.xunlei.com,REJECT\nDOMAIN-SUFFIX, static-xl9-ssl.xunlei.com,REJECT\nDOMAIN-SUFFIX, biz.live.xunlei.com,REJECT\nDOMAIN-SUFFIX, ct.niu.xunlei.com,REJECT\nDOMAIN-SUFFIX, mou.niu.xunlei.com,REJECT\nDOMAIN-SUFFIX, scene.vip.xunlei.com,REJECT\nDOMAIN-SUFFIX, tw13b093.sandai.net,REJECT\nDOMAIN-SUFFIX, xlmc.sandai.net,REJECT\nDOMAIN-SUFFIX, cpm.cm.sandai.net,REJECT\nDOMAIN-SUFFIX, master.wap.dphub.sandai.net,REJECT\nDOMAIN-SUFFIX, idx.m.hub.sandai.net,REJECT\nDOMAIN-SUFFIX, liveupdate.mac.sandai.net,REJECT\nDOMAIN-SUFFIX, hub5pn.wap.sandai.net,REJECT\nDOMAIN-SUFFIX, etl.xlmc.sandai.net,REJECT\nDOMAIN-SUFFIX, test.api.xlmc.sandai.net,REJECT\nDOMAIN-SUFFIX, pre.api.tw06.xlmc.sandai.net,REJECT\n\n[MITM]\nhostname = %APPEND% images.client.vip.xunlei.com, api-shoulei-ssl.xunlei.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

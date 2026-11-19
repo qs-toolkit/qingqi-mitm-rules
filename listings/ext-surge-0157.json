@@ -7,7 +7,7 @@
   "name": "启信宝去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fb570963ad2b0dd2e3933d30cefacc9097cb18b89112c51d5ef6a6e1e15c049e",
+  "revisionId": "975bfedaf6cc733a372e9ff2a694021fde12e33439cf33a7e75553afeb5b63c1",
   "author": "ClashModule",
   "updatedAt": 1795094539055,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fb570963ad2b0dd2e3933d30cefacc9097cb18b89112c51d5ef6a6e1e15c049e"
+    "975bfedaf6cc733a372e9ff2a694021fde12e33439cf33a7e75553afeb5b63c1"
   ]
 }

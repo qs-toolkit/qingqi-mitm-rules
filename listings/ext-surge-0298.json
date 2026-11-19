@@ -7,7 +7,7 @@
   "name": "汽水音乐去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "460ea3870586038776311653a33bd0d212e5d7fa10e67bb68306dcb516ba91ad",
+  "revisionId": "ca2f4e557d49c7d1ad6dd4928d7ab6ce1485f60852fc8e5606379153fc76c49e",
   "author": "ClashModule",
   "updatedAt": 1795094539077,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "460ea3870586038776311653a33bd0d212e5d7fa10e67bb68306dcb516ba91ad"
+    "ca2f4e557d49c7d1ad6dd4928d7ab6ce1485f60852fc8e5606379153fc76c49e"
   ]
 }

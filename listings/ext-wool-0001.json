@@ -7,7 +7,7 @@
   "name": "Block_HTTPDNS",
   "description": "fmz200/wool_scripts · Surge",
   "scope": [],
-  "revisionId": "4daddf7b5e4d8439532b7b0937b5dd48e076226944fcc5cecf7f9dca447d17f4",
+  "revisionId": "c7378b7c70b9f9686b566209584a8fd672f0e8bb263f99dbac424d201d93e4aa",
   "author": "fmz200",
   "updatedAt": 1795094539177,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4daddf7b5e4d8439532b7b0937b5dd48e076226944fcc5cecf7f9dca447d17f4"
+    "c7378b7c70b9f9686b566209584a8fd672f0e8bb263f99dbac424d201d93e4aa"
   ]
 }

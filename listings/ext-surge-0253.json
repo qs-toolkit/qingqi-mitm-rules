@@ -7,7 +7,7 @@
   "name": "成分喵去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "df0ca5fd34dab0eba6370b5bd948815a94fe2c0fb74a45fd8dfd64640f22c062",
+  "revisionId": "ef362b62d4efed3e7d2772c3337e5c7beea1ac275a84965b87ace1420a872160",
   "author": "ClashModule",
   "updatedAt": 1795094539071,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "df0ca5fd34dab0eba6370b5bd948815a94fe2c0fb74a45fd8dfd64640f22c062"
+    "ef362b62d4efed3e7d2772c3337e5c7beea1ac275a84965b87ace1420a872160"
   ]
 }

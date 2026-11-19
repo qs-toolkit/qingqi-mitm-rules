@@ -7,7 +7,7 @@
   "name": "开源中国",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "add92753a6372b061ba1cc5d4b9930a056f1407164a86149075b2c51d4db8c2c",
+  "revisionId": "6380c6eb5580ac12055cd12e41a1c49ff91ec6743dd808aa078b3aa657cdd10f",
   "author": "fmz200",
   "updatedAt": 1795094539224,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "add92753a6372b061ba1cc5d4b9930a056f1407164a86149075b2c51d4db8c2c"
+    "6380c6eb5580ac12055cd12e41a1c49ff91ec6743dd808aa078b3aa657cdd10f"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "富途牛牛",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e36dd512a67149281600654503f2702b32245219898fc4aec718fb042a1740c9",
+  "revisionId": "33361ef1f7c103880cdb6be2a06a64b9dd78f3c63543c314e6e6843946f3f19c",
   "author": "fmz200",
   "updatedAt": 1795094539205,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e36dd512a67149281600654503f2702b32245219898fc4aec718fb042a1740c9"
+    "33361ef1f7c103880cdb6be2a06a64b9dd78f3c63543c314e6e6843946f3f19c"
   ]
 }

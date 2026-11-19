@@ -7,7 +7,7 @@
   "name": "汽水音乐",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9788796a7c7fea4a9c8e94688f23bdb60a2dc896d875ca763053aa4e29ff9dc1",
+  "revisionId": "05c02a2a72cae1bac90d909424bdc9b794f216c7a208ef1300596e2f7addf20b",
   "author": "fmz200",
   "updatedAt": 1795094539240,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9788796a7c7fea4a9c8e94688f23bdb60a2dc896d875ca763053aa4e29ff9dc1"
+    "05c02a2a72cae1bac90d909424bdc9b794f216c7a208ef1300596e2f7addf20b"
   ]
 }

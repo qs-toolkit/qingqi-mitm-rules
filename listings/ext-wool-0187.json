@@ -7,7 +7,7 @@
   "name": "Google",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ae21bb2c415175d814c54b4297f6bce63197974d0c9e04533f0b771ae2191aa0",
+  "revisionId": "85a0e251682f76c3bfe961455f0818e0976f10da57fbcf07c7bfb7d9f32a4ecd",
   "author": "fmz200",
   "updatedAt": 1795094539207,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ae21bb2c415175d814c54b4297f6bce63197974d0c9e04533f0b771ae2191aa0"
+    "85a0e251682f76c3bfe961455f0818e0976f10da57fbcf07c7bfb7d9f32a4ecd"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "Spotify歌词增强",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8abdd7ac9f46de004856f7fe9921dc7f120ac3e1852911a85d99050fef3e9fab",
+  "revisionId": "104520ffb3453591621bf145580c31c9a96f9939979b1fb13661f602ea696e1e",
   "author": "ClashModule",
   "updatedAt": 1795094539043,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "8abdd7ac9f46de004856f7fe9921dc7f120ac3e1852911a85d99050fef3e9fab"
+    "104520ffb3453591621bf145580c31c9a96f9939979b1fb13661f602ea696e1e"
   ]
 }

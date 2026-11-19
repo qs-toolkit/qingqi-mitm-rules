@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "DingDongMaiCai",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=叮咚买菜\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partD/DingDongMaiCai.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/maicai\\.api\\.ddxq\\.mobi\\/advert\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/maicai\\.api\\.ddxq\\.mobi\\/homeApi\\/getHomeAdPop/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/maicai\\.api\\.ddxq\\.mobi\\/vip\\/getVipAd/i then reject_dict(200)\nresponse if ${url} ~= /^https?:\\/\\/maicai\\.api\\.ddxq\\.mobi\\/homeApi\\/newDetails/i then response.body.replace(/suspension/, \"fmz200\")\nrequest if ${url} ~= /^https?:\\/\\/gw\\.api\\.ddxq\\.mobi\\/vip-app-service\\/vip\\/my\\/page\\/advertising/i then reject(404)\nrequest if ${url} ~= /^https:\\/\\/maicai\\.api\\.ddxq\\.mobi\\/homeApi\\/queryMyPagePopup/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/maicai\\.api\\.ddxq\\.mobi\\/homeApi\\/userLike/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/maicai\\.api\\.ddxq\\.mobi\\/cart\\/vipGuide/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/maicai\\.api\\.ddxq\\.mobi\\/order\\/getRecommend/i then reject_dict(200)\n\n[Rule]\nDOMAIN, trackercollect.ddxq.mobi,REJECT\nDOMAIN, ddfs-public.ddimg.mobi,REJECT\nDOMAIN, rttrack.ddxq.mobi,REJECT\n\n[MITM]\nhostname = %APPEND% maicai.api.ddxq.mobi, gw.api.ddxq.mobi, user.api.ddxq.mobi\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

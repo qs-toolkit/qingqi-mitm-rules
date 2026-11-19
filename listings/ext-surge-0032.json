@@ -7,7 +7,7 @@
   "name": "ChatGPT Panel",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a4eecb3a26067698b0733d4afaef6abfc97d242a205271962136a6ceb904b166",
+  "revisionId": "627f85b002dd99dcf1019cbb47a286a219a4c7638b766b403c843011901455b3",
   "author": "ClashModule",
   "updatedAt": 1795094539037,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "a4eecb3a26067698b0733d4afaef6abfc97d242a205271962136a6ceb904b166"
+    "627f85b002dd99dcf1019cbb47a286a219a4c7638b766b403c843011901455b3"
   ]
 }

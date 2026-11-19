@@ -7,7 +7,7 @@
   "name": "掌上生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "59eb8223473aadf6a1e0fed9256ed8938bd3a3027a5305be6465043a798214a9",
+  "revisionId": "04ba5c5d1ba6d3db7af49740386d38c024c2dd12ab585b03a4e075e7e17af9d1",
   "author": "fmz200",
   "updatedAt": 1795094539281,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "59eb8223473aadf6a1e0fed9256ed8938bd3a3027a5305be6465043a798214a9"
+    "04ba5c5d1ba6d3db7af49740386d38c024c2dd12ab585b03a4e075e7e17af9d1"
   ]
 }

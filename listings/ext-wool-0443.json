@@ -7,7 +7,7 @@
   "name": "少数派",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6732deed7d188091978956ffefc355e1823687d6197eaec565fe41986d808008",
+  "revisionId": "24a2a3167919c378904079092fd04821b3f4ccaaab745bb38e92543479f4dff4",
   "author": "fmz200",
   "updatedAt": 1795094539245,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6732deed7d188091978956ffefc355e1823687d6197eaec565fe41986d808008"
+    "24a2a3167919c378904079092fd04821b3f4ccaaab745bb38e92543479f4dff4"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "pikpak",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bbec49e213dceddcec4182372790e0ecf4a70271c71fa42a5315ff8aaf65b188",
+  "revisionId": "50abf6bca3ea18858b6863714bd7be9f12f008bf0e8b4c36f53564c517dbfbac",
   "author": "fmz200",
   "updatedAt": 1795094539238,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bbec49e213dceddcec4182372790e0ecf4a70271c71fa42a5315ff8aaf65b188"
+    "50abf6bca3ea18858b6863714bd7be9f12f008bf0e8b4c36f53564c517dbfbac"
   ]
 }

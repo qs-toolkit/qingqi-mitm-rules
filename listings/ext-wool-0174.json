@@ -7,7 +7,7 @@
   "name": "高德地图",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "32a9f15fd0d99e212d4485243a427e0dd5bf9aab1043cc63530a22f62701f6d2",
+  "revisionId": "bd786fe6f7255efa7232e813a63af0d62f58e2e8eb853a5b7663777b55ee3acc",
   "author": "fmz200",
   "updatedAt": 1795094539205,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "32a9f15fd0d99e212d4485243a427e0dd5bf9aab1043cc63530a22f62701f6d2"
+    "bd786fe6f7255efa7232e813a63af0d62f58e2e8eb853a5b7663777b55ee3acc"
   ]
 }

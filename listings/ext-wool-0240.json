@@ -7,7 +7,7 @@
   "name": "火猫",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7bcf12562c96909e3902bc5fbc57d1602effbe22c591e5dbdbf7c3cf3f0b3807",
+  "revisionId": "e4819589b5939c30c510af76d0e9ba8396257233bf294abe6cb1be661d500fc0",
   "author": "fmz200",
   "updatedAt": 1795094539217,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7bcf12562c96909e3902bc5fbc57d1602effbe22c591e5dbdbf7c3cf3f0b3807"
+    "e4819589b5939c30c510af76d0e9ba8396257233bf294abe6cb1be661d500fc0"
   ]
 }

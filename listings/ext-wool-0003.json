@@ -7,7 +7,7 @@
   "name": "X(Twitter)网页版去广告",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b65a1d6cc54644d14d4881306590710a12a12240f25eb57b100107c422c5da8e",
+  "revisionId": "dde1d1b4333c4b240e1c4cb9bde13d3e1c4b4d20be525e5f2531b967e065ce4b",
   "author": "fmz200",
   "updatedAt": 1795094539178,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b65a1d6cc54644d14d4881306590710a12a12240f25eb57b100107c422c5da8e"
+    "dde1d1b4333c4b240e1c4cb9bde13d3e1c4b4d20be525e5f2531b967e065ce4b"
   ]
 }

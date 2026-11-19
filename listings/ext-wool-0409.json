@@ -7,7 +7,7 @@
   "name": "七猫小说",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3e3c9575aef434a9e0c53e2b35da4739f640e67ac49452a9d379a8a047a3311e",
+  "revisionId": "00b89656ac8b9dccf4a47a722ef0f509e8604527390ea0b127d55f8fd2582149",
   "author": "fmz200",
   "updatedAt": 1795094539240,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3e3c9575aef434a9e0c53e2b35da4739f640e67ac49452a9d379a8a047a3311e"
+    "00b89656ac8b9dccf4a47a722ef0f509e8604527390ea0b127d55f8fd2582149"
   ]
 }

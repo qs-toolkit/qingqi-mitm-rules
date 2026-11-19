@@ -7,7 +7,7 @@
   "name": "TeraBox去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "cadd8cd34f02acd11d72a59876a829a3982b2c164beba0dc8e69321d4569042d",
+  "revisionId": "35788e1326232d3eba72dc130b6f83aa25307c32dfae68f6ea45565457bcf850",
   "author": "ClashModule",
   "updatedAt": 1795094539044,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "cadd8cd34f02acd11d72a59876a829a3982b2c164beba0dc8e69321d4569042d"
+    "35788e1326232d3eba72dc130b6f83aa25307c32dfae68f6ea45565457bcf850"
   ]
 }

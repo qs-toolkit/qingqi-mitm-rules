@@ -7,7 +7,7 @@
   "name": "linxi",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "59fc28bfb64552a99daedfd43100475fc6c7a12910f0b3d93fc66c10d5978ad6",
+  "revisionId": "0b45f858fd496a65dc1d89d10c6c36cf94b7168f8a60941ebd04b534c20c6235",
   "author": "fmz200",
   "updatedAt": 1795094539228,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "59fc28bfb64552a99daedfd43100475fc6c7a12910f0b3d93fc66c10d5978ad6"
+    "0b45f858fd496a65dc1d89d10c6c36cf94b7168f8a60941ebd04b534c20c6235"
   ]
 }

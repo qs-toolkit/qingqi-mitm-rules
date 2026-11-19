@@ -7,7 +7,7 @@
   "name": "🍟 Apple 天气增强.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "918ff9e86b4cb39406481d110c3e6beefc187d2c0558ca35a047a5e7d39778de",
+  "revisionId": "fcfc6b098dd1fab0afe5cddf9dcd09ae41bb16c3c5b058db6e31e19b6e9156b5",
   "author": "ClashModule",
   "updatedAt": 1795094539105,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "918ff9e86b4cb39406481d110c3e6beefc187d2c0558ca35a047a5e7d39778de"
+    "fcfc6b098dd1fab0afe5cddf9dcd09ae41bb16c3c5b058db6e31e19b6e9156b5"
   ]
 }

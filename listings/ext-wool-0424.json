@@ -7,7 +7,7 @@
   "name": "RARBG",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8a0ddfd7c8c9189129f987cddf07a2fe4323ae0e73d26603cbfe35f2ebccf2f5",
+  "revisionId": "263d6ec6a1a8deff1e2a50b3faeea8068f1b26913410b30f6da236212b5205e9",
   "author": "fmz200",
   "updatedAt": 1795094539242,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8a0ddfd7c8c9189129f987cddf07a2fe4323ae0e73d26603cbfe35f2ebccf2f5"
+    "263d6ec6a1a8deff1e2a50b3faeea8068f1b26913410b30f6da236212b5205e9"
   ]
 }

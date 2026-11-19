@@ -7,7 +7,7 @@
   "name": "中通快递",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2ae3e5ba1693c4578c7bc400df7f6f5c2fa04760eb749578a2f8f2572dbbdc4c",
+  "revisionId": "0ef86610605d2c246ed55341c163467cc83c0d2d5b1aa50d72384385a6605e44",
   "author": "fmz200",
   "updatedAt": 1795094539283,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2ae3e5ba1693c4578c7bc400df7f6f5c2fa04760eb749578a2f8f2572dbbdc4c"
+    "0ef86610605d2c246ed55341c163467cc83c0d2d5b1aa50d72384385a6605e44"
   ]
 }

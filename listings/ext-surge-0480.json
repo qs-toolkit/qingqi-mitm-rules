@@ -7,7 +7,7 @@
   "name": "香港抖音去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fc386325f7176286b7c82cf7255236837e4c32223cdcf2144b0f2732bd95d2d5",
+  "revisionId": "c151b2a3ad63a92d1466d6b45b27699aa6db9c59c16ac4bf39954343587bd6d5",
   "author": "ClashModule",
   "updatedAt": 1795094539103,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fc386325f7176286b7c82cf7255236837e4c32223cdcf2144b0f2732bd95d2d5"
+    "c151b2a3ad63a92d1466d6b45b27699aa6db9c59c16ac4bf39954343587bd6d5"
   ]
 }

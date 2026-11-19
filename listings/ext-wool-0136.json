@@ -7,7 +7,7 @@
   "name": "叮咚买菜",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d24425ca47397e2f170864b460ec39c4ef857048c3fdd6366d6cdd84ddc8b455",
+  "revisionId": "746a46f185452f796b125ff8ee536472b9875eb725739fc926cf33508ca6dd94",
   "author": "fmz200",
   "updatedAt": 1795094539200,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d24425ca47397e2f170864b460ec39c4ef857048c3fdd6366d6cdd84ddc8b455"
+    "746a46f185452f796b125ff8ee536472b9875eb725739fc926cf33508ca6dd94"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "云快充",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d1850de65d1ec34bfa9869c2ef9d58759ad58dd0f24f5f27f1fc93947f281a2a",
+  "revisionId": "ab6e52d02c452985bee105d2aea0811c123dd929e6ef1ae2367c483017dfc5c4",
   "author": "fmz200",
   "updatedAt": 1795094539276,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d1850de65d1ec34bfa9869c2ef9d58759ad58dd0f24f5f27f1fc93947f281a2a"
+    "ab6e52d02c452985bee105d2aea0811c123dd929e6ef1ae2367c483017dfc5c4"
   ]
 }

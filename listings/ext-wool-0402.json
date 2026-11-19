@@ -7,7 +7,7 @@
   "name": "全家便利店",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4d543b151b6e6c8c7483421d11651dac642c9e788202c52853ae8817edfdc359",
+  "revisionId": "1861d2909235cd6735bf87a81552b4ce4b0b78d4d5900680465d2d3628b157fa",
   "author": "fmz200",
   "updatedAt": 1795094539239,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4d543b151b6e6c8c7483421d11651dac642c9e788202c52853ae8817edfdc359"
+    "1861d2909235cd6735bf87a81552b4ce4b0b78d4d5900680465d2d3628b157fa"
   ]
 }

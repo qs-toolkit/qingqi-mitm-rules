@@ -7,7 +7,7 @@
   "name": "苏宁易购",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "59a2c58bd51ea7e17c444f5a7da822344f6036afbde4d40c84e6f967c71128c3",
+  "revisionId": "8b4f4fed8063b77931278fe1a3c9a98c540e4a69b551463c947054ae8f50d82a",
   "author": "fmz200",
   "updatedAt": 1795094539248,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "59a2c58bd51ea7e17c444f5a7da822344f6036afbde4d40c84e6f967c71128c3"
+    "8b4f4fed8063b77931278fe1a3c9a98c540e4a69b551463c947054ae8f50d82a"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "360智慧生活去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a115061eeede0d92cb9e2097fdd8fe2263966c9e628e9ed1042b37254895fcc6",
+  "revisionId": "84d4a13fd01a09be1cea7d7d7ee14ae37e1aaacf6b82e977ee712e9713a5078b",
   "author": "ClashModule",
   "updatedAt": 1795094539034,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "a115061eeede0d92cb9e2097fdd8fe2263966c9e628e9ed1042b37254895fcc6"
+    "84d4a13fd01a09be1cea7d7d7ee14ae37e1aaacf6b82e977ee712e9713a5078b"
   ]
 }

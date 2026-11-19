@@ -7,7 +7,7 @@
   "name": "健康160去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c30690671ee9b3dac432ce08ba6932dcbf9040b4fc95d6bbbc5078451a47563a",
+  "revisionId": "1ad948ff7f1b7e8e71eb8f9a9ccd101bcf70418cd367296a762b52f80625c56a",
   "author": "ClashModule",
   "updatedAt": 1795094539053,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "c30690671ee9b3dac432ce08ba6932dcbf9040b4fc95d6bbbc5078451a47563a"
+    "1ad948ff7f1b7e8e71eb8f9a9ccd101bcf70418cd367296a762b52f80625c56a"
   ]
 }

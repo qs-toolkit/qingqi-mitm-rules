@@ -7,7 +7,7 @@
   "name": "网易大神",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9bc65eb6671c4d7b7962cb27f6a32df6a5ce9a2565922b5f27cce730f32b3076",
+  "revisionId": "510c03c4c505024e093785c2c3e70bb076d45bedca0cdb604605e32619057c2c",
   "author": "fmz200",
   "updatedAt": 1795094539256,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9bc65eb6671c4d7b7962cb27f6a32df6a5ce9a2565922b5f27cce730f32b3076"
+    "510c03c4c505024e093785c2c3e70bb076d45bedca0cdb604605e32619057c2c"
   ]
 }

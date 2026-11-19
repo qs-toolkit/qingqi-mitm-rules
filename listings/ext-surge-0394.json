@@ -7,7 +7,7 @@
   "name": "胖乖生活去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "51f6ce8ffa1f9c299896594d3427de4cee17d7ec35295e352a80d142a19741a0",
+  "revisionId": "41521b09c9caa685917ce359137a56d1dd5f0561dc37fd5c0c9a523d053e88e9",
   "author": "ClashModule",
   "updatedAt": 1795094539091,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "51f6ce8ffa1f9c299896594d3427de4cee17d7ec35295e352a80d142a19741a0"
+    "41521b09c9caa685917ce359137a56d1dd5f0561dc37fd5c0c9a523d053e88e9"
   ]
 }

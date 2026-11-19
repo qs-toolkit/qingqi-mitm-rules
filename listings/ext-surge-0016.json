@@ -7,7 +7,7 @@
   "name": "CC直播去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "23509d171e6d0dbb92a5d573ecc7bb37800ee7d78c1500f399631b2d6df588b7",
+  "revisionId": "09df2972091977ed1e1e0e01360bb61e03050baf3fe0a4aa6b3524478ceae967",
   "author": "ClashModule",
   "updatedAt": 1795094539035,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "23509d171e6d0dbb92a5d573ecc7bb37800ee7d78c1500f399631b2d6df588b7"
+    "09df2972091977ed1e1e0e01360bb61e03050baf3fe0a4aa6b3524478ceae967"
   ]
 }

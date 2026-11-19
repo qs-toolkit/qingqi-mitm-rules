@@ -7,7 +7,7 @@
   "name": "朴朴超市去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "152b124c8a3bfb0d6a1e1f0099ae1a064230a5265274b72d189613112fbb5395",
+  "revisionId": "10fe0445890cf7a63d66c4a0e852731443f3b8d7a9eabcbd40e96026fe110175",
   "author": "ClashModule",
   "updatedAt": 1795094539077,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "152b124c8a3bfb0d6a1e1f0099ae1a064230a5265274b72d189613112fbb5395"
+    "10fe0445890cf7a63d66c4a0e852731443f3b8d7a9eabcbd40e96026fe110175"
   ]
 }

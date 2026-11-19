@@ -7,7 +7,7 @@
   "name": "快递100",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0f7de06bc1f97867752d0ad911c9e922ab7dfc1ca317bb22f7a96bff9d1adc23",
+  "revisionId": "f449a64f7414e1006a632fe5902f231e4871958c032d21cc0865794fe9fc9292",
   "author": "fmz200",
   "updatedAt": 1795094539223,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0f7de06bc1f97867752d0ad911c9e922ab7dfc1ca317bb22f7a96bff9d1adc23"
+    "f449a64f7414e1006a632fe5902f231e4871958c032d21cc0865794fe9fc9292"
   ]
 }

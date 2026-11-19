@@ -7,7 +7,7 @@
   "name": "TubeMax",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8a1540602135a68edf9ceeb9dd6e5b76d8febab183de740b9c548039c00213ab",
+  "revisionId": "e5195420f74df8badb067084242b33ac5a6c2afd07b56c3b955bd5401b48f97d",
   "author": "fmz200",
   "updatedAt": 1795094539253,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8a1540602135a68edf9ceeb9dd6e5b76d8febab183de740b9c548039c00213ab"
+    "e5195420f74df8badb067084242b33ac5a6c2afd07b56c3b955bd5401b48f97d"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "横店电影小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2cd7f78a60fe9717a63636d0497bf03cbf5f372efcc2e92e52fff3035d05f8d7",
+  "revisionId": "dc1c475654be0f9f19ec1fb25feeffedb9759fb51bd6e6473c60d2350442c71f",
   "author": "fmz200",
   "updatedAt": 1795094539215,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2cd7f78a60fe9717a63636d0497bf03cbf5f372efcc2e92e52fff3035d05f8d7"
+    "dc1c475654be0f9f19ec1fb25feeffedb9759fb51bd6e6473c60d2350442c71f"
   ]
 }

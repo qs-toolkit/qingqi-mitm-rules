@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "ShengQuGames",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=盛趣游戏\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partS/ShengQuGames.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/daoyu\\.sdo\\.com\\/api\\/userCommon\\/getAppStartAd/i then reject(404)\n\n[Rule]\nDOMAIN-SUFFIX, adrs.sdo.com,REJECT\n\n[MITM]\nhostname = %APPEND% daoyu.sdo.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

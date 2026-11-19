@@ -7,7 +7,7 @@
   "name": "纵横小说去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "f17719105edab65f908311413e71f0acb4e2f45a59ed7bb5ccbfcf77bfbf4dda",
+  "revisionId": "4445524fb19e3bbdb7d99afc39bc1d9a9da5017c1f0f1926ada2c989ed729d21",
   "author": "ClashModule",
   "updatedAt": 1795094539087,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "f17719105edab65f908311413e71f0acb4e2f45a59ed7bb5ccbfcf77bfbf4dda"
+    "4445524fb19e3bbdb7d99afc39bc1d9a9da5017c1f0f1926ada2c989ed729d21"
   ]
 }

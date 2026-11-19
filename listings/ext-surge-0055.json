@@ -7,7 +7,7 @@
   "name": "RQrun去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "31f4f7da6e129ab33cab1f947dd745dbd6eba563bd660c1482ce5a1805716007",
+  "revisionId": "e03b60c8d209567a439a653fa5e4700bd73923d82663ae6a9f0c8de55dd98f59",
   "author": "ClashModule",
   "updatedAt": 1795094539041,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "31f4f7da6e129ab33cab1f947dd745dbd6eba563bd660c1482ce5a1805716007"
+    "e03b60c8d209567a439a653fa5e4700bd73923d82663ae6a9f0c8de55dd98f59"
   ]
 }

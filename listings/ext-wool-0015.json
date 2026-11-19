@@ -7,7 +7,7 @@
   "name": "2345天气王",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2868a2c5d69ed76e246905ab8edcd1dfbe61d80da7f7b23840cb301cf7d629be",
+  "revisionId": "f6f1080b91aaf95e4e93e3e743b1694d63a9b53f46164dd3930a128eb3eb8417",
   "author": "fmz200",
   "updatedAt": 1795094539183,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2868a2c5d69ed76e246905ab8edcd1dfbe61d80da7f7b23840cb301cf7d629be"
+    "f6f1080b91aaf95e4e93e3e743b1694d63a9b53f46164dd3930a128eb3eb8417"
   ]
 }

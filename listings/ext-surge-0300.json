@@ -7,7 +7,7 @@
   "name": "汽车之家去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "23ff84593b2a7df0d997668fe2279bc7e110a4e93cf0b3b58a2436151ce4e15f",
+  "revisionId": "a2a53da7ec69bf595ba5a73069f1f44f263f1fe758d8dbb8ab29de181fcda6e8",
   "author": "ClashModule",
   "updatedAt": 1795094539078,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "23ff84593b2a7df0d997668fe2279bc7e110a4e93cf0b3b58a2436151ce4e15f"
+    "a2a53da7ec69bf595ba5a73069f1f44f263f1fe758d8dbb8ab29de181fcda6e8"
   ]
 }

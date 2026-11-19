@@ -7,7 +7,7 @@
   "name": "游民星空",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1d62b94198406f9a8684ca0256b4ee5b303e126ef71e0520537469d927e6ed56",
+  "revisionId": "bc2e08184d05a051c34d8d3f5327fa3650c7f66ad16817779faa66def1cdbbf2",
   "author": "fmz200",
   "updatedAt": 1795094539271,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "1d62b94198406f9a8684ca0256b4ee5b303e126ef71e0520537469d927e6ed56"
+    "bc2e08184d05a051c34d8d3f5327fa3650c7f66ad16817779faa66def1cdbbf2"
   ]
 }

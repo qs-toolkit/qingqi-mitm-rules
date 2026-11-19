@@ -7,7 +7,7 @@
   "name": "街电",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9acb0d00762940fb76b1daf153de0f01b0ff81bdfb9a743bfc85b25a792a10e0",
+  "revisionId": "d1e53505381122e5331d5ee9fe9c8883032bd2bc25e1e980665862fafb0d0b76",
   "author": "fmz200",
   "updatedAt": 1795094539220,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9acb0d00762940fb76b1daf153de0f01b0ff81bdfb9a743bfc85b25a792a10e0"
+    "d1e53505381122e5331d5ee9fe9c8883032bd2bc25e1e980665862fafb0d0b76"
   ]
 }

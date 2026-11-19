@@ -7,7 +7,7 @@
   "name": "淘淘阅读",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "92c8fe07d859c14ec4d1a5eb23be106d224e52ae2bb9bbed3dde97017315f71d",
+  "revisionId": "0b8c4c42bc4b7a9b8eb0651541658a50d2c90ac4464fd832e3d8f694ea8a545a",
   "author": "fmz200",
   "updatedAt": 1795094539249,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "92c8fe07d859c14ec4d1a5eb23be106d224e52ae2bb9bbed3dde97017315f71d"
+    "0b8c4c42bc4b7a9b8eb0651541658a50d2c90ac4464fd832e3d8f694ea8a545a"
   ]
 }

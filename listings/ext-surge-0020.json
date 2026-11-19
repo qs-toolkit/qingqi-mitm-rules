@@ -7,7 +7,7 @@
   "name": "DREAME去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "61d17f9f6094e5af613408a46f7f1a9f03564d26280d53b6974f4633bbee109a",
+  "revisionId": "478a6ae95cd1996bccc47d43f1fbadd8a875f1271e85bacb3170ef168b98b274",
   "author": "ClashModule",
   "updatedAt": 1795094539035,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "61d17f9f6094e5af613408a46f7f1a9f03564d26280d53b6974f4633bbee109a"
+    "478a6ae95cd1996bccc47d43f1fbadd8a875f1271e85bacb3170ef168b98b274"
   ]
 }

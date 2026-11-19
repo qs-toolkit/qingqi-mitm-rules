@@ -7,7 +7,7 @@
   "name": "航旅纵横",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2c294619573f14866001de3554074a37a210c1b0d3a69f65dc486bd20aaa2d52",
+  "revisionId": "9aa155bc3c12d341e01796139c67764d2cd463383df3b2c7817598cdc69969e7",
   "author": "fmz200",
   "updatedAt": 1795094539213,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2c294619573f14866001de3554074a37a210c1b0d3a69f65dc486bd20aaa2d52"
+    "9aa155bc3c12d341e01796139c67764d2cd463383df3b2c7817598cdc69969e7"
   ]
 }

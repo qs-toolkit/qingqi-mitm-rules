@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "飞猫管家.official",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=飞猫管家去广告\n#!desc=移除开屏 by @sliverkiss\n#!icon=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/fmgj.png\n#!format=sgmodule\n\n[URL Rewrite]\nhttps://app.flymodem.com.cn/Appapi/Public/welecome - reject\n\n[MITM]\nhostname = %APPEND% app.flymodem.com.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

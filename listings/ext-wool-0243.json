@@ -7,7 +7,7 @@
   "name": "虎牙直播",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "88b64a42b52fa750866654541b8808274680d4c9341812809b5e27acfffe3e7a",
+  "revisionId": "6171324c6d5ce7414016833ef9b961bdfa25d80e3d1dbd78394ab30237c2c5a4",
   "author": "fmz200",
   "updatedAt": 1795094539217,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "88b64a42b52fa750866654541b8808274680d4c9341812809b5e27acfffe3e7a"
+    "6171324c6d5ce7414016833ef9b961bdfa25d80e3d1dbd78394ab30237c2c5a4"
   ]
 }

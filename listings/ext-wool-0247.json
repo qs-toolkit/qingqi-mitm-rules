@@ -7,7 +7,7 @@
   "name": "i3",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7746c70d54803608b1e70f767ef508de4b56157d263aa07922ef9089aa7a1a4e",
+  "revisionId": "17a41db7b8f8d78c2abcf8a42d657feb8cbb7f8d394de724359a3e5333f54561",
   "author": "fmz200",
   "updatedAt": 1795094539218,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7746c70d54803608b1e70f767ef508de4b56157d263aa07922ef9089aa7a1a4e"
+    "17a41db7b8f8d78c2abcf8a42d657feb8cbb7f8d394de724359a3e5333f54561"
   ]
 }

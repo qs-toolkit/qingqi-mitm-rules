@@ -7,7 +7,7 @@
   "name": "麦当劳",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f63b045abf12878b2a984a152b6b0758a9796ce722785f53c640aa0167f79f59",
+  "revisionId": "40bef27798833e81c85cbdb0825346101dd18d2967de3756706286664a71d231",
   "author": "fmz200",
   "updatedAt": 1795094539231,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f63b045abf12878b2a984a152b6b0758a9796ce722785f53c640aa0167f79f59"
+    "40bef27798833e81c85cbdb0825346101dd18d2967de3756706286664a71d231"
   ]
 }

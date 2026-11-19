@@ -7,7 +7,7 @@
   "name": "百度输入法去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "260f7341b124afdd41d0c6e49140000dca8f4a5b9d737d6955d91a46d8b6bd83",
+  "revisionId": "394590d5fd5b9c544dcd593108f73b91cc7c9ef751a6a1171c7238978d74c561",
   "author": "ClashModule",
   "updatedAt": 1795094539085,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "260f7341b124afdd41d0c6e49140000dca8f4a5b9d737d6955d91a46d8b6bd83"
+    "394590d5fd5b9c544dcd593108f73b91cc7c9ef751a6a1171c7238978d74c561"
   ]
 }

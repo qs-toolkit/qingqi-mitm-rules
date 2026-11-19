@@ -7,7 +7,7 @@
   "name": "创客贴设计",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8c993fa9087a4ae83ad84dae32479312c4b8b29e2cb42c26a77019b85c65fe56",
+  "revisionId": "356aefc5108cc4e70f6ce8d0b7a5803122787714d70cbd66f13b9fd8ccfab0b6",
   "author": "fmz200",
   "updatedAt": 1795094539197,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8c993fa9087a4ae83ad84dae32479312c4b8b29e2cb42c26a77019b85c65fe56"
+    "356aefc5108cc4e70f6ce8d0b7a5803122787714d70cbd66f13b9fd8ccfab0b6"
   ]
 }

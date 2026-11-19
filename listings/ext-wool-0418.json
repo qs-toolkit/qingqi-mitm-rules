@@ -7,7 +7,7 @@
   "name": "全能浏览器",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "62f8e17d3e10395a8b676d74b377fb0e8cee71e899b9b6749c0c7a62b37bf83d",
+  "revisionId": "0a91b79c72a2b4156cd52c2936c8ea84326ecbde6a6150631fc57db8ba67d70e",
   "author": "fmz200",
   "updatedAt": 1795094539241,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "62f8e17d3e10395a8b676d74b377fb0e8cee71e899b9b6749c0c7a62b37bf83d"
+    "0a91b79c72a2b4156cd52c2936c8ea84326ecbde6a6150631fc57db8ba67d70e"
   ]
 }

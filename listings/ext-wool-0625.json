@@ -7,7 +7,7 @@
   "name": "央视网",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "97efcfc2d83654090f970976626b36d12570c362ce57a5004bb265096f7679eb",
+  "revisionId": "06c2fbcb547dd3c07c4e5d79494649717d3beadf8b0dc11e7cf4b6f1e987409d",
   "author": "fmz200",
   "updatedAt": 1795094539270,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "97efcfc2d83654090f970976626b36d12570c362ce57a5004bb265096f7679eb"
+    "06c2fbcb547dd3c07c4e5d79494649717d3beadf8b0dc11e7cf4b6f1e987409d"
   ]
 }

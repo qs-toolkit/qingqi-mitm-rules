@@ -7,7 +7,7 @@
   "name": "杭州公交",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e6d106cb8e5a4f741164e24588fbd4a46c1ae380e8c7fabbce9c4de6fcc24035",
+  "revisionId": "1cf9228b022d033dd6ef45353b5d33430425c5d73d4ead2d6147f948af362068",
   "author": "fmz200",
   "updatedAt": 1795094539213,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e6d106cb8e5a4f741164e24588fbd4a46c1ae380e8c7fabbce9c4de6fcc24035"
+    "1cf9228b022d033dd6ef45353b5d33430425c5d73d4ead2d6147f948af362068"
   ]
 }

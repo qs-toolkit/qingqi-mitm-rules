@@ -7,7 +7,7 @@
   "name": "有道翻译官去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "7eaa4c1f08331372bbd5f15e4defc0964cd7cb354ed383b8e7cdee532971e9e1",
+  "revisionId": "a85ce6e7ae3827e44e886ef539d4e04aebaebdabd0106cae7f142f366b8b1977",
   "author": "ClashModule",
   "updatedAt": 1795094539076,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "7eaa4c1f08331372bbd5f15e4defc0964cd7cb354ed383b8e7cdee532971e9e1"
+    "a85ce6e7ae3827e44e886ef539d4e04aebaebdabd0106cae7f142f366b8b1977"
   ]
 }

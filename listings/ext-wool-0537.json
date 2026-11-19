@@ -7,7 +7,7 @@
   "name": "网易有道词典",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6abae7e03947a2f0003e96756f35d108b1b04a1ab075252007c8064851870617",
+  "revisionId": "76d72d802460973ad729914f6b8747bc8b1053381f67da5a73348b48880d4273",
   "author": "fmz200",
   "updatedAt": 1795094539257,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6abae7e03947a2f0003e96756f35d108b1b04a1ab075252007c8064851870617"
+    "76d72d802460973ad729914f6b8747bc8b1053381f67da5a73348b48880d4273"
   ]
 }

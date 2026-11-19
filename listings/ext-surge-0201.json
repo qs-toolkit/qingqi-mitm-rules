@@ -7,7 +7,7 @@
   "name": "小蚕霸王餐去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "000b87a13e1c81816e06edeff274b6a470b1bc4a7f511c242ba81a7ba69ad7c7",
+  "revisionId": "7ade320393253d6d878c079b42860665461bb9dc303d636a268d33cd01cf5c95",
   "author": "ClashModule",
   "updatedAt": 1795094539063,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "000b87a13e1c81816e06edeff274b6a470b1bc4a7f511c242ba81a7ba69ad7c7"
+    "7ade320393253d6d878c079b42860665461bb9dc303d636a268d33cd01cf5c95"
   ]
 }

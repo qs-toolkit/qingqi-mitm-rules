@@ -7,7 +7,7 @@
   "name": "日淘任意门",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f7e3021e857a25622373435a3b7575d0283aab0c8f48043ff1d49879457675f3",
+  "revisionId": "2b25ec1f9e1f4b967ebdafa8f8f1c5ee34eaad8393fc338e7cee824354525614",
   "author": "fmz200",
   "updatedAt": 1795094539243,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f7e3021e857a25622373435a3b7575d0283aab0c8f48043ff1d49879457675f3"
+    "2b25ec1f9e1f4b967ebdafa8f8f1c5ee34eaad8393fc338e7cee824354525614"
   ]
 }

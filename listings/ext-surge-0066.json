@@ -7,7 +7,7 @@
   "name": "Soul去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "5595331157d9a4a70034062240997f30297db8ffa5cc5e70fb95433ab7490640",
+  "revisionId": "4aebbc4c6951bcc3d6652b553520df6dd0784e6c46fa5a477d565f9dff8eb4a7",
   "author": "ClashModule",
   "updatedAt": 1795094539042,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "5595331157d9a4a70034062240997f30297db8ffa5cc5e70fb95433ab7490640"
+    "4aebbc4c6951bcc3d6652b553520df6dd0784e6c46fa5a477d565f9dff8eb4a7"
   ]
 }

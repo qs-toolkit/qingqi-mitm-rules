@@ -7,7 +7,7 @@
   "name": "工银e生活小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4dd7a1841e36a7822ef8619bb88ac9b71b50a1489d5ec59dfbab98bd8314fb3b",
+  "revisionId": "1f77f5bd5f761179a4dfb0375a4019de81dcaf82c1c4521da85c2eb37aba3e26",
   "author": "fmz200",
   "updatedAt": 1795094539211,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4dd7a1841e36a7822ef8619bb88ac9b71b50a1489d5ec59dfbab98bd8314fb3b"
+    "1f77f5bd5f761179a4dfb0375a4019de81dcaf82c1c4521da85c2eb37aba3e26"
   ]
 }

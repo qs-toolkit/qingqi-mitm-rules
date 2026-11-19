@@ -1,14 +1,7 @@
 {
   "built": 809,
-  "sources": {
-    "surge": 254,
-    "wool": 554,
-    "qx": 1
-  },
   "ruleFiles": 809,
-  "formats": {
-    "loon": 809
-  },
-  "droppedIncompatible": 444,
-  "note": "headerless Quantumult X configs and modules without MITM hostname/rewrite are excluded"
+  "sgmoduleConverted": 783,
+  "keptVerbatim": 26,
+  "format": "Surge module (.sgmodule) sections, #!format=sgmodule"
 }

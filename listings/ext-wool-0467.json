@@ -7,7 +7,7 @@
   "name": "太平洋电脑",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "08a7bfa57c85c370f7c3d02bed4b8c18e9e89d4fe736d66e30ad9c5e9ee40cd7",
+  "revisionId": "32e0198c716a992c6592fc09875b73c44c7eeae307889f7e29f92f09f521838c",
   "author": "fmz200",
   "updatedAt": 1795094539248,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "08a7bfa57c85c370f7c3d02bed4b8c18e9e89d4fe736d66e30ad9c5e9ee40cd7"
+    "32e0198c716a992c6592fc09875b73c44c7eeae307889f7e29f92f09f521838c"
   ]
 }

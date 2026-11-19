@@ -7,7 +7,7 @@
   "name": "人人视频",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6d25ce9dc3369a4ea5112e1e39fcbe5af70a3df873915194b555f518a09c45f7",
+  "revisionId": "9ce88e94ee41c2a014ca4aedb9d0f0bc917c914ea39712140cc0d6ee47b3a0d1",
   "author": "fmz200",
   "updatedAt": 1795094539242,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6d25ce9dc3369a4ea5112e1e39fcbe5af70a3df873915194b555f518a09c45f7"
+    "9ce88e94ee41c2a014ca4aedb9d0f0bc917c914ea39712140cc0d6ee47b3a0d1"
   ]
 }

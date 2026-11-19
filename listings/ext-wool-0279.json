@@ -7,7 +7,7 @@
   "name": "看理想",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "59edf176641ef2209c5c8adec0b81aadf0c3505de314bc86c200d9ea5f01d1c0",
+  "revisionId": "07c6b0b02a7aaa304064182f1ef44fe9d013ce4323faf069885426b8f6afb373",
   "author": "fmz200",
   "updatedAt": 1795094539222,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "59edf176641ef2209c5c8adec0b81aadf0c3505de314bc86c200d9ea5f01d1c0"
+    "07c6b0b02a7aaa304064182f1ef44fe9d013ce4323faf069885426b8f6afb373"
   ]
 }

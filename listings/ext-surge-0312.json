@@ -7,7 +7,7 @@
   "name": "滴滴出行去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "7e24b24dba123b784462a58db6812a9284f1e98fb0b0927cfbe2d5871b1635fa",
+  "revisionId": "abae755cb1d648a38f5464d2d75f278b9aba6184c0ca1ac67405d7760f89754e",
   "author": "ClashModule",
   "updatedAt": 1795094539080,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "7e24b24dba123b784462a58db6812a9284f1e98fb0b0927cfbe2d5871b1635fa"
+    "abae755cb1d648a38f5464d2d75f278b9aba6184c0ca1ac67405d7760f89754e"
   ]
 }

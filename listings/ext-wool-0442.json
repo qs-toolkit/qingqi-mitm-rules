@@ -7,7 +7,7 @@
   "name": "闪现一下",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "75a11724636c465078ce7f7abd54dea9fb10b80ac889c4e659cd47129a28d19f",
+  "revisionId": "647ef47571fb2540c859235bb7fcef970cbfd664ef20707fa68c5c3790c67518",
   "author": "fmz200",
   "updatedAt": 1795094539245,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "75a11724636c465078ce7f7abd54dea9fb10b80ac889c4e659cd47129a28d19f"
+    "647ef47571fb2540c859235bb7fcef970cbfd664ef20707fa68c5c3790c67518"
   ]
 }

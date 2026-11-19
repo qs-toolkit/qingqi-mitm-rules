@@ -7,7 +7,7 @@
   "name": "转转",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cf4addb58163069a116006528564a55118e0ba6e7661ee5e62a28bc87c0c21ce",
+  "revisionId": "e6fd948e1238611142172edd1465d73b81a7f728c5c284d853137e6a8ead79d6",
   "author": "fmz200",
   "updatedAt": 1795094539284,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "cf4addb58163069a116006528564a55118e0ba6e7661ee5e62a28bc87c0c21ce"
+    "e6fd948e1238611142172edd1465d73b81a7f728c5c284d853137e6a8ead79d6"
   ]
 }

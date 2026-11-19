@@ -7,7 +7,7 @@
   "name": "曹操专车",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4af29933a59a1d2c415047b0804582db4e1826ed65d21c27bef0567145a76c2a",
+  "revisionId": "81c737998315b49b6325a2c8d530b24ac40e3926855848ad9134b5378a3de48e",
   "author": "fmz200",
   "updatedAt": 1795094539196,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4af29933a59a1d2c415047b0804582db4e1826ed65d21c27bef0567145a76c2a"
+    "81c737998315b49b6325a2c8d530b24ac40e3926855848ad9134b5378a3de48e"
   ]
 }

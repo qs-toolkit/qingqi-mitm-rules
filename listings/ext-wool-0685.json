@@ -7,7 +7,7 @@
   "name": "中信银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2b492e5d0ae3a2e12e4e92be774e6af4b1ab6a55d558680ed7e9ca721d26c688",
+  "revisionId": "5cec5613d9eaa4d6e1d527864dedc52b350a484952789f85630d7d8507f88169",
   "author": "fmz200",
   "updatedAt": 1795094539278,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2b492e5d0ae3a2e12e4e92be774e6af4b1ab6a55d558680ed7e9ca721d26c688"
+    "5cec5613d9eaa4d6e1d527864dedc52b350a484952789f85630d7d8507f88169"
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "IT之家去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=IT之家去广告\n#!desc=过滤IT之家信息流广告和文末广告，自定义移除置顶和轮播图，自定义移除项需在插件配置。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/IThome.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id570610859\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-12-01 01:25:27\n#!arguments=removePinnedArticles:false,removeAllBanners:false\n#!format=sgmodule\n\n[Script]\nIT之家去广告 = type=http-response, pattern=^https:\\/\\/napi\\.ithome\\.com\\/api\\/(news\\/indexv2\\/iphone\\/\\d+|topmenu\\/getfeeds\\?), script-path=https://kelee.one/Resource/JavaScript/IThome/IThome_remove_ads.js, requires-body=true, argument=\"[{{{removeAllBanners}}},{{{removePinnedArticles}}}]\"\n\n[URL Rewrite]\n^https?:\\/\\/dat\\.ruanmei\\.com\\/ithome\\/money\\/acd\\.json$ - reject\n\n[MITM]\nhostname = %APPEND% napi.ithome.com, api.zuihuimai.com, dat.ruanmei.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

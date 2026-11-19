@@ -7,7 +7,7 @@
   "name": "腾讯文档去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "7bf28cad31e66a033956b41e82153bf5d0a4848e4f04607a0007e644ddd271df",
+  "revisionId": "88336f907e8f9d8e7cfa8d575de3b3ad791884acb275a2707c80a998b7a8b9c9",
   "author": "ClashModule",
   "updatedAt": 1795094539091,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "7bf28cad31e66a033956b41e82153bf5d0a4848e4f04607a0007e644ddd271df"
+    "88336f907e8f9d8e7cfa8d575de3b3ad791884acb275a2707c80a998b7a8b9c9"
   ]
 }

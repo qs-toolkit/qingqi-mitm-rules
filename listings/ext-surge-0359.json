@@ -7,7 +7,7 @@
   "name": "磁力宅播放器去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "66031dee5cd96f32c3a5241634daa09f731749a2572a68cc866df1751385c6d5",
+  "revisionId": "eb532760001e49ab7576d29161032e92cbc9f76b5902a69cd862135e8f88dc19",
   "author": "ClashModule",
   "updatedAt": 1795094539086,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "66031dee5cd96f32c3a5241634daa09f731749a2572a68cc866df1751385c6d5"
+    "eb532760001e49ab7576d29161032e92cbc9f76b5902a69cd862135e8f88dc19"
   ]
 }

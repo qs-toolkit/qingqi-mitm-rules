@@ -7,7 +7,7 @@
   "name": "快手联盟,优量汇,穿山甲「广告联盟」",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "32ccab08a3762dbb61334603b94c15514c80d5d48d23ec6781bd24ff9ffc60c4",
+  "revisionId": "de29b95632d97b68e2a0bf6fff80b6f905dc2c5ddf3fa287b86b4ddcdff9e453",
   "author": "fmz200",
   "updatedAt": 1795094539221,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "32ccab08a3762dbb61334603b94c15514c80d5d48d23ec6781bd24ff9ffc60c4"
+    "de29b95632d97b68e2a0bf6fff80b6f905dc2c5ddf3fa287b86b4ddcdff9e453"
   ]
 }

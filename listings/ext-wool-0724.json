@@ -7,7 +7,7 @@
   "name": "住这儿",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ebfbc018e3d768f67f16776980f6ba3c77de6cb4a42b1357fcbecb0e47c8172c",
+  "revisionId": "2539bf9bbd525326151e56e223e651eaa548fe3e8ac39679eb9dc32c5a7c8de4",
   "author": "fmz200",
   "updatedAt": 1795094539284,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ebfbc018e3d768f67f16776980f6ba3c77de6cb4a42b1357fcbecb0e47c8172c"
+    "2539bf9bbd525326151e56e223e651eaa548fe3e8ac39679eb9dc32c5a7c8de4"
   ]
 }

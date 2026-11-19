@@ -7,7 +7,7 @@
   "name": "薄荷健康",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "de2cb1db8f915ef3e611fc930339684d573e7dfa3558c776f1b3a2019a051f36",
+  "revisionId": "29c28d00dde9d4cf6cbf72491b9f44a63a8b54e71b5c40c53c9fb4b73abe70ab",
   "author": "fmz200",
   "updatedAt": 1795094539192,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "de2cb1db8f915ef3e611fc930339684d573e7dfa3558c776f1b3a2019a051f36"
+    "29c28d00dde9d4cf6cbf72491b9f44a63a8b54e71b5c40c53c9fb4b73abe70ab"
   ]
 }

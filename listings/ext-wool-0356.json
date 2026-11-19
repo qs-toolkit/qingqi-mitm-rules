@@ -7,7 +7,7 @@
   "name": "米家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8a1db3f5fa47dd2e5b16cecd622c5742bd1548a3252cb5ccbcf770e0d3b2910f",
+  "revisionId": "d39b216e8f6d380ac9abed64dac90440a2d471ce14c843561538874a8e0e705a",
   "author": "fmz200",
   "updatedAt": 1795094539233,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8a1db3f5fa47dd2e5b16cecd622c5742bd1548a3252cb5ccbcf770e0d3b2910f"
+    "d39b216e8f6d380ac9abed64dac90440a2d471ce14c843561538874a8e0e705a"
   ]
 }

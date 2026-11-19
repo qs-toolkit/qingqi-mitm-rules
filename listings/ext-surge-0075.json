@@ -7,7 +7,7 @@
   "name": "Surge Pro",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "075d1bbfacb94f15ed96caedcbd1444940fe5df4b2e7db62c23939be5432209d",
+  "revisionId": "47abcc402be25b2b4389a407518ef3e4bceea16930e5eaa9883ec478a8324390",
   "author": "ClashModule",
   "updatedAt": 1795094539044,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "075d1bbfacb94f15ed96caedcbd1444940fe5df4b2e7db62c23939be5432209d"
+    "47abcc402be25b2b4389a407518ef3e4bceea16930e5eaa9883ec478a8324390"
   ]
 }

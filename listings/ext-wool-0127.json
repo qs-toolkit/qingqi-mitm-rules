@@ -7,7 +7,7 @@
   "name": "滴滴出行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "10b130da1d73318d8abe34a85b425169658bb095f5ad26762e5e293e15e3e40b",
+  "revisionId": "02fb824d94e07719eb417e40e42c570092a62a7b8d7b4fcdc9bcd8d480445bbc",
   "author": "fmz200",
   "updatedAt": 1795094539199,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "10b130da1d73318d8abe34a85b425169658bb095f5ad26762e5e293e15e3e40b"
+    "02fb824d94e07719eb417e40e42c570092a62a7b8d7b4fcdc9bcd8d480445bbc"
   ]
 }

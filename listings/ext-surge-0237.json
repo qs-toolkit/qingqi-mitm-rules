@@ -7,7 +7,7 @@
   "name": "微脉圈去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "6e6858bce0446c521c2e2e18e23887279ba133935b6d0462e464473c966eed51",
+  "revisionId": "99dafba584fa88cc46df671e7ca55a4816b0a710f87df88263bda6016d68a6c9",
   "author": "ClashModule",
   "updatedAt": 1795094539069,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "6e6858bce0446c521c2e2e18e23887279ba133935b6d0462e464473c966eed51"
+    "99dafba584fa88cc46df671e7ca55a4816b0a710f87df88263bda6016d68a6c9"
   ]
 }

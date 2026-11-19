@@ -7,7 +7,7 @@
   "name": "堆糖去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "64ce5a8cd4f74df7df677fdd8a78b79eb9bde5329722aac17213044c800d6beb",
+  "revisionId": "cc24903d031db1ca2b27fd6c19cca4a629f61c3379622e8e0a66efed2730efb1",
   "author": "ClashModule",
   "updatedAt": 1795094539057,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "64ce5a8cd4f74df7df677fdd8a78b79eb9bde5329722aac17213044c800d6beb"
+    "cc24903d031db1ca2b27fd6c19cca4a629f61c3379622e8e0a66efed2730efb1"
   ]
 }

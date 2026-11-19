@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "刺猬猫去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=刺猬猫去广告\n#!desc=刺猬猫app去广告 by @奶思\n#!category=去广告\n#!format=sgmodule\n\n[URL Rewrite]\n^https?:\\/\\/app\\.hbooker\\.com\\/setting\\/get_startpage_url_list - reject\n\n[MITM]\nhostname = %APPEND% app.hbooker.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

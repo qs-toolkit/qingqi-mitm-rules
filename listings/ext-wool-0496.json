@@ -7,7 +7,7 @@
   "name": "天天基金",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7867f5c50776d548628d165a2388468a163e45dd7f7578814d5e03d68e09cb5e",
+  "revisionId": "e3ab43a273c8c25ff690d1acd836f3a1f5d641e36ade1c7a0bc798ef6a333764",
   "author": "fmz200",
   "updatedAt": 1795094539252,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7867f5c50776d548628d165a2388468a163e45dd7f7578814d5e03d68e09cb5e"
+    "e3ab43a273c8c25ff690d1acd836f3a1f5d641e36ade1c7a0bc798ef6a333764"
   ]
 }

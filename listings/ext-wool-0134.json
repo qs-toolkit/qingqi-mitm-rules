@@ -7,7 +7,7 @@
   "name": "叮嗒出行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c1f1fefdcb104cb28cfe8ed7ba08ae3d56729172d914cbde4e0e2b19fedf8c62",
+  "revisionId": "ab7e74054834b430da9a12de5cff6948ac9ed6c90a665b678625cde121afbdbe",
   "author": "fmz200",
   "updatedAt": 1795094539200,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c1f1fefdcb104cb28cfe8ed7ba08ae3d56729172d914cbde4e0e2b19fedf8c62"
+    "ab7e74054834b430da9a12de5cff6948ac9ed6c90a665b678625cde121afbdbe"
   ]
 }

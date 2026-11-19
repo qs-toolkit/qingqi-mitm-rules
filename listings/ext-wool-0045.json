@@ -7,7 +7,7 @@
   "name": "Amazon",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bf20e49e5e739773e46d2ca1a6735f28267ba63f88091db264289d72907f0bf5",
+  "revisionId": "a1873afcaf0075c84292f9466e9630971d3b6b9bce97c4c5aaa68c0fecd3bbff",
   "author": "fmz200",
   "updatedAt": 1795094539187,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bf20e49e5e739773e46d2ca1a6735f28267ba63f88091db264289d72907f0bf5"
+    "a1873afcaf0075c84292f9466e9630971d3b6b9bce97c4c5aaa68c0fecd3bbff"
   ]
 }

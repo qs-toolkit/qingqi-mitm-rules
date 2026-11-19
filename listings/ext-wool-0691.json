@@ -7,7 +7,7 @@
   "name": "中国移动",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1ee8ff12f43376d0263c0ea1e8c133a7526a2524f035a8fab239580f8b987f2e",
+  "revisionId": "9f33b6a7ad6e86ef4a02179bf06dda8f368cf13f64e9e224ed05c8b4a0e554e9",
   "author": "fmz200",
   "updatedAt": 1795094539279,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1ee8ff12f43376d0263c0ea1e8c133a7526a2524f035a8fab239580f8b987f2e"
+    "9f33b6a7ad6e86ef4a02179bf06dda8f368cf13f64e9e224ed05c8b4a0e554e9"
   ]
 }

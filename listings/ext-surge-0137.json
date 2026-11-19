@@ -7,7 +7,7 @@
   "name": "什么值得买去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "0da0932f93fc282f4e6d763b67ef76cd78d2dc7ac0d504ce735bb96d834e77c9",
+  "revisionId": "b4c0a7b2c18e819a9df41b62489b70c9b5f60382f37c1d231310c64921b8ae77",
   "author": "ClashModule",
   "updatedAt": 1795094539053,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "0da0932f93fc282f4e6d763b67ef76cd78d2dc7ac0d504ce735bb96d834e77c9"
+    "b4c0a7b2c18e819a9df41b62489b70c9b5f60382f37c1d231310c64921b8ae77"
   ]
 }

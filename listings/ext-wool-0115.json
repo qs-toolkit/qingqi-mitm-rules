@@ -7,7 +7,7 @@
   "name": "DLabel云标签",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1895eeefed48199c4aff7be099d6538235fad27b5f63d83a18d203319e7a0c20",
+  "revisionId": "de01f0c0aafeb21869e73cad56939686ab67832a7d61521b08057e7fa30be028",
   "author": "fmz200",
   "updatedAt": 1795094539198,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1895eeefed48199c4aff7be099d6538235fad27b5f63d83a18d203319e7a0c20"
+    "de01f0c0aafeb21869e73cad56939686ab67832a7d61521b08057e7fa30be028"
   ]
 }

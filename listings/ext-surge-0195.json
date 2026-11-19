@@ -7,7 +7,7 @@
   "name": "小爱音箱 去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ecff2fa38e323c751d78d3c7af1e668b64ed28af4f779701e3db91dbe4a21c03",
+  "revisionId": "e084dd62c24eddd0be0c496ca7b90f8be583109490291e17fa6e38d8074c0f6b",
   "author": "ClashModule",
   "updatedAt": 1795094539061,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "ecff2fa38e323c751d78d3c7af1e668b64ed28af4f779701e3db91dbe4a21c03"
+    "e084dd62c24eddd0be0c496ca7b90f8be583109490291e17fa6e38d8074c0f6b"
   ]
 }

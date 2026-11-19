@@ -7,7 +7,7 @@
   "name": "分期乐",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "455351508812aa0aea8b60633f37b05ac8e038e86960377201aa975491857f19",
+  "revisionId": "6b1ad4a057e4000a02ca7393c0c2d04c054bd7208767f4dd0797c78eeb143a83",
   "author": "fmz200",
   "updatedAt": 1795094539204,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "455351508812aa0aea8b60633f37b05ac8e038e86960377201aa975491857f19"
+    "6b1ad4a057e4000a02ca7393c0c2d04c054bd7208767f4dd0797c78eeb143a83"
   ]
 }

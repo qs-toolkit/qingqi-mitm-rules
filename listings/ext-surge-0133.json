@@ -7,7 +7,7 @@
   "name": "京东外卖去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b7155336d3a61edbaff55e7f0540ad007338f68a17f2720afc432fe422d0af83",
+  "revisionId": "9ef04d1a868c68df95563fd7d64f0b5727f2908b3f8e5e4337f28e1d75f3141c",
   "author": "ClashModule",
   "updatedAt": 1795094539052,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b7155336d3a61edbaff55e7f0540ad007338f68a17f2720afc432fe422d0af83"
+    "9ef04d1a868c68df95563fd7d64f0b5727f2908b3f8e5e4337f28e1d75f3141c"
   ]
 }

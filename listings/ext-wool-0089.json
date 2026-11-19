@@ -7,7 +7,7 @@
   "name": "掌上京彩",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8be31be50f32eca5a23316aa62ca309100c4810feb95bf185b4b5e9c7859b074",
+  "revisionId": "aa8b487e0b2c54e9d3246af408d4334962ad88be8806d326dc6608059b591538",
   "author": "fmz200",
   "updatedAt": 1795094539193,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8be31be50f32eca5a23316aa62ca309100c4810feb95bf185b4b5e9c7859b074"
+    "aa8b487e0b2c54e9d3246af408d4334962ad88be8806d326dc6608059b591538"
   ]
 }

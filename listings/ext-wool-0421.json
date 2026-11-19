@@ -7,7 +7,7 @@
   "name": "日产智联",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ac38f9cf5f0c01ff9c46cb715c49b069642b138fd1b80726deca36c6533bab4a",
+  "revisionId": "b73ccc6f9ea82b70e6be9f41a3e7a6689d09f24cd982a430f4e685548b764721",
   "author": "fmz200",
   "updatedAt": 1795094539242,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ac38f9cf5f0c01ff9c46cb715c49b069642b138fd1b80726deca36c6533bab4a"
+    "b73ccc6f9ea82b70e6be9f41a3e7a6689d09f24cd982a430f4e685548b764721"
   ]
 }

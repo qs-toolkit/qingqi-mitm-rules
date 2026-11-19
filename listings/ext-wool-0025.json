@@ -7,7 +7,7 @@
   "name": "555影视",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fc3040fc986f04173dfd71a484155403b0c213c4b4eba8324d5a7e27efec8384",
+  "revisionId": "ff7db95e69af4b48792a970be0381c740e6039da2caba213bc6468ddd3ba743e",
   "author": "fmz200",
   "updatedAt": 1795094539185,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fc3040fc986f04173dfd71a484155403b0c213c4b4eba8324d5a7e27efec8384"
+    "ff7db95e69af4b48792a970be0381c740e6039da2caba213bc6468ddd3ba743e"
   ]
 }

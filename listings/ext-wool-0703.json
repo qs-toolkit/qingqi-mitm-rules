@@ -7,7 +7,7 @@
   "name": "掌上英雄联盟",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8aafe3eaaf7b649eb4fcb346b2f905ab7e236da5eec51d2bfd5c55a6fb2acb22",
+  "revisionId": "d56c1c79154eda6848cf5fe55692849d191799164de2c91966bbd43ded671cc2",
   "author": "fmz200",
   "updatedAt": 1795094539281,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8aafe3eaaf7b649eb4fcb346b2f905ab7e236da5eec51d2bfd5c55a6fb2acb22"
+    "d56c1c79154eda6848cf5fe55692849d191799164de2c91966bbd43ded671cc2"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "首汽约车",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "79c9c5fc891122545dbb9536b56f7f27100d3dd20866fcbe4c733d9bf6b626ca",
+  "revisionId": "52640bfe09c79c90528cec90cdfd6beec704ca70c0f2b3dffa957b53cef7df5b",
   "author": "fmz200",
   "updatedAt": 1795094539246,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "79c9c5fc891122545dbb9536b56f7f27100d3dd20866fcbe4c733d9bf6b626ca"
+    "52640bfe09c79c90528cec90cdfd6beec704ca70c0f2b3dffa957b53cef7df5b"
   ]
 }

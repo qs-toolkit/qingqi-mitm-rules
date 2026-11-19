@@ -7,7 +7,7 @@
   "name": "闲鱼",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "585280d016e994bfa05dad856f40fca12c79aeb99da9c220db050e3bba50cd18",
+  "revisionId": "cb786b60ec685d5bc52b438f8804e44187595ceee20146a28e263bfcf5faa6fa",
   "author": "fmz200",
   "updatedAt": 1795094539263,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "585280d016e994bfa05dad856f40fca12c79aeb99da9c220db050e3bba50cd18"
+    "cb786b60ec685d5bc52b438f8804e44187595ceee20146a28e263bfcf5faa6fa"
   ]
 }

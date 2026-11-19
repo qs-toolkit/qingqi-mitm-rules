@@ -7,7 +7,7 @@
   "name": "催眠大师 去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "85cc5af4c0beca0fbc1a813c42511758a9f0e6bde3f18ee308fff87768bcd195",
+  "revisionId": "0c57ad0475d9a841536a8e8dd96f877a5f00c2bb5f292f3aea3e40528682c53e",
   "author": "ClashModule",
   "updatedAt": 1795094539054,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "85cc5af4c0beca0fbc1a813c42511758a9f0e6bde3f18ee308fff87768bcd195"
+    "0c57ad0475d9a841536a8e8dd96f877a5f00c2bb5f292f3aea3e40528682c53e"
   ]
 }

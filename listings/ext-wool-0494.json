@@ -7,7 +7,7 @@
   "name": "天山云TV",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f487231e438f156c6c5a7feaafb40dd3fbbe1016aa7aca68e3935c662f1a2e48",
+  "revisionId": "030830f436abf9c0d4534c17c2df8821b1c757c8547c94d8bae7306df6b22243",
   "author": "fmz200",
   "updatedAt": 1795094539252,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f487231e438f156c6c5a7feaafb40dd3fbbe1016aa7aca68e3935c662f1a2e48"
+    "030830f436abf9c0d4534c17c2df8821b1c757c8547c94d8bae7306df6b22243"
   ]
 }

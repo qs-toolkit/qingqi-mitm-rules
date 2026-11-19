@@ -7,7 +7,7 @@
   "name": "可莉广告过滤器",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ed5efa69abd9b4881a6e16da033df3363ecaeff8330f895971a9a69433fcbd60",
+  "revisionId": "e1ff00af21c13854c2644a466dc80b93a588705e682a7f1879a5bea1a8052082",
   "author": "ClashModule",
   "updatedAt": 1795094539065,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "ed5efa69abd9b4881a6e16da033df3363ecaeff8330f895971a9a69433fcbd60"
+    "e1ff00af21c13854c2644a466dc80b93a588705e682a7f1879a5bea1a8052082"
   ]
 }

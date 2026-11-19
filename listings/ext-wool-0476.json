@@ -7,7 +7,7 @@
   "name": "淘票票",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ed76c200dedd0c326bf4266115b13339e10a2b34f685a451f598f1585f8e65f7",
+  "revisionId": "699bd61bd88d43a1b84bc4d9d023bb54d54c740e95c8490cea21b2b3f8ca19ca",
   "author": "fmz200",
   "updatedAt": 1795094539250,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "ed76c200dedd0c326bf4266115b13339e10a2b34f685a451f598f1585f8e65f7"
+    "699bd61bd88d43a1b84bc4d9d023bb54d54c740e95c8490cea21b2b3f8ca19ca"
   ]
 }

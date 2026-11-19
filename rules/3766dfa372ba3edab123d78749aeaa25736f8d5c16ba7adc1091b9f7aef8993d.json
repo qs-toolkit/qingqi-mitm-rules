@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "美食杰去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=美食杰去广告\n#!desc=移除开屏广告和信息流广告。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/MeiShiJie.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id399423833\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-05-13 15:17:08\n#!format=sgmodule\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/newapi\\.meishi\\.cc\\/indexnew\\/home_feeds 'if .data.items then .data.items |= map(select(.type | . != \"101\" and . != \"12\")) else . end'\n\n[MITM]\nhostname = %APPEND% newapi.meishi.cc\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

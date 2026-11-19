@@ -7,7 +7,7 @@
   "name": "WeChatMiniAds",
   "description": "fmz200/wool_scripts · Surge",
   "scope": [],
-  "revisionId": "fe0b4531200438da24c86fd76c0c44fea5824272b23cf1c06762d0cd58c99540",
+  "revisionId": "1c91b85855014fbb20c0ba03304514b03b4f54c0286d23084bec18501fefde96",
   "author": "fmz200",
   "updatedAt": 1795094539177,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fe0b4531200438da24c86fd76c0c44fea5824272b23cf1c06762d0cd58c99540"
+    "1c91b85855014fbb20c0ba03304514b03b4f54c0286d23084bec18501fefde96"
   ]
 }

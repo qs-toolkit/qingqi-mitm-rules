@@ -7,7 +7,7 @@
   "name": "Spotify去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "2da9d3813590727a84129965895d9fe1ccc2fe9cc800a1922d06899a04c676af",
+  "revisionId": "b21160cb8284d1f61afd57b888b5de61518affe70df1007038ba3947f52b5f21",
   "author": "ClashModule",
   "updatedAt": 1795094539043,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "2da9d3813590727a84129965895d9fe1ccc2fe9cc800a1922d06899a04c676af"
+    "b21160cb8284d1f61afd57b888b5de61518affe70df1007038ba3947f52b5f21"
   ]
 }

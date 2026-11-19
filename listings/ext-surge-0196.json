@@ -7,7 +7,7 @@
   "name": "2.去除小程序和其他应用广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9b2033139c944dfc0ff8ab36a8ba4ef3fef148c94d8d9a918173fc19b03f9ead",
+  "revisionId": "481396fb1d371d1ceb605cc0d13861a160667f8e56b1d7a65cb8f9aa2483e403",
   "author": "ClashModule",
   "updatedAt": 1795094539062,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "9b2033139c944dfc0ff8ab36a8ba4ef3fef148c94d8d9a918173fc19b03f9ead"
+    "481396fb1d371d1ceb605cc0d13861a160667f8e56b1d7a65cb8f9aa2483e403"
   ]
 }

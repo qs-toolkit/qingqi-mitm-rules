@@ -7,7 +7,7 @@
   "name": "喜马拉雅",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1e576b4dbe18db585c7ca8ffa12273eac5ffc31e3af718faa75a9a232056eefe",
+  "revisionId": "6dfb642caab21b2fe68eed2e1904649d0dfd23e28b79644f7f895b80dc468a85",
   "author": "fmz200",
   "updatedAt": 1795094539267,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "1e576b4dbe18db585c7ca8ffa12273eac5ffc31e3af718faa75a9a232056eefe"
+    "6dfb642caab21b2fe68eed2e1904649d0dfd23e28b79644f7f895b80dc468a85"
   ]
 }

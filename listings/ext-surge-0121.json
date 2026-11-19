@@ -7,7 +7,7 @@
   "name": "乐播投屏去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4127fc3bf36fc96c30aee960c1589a6c0a299540f55d74d587f51181c6645770",
+  "revisionId": "4c7933c6ff86556c43c2fb9e48de3f0ebf10ab5490ab7a853623f6ef6d33e8db",
   "author": "ClashModule",
   "updatedAt": 1795094539051,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "4127fc3bf36fc96c30aee960c1589a6c0a299540f55d74d587f51181c6645770"
+    "4c7933c6ff86556c43c2fb9e48de3f0ebf10ab5490ab7a853623f6ef6d33e8db"
   ]
 }

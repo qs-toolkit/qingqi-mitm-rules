@@ -7,7 +7,7 @@
   "name": "拦截HTTPDNS",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fc3bb730d616f7da7c3ada443159b6f523efaaa2b36914ffa1c0deab19d8b136",
+  "revisionId": "e0ca7ffdb7b7a3d56110b124f7dfd06f0c3b8619a8d197df429f855f773e8892",
   "author": "ClashModule",
   "updatedAt": 1795094539071,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fc3bb730d616f7da7c3ada443159b6f523efaaa2b36914ffa1c0deab19d8b136"
+    "e0ca7ffdb7b7a3d56110b124f7dfd06f0c3b8619a8d197df429f855f773e8892"
   ]
 }

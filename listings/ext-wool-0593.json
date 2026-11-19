@@ -7,7 +7,7 @@
   "name": "小象超市",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d163bd603392b3bfa6b902621002e2e0f62a2a3d9a813af87194e90f3f1b67c1",
+  "revisionId": "2259b3c08729e828c0b8a156e276d2acf58e1d4fe380305becb92469d3915fc7",
   "author": "fmz200",
   "updatedAt": 1795094539265,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d163bd603392b3bfa6b902621002e2e0f62a2a3d9a813af87194e90f3f1b67c1"
+    "2259b3c08729e828c0b8a156e276d2acf58e1d4fe380305becb92469d3915fc7"
   ]
 }

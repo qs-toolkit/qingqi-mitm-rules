@@ -7,7 +7,7 @@
   "name": "育学园",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c7174ea55a46ae6308b1b227e6366fea71a3c32382b8ed1e68a09d9ac21abbed",
+  "revisionId": "aa38e6a60458e349c3470f8eb9cee4e1eac676180d8949db5f581c941184f2ba",
   "author": "fmz200",
   "updatedAt": 1795094539276,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c7174ea55a46ae6308b1b227e6366fea71a3c32382b8ed1e68a09d9ac21abbed"
+    "aa38e6a60458e349c3470f8eb9cee4e1eac676180d8949db5f581c941184f2ba"
   ]
 }

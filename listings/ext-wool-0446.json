@@ -7,7 +7,7 @@
   "name": "神舟汽车",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d831ccb4a5250e5495c738a839aad633933e02a470c8945ddab338dc0833e30f",
+  "revisionId": "5fb41fe8afeed30cfadd422e7f0388c11b58b0ab14ff4b0fac90d2b738c119e8",
   "author": "fmz200",
   "updatedAt": 1795094539245,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d831ccb4a5250e5495c738a839aad633933e02a470c8945ddab338dc0833e30f"
+    "5fb41fe8afeed30cfadd422e7f0388c11b58b0ab14ff4b0fac90d2b738c119e8"
   ]
 }

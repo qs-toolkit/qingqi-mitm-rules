@@ -7,7 +7,7 @@
   "name": "墨迹天气去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "2f10efc3f113a11f3e84dad4fe01580b9130f708050d47577d0ccc8bca52a2e8",
+  "revisionId": "89e6689085fe8a170353fcb3c513c1f18bc774e4d1cbebe67a9144f21c34d7e0",
   "author": "ClashModule",
   "updatedAt": 1795094539057,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "2f10efc3f113a11f3e84dad4fe01580b9130f708050d47577d0ccc8bca52a2e8"
+    "89e6689085fe8a170353fcb3c513c1f18bc774e4d1cbebe67a9144f21c34d7e0"
   ]
 }

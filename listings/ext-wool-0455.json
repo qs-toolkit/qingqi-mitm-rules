@@ -7,7 +7,7 @@
   "name": "四川航空",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c5b3a6883c30c041722144961bbc49c308779a13551a236b0cb78a474526271a",
+  "revisionId": "44f4656d65af90cb2133e9574aa3e2d934f03d4e785d3dd16d9098bc28c3afd6",
   "author": "fmz200",
   "updatedAt": 1795094539247,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c5b3a6883c30c041722144961bbc49c308779a13551a236b0cb78a474526271a"
+    "44f4656d65af90cb2133e9574aa3e2d934f03d4e785d3dd16d9098bc28c3afd6"
   ]
 }

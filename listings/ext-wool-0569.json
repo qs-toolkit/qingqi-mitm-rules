@@ -7,7 +7,7 @@
   "name": "星途 starway",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "df25e2ace040bd0e59b73b2d3cb1fa9e94752117173a1ae7d4f84accd0a6ef17",
+  "revisionId": "91eb7e327389b899c23ef151e3946d30d15a31a4819eabafcc7a495abcf50224",
   "author": "fmz200",
   "updatedAt": 1795094539262,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "df25e2ace040bd0e59b73b2d3cb1fa9e94752117173a1ae7d4f84accd0a6ef17"
+    "91eb7e327389b899c23ef151e3946d30d15a31a4819eabafcc7a495abcf50224"
   ]
 }

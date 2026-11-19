@@ -7,7 +7,7 @@
   "name": "Keep去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c8d9cc261899f5fd8231c77a07729040a0dd36aa27bbd7e21059e8349b9b37f7",
+  "revisionId": "9e580df3896b3c6feb987d2085a06cbf66f57118fc818ff4f75048db777d5019",
   "author": "ClashModule",
   "updatedAt": 1795094539040,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "c8d9cc261899f5fd8231c77a07729040a0dd36aa27bbd7e21059e8349b9b37f7"
+    "9e580df3896b3c6feb987d2085a06cbf66f57118fc818ff4f75048db777d5019"
   ]
 }

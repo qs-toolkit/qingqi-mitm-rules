@@ -7,7 +7,7 @@
   "name": "知识星球去水印",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "02b0dc6ffb862819d02375950d1762bdd7f02f6b3fd2c8aab580172c88edce72",
+  "revisionId": "5b587e99dea876daf487bce5644dcaebf886cc142285ddb442ab73397a0d63ab",
   "author": "ClashModule",
   "updatedAt": 1795094539086,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "02b0dc6ffb862819d02375950d1762bdd7f02f6b3fd2c8aab580172c88edce72"
+    "5b587e99dea876daf487bce5644dcaebf886cc142285ddb442ab73397a0d63ab"
   ]
 }

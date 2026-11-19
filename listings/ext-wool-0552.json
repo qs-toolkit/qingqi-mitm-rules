@@ -7,7 +7,7 @@
   "name": "微店",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c720c249622708021ffa35bdb3563764cf9a0e8e724954f500c74e16e5fdfbf9",
+  "revisionId": "cba9a8bd3d2bb7392bedffd694344bb3a2fb3af25691d5053273c987aea8cf20",
   "author": "fmz200",
   "updatedAt": 1795094539259,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c720c249622708021ffa35bdb3563764cf9a0e8e724954f500c74e16e5fdfbf9"
+    "cba9a8bd3d2bb7392bedffd694344bb3a2fb3af25691d5053273c987aea8cf20"
   ]
 }

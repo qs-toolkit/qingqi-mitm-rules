@@ -7,7 +7,7 @@
   "name": "球迷报",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4d2516a402bb81fed5e4b1aadf7e76dc91e72f45feb951d98540e6a40d32e536",
+  "revisionId": "9039d7085a703d69f398bba7a500ca016e7661274a67eea694e9eac582cc40c0",
   "author": "fmz200",
   "updatedAt": 1795094539241,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4d2516a402bb81fed5e4b1aadf7e76dc91e72f45feb951d98540e6a40d32e536"
+    "9039d7085a703d69f398bba7a500ca016e7661274a67eea694e9eac582cc40c0"
   ]
 }

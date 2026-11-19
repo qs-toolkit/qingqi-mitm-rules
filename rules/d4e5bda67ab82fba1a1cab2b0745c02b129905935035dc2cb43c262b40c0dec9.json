@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "SogouInput",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=搜狗输入法\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partS/SogouInput.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/(ios|android)\\.sogou\\.com\\/[^\\/]+\\/sogou_input_[^\\/]+\\/[^\\/]+\\/index\\.html/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/h5api\\.sginput\\.qq\\.com\\/v1\\/gcenter\\/ios\\/homepage/i then reject_dict(200)\n\n[Rule]\nDOMAIN-SUFFIX, push-service-ios.sginput.qq.com,REJECT\n\n[MITM]\nhostname = %APPEND% business-cdn.shouji.sogou.com, ios.sogou.com, android.sogou.com, h5api.sginput.qq.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

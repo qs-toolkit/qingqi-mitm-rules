@@ -7,7 +7,7 @@
   "name": "联想至像打印",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6ee3347abe07e92c7b34101a9a181d315b619df592b2473c685dd1023630e375",
+  "revisionId": "614305abb01b5b4964f3fe7290e602cc4fc1316b5557b2605eaa832a3a0b178a",
   "author": "fmz200",
   "updatedAt": 1795094539226,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6ee3347abe07e92c7b34101a9a181d315b619df592b2473c685dd1023630e375"
+    "614305abb01b5b4964f3fe7290e602cc4fc1316b5557b2605eaa832a3a0b178a"
   ]
 }

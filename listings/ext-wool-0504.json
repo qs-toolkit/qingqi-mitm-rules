@@ -7,7 +7,7 @@
   "name": "TruthSocial",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "dabc01087d12d6256beece92a4882f19a2bdfc9eb66aeb4a227041e4eba38252",
+  "revisionId": "ed3015a91137b3c607a4e4ae9ed3c110e62a24ffa803dae04922256421ceeffd",
   "author": "fmz200",
   "updatedAt": 1795094539253,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "dabc01087d12d6256beece92a4882f19a2bdfc9eb66aeb4a227041e4eba38252"
+    "ed3015a91137b3c607a4e4ae9ed3c110e62a24ffa803dae04922256421ceeffd"
   ]
 }

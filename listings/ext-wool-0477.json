@@ -7,7 +7,7 @@
   "name": "TapTap",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "54af2c614ea114ced7b924c37668d3d8ead4d3b3810a7e826691a0757b081fc4",
+  "revisionId": "235758f54ee099e28370d643fd1517d60b63547c99edfaf56779a6c6af94aa69",
   "author": "fmz200",
   "updatedAt": 1795094539250,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "54af2c614ea114ced7b924c37668d3d8ead4d3b3810a7e826691a0757b081fc4"
+    "235758f54ee099e28370d643fd1517d60b63547c99edfaf56779a6c6af94aa69"
   ]
 }

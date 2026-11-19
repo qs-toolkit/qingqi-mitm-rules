@@ -7,7 +7,7 @@
   "name": "美柚去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9d42cde9a168690b4d1360d86c2d24e134448c90742845178c8710b9995e71fd",
+  "revisionId": "0fcc3b701c625b326953016965300487b26cf2a85114f1319d289841e5df0034",
   "author": "ClashModule",
   "updatedAt": 1795094539090,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "9d42cde9a168690b4d1360d86c2d24e134448c90742845178c8710b9995e71fd"
+    "0fcc3b701c625b326953016965300487b26cf2a85114f1319d289841e5df0034"
   ]
 }

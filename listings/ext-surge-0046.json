@@ -7,7 +7,7 @@
   "name": "KOOK去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "d0ce43ffeb724e74ec18f8020ac008b05804dfa9c5c7a4e6c24024bf217f0ca0",
+  "revisionId": "4871c0a67b158a38962b9f6a8e9900b4dcc6b895dbed2807796d4ed1644f4354",
   "author": "ClashModule",
   "updatedAt": 1795094539039,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "d0ce43ffeb724e74ec18f8020ac008b05804dfa9c5c7a4e6c24024bf217f0ca0"
+    "4871c0a67b158a38962b9f6a8e9900b4dcc6b895dbed2807796d4ed1644f4354"
   ]
 }

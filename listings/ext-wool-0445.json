@@ -7,7 +7,7 @@
   "name": "深圳通",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6e6676c4e415f4f102c5a8ffda304cc0eb5feb78b042760c4a152da99fb0ea0e",
+  "revisionId": "5b8d5e709e7a87c17dd24b826f5e916827aecd87b700ae1501eb1d569d20139e",
   "author": "fmz200",
   "updatedAt": 1795094539245,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6e6676c4e415f4f102c5a8ffda304cc0eb5feb78b042760c4a152da99fb0ea0e"
+    "5b8d5e709e7a87c17dd24b826f5e916827aecd87b700ae1501eb1d569d20139e"
   ]
 }

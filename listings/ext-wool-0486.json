@@ -7,7 +7,7 @@
   "name": "腾讯体育",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9125d3f5c35f8c9d911f17a893276e6abc29a1b784b0736831b49f0ec42c5a74",
+  "revisionId": "76ea799caecf4d04bce5ba70cf555761187f7a92805204cc57a279c73132304c",
   "author": "fmz200",
   "updatedAt": 1795094539251,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9125d3f5c35f8c9d911f17a893276e6abc29a1b784b0736831b49f0ec42c5a74"
+    "76ea799caecf4d04bce5ba70cf555761187f7a92805204cc57a279c73132304c"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "WPS",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4db875d652e04ce87f2d5f685036f0845f05f056a582f21a6bf0929925949f61",
+  "revisionId": "0936316e6f64d6fd7ac7a0636970f32ac4efcc37293f5de5de9e63a503a3ce0a",
   "author": "fmz200",
   "updatedAt": 1795094539258,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4db875d652e04ce87f2d5f685036f0845f05f056a582f21a6bf0929925949f61"
+    "0936316e6f64d6fd7ac7a0636970f32ac4efcc37293f5de5de9e63a503a3ce0a"
   ]
 }

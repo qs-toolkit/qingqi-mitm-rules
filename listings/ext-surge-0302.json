@@ -7,7 +7,7 @@
   "name": "波点音乐去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "026cd99056661bfc2335ca4dc188cdb20e7615a401dc36e0366c15db6c29830a",
+  "revisionId": "12c10869afe16cd29821430fc21d66d049de41897b381760be2a8695ea4a0315",
   "author": "ClashModule",
   "updatedAt": 1795094539078,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "026cd99056661bfc2335ca4dc188cdb20e7615a401dc36e0366c15db6c29830a"
+    "12c10869afe16cd29821430fc21d66d049de41897b381760be2a8695ea4a0315"
   ]
 }

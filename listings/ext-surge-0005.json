@@ -7,7 +7,7 @@
   "name": "123云盘去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4237af3ce88e1922ea2ff4ce89dd00b08efb7f4dfe1c9473814f8106f85777c2",
+  "revisionId": "58ca113df1821bb0a99f0dfd95b3b7d4d6c47ddc7be15343c0824f04c337c9ce",
   "author": "ClashModule",
   "updatedAt": 1795094539033,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "4237af3ce88e1922ea2ff4ce89dd00b08efb7f4dfe1c9473814f8106f85777c2"
+    "58ca113df1821bb0a99f0dfd95b3b7d4d6c47ddc7be15343c0824f04c337c9ce"
   ]
 }

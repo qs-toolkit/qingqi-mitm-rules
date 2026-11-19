@@ -7,7 +7,7 @@
   "name": "智联招聘去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "c7bb0b3e61dcfb11127c72fbc4f52860023c9a9e3aadad89fc5fae33e67a2fd2",
+  "revisionId": "04d535c1de8fe59fd4f07615c23a27245dea30155a58fe1bfdb95c53364a7594",
   "author": "ClashModule",
   "updatedAt": 1795094539075,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "c7bb0b3e61dcfb11127c72fbc4f52860023c9a9e3aadad89fc5fae33e67a2fd2"
+    "04d535c1de8fe59fd4f07615c23a27245dea30155a58fe1bfdb95c53364a7594"
   ]
 }

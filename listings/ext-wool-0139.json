@@ -7,7 +7,7 @@
   "name": "丁香园",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "03b1abd642b8d5dafc14fb450830d3c6ba4c5a9acd2d12a9e2618dd2a1a5bdf7",
+  "revisionId": "395fd9fa080584b8dcb969750fda3d0d4722f4bd8968a4f16c8a0a4a94b3dd3e",
   "author": "fmz200",
   "updatedAt": 1795094539201,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "03b1abd642b8d5dafc14fb450830d3c6ba4c5a9acd2d12a9e2618dd2a1a5bdf7"
+    "395fd9fa080584b8dcb969750fda3d0d4722f4bd8968a4f16c8a0a4a94b3dd3e"
   ]
 }

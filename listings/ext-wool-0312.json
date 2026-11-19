@@ -7,7 +7,7 @@
   "name": "猎聘",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4e839f7c8ede7dc668cbcde09202af9eaad60b636181168478fe171c77394010",
+  "revisionId": "0c5b584689b1061f3bb642323724637db73bcc5a349925d8e26d73041af04f7e",
   "author": "fmz200",
   "updatedAt": 1795094539226,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4e839f7c8ede7dc668cbcde09202af9eaad60b636181168478fe171c77394010"
+    "0c5b584689b1061f3bb642323724637db73bcc5a349925d8e26d73041af04f7e"
   ]
 }

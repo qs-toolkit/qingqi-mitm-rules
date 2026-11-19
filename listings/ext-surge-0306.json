@@ -7,7 +7,7 @@
   "name": "流量统计",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "b8905a9ab9093418afd95bdb08ec88e1425e76d858492605b277e92707a06c63",
+  "revisionId": "d9f3339714daf698ae90c715c2175d4d2b8abdadd146d264dff31a6343bbc3f0",
   "author": "ClashModule",
   "updatedAt": 1795094539079,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "b8905a9ab9093418afd95bdb08ec88e1425e76d858492605b277e92707a06c63"
+    "d9f3339714daf698ae90c715c2175d4d2b8abdadd146d264dff31a6343bbc3f0"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "百度网页去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "fa14e2f3bacac484e6500f57423e5a40a0471e1c41433bfd0f40fb670afef94e",
+  "revisionId": "1fe60e74a8c943d220d0202d648e73ce80df3203e3bb011b6b0afc64d81aea26",
   "author": "ClashModule",
   "updatedAt": 1795094539083,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "fa14e2f3bacac484e6500f57423e5a40a0471e1c41433bfd0f40fb670afef94e"
+    "1fe60e74a8c943d220d0202d648e73ce80df3203e3bb011b6b0afc64d81aea26"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "盛趣游戏",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a3312a9e636bd1369bcaf3d045b5f9e674be1531bfa2db071c2d91796eebc7a6",
+  "revisionId": "24fbcadb57685df32bfba7593f8e7a529d3560698321db67c117ccef9a9320eb",
   "author": "fmz200",
   "updatedAt": 1795094539245,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a3312a9e636bd1369bcaf3d045b5f9e674be1531bfa2db071c2d91796eebc7a6"
+    "24fbcadb57685df32bfba7593f8e7a529d3560698321db67c117ccef9a9320eb"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "车来了",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c18a73dd685d21ac3c4a511aa875235bee62a62fe0b624f9b9bdb5112af6b5b4",
+  "revisionId": "69d539b76f5546e4cb04172ebb477f5f72a6e98a9f863c79295e6e2d130a53cc",
   "author": "fmz200",
   "updatedAt": 1795094539197,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c18a73dd685d21ac3c4a511aa875235bee62a62fe0b624f9b9bdb5112af6b5b4"
+    "69d539b76f5546e4cb04172ebb477f5f72a6e98a9f863c79295e6e2d130a53cc"
   ]
 }

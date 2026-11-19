@@ -7,7 +7,7 @@
   "name": "驾校一点通去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "91c808dd90d6f340e486cf4dc707a960958f00d72ce9a1e4118e4974f5b37925",
+  "revisionId": "06ab797000998f289830fd184c5dfc4282816c29104b531d6f2b69697e0d689d",
   "author": "ClashModule",
   "updatedAt": 1795094539104,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "91c808dd90d6f340e486cf4dc707a960958f00d72ce9a1e4118e4974f5b37925"
+    "06ab797000998f289830fd184c5dfc4282816c29104b531d6f2b69697e0d689d"
   ]
 }

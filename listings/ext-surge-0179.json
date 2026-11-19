@@ -7,7 +7,7 @@
   "name": "夸克扫描王去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8a511436a0505192472d8d285fc3d3c710e0f8292531ad457a290345d05aa69d",
+  "revisionId": "1b3744a6946a9ab2d9dc71d484507099681b8b69915b2f6a199d72306db1fac9",
   "author": "ClashModule",
   "updatedAt": 1795094539059,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "8a511436a0505192472d8d285fc3d3c710e0f8292531ad457a290345d05aa69d"
+    "1b3744a6946a9ab2d9dc71d484507099681b8b69915b2f6a199d72306db1fac9"
   ]
 }

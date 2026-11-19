@@ -7,7 +7,7 @@
   "name": "小白学习打印机",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2b474327b5fa09b9571ddd3133e751eba161a2c4701c13d294888be4fd4fe0fc",
+  "revisionId": "38d3ebf5ab98b5ab2351d5a8ecb86074e8c66a579bdc5e05bc4d6275bcea71e1",
   "author": "fmz200",
   "updatedAt": 1795094539263,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2b474327b5fa09b9571ddd3133e751eba161a2c4701c13d294888be4fd4fe0fc"
+    "38d3ebf5ab98b5ab2351d5a8ecb86074e8c66a579bdc5e05bc4d6275bcea71e1"
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "ZAKER去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=ZAKER去广告\n#!desc=移除开屏广告、置顶轮播图广告和文末广告。\n#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/ZAKER.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id462149227\n#!tag=去广告\n#!loon_version=3.2.4(787)\n#!homepage=https://hub.kelee.one\n#!date=2025-06-30 23:34:19\n#!format=sgmodule\n\n[Map Local]\n^https:\\/\\/iphone\\.myzaker\\.com\\/zaker\\/cover\\.php\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n^https:\\/\\/iphone\\.myzaker\\.com\\/zaker\\/block_top_ad\\.php\\? data-type=text data=\"{}\" status-code=200 header=\"Content-Type:application/json\"\n\n[Body Rewrite]\nhttp-response-jq ^https:\\/\\/iphone\\.myzaker\\.com\\/zaker\\/article_mongo_sec\\.php\\? 'delpaths([[\"data\",\"ad_url\"]])'\nhttp-response-jq ^https:\\/\\/ggs\\.myzaker\\.com\\/zk_article_ad\\.php\\? 'delpaths([[\"data\",\"article_bottom\"]])'\nhttp-response-jq ^https:\\/\\/ggs\\.myzaker\\.com\\/zk_article_ad\\.php\\? 'delpaths([[\"data\",\"recommend_ad\"]])'\nhttp-response-jq ^https:\\/\\/iphone\\.myzaker\\.com\\/zaker\\/follow_promote\\.php\\? '.data.list |= map(select(.type != \"web\"))'\nhttp-response-jq ^https:\\/\\/iphone\\.myzaker\\.com\\/zaker\\/car_tab\\/index\\.php\\? '.data.gallery |= map(select(.type != \"web\"))'\n\n[MITM]\nhostname = %APPEND% iphone.myzaker.com, ggs.myzaker.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

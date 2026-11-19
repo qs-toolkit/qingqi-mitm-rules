@@ -7,7 +7,7 @@
   "name": "工时记录",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "85f070dfc8fa3a3a9e8df2577348b12daf4ee5827735d854dc9c2cb18b2b748d",
+  "revisionId": "c96c48f6fca195a45daeb685d92170d2a2a1fe4d9dcfa975891b6d4630dc55b3",
   "author": "fmz200",
   "updatedAt": 1795094539207,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "85f070dfc8fa3a3a9e8df2577348b12daf4ee5827735d854dc9c2cb18b2b748d"
+    "c96c48f6fca195a45daeb685d92170d2a2a1fe4d9dcfa975891b6d4630dc55b3"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "宝宝树孕育去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "3a6f2a51fe8b77b94aafd3f7e9221daf11a3ffb487e4e10914f486ff850dbd1e",
+  "revisionId": "cbdaf629fa7b8a2835a4fb5ce774d94368379f32b8f3a004d50a4ac22af213f7",
   "author": "ClashModule",
   "updatedAt": 1795094539060,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "3a6f2a51fe8b77b94aafd3f7e9221daf11a3ffb487e4e10914f486ff850dbd1e"
+    "cbdaf629fa7b8a2835a4fb5ce774d94368379f32b8f3a004d50a4ac22af213f7"
   ]
 }

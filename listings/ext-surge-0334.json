@@ -7,7 +7,7 @@
   "name": "百度地图去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "79b97ca3fe5fdc7c7ac16a3bad2397b3c6e37d423f24619f8d829afb526b0803",
+  "revisionId": "609c3c216b65f12f78505ed0da04a89b3e97c788490a7ff6b0bbb4aabb984a5f",
   "author": "ClashModule",
   "updatedAt": 1795094539083,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "79b97ca3fe5fdc7c7ac16a3bad2397b3c6e37d423f24619f8d829afb526b0803"
+    "609c3c216b65f12f78505ed0da04a89b3e97c788490a7ff6b0bbb4aabb984a5f"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "光大银行 阳光惠生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "dd1b69dc38a9a84eb4305fc8ecf4eb7d4414baac0ad296a8831bad03b6085d7c",
+  "revisionId": "ef4fe5e965a98c2ee441e2ab2a97a6f51dcdcea6bad8afb413b8abac5e3c1cda",
   "author": "fmz200",
   "updatedAt": 1795094539206,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "dd1b69dc38a9a84eb4305fc8ecf4eb7d4414baac0ad296a8831bad03b6085d7c"
+    "ef4fe5e965a98c2ee441e2ab2a97a6f51dcdcea6bad8afb413b8abac5e3c1cda"
   ]
 }

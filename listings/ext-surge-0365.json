@@ -7,7 +7,7 @@
   "name": "粉笔去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "47b6d6fb54cdc3572bf608c4a3a0c49384a973800de4faee026777dc5567c8ec",
+  "revisionId": "4669bb0706a89507bfbeb86c099d474871ad72fd5552fa329955036902ce7bc2",
   "author": "ClashModule",
   "updatedAt": 1795094539087,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "47b6d6fb54cdc3572bf608c4a3a0c49384a973800de4faee026777dc5567c8ec"
+    "4669bb0706a89507bfbeb86c099d474871ad72fd5552fa329955036902ce7bc2"
   ]
 }

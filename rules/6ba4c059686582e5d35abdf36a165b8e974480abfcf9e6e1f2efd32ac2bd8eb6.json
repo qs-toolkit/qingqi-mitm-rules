@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Douban",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=豆瓣\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partD/Douban.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api\\.douban\\.com\\/v\\d\\/app_ads\\//i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/api\\.douban\\.com\\/b.*\\/common_ads\\?.*/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/img\\d\\.doubanio\\.com\\/view\\/dale-online\\/dale_ad\\//i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/frodo\\.douban\\.com\\/api\\/v2\\/movie\\/banner/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/erebor\\.douban\\.com\\/count\\/\\?ad=/i then reject(404)\n\n[Rule]\nDOMAIN-SUFFIX, erebor.douban.com,REJECT\nDOMAIN-SUFFIX, ad.doubanio.com,REJECT\n\n[MITM]\nhostname = %APPEND% api.douban.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

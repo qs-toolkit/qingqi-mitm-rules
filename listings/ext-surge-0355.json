@@ -7,7 +7,7 @@
   "name": "知乎去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "76a818cf8b9eb7ddb1be1d147514c9179d299e6c17742b2f1cf00dcc0ac53b71",
+  "revisionId": "6913674bf72cb9e75e61803abc6d4f29e3b7280c836d55507ad9adca97e62d2c",
   "author": "ClashModule",
   "updatedAt": 1795094539086,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "76a818cf8b9eb7ddb1be1d147514c9179d299e6c17742b2f1cf00dcc0ac53b71"
+    "6913674bf72cb9e75e61803abc6d4f29e3b7280c836d55507ad9adca97e62d2c"
   ]
 }

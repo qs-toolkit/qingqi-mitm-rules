@@ -7,7 +7,7 @@
   "name": "盒马",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0ed4f48e3e63755bcd874739f08f53707182c3fba25c2c7582dbae8b3c4a6f35",
+  "revisionId": "725e169d656fb9875dd3f9cacf0a784cb6fe56bef781a9f57a227b19df2d938b",
   "author": "fmz200",
   "updatedAt": 1795094539215,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0ed4f48e3e63755bcd874739f08f53707182c3fba25c2c7582dbae8b3c4a6f35"
+    "725e169d656fb9875dd3f9cacf0a784cb6fe56bef781a9f57a227b19df2d938b"
   ]
 }

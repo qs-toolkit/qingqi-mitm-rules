@@ -7,7 +7,7 @@
   "name": "一甜相机去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "19acd17a3928c58450eb032b0d507457d064564f7f6370afd769eb95e8275fb0",
+  "revisionId": "c711a118bc462495a6e4555367ae1900e4fc86e5c7b7cde2a52412786ca15195",
   "author": "ClashModule",
   "updatedAt": 1795094539049,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "19acd17a3928c58450eb032b0d507457d064564f7f6370afd769eb95e8275fb0"
+    "c711a118bc462495a6e4555367ae1900e4fc86e5c7b7cde2a52412786ca15195"
   ]
 }

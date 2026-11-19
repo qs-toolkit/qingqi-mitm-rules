@@ -7,7 +7,7 @@
   "name": "YY去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "2273cd8babb01462f781902c772e61cf2d15966895fc6801b3ab77e23122fabf",
+  "revisionId": "cc093e405d40bc6042bd8d1e89364634dae46636936221f77c6d2cc56f098a98",
   "author": "ClashModule",
   "updatedAt": 1795094539046,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "2273cd8babb01462f781902c772e61cf2d15966895fc6801b3ab77e23122fabf"
+    "cc093e405d40bc6042bd8d1e89364634dae46636936221f77c6d2cc56f098a98"
   ]
 }

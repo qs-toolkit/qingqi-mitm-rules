@@ -7,7 +7,7 @@
   "name": "小牛",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ec5d6b4c4e47dea446f4273141c49872c37cd9a4e8767fcfd970347cfa89fedb",
+  "revisionId": "ea38fa3436dff86a140bbaf87d2f56c76d2316afea3af307fca52c13286e41d4",
   "author": "fmz200",
   "updatedAt": 1795094539265,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ec5d6b4c4e47dea446f4273141c49872c37cd9a4e8767fcfd970347cfa89fedb"
+    "ea38fa3436dff86a140bbaf87d2f56c76d2316afea3af307fca52c13286e41d4"
   ]
 }

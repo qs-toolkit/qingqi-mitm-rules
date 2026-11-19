@@ -7,7 +7,7 @@
   "name": "机核网",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "12959f65412523ed4d537529112d1b4fe9926fc6112a2a354bfb229555a86f74",
+  "revisionId": "96fc976848e5cb828a86b450e11cd61e5af5828acee0d0aeef29930339c08651",
   "author": "fmz200",
   "updatedAt": 1795094539219,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "12959f65412523ed4d537529112d1b4fe9926fc6112a2a354bfb229555a86f74"
+    "96fc976848e5cb828a86b450e11cd61e5af5828acee0d0aeef29930339c08651"
   ]
 }

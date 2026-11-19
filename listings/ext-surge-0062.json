@@ -7,7 +7,7 @@
   "name": "Roborock去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "37bfcc89fd66e1b8696badf5c07d0942b627f2738320b151821c49c33de6324e",
+  "revisionId": "484b9e75766afd293c1362064c332516ecd05fdf39b5bb00d4ebe6ae99e12582",
   "author": "ClashModule",
   "updatedAt": 1795094539042,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "37bfcc89fd66e1b8696badf5c07d0942b627f2738320b151821c49c33de6324e"
+    "484b9e75766afd293c1362064c332516ecd05fdf39b5bb00d4ebe6ae99e12582"
   ]
 }

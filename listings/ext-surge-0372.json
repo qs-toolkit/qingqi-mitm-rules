@@ -7,7 +7,7 @@
   "name": "去广告 - 网易云音乐",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "11dc95457478e78ed3bbd736d59ff5e76eee921ae708f3c1cb1f891174a2e4c1",
+  "revisionId": "ee1a9290001ca62d640f3637c2e3f1123146a513c29827c28d617fbdb1d41d82",
   "author": "ClashModule",
   "updatedAt": 1795094539088,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "11dc95457478e78ed3bbd736d59ff5e76eee921ae708f3c1cb1f891174a2e4c1"
+    "ee1a9290001ca62d640f3637c2e3f1123146a513c29827c28d617fbdb1d41d82"
   ]
 }

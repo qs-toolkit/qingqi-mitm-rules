@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "XiaoYuZhou",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=小宇宙\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partX/XiaoYuZhou.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nresponse if ${url} ~= /^https?:\\/\\/api\\.xiaoyuzhoufm\\.com\\/v1\\/discovery-feed\\/list/i then response.json.jq(\".data |= map(select(.type != \\\"DISCOVERY_HEADER\\\" and .type != \\\"DISCOVERY_BANNER\\\"))\")\nresponse if ${url} ~= /^https?:\\/\\/api\\.xiaoyuzhoufm\\.com\\/v1\\/(related-episode|operation-resource)\\/list/i then response.json.jq(\".data = []\")\nrequest if ${url} ~= /^https?:\\/\\/api\\.xiaoyuzhoufm\\.com\\/v\\d\\/flash/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/api\\.xiaoyuzhoufm\\.com\\/v\\d\\/ai/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/api\\.xiaoyuzhoufm\\.com\\/v\\d\\/search\\/get/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/api\\.xiaoyuzhoufm\\.com\\/v\\d\\/category/i then reject_dict(200)\n\n[MITM]\nhostname = %APPEND% api.xiaoyuzhoufm.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

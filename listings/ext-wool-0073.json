@@ -7,7 +7,7 @@
   "name": "贝太厨房",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3b9d25884a9cb04b72bf15bb855c80ca276fe6d64a1922dc8b980b764c45ce1f",
+  "revisionId": "367318eafa5f42e0b31ba2be4c02b1174e6362407c21b4a9fdaca0f4aa6bdb67",
   "author": "fmz200",
   "updatedAt": 1795094539191,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3b9d25884a9cb04b72bf15bb855c80ca276fe6d64a1922dc8b980b764c45ce1f"
+    "367318eafa5f42e0b31ba2be4c02b1174e6362407c21b4a9fdaca0f4aa6bdb67"
   ]
 }

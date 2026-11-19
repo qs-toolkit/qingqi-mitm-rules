@@ -7,7 +7,7 @@
   "name": "小桔充电去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "0d550def6f5d37b4a274f6a71084c1627b01488a1976b72ebc22036ee1c3286b",
+  "revisionId": "1881c5fe21717520f0b59e36329334b7803b0bb70409eceb10fc5f32f232bec2",
   "author": "ClashModule",
   "updatedAt": 1795094539061,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "0d550def6f5d37b4a274f6a71084c1627b01488a1976b72ebc22036ee1c3286b"
+    "1881c5fe21717520f0b59e36329334b7803b0bb70409eceb10fc5f32f232bec2"
   ]
 }

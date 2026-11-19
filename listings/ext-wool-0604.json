@@ -7,7 +7,7 @@
   "name": "小米打印",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d56336cc644e533d502c457b1b8956cb81c26068bb1d1304bc56fbea37c274f7",
+  "revisionId": "31d75b655e80ccb2ff4ec533007ab60818b54f2a5a3d6177f5292e45dd2b8380",
   "author": "fmz200",
   "updatedAt": 1795094539267,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d56336cc644e533d502c457b1b8956cb81c26068bb1d1304bc56fbea37c274f7"
+    "31d75b655e80ccb2ff4ec533007ab60818b54f2a5a3d6177f5292e45dd2b8380"
   ]
 }

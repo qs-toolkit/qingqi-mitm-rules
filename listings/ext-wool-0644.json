@@ -7,7 +7,7 @@
   "name": "易捷加油",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6785dc2c4b69289aa012a104740835d9f95601a09f0d576b69eb1f2055f287d3",
+  "revisionId": "5661da31d866d10f773d1543ebdb3f4f3ce5e366606ee40f78ba013467ac6dca",
   "author": "fmz200",
   "updatedAt": 1795094539272,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6785dc2c4b69289aa012a104740835d9f95601a09f0d576b69eb1f2055f287d3"
+    "5661da31d866d10f773d1543ebdb3f4f3ce5e366606ee40f78ba013467ac6dca"
   ]
 }

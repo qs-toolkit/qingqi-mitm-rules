@@ -7,7 +7,7 @@
   "name": "友邻优课",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "225570c8d9236257561c19f48afe4e9ac4dfe30f0462f2e53add5cdd90971b1e",
+  "revisionId": "caf821eb253cdc0c63ea2c564cb01b5ab854129154ca17260814851ce52eeb6c",
   "author": "fmz200",
   "updatedAt": 1795094539274,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "225570c8d9236257561c19f48afe4e9ac4dfe30f0462f2e53add5cdd90971b1e"
+    "caf821eb253cdc0c63ea2c564cb01b5ab854129154ca17260814851ce52eeb6c"
   ]
 }

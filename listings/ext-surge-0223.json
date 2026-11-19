@@ -7,7 +7,7 @@
   "name": "微信专项优化.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "6d665385d7f9595a189cb5edd90ea09a50d5214442dc02ea9d533ccbaf3f7840",
+  "revisionId": "92f44400c388e476a5719199aecb16b9da78fe236776a08914207de40826322d",
   "author": "ClashModule",
   "updatedAt": 1795094539066,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "6d665385d7f9595a189cb5edd90ea09a50d5214442dc02ea9d533ccbaf3f7840"
+    "92f44400c388e476a5719199aecb16b9da78fe236776a08914207de40826322d"
   ]
 }

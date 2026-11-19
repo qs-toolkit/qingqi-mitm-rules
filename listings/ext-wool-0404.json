@@ -7,7 +7,7 @@
   "name": "QQ浏览器",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "12e86b560560db80c1c034d58be88ca200af83a3740820b1b9e458219cfc9b22",
+  "revisionId": "e206058f6ab22863f169d2f803fa617a588df93d4c2adc8ff92fb7d2a3b4edcc",
   "author": "fmz200",
   "updatedAt": 1795094539239,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "12e86b560560db80c1c034d58be88ca200af83a3740820b1b9e458219cfc9b22"
+    "e206058f6ab22863f169d2f803fa617a588df93d4c2adc8ff92fb7d2a3b4edcc"
   ]
 }

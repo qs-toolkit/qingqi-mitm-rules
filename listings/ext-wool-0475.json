@@ -7,7 +7,7 @@
   "name": "淘宝",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bd8c75ea1d41acac8ea61974a7a901863daf55c469389ad99bae9969546ecd10",
+  "revisionId": "8faadda0f5dee0d55b0888f9b1ac32518fe4a71400e508b6d0fc44ed7a4b7d19",
   "author": "fmz200",
   "updatedAt": 1795094539249,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bd8c75ea1d41acac8ea61974a7a901863daf55c469389ad99bae9969546ecd10"
+    "8faadda0f5dee0d55b0888f9b1ac32518fe4a71400e508b6d0fc44ed7a4b7d19"
   ]
 }

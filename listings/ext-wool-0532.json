@@ -7,7 +7,7 @@
   "name": "网易邮箱",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b30a554beeaa1e488070e02ba4a4e7f125f11f3fb615cb563847794c1d2a7520",
+  "revisionId": "f7143b05f8a4b577cc61f08a861f9d7e0deae0328026cb4f14de3b6b723b9279",
   "author": "fmz200",
   "updatedAt": 1795094539257,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b30a554beeaa1e488070e02ba4a4e7f125f11f3fb615cb563847794c1d2a7520"
+    "f7143b05f8a4b577cc61f08a861f9d7e0deae0328026cb4f14de3b6b723b9279"
   ]
 }

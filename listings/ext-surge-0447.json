@@ -7,7 +7,7 @@
   "name": "酷安去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "53747a839500b1347790d4c823156c2f053c293c632a3c2e7caecd531cc12f20",
+  "revisionId": "c1c81d385256c825aadc66280c8038ffa4d58424b2ac24d1021dfddb8d25aca4",
   "author": "ClashModule",
   "updatedAt": 1795094539098,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "53747a839500b1347790d4c823156c2f053c293c632a3c2e7caecd531cc12f20"
+    "c1c81d385256c825aadc66280c8038ffa4d58424b2ac24d1021dfddb8d25aca4"
   ]
 }

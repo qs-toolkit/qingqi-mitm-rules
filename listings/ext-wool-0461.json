@@ -7,7 +7,7 @@
   "name": "Soul",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f2b3007b07ee55a7ff2f4410c5604093fa8f714e9273579e4558fe2cfc2e7d2c",
+  "revisionId": "811928bf16548b512c7b1db2972b1598fa4df88fb0bcbb8c0ce7e27a2031305a",
   "author": "fmz200",
   "updatedAt": 1795094539248,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f2b3007b07ee55a7ff2f4410c5604093fa8f714e9273579e4558fe2cfc2e7d2c"
+    "811928bf16548b512c7b1db2972b1598fa4df88fb0bcbb8c0ce7e27a2031305a"
   ]
 }

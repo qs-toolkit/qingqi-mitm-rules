@@ -7,7 +7,7 @@
   "name": "🍟 DualSubsSpotify.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "88e6221cac341da66c3a410067f8401768ad71431e46f577b7e6e261962512a8",
+  "revisionId": "fa06cb2cc35b76f344bda8242ff6b06af2f54f29ce9cba23fc2f07e7c8c41780",
   "author": "ClashModule",
   "updatedAt": 1795094539106,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "88e6221cac341da66c3a410067f8401768ad71431e46f577b7e6e261962512a8"
+    "fa06cb2cc35b76f344bda8242ff6b06af2f54f29ce9cba23fc2f07e7c8c41780"
   ]
 }

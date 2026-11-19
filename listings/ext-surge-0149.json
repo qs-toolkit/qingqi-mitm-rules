@@ -7,7 +7,7 @@
   "name": "剑网三无界去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "99d856f2bfc94ea64b4daf41205a2315b09bf41a1ba935425cd0fdde408e0c1c",
+  "revisionId": "75349202dffd226256b610db269a31c11103cb7a692780e6a9c004cb516bf73b",
   "author": "ClashModule",
   "updatedAt": 1795094539054,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "99d856f2bfc94ea64b4daf41205a2315b09bf41a1ba935425cd0fdde408e0c1c"
+    "75349202dffd226256b610db269a31c11103cb7a692780e6a9c004cb516bf73b"
   ]
 }

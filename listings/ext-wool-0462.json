@@ -7,7 +7,7 @@
   "name": "Spotify",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f6ff1e65fc87933b5fe713fbc5d4da8442f9948f6bb1b4cb854ea414f37cb34e",
+  "revisionId": "21a367ec72dededf0be05d49e4c3a8bc5cd53ff5b84fb654ba7b4c61af4f0e40",
   "author": "fmz200",
   "updatedAt": 1795094539248,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f6ff1e65fc87933b5fe713fbc5d4da8442f9948f6bb1b4cb854ea414f37cb34e"
+    "21a367ec72dededf0be05d49e4c3a8bc5cd53ff5b84fb654ba7b4c61af4f0e40"
   ]
 }

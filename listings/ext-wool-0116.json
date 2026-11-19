@@ -7,7 +7,7 @@
   "name": "达达骑士版",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fe24d3680716f2056925d7d814bcbacf22cad8356925b7c94a2a52ba2a6d2ed2",
+  "revisionId": "56b94d8d9fc4eed533def1a6dc9bebbf8e387bc90646eb3d7bc2f516123c4b62",
   "author": "fmz200",
   "updatedAt": 1795094539198,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fe24d3680716f2056925d7d814bcbacf22cad8356925b7c94a2a52ba2a6d2ed2"
+    "56b94d8d9fc4eed533def1a6dc9bebbf8e387bc90646eb3d7bc2f516123c4b62"
   ]
 }

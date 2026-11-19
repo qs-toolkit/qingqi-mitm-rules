@@ -7,7 +7,7 @@
   "name": "crunchyroll",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0cb944496d2cd69cc626458b1db71421c6a0f3b6c38114d7aee34fba88959eec",
+  "revisionId": "580c707111646e61a284d6e20c9720ca6bd860865bf9f65c02ac8e8cf55f4e0a",
   "author": "fmz200",
   "updatedAt": 1795094539197,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0cb944496d2cd69cc626458b1db71421c6a0f3b6c38114d7aee34fba88959eec"
+    "580c707111646e61a284d6e20c9720ca6bd860865bf9f65c02ac8e8cf55f4e0a"
   ]
 }

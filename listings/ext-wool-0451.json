@@ -7,7 +7,7 @@
   "name": "收钱吧",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "878d441f3e2e34a27aacec7ff71b2aee8358dd766a56cc3fda2865072f5994ca",
+  "revisionId": "50b594883f1f91e499a3e00adb4451324c1f003eb0c0da4571e25b064bf02534",
   "author": "fmz200",
   "updatedAt": 1795094539246,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "878d441f3e2e34a27aacec7ff71b2aee8358dd766a56cc3fda2865072f5994ca"
+    "50b594883f1f91e499a3e00adb4451324c1f003eb0c0da4571e25b064bf02534"
   ]
 }

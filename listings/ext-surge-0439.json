@@ -7,7 +7,7 @@
   "name": "起点读书去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "d493e957cc9e55f9438528af17a15b9a68d2ce10347be7c7347144f1957633d5",
+  "revisionId": "df1724808d4c400926f81daa05705fd5e350a22056e54a25b0084ca020c38512",
   "author": "ClashModule",
   "updatedAt": 1795094539097,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "d493e957cc9e55f9438528af17a15b9a68d2ce10347be7c7347144f1957633d5"
+    "df1724808d4c400926f81daa05705fd5e350a22056e54a25b0084ca020c38512"
   ]
 }

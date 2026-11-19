@@ -7,7 +7,7 @@
   "name": "PushPlus微信推送广告",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7c63afe91c94f2dad52f99bd2891c9b5aa18ed74cee6fa666b4b93996feeb368",
+  "revisionId": "be0d97a83f82bcb44be7eebd88cc52c6424398381a05c641960b52075651f7ef",
   "author": "fmz200",
   "updatedAt": 1795094539238,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7c63afe91c94f2dad52f99bd2891c9b5aa18ed74cee6fa666b4b93996feeb368"
+    "be0d97a83f82bcb44be7eebd88cc52c6424398381a05c641960b52075651f7ef"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "中国移动云盘去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "93e7ce28f1f96abbb01c34d24c91038c4d3115956b2cf1493cbc0a3b8f245da1",
+  "revisionId": "ddc188d57bbf4cb805662625ed74a34b7c64feb024d259f0f9560ebe0956fcfa",
   "author": "ClashModule",
   "updatedAt": 1795094539050,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "93e7ce28f1f96abbb01c34d24c91038c4d3115956b2cf1493cbc0a3b8f245da1"
+    "ddc188d57bbf4cb805662625ed74a34b7c64feb024d259f0f9560ebe0956fcfa"
   ]
 }

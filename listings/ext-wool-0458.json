@@ -7,7 +7,7 @@
   "name": "搜狗输入法",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4aa4360398cb954213b8d38d0a1a95f65eac09296ef56d8fb6344f9f0b5cdd0e",
+  "revisionId": "d4e5bda67ab82fba1a1cab2b0745c02b129905935035dc2cb43c262b40c0dec9",
   "author": "fmz200",
   "updatedAt": 1795094539247,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4aa4360398cb954213b8d38d0a1a95f65eac09296ef56d8fb6344f9f0b5cdd0e"
+    "d4e5bda67ab82fba1a1cab2b0745c02b129905935035dc2cb43c262b40c0dec9"
   ]
 }

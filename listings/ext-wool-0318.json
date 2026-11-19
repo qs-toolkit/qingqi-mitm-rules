@@ -7,7 +7,7 @@
   "name": "鲁班到家用户版",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ed69a1b57f492b9351c9fffda40af739bff790b867c05bbe2dc0a69fb85c0688",
+  "revisionId": "55b02664468181d80307c0fece9e41caec56e4f54b6c50a04f949213ba20524d",
   "author": "fmz200",
   "updatedAt": 1795094539227,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ed69a1b57f492b9351c9fffda40af739bff790b867c05bbe2dc0a69fb85c0688"
+    "55b02664468181d80307c0fece9e41caec56e4f54b6c50a04f949213ba20524d"
   ]
 }

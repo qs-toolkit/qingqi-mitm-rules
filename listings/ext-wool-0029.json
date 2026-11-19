@@ -7,7 +7,7 @@
   "name": "AcFun",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "35721284c6652a30aad3b3627687d41861d4437231216e907ea8419029a2d351",
+  "revisionId": "94a6224870826317ea18fbfe1d17bbb753c1235b34efd02838b0a9b70df91f4b",
   "author": "fmz200",
   "updatedAt": 1795094539185,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "35721284c6652a30aad3b3627687d41861d4437231216e907ea8419029a2d351"
+    "94a6224870826317ea18fbfe1d17bbb753c1235b34efd02838b0a9b70df91f4b"
   ]
 }

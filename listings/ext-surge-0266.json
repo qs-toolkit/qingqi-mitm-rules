@@ -7,7 +7,7 @@
   "name": "掌上英雄联盟去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "12a5d9998886cf10af50fcf48227016e414c32e254fa31bb2044ccf7979106db",
+  "revisionId": "4324a4eca5b424c1ab975d83b2212cbe8854e288372194f9bb09a49e1a9d1c21",
   "author": "ClashModule",
   "updatedAt": 1795094539073,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "12a5d9998886cf10af50fcf48227016e414c32e254fa31bb2044ccf7979106db"
+    "4324a4eca5b424c1ab975d83b2212cbe8854e288372194f9bb09a49e1a9d1c21"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "书香门第签到",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "affa2496443bf37eda0eea1aa3c4a4c2fe2fa7659b28eb81d35580b27fe5aa57",
+  "revisionId": "f705c06d4add4789a05985db929adb3b503588e0e1e3261b2386eab55bad4b17",
   "author": "ClashModule",
   "updatedAt": 1795094539051,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "affa2496443bf37eda0eea1aa3c4a4c2fe2fa7659b28eb81d35580b27fe5aa57"
+    "f705c06d4add4789a05985db929adb3b503588e0e1e3261b2386eab55bad4b17"
   ]
 }

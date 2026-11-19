@@ -7,7 +7,7 @@
   "name": "小黑盒去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "65f90928e4039c3d64d2e17ef17ea4705c6adbb7f3f1da06175bdd96ea888be1",
+  "revisionId": "c62338a2f1bba119cb9ec319cb204e0395ed901fb1f3587b1127e413d7f06850",
   "author": "ClashModule",
   "updatedAt": 1795094539063,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "65f90928e4039c3d64d2e17ef17ea4705c6adbb7f3f1da06175bdd96ea888be1"
+    "c62338a2f1bba119cb9ec319cb204e0395ed901fb1f3587b1127e413d7f06850"
   ]
 }

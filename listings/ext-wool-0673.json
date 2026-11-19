@@ -7,7 +7,7 @@
   "name": "云宝宝大数据",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4083f9947a69d2549d7edd4f3f53efa9eef270b1109a91f2178a4427872f60b8",
+  "revisionId": "d3f76f475affad7ad2e4bb70364969aa232fa5930aa8416c498f35a74a9291f5",
   "author": "fmz200",
   "updatedAt": 1795094539276,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4083f9947a69d2549d7edd4f3f53efa9eef270b1109a91f2178a4427872f60b8"
+    "d3f76f475affad7ad2e4bb70364969aa232fa5930aa8416c498f35a74a9291f5"
   ]
 }

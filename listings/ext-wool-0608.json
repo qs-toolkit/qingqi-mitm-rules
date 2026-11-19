@@ -7,7 +7,7 @@
   "name": "新片场",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8c4a408e55009705ff892b80cbed1e23d0a1ce46c4efd4cc987a84c07f2b5dc2",
+  "revisionId": "151e51ae09c0238dd528dcc9543c1b8d920849a38ca362692872266d913f3c97",
   "author": "fmz200",
   "updatedAt": 1795094539267,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8c4a408e55009705ff892b80cbed1e23d0a1ce46c4efd4cc987a84c07f2b5dc2"
+    "151e51ae09c0238dd528dcc9543c1b8d920849a38ca362692872266d913f3c97"
   ]
 }
