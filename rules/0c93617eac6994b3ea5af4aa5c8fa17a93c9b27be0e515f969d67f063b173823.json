@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "人民日报去广告",
+  "description": "人民日报去广告 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=人民日报去广告\n#!desc=人民日报去广告 · 来源 重写库\n#!author=deezertidal\n\n[MITM]\nhostname = app.peopleapp.com\n\n[Script]\nhttp-response ^https:\\/\\/app\\.peopleapp\\.com\\/Api\\/\\d+\\/HomeApi\\/getContentList, script-path=https://raw.githubusercontent.com/irenemsIrenes/profiles/master/Quantumult/X/js/people-news.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

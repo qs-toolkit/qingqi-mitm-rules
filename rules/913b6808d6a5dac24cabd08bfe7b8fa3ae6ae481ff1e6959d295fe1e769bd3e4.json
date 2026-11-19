@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "网易邮箱大师净化",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "scope": [],
+  "text": "#!name=网易邮箱大师净化\n#!desc=墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记\n#!author=@ddgksf2013\n\n[MITM]\nhostname = dashi.163.com, appconf.mail.163.com, mail.163.com\n\n[Rewrite]\n^https?:\\/\\/dashi\\.163\\.com\\/task-center-api\\/fapi\\/task - reject\n^https?:\\/\\/appconf\\.mail\\.163\\.com\\/mmad\\/master\\/get\\.do - reject\n^https?:\\/\\/appconf\\.mail\\.163\\.com\\/mailoperating\\/mailmaster\\/api\\/operator\\/get - reject\n^https?:\\/\\/appconf\\.mail\\.163\\.com\\/mailmaster\\/getRegConfig\\.do - reject\n^https?:\\/\\/appconf\\.mail\\.163\\.com\\/mailmaster\\/api\\/config\\/function\\.do - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

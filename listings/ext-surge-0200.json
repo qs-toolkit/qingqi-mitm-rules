@@ -7,13 +7,13 @@
   "name": "小红书去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "e221eec289c16ce1afcc1ee411b89b1f95c3b2a175c4aadd66e13d4d75a96675",
+  "revisionId": "38968a4eb18346c5c16b9fcb4bc52e90f0e3109e563f784142b47dc5c3ca08ab",
   "author": "ClashModule",
-  "updatedAt": 1795093945614,
+  "updatedAt": 1795094243481,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "e221eec289c16ce1afcc1ee411b89b1f95c3b2a175c4aadd66e13d4d75a96675"
+    "38968a4eb18346c5c16b9fcb4bc52e90f0e3109e563f784142b47dc5c3ca08ab"
   ]
 }

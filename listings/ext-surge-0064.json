@@ -7,13 +7,13 @@
   "name": "SDGun 社区 Tablet 访问",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "4659970b0b3aff52559c41bbe43e4c0347c5218daed99a28409c3cf51d16107c",
+  "revisionId": "4aff8006408c1b75082395722bacaf6037619755a38b944a64289bbb9daa6e93",
   "author": "ClashModule",
-  "updatedAt": 1795093945601,
+  "updatedAt": 1795094243466,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "4659970b0b3aff52559c41bbe43e4c0347c5218daed99a28409c3cf51d16107c"
+    "4aff8006408c1b75082395722bacaf6037619755a38b944a64289bbb9daa6e93"
   ]
 }

@@ -7,13 +7,13 @@
   "name": "Youtube (Music) Enhance.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "37b2fd5b365a3b8d3e07415d4d0f158a34c8589e25acd03f84357bfb122ad732",
+  "revisionId": "0de43633e5becea89cc18fd9bfa643bc2f24fac3b1f838147d3072f05b7f8279",
   "author": "ClashModule",
-  "updatedAt": 1795093945604,
+  "updatedAt": 1795094243469,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "37b2fd5b365a3b8d3e07415d4d0f158a34c8589e25acd03f84357bfb122ad732"
+    "0de43633e5becea89cc18fd9bfa643bc2f24fac3b1f838147d3072f05b7f8279"
   ]
 }

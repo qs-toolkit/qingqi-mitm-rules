@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0205",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "音频剪辑",
+  "description": "音频剪辑解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "a32c77e13d53acc57e140aa71c5c591800ba7833868cf21f3268bf9b4425dac3",
+  "author": "89996462",
+  "updatedAt": 1795094243539,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "a32c77e13d53acc57e140aa71c5c591800ba7833868cf21f3268bf9b4425dac3"
+  ]
+}

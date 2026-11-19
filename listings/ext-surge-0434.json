@@ -7,13 +7,13 @@
   "name": "财新去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "7458dfb43b83406e924096cdc0e151282176ebc3408f5f7819c60cb31d5003df",
+  "revisionId": "965e560339b72295d772db925ff41e02282baee583596a7ef90c9542c933b68c",
   "author": "ClashModule",
-  "updatedAt": 1795093945638,
+  "updatedAt": 1795094243507,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "7458dfb43b83406e924096cdc0e151282176ebc3408f5f7819c60cb31d5003df"
+    "965e560339b72295d772db925ff41e02282baee583596a7ef90c9542c933b68c"
   ]
 }

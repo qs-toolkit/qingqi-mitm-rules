@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Widgetsmith解锁",
+  "description": "Widgetsmith解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=Widgetsmith解锁\n#!desc=Widgetsmith解锁 · 来源 重写库\n#!author=Marol62926\n\n[MITM]\nhostname = api.revenuecat.com\n\n[Script]\nhttp-response https://api.revenuecat.com/v1/(receipts|subscribers)/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/widgetSmith.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

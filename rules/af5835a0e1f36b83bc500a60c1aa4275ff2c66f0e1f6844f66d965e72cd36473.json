@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "PocketLists解锁",
+  "description": "Pocket Lists解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=PocketLists解锁\n#!desc=Pocket Lists解锁会员 · 来源 重写库\n#!author=superuv\n\n[MITM]\nhostname = pocketlists.com\n\n[Script]\nhttp-response ^https:\\/\\/pocketlists\\.com\\/api\\/v1\\/pocketlists.me.get, script-path=https://raw.githubusercontent.com/deezertidal/private/main/pocketlists.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0193",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "目标地图",
+  "description": "目标地图解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "29e2f4b4559b6a93ff7115644596ace617852b0e87bb50dc48cde9921905f3bd",
+  "author": "89996462",
+  "updatedAt": 1795094243538,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "29e2f4b4559b6a93ff7115644596ace617852b0e87bb50dc48cde9921905f3bd"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0094",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "一甜相机解锁",
+  "description": "一甜相机解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "63b844fa6802db6522e9a2ee9f8c21a70c1800fd40afa420af11b55c73108c30",
+  "author": "yqc007",
+  "updatedAt": 1795094243525,
+  "targets": [],
+  "upstream": "yqc007",
+  "homepage": "",
+  "revisions": [
+    "63b844fa6802db6522e9a2ee9f8c21a70c1800fd40afa420af11b55c73108c30"
+  ]
+}

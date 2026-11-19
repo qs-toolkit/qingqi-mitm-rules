@@ -7,13 +7,13 @@
   "name": "小程序和应用懒人去广告合集.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "b377b5823202ef0bf4136766eaf07d76ce85a3fefa879a55847483a810c50a61",
+  "revisionId": "b8f5eb4939083674914abf15ab647ba6b6d396e0fba3beb74daf336a5d77ecfc",
   "author": "ClashModule",
-  "updatedAt": 1795093945614,
+  "updatedAt": 1795094243481,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "b377b5823202ef0bf4136766eaf07d76ce85a3fefa879a55847483a810c50a61"
+    "b8f5eb4939083674914abf15ab647ba6b6d396e0fba3beb74daf336a5d77ecfc"
   ]
 }

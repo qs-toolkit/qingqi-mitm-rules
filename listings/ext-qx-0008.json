@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0008",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Nicegram会员解锁",
+  "description": "解锁Nicegram会员(2022.07.15) · 来源 重写库",
+  "scope": [],
+  "revisionId": "904f01261e2bce02097a0846b454f210e6d213803a21c4e773f56f3547b83150",
+  "author": "@R·E https://t.me/Functional_Store_Hub",
+  "updatedAt": 1795094243516,
+  "targets": [],
+  "upstream": "@R·E https://t.me/Functional_Store_Hub",
+  "homepage": "",
+  "revisions": [
+    "904f01261e2bce02097a0846b454f210e6d213803a21c4e773f56f3547b83150"
+  ]
+}

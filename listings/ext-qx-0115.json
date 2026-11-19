@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0115",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Notability解锁",
+  "description": "Notability解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "f82c2895f680fd0c1dc3ca984958b7799566b467997e1399d51fbc73b88a2d48",
+  "author": "litieyin",
+  "updatedAt": 1795094243527,
+  "targets": [],
+  "upstream": "litieyin",
+  "homepage": "",
+  "revisions": [
+    "f82c2895f680fd0c1dc3ca984958b7799566b467997e1399d51fbc73b88a2d48"
+  ]
+}

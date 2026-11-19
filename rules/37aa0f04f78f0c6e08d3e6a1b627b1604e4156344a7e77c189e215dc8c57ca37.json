@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "闪萌表情",
+  "description": "闪萌表情解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=闪萌表情\n#!desc=闪萌表情解锁会员 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = hi.weshine.im\n\n[Script]\nhttp-response ^https:\\/\\/hi\\.weshine\\.im\\/v3\\.0\\/account\\/profile, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/smbq.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

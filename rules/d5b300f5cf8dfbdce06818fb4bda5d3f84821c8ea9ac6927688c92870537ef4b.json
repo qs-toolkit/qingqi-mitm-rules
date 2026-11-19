@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "彩云天气SVIP",
+  "description": "彩云天气会员解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=彩云天气SVIP\n#!desc=彩云天气会员解锁 · 来源 重写库\n#!author=ddgksf2013\n\n[MITM]\nhostname = *.caiyunapp.*, *cyapi*\n\n[Rewrite]\n^https:\\/\\/ad\\.caiyunapp\\.com\\/ - reject\n\n[Script]\nhttp-response ^http[s]?:\\/\\/biz\\.(caiyunapp|cyapi)\\.(com|cn)\\/v2\\/user.*$, script-path=https://raw.githubusercontent.com/WeiRen0/Scripts/main/cytq.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

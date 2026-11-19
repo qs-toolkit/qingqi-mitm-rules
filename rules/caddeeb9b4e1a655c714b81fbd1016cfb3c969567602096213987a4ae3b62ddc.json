@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "网速测试大师",
+  "description": "网速测试大师解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=网速测试大师\n#!desc=网速测试大师解锁会员 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = iap.etm.tech\n\n[Script]\nhttp-response ^https:\\/\\/iap\\.etm\\.tech\\/receipts, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/wscsds.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

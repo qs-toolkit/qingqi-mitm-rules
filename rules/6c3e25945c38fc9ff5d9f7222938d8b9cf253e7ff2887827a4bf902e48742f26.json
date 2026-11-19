@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "SoundCloud Go+",
+  "description": "解锁SoundCloud Go+ · 来源 重写库",
+  "scope": [],
+  "text": "#!name=SoundCloud Go+\n#!desc=解锁SoundCloud Go+ · 来源 重写库\n#!author=Marol62926\n\n[MITM]\nhostname = api-mobile.soundcloud.com\n\n[Script]\nhttp-response https://api-mobile.soundcloud.com/configuration/ios, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/soundcloud.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

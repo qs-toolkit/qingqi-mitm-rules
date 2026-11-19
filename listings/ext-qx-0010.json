@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0010",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "spotify会员解锁",
+  "description": "部分解锁premium,建议重新登录,音质不能设置为超高 · 来源 重写库",
+  "scope": [],
+  "revisionId": "a1fb49569b7d371c3b1fbf55a3161462bf1a1718bbbe9c1e0ea19aedffca7d4e",
+  "author": "app2smile",
+  "updatedAt": 1795094243516,
+  "targets": [],
+  "upstream": "app2smile",
+  "homepage": "",
+  "revisions": [
+    "a1fb49569b7d371c3b1fbf55a3161462bf1a1718bbbe9c1e0ea19aedffca7d4e"
+  ]
+}

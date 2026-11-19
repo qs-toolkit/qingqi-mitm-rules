@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0297",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "google自动翻页",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "scope": [],
+  "revisionId": "79411fbe7bb8ad2f60493d3e53f74653352704372010ebef3485f978abe5cb3d",
+  "author": "@langkhach270389, modified by Cuttlefish",
+  "updatedAt": 1795094243550,
+  "targets": [],
+  "upstream": "@langkhach270389, modified by Cuttlefish",
+  "homepage": "",
+  "revisions": [
+    "79411fbe7bb8ad2f60493d3e53f74653352704372010ebef3485f978abe5cb3d"
+  ]
+}

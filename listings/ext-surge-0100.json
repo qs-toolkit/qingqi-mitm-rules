@@ -7,13 +7,13 @@
   "name": "bilibili去广告.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "a4dd74bb710efbad792bbad22977ba77719a4c023b10d6d3e449a090d72f73e0",
+  "revisionId": "5eda926e70893e1b4571cddab15fb720c77048329ca0680c32dfc8c967c8ceac",
   "author": "ClashModule",
-  "updatedAt": 1795093945604,
+  "updatedAt": 1795094243470,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "a4dd74bb710efbad792bbad22977ba77719a4c023b10d6d3e449a090d72f73e0"
+    "5eda926e70893e1b4571cddab15fb720c77048329ca0680c32dfc8c967c8ceac"
   ]
 }

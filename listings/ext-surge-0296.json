@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0296",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "比特球云盘去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "31207f01e2ad28053aed25d3535f4a9a582d70c52815aeb847dc0263145fa728",
+  "author": "ClashModule",
+  "updatedAt": 1795094243492,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "31207f01e2ad28053aed25d3535f4a9a582d70c52815aeb847dc0263145fa728"
+  ]
+}

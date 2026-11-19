@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0207",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "一木记账",
+  "description": "一木记账解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "827754728dd6c5d567752818f4db051bf0a0ab31e09e7c54843e4ca4b06902c0",
+  "author": "I-am-R-E",
+  "updatedAt": 1795094243539,
+  "targets": [],
+  "upstream": "I-am-R-E",
+  "homepage": "",
+  "revisions": [
+    "827754728dd6c5d567752818f4db051bf0a0ab31e09e7c54843e4ca4b06902c0"
+  ]
+}

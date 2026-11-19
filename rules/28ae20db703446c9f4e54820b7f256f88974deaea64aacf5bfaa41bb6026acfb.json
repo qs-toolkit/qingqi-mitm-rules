@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "i Love PDF解锁",
+  "description": "i Love PDF解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=i Love PDF解锁\n#!desc=i Love PDF解锁 · 来源 重写库\n#!author=Marol62926\n\n[MITM]\nhostname = service.ilovepdf.com\n\n[Script]\nhttp-response https://service.ilovepdf.com/v1/user, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/lovePdf.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

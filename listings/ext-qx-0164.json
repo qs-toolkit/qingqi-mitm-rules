@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0164",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "MEMRISE",
+  "description": "重写库 · Quantumult X 重写脚本 · 来源 重写库",
+  "scope": [],
+  "revisionId": "e33e301ab7615f6f866d51f65eb43373dffa06f2fe76548746930fe59c7dee59",
+  "author": "deezertidal",
+  "updatedAt": 1795094243535,
+  "targets": [],
+  "upstream": "deezertidal",
+  "homepage": "",
+  "revisions": [
+    "e33e301ab7615f6f866d51f65eb43373dffa06f2fe76548746930fe59c7dee59"
+  ]
+}

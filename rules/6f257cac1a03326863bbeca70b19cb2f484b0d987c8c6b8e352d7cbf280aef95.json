@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "幻休",
+  "description": "幻休解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=幻休\n#!desc=幻休解锁会员 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = api.shaolinzen.com\n\n[Script]\nhttp-response ^https:\\/\\/api\\.shaolinzen\\.com\\/user\\/v1\\/info, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/HX.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

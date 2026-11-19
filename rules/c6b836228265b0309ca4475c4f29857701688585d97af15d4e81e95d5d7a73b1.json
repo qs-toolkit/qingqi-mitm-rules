@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "汽水音乐净化",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "scope": [],
+  "text": "#!name=汽水音乐净化\n#!desc=墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记\n#!author=@ddgksf2013\n\n[MITM]\nhostname = beta-luna.douyin.com, api.qishui.com, tnc*-*.zijieapi.com\n\n[Rewrite]\n^https:\\/\\/[a-zA-Z0-9_-]+(\\.[a-zA-Z0-9_-]+){1,3}\\/luna\\/media_ads - reject\n^https:\\/\\/[a-zA-Z0-9_-]+(\\.[a-zA-Z0-9_-]+){1,3}\\/luna\\/ads - reject\n^https:\\/\\/[a-zA-Z0-9_-]+(\\.[a-zA-Z0-9_-]+){1,3}\\/location\\/info - reject\n^https:\\/\\/[a-zA-Z0-9_-]+(\\.[a-zA-Z0-9_-]+){1,3}\\/luna\\/commerce - reject\n^https:\\/\\/[a-zA-Z0-9_-]+(\\.[a-zA-Z0-9_-]+){1,3}\\/luna\\/hashtag\\/recommend - reject\n^https:\\/\\/tnc.*zijieapi\\.com\\/get_domains - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

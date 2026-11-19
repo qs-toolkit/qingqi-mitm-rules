@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0261",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "中华诗词库",
+  "description": "中华诗词库解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "6cb4f049481b8b6a41c81e18b80b8c66a8559afd6a71b202d17a01d00718bf7e",
+  "author": "89996462",
+  "updatedAt": 1795094243545,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "6cb4f049481b8b6a41c81e18b80b8c66a8559afd6a71b202d17a01d00718bf7e"
+  ]
+}

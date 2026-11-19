@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0159",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "WPS稻壳会员",
+  "description": "稻壳会员解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "b8125cd3415145edc10a1c02f097830c16ddbfcb3ea1d57408a9812cffd32bf0",
+  "author": "yqc007",
+  "updatedAt": 1795094243534,
+  "targets": [],
+  "upstream": "yqc007",
+  "homepage": "",
+  "revisions": [
+    "b8125cd3415145edc10a1c02f097830c16ddbfcb3ea1d57408a9812cffd32bf0"
+  ]
+}

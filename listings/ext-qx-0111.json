@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0111",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "PhotosShop Express会员解锁",
+  "description": "PhotoshopExpress解锁高级订阅 · 来源 重写库",
+  "scope": [],
+  "revisionId": "da856b0f1cb01cc5e7570e12af1667c55e51b6d56445d5c8d952643a741e1514",
+  "author": "litieyin",
+  "updatedAt": 1795094243527,
+  "targets": [],
+  "upstream": "litieyin",
+  "homepage": "",
+  "revisions": [
+    "da856b0f1cb01cc5e7570e12af1667c55e51b6d56445d5c8d952643a741e1514"
+  ]
+}

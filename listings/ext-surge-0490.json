@@ -7,13 +7,13 @@
   "name": "🍟 Apple News 解锁.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "12c39c27dd4e04e165a4eb04c2b1097a23d6fab5310b00c20811b4aa0edf39da",
+  "revisionId": "daa804b57ab598637c8f2679131d90f1c399071c72f2f78b43a0b721b46a6ec7",
   "author": "ClashModule",
-  "updatedAt": 1795093945643,
+  "updatedAt": 1795094243513,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "12c39c27dd4e04e165a4eb04c2b1097a23d6fab5310b00c20811b4aa0edf39da"
+    "daa804b57ab598637c8f2679131d90f1c399071c72f2f78b43a0b721b46a6ec7"
   ]
 }

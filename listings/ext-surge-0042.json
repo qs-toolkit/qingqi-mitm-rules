@@ -7,13 +7,13 @@
   "name": "IT之家去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "69e3f12cebd503c866608947050f060c968fcae77442ad922bc2f6577e742b33",
+  "revisionId": "5557ec76b44ac6c7f59a1e4564a1dfcdca096554a4a3ec3ceef2b9ec094a8441",
   "author": "ClashModule",
-  "updatedAt": 1795093945598,
+  "updatedAt": 1795094243463,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "69e3f12cebd503c866608947050f060c968fcae77442ad922bc2f6577e742b33"
+    "5557ec76b44ac6c7f59a1e4564a1dfcdca096554a4a3ec3ceef2b9ec094a8441"
   ]
 }

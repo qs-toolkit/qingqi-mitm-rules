@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0020",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Picsart",
+  "description": "picsart解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "4b97fd810b0b2d361c720188d7db4339c20fb05449ae6403d464277101d96aae",
+  "author": "NobyDa",
+  "updatedAt": 1795094243517,
+  "targets": [],
+  "upstream": "NobyDa",
+  "homepage": "",
+  "revisions": [
+    "4b97fd810b0b2d361c720188d7db4339c20fb05449ae6403d464277101d96aae"
+  ]
+}

@@ -7,13 +7,13 @@
   "name": "Soul去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "262f0d6b6d7eab0ad2303bf2d09b2f43e104cb70f7e461c80be1f3da61453356",
+  "revisionId": "1fd86f156c2c1f797ed7bda8ea0b08398a49d9f5347c4d73b511860a32f6a0ec",
   "author": "ClashModule",
-  "updatedAt": 1795093945601,
+  "updatedAt": 1795094243466,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "262f0d6b6d7eab0ad2303bf2d09b2f43e104cb70f7e461c80be1f3da61453356"
+    "1fd86f156c2c1f797ed7bda8ea0b08398a49d9f5347c4d73b511860a32f6a0ec"
   ]
 }

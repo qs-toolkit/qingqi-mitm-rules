@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0108",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "知音漫客解锁",
+  "description": "解锁知音漫客付费章节 (需登录) · 来源 重写库",
+  "scope": [],
+  "revisionId": "5cebf76c48ebba959a288a3fe8b9894e17a5b6b2ac4202a28933377fecbf4882",
+  "author": "NobyDa",
+  "updatedAt": 1795094243526,
+  "targets": [],
+  "upstream": "NobyDa",
+  "homepage": "",
+  "revisions": [
+    "5cebf76c48ebba959a288a3fe8b9894e17a5b6b2ac4202a28933377fecbf4882"
+  ]
+}

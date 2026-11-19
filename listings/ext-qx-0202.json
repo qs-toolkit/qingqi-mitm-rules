@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0202",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Retake",
+  "description": "Retake解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "d73aba0a4fd4ad7e03379f718fa4e927c2b219ff8596b40149dd2aefac252a6e",
+  "author": "89996462",
+  "updatedAt": 1795094243539,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "d73aba0a4fd4ad7e03379f718fa4e927c2b219ff8596b40149dd2aefac252a6e"
+  ]
+}

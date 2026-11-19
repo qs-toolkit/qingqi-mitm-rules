@@ -7,13 +7,13 @@
   "name": "新手友好の去广告集合.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "5e8a8220784e2683e2c0181d9a545a3acd25b0a0870360fcdf614ba954f0053c",
+  "revisionId": "9b6a0dbf80e8433e21b610c24bfaec6f49295a8717bc2d6395179b297a500f4b",
   "author": "ClashModule",
-  "updatedAt": 1795093945622,
+  "updatedAt": 1795094243490,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "5e8a8220784e2683e2c0181d9a545a3acd25b0a0870360fcdf614ba954f0053c"
+    "9b6a0dbf80e8433e21b610c24bfaec6f49295a8717bc2d6395179b297a500f4b"
   ]
 }

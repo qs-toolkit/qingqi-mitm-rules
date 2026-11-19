@@ -7,13 +7,13 @@
   "name": "虎扑去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "24063798a6255f7ffad62c4cc8d67b8271c6e491ccc2b6b2dd2936f6c8f90419",
+  "revisionId": "267b12b07d2a125b30ed8cbd304eafa1927707558ade91f37f514a5967c3cb3e",
   "author": "ClashModule",
-  "updatedAt": 1795093945637,
+  "updatedAt": 1795094243505,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "24063798a6255f7ffad62c4cc8d67b8271c6e491ccc2b6b2dd2936f6c8f90419"
+    "267b12b07d2a125b30ed8cbd304eafa1927707558ade91f37f514a5967c3cb3e"
   ]
 }

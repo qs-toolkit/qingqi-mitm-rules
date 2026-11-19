@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0093",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "新语听书解锁",
+  "description": "新语听书解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "dbb296359e7a04b61cbcc3318737cb4db2caafc7a15ff72d69309c3bdd005187",
+  "author": "yqc007",
+  "updatedAt": 1795094243525,
+  "targets": [],
+  "upstream": "yqc007",
+  "homepage": "",
+  "revisions": [
+    "dbb296359e7a04b61cbcc3318737cb4db2caafc7a15ff72d69309c3bdd005187"
+  ]
+}

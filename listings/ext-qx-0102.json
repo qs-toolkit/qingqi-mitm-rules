@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0102",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "马卡龙玩图",
+  "description": "马卡龙玩图解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "4b00a0707d4fbe7329b4cab473a333c956453ff08dd605f85d7ace0068dec2fe",
+  "author": "CheeryTodo",
+  "updatedAt": 1795094243526,
+  "targets": [],
+  "upstream": "CheeryTodo",
+  "homepage": "",
+  "revisions": [
+    "4b00a0707d4fbe7329b4cab473a333c956453ff08dd605f85d7ace0068dec2fe"
+  ]
+}

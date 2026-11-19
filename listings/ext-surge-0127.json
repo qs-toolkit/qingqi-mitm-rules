@@ -7,13 +7,13 @@
   "name": "云闪付去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "1a62a160778a33de2a23e07232799f44cd9a9ecd053658ea5306bd4475130550",
+  "revisionId": "5b0cf47a36b5f394aec05b85128abe8fd8e7599ac012c9bc70a2a9d87bf5d1ad",
   "author": "ClashModule",
-  "updatedAt": 1795093945607,
+  "updatedAt": 1795094243473,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "1a62a160778a33de2a23e07232799f44cd9a9ecd053658ea5306bd4475130550"
+    "5b0cf47a36b5f394aec05b85128abe8fd8e7599ac012c9bc70a2a9d87bf5d1ad"
   ]
 }

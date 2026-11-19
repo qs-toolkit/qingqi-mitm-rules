@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0016",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "番茄小说",
+  "description": "番茄小说去广告 · 来源 重写库",
+  "scope": [],
+  "revisionId": "893b2b249560541e08b26fdbac55ace44573a380a3ff2c59e93ebb168cef8d7c",
+  "author": "zqzess",
+  "updatedAt": 1795094243517,
+  "targets": [],
+  "upstream": "zqzess",
+  "homepage": "",
+  "revisions": [
+    "893b2b249560541e08b26fdbac55ace44573a380a3ff2c59e93ebb168cef8d7c"
+  ]
+}

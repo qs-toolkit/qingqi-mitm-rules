@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0080",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "豌豆清单解锁",
+  "description": "豌豆清单解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "fd810d3c85cd0b2a71b5963a848be8e0287aac0866c92fd829e61399bbe58c6c",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243523,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "fd810d3c85cd0b2a71b5963a848be8e0287aac0866c92fd829e61399bbe58c6c"
+  ]
+}

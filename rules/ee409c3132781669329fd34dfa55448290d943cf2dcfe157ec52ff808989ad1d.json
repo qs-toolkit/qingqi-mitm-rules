@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "知乎网页净化",
+  "description": "毒奶特供 · 知乎网页 UA 替换 + 直读 · 来源 毒奶特供",
+  "scope": [],
+  "text": "#!name=知乎网页净化\n#!desc=毒奶特供 · 知乎网页 UA 替换 + 直读 · 来源 毒奶特供\n#!author=limbopro\n\n[MITM]\nhostname = www.zhihu.com, zhuanlan.zhihu.com\n\n[Rewrite]\nhttps://www\\.zhihu\\.com/api/v4/questions/\\d+/related-readings - reject\nhttps://www\\.zhihu\\.com/api/v4/answers/\\d+/related-readings - reject\nhttps://www\\.zhihu\\.com/api/v4/hot_recommendation - reject\nhttps://www\\.zhihu\\.com/commercial_api/banners_v3/mobile_banner - reject\nhttps://zhuanlan\\.zhihu\\.com/api/articles/\\d+/recommendation - reject\n\n[Script]\nhttp-response ^https://www\\.zhihu\\.com/question/, script-path=https://raw.githubusercontent.com/id77/QuantumultX/master/Script/zhihu.js, requires-body=1, max-size=-1\nhttp-response ^https://zhuanlan\\.zhihu\\.com/p/, script-path=https://raw.githubusercontent.com/id77/QuantumultX/master/Script/zhihu.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -7,13 +7,13 @@
   "name": "🍟 Apple 地图优化.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "ec7ad308ee09cabfdc9112b4e7fde4229317f9dc96d0de9fc97ffab226b9f628",
+  "revisionId": "d425b450683e27412cee3cbf79cabb26dcafb05b277c6e8b72979fe083c47c2f",
   "author": "ClashModule",
-  "updatedAt": 1795093945643,
+  "updatedAt": 1795094243513,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "ec7ad308ee09cabfdc9112b4e7fde4229317f9dc96d0de9fc97ffab226b9f628"
+    "d425b450683e27412cee3cbf79cabb26dcafb05b277c6e8b72979fe083c47c2f"
   ]
 }

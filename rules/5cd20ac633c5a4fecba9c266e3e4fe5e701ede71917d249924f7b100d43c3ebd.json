@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "小黄鱼净化",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "scope": [],
+  "text": "#!name=小黄鱼净化\n#!desc=墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记\n#!author=@ddgksf2013\n\n[MITM]\nhostname = acs.m.goofish.com, g-acs.m.goofish.com\n\n[Rewrite]\n^https?:\\/\\/(g-)?acs\\.m\\.goofish\\.com\\/gw\\/mtop.*splash\\.ads - reject\n^https?:\\/\\/(g-)?acs\\.m\\.goofish\\.com\\/gw\\/mtop.idle.ad.expose - reject\n\n[Script]\nhttp-response ^http:\\/\\/[a-zA-Z0-9_-]+(\\.[a-zA-Z0-9_-]+){1,4}(:\\d+)?\\/amdc\\/mobileDispatch, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/amdc.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

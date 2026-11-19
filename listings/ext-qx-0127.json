@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0127",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Calm解锁",
+  "description": "Calm解锁限制 · 来源 重写库",
+  "scope": [],
+  "revisionId": "5a4d969d4eff111d9845e1ab4814898d86a507b0859b2b884a7fa064783ec9ef",
+  "author": "lutqhysky",
+  "updatedAt": 1795094243529,
+  "targets": [],
+  "upstream": "lutqhysky",
+  "homepage": "",
+  "revisions": [
+    "5a4d969d4eff111d9845e1ab4814898d86a507b0859b2b884a7fa064783ec9ef"
+  ]
+}

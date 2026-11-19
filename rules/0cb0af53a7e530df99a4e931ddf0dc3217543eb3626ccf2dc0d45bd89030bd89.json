@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Keep 去广告.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=Keep 去广告.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = api.gotokeep.com, kad.gotokeep.com\n\n[Rewrite]\n^https:\\/\\/api\\.gotokeep\\.com\\/op-engine-webapp\\/tool\\/v1\\/jump\\/popup$ - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

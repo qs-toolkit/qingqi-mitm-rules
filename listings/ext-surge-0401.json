@@ -7,13 +7,13 @@
   "name": "腾讯视频去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "9939e89914036b3f2c4fab8200635079ae3309feaf88e8c96868b600af54d90a",
+  "revisionId": "94a26f78814ab012d6b786668e306c438f9a88d231e4bd398023e8e1f66d733c",
   "author": "ClashModule",
-  "updatedAt": 1795093945634,
+  "updatedAt": 1795094243503,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "9939e89914036b3f2c4fab8200635079ae3309feaf88e8c96868b600af54d90a"
+    "94a26f78814ab012d6b786668e306c438f9a88d231e4bd398023e8e1f66d733c"
   ]
 }

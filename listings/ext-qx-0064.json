@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0064",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Fimo Pro",
+  "description": "Fimo会员解锁 先登陆再开插件 · 来源 重写库",
+  "scope": [],
+  "revisionId": "2a71d75ca45b71149d7a09826e65e54503fdb11bf043f507d08919aa1175e8ff",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243522,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "2a71d75ca45b71149d7a09826e65e54503fdb11bf043f507d08919aa1175e8ff"
+  ]
+}

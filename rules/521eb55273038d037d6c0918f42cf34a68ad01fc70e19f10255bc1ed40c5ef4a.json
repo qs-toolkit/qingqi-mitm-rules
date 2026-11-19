@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "🍟 Apple 天气增强.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=🍟 Apple 天气增强.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = weatherkit.apple.com\n\n[Script]\nhttp-response ^https?:\\/\\/weatherkit\\.apple\\.com\\/api\\/v1\\/availability\\/, requires-body=1, script-path=https://github.com/NSRingo/WeatherKit/releases/download/v3.0.9/response.bundle.js\nhttp-response ^https?:\\/\\/weatherkit\\.apple\\.com\\/api\\/v2\\/weather\\/, requires-body=1, binary-body-mode=1, script-path=https://github.com/NSRingo/WeatherKit/releases/download/v3.0.9/response.bundle.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

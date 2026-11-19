@@ -7,13 +7,13 @@
   "name": "乐播投屏去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "d8c0367c19dadbbad82cd3e975462d5b005bf8c94ead38914d891cb263446373",
+  "revisionId": "d21480a45228abe338f6192cd46fd44e581e06f55d4760a622b7a90f56f67911",
   "author": "ClashModule",
-  "updatedAt": 1795093945606,
+  "updatedAt": 1795094243472,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "d8c0367c19dadbbad82cd3e975462d5b005bf8c94ead38914d891cb263446373"
+    "d21480a45228abe338f6192cd46fd44e581e06f55d4760a622b7a90f56f67911"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0119",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "少年得到解锁会员",
+  "description": "少年得到解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "ebaacb86620a7108948409e54bf90e7fce855d336af33ee027c36448e807dfff",
+  "author": "lutqhysky",
+  "updatedAt": 1795094243527,
+  "targets": [],
+  "upstream": "lutqhysky",
+  "homepage": "",
+  "revisions": [
+    "ebaacb86620a7108948409e54bf90e7fce855d336af33ee027c36448e807dfff"
+  ]
+}

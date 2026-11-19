@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0076",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Meistertask解锁",
+  "description": "MeisterTask解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "99bcd90cebb63512ac01cd826d8a25676c8f7ba50ff0c21662e81b3d7ecd7af7",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243523,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "99bcd90cebb63512ac01cd826d8a25676c8f7ba50ff0c21662e81b3d7ecd7af7"
+  ]
+}

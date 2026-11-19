@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0216",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "淘票票评分",
+  "description": "支付宝内淘票票显示豆瓣评分 · 来源 重写库",
+  "scope": [],
+  "revisionId": "003cb3d2379e04e757bda6779b50093634888e4343c267aff40a5b6400e8b043",
+  "author": "98kevinxiao",
+  "updatedAt": 1795094243540,
+  "targets": [],
+  "upstream": "98kevinxiao",
+  "homepage": "",
+  "revisions": [
+    "003cb3d2379e04e757bda6779b50093634888e4343c267aff40a5b6400e8b043"
+  ]
+}

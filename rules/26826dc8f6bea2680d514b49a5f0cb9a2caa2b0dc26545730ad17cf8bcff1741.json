@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "🍟 BiliEnhanced.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=🍟 BiliEnhanced.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = app.bilibili.com, app.biliapi.net\n\n[Script]\nhttp-response ^https?:\\/\\/app\\.bili(bili\\.com|api\\.net)\\/x\\/resource\\/show\\/tab\\/v2\\?, requires-body=1, script-path=https://github.com/BiliUniverse/Enhanced/releases/download/v0.5.13/response.bundle.js\nhttp-response ^https?:\\/\\/app\\.bili(bili\\.com|api\\.net)\\/x\\/v2\\/account\\/mine(\\/ipad)?\\?, requires-body=1, script-path=https://github.com/BiliUniverse/Enhanced/releases/download/v0.5.13/response.bundle.js\nhttp-response ^https?:\\/\\/app\\.bili(bili\\.com|api\\.net)\\/x\\/v2\\/region\\/index\\?, requires-body=1, script-path=https://github.com/BiliUniverse/Enhanced/releases/download/v0.5.13/response.bundle.js\nhttp-response ^https?:\\/\\/app\\.bili(bili\\.com|api\\.net)\\/x\\/v2\\/channel\\/region\\/list\\?, requires-body=1, script-path=https://github.com/BiliUniverse/Enhanced/releases/download/v0.5.13/response.bundle.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

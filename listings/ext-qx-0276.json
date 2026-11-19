@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0276",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Keep应用净化",
+  "description": "应用界面简化、去除广告 · 来源 墨鱼手记",
+  "scope": [],
+  "revisionId": "5c1f28e8eb59125e1d37a4cee7666c2d243878fe0a8eb6dca520de8e3706226b",
+  "author": "@ddgksf2013",
+  "updatedAt": 1795094243547,
+  "targets": [],
+  "upstream": "@ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "5c1f28e8eb59125e1d37a4cee7666c2d243878fe0a8eb6dca520de8e3706226b"
+  ]
+}

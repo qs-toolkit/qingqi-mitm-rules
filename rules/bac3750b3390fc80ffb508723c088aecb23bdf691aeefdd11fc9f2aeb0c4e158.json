@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "儿歌点点会员",
+  "description": "儿歌点点会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=儿歌点点会员\n#!desc=儿歌点点会员 · 来源 重写库\n#!author=ddgksf2013\n\n[MITM]\nhostname = gateway.ergedd.com\n\n[Script]\nhttp-response http:\\/\\/gateway\\.ergedd\\.com\\/dduser\\/user\\/center\\/set, script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/egdd.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

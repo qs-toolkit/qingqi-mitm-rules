@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "如期",
+  "description": "如期会员解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=如期\n#!desc=如期会员解锁 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = www.freshhome.top\n\n[Script]\nhttp-response ^https:\\/\\/www\\.freshhome\\.top\\/mngruqi, script-path=https://raw.githubusercontent.com/deezertidal/private/main/rq.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

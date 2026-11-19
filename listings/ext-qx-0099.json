@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0099",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "哔哩哔哩去广告",
+  "description": "哔哩哔哩去广告 · 来源 重写库",
+  "scope": [],
+  "revisionId": "491316c815f2e40dfb29ce94bc70bc9c3f2d12e8cd508913f541f228d5843a97",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243525,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "491316c815f2e40dfb29ce94bc70bc9c3f2d12e8cd508913f541f228d5843a97"
+  ]
+}

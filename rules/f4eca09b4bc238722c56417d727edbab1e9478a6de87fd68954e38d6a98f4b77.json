@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "书旗小说去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=书旗小说去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = ocean.shuqireader.com, huichuan.sm.cn\n\n[Rewrite]\n^https:\\/\\/ocean\\.shuqireader\\.com\\/api\\/render\\/load\\/resource - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

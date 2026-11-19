@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "奶由壁纸解锁",
+  "description": "奶由壁纸解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=奶由壁纸解锁\n#!desc=奶由壁纸解锁 · 来源 重写库\n#!author=Marol62926\n\n[MITM]\nhostname = nz-api.duitang.com\n\n[Script]\nhttp-response https://nz-api.duitang.com/account/me, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/naiyou.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

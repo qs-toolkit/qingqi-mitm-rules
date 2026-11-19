@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Ten Percent解锁",
+  "description": "Ten Percent解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=Ten Percent解锁\n#!desc=Ten Percent解锁 · 来源 重写库\n#!author=Marol62926\n\n[MITM]\nhostname = api.changecollective.com\n\n[Script]\nhttp-response https://api.changecollective.com/api/v3/user, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/tenPercent.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "hyperweb会员解锁",
+  "description": "hyperweb会员解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=hyperweb会员解锁\n#!desc=hyperweb会员解锁 · 来源 重写库\n#!author=ddgksf2013\n\n[MITM]\nhostname = zy6kcqa01a.execute-api.us-east-2.amazonaws.com\n\n[Script]\nhttp-response ^https://zy6kcqa01a.execute-api.us-east-2.amazonaws.com/prod/verifyReceipt, script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/hyperweb.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

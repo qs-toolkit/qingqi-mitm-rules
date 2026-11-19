@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0217",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "天天豆",
+  "description": "天天豆解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "7769786474d1d0698f07a84573d5d6d68db956c3b5fa4861e80d0da8364349e7",
+  "author": "Alex0510",
+  "updatedAt": 1795094243540,
+  "targets": [],
+  "upstream": "Alex0510",
+  "homepage": "",
+  "revisions": [
+    "7769786474d1d0698f07a84573d5d6d68db956c3b5fa4861e80d0da8364349e7"
+  ]
+}

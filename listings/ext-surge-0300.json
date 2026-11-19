@@ -7,13 +7,13 @@
   "name": "汽车之家去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "d4d37e9f41df86f661a906e187a565d624da3b9b2095f0f521ba258fa69bad9d",
+  "revisionId": "a1edd916e20ed6a0cbdaf8cf683eef70e9892bbc77541d11e3a75da0a88b5786",
   "author": "ClashModule",
-  "updatedAt": 1795093945625,
+  "updatedAt": 1795094243492,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "d4d37e9f41df86f661a906e187a565d624da3b9b2095f0f521ba258fa69bad9d"
+    "a1edd916e20ed6a0cbdaf8cf683eef70e9892bbc77541d11e3a75da0a88b5786"
   ]
 }

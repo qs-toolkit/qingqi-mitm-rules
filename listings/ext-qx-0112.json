@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0112",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "人人视频去广告",
+  "description": "人人（多多）视频去广告 · 来源 重写库",
+  "scope": [],
+  "revisionId": "2ae372bed0cef4a60ada1eae1a5db8f087ffa2620d3d124c71222549bc5404cf",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243527,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "2ae372bed0cef4a60ada1eae1a5db8f087ffa2620d3d124c71222549bc5404cf"
+  ]
+}

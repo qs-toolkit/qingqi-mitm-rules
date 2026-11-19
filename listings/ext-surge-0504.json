@@ -7,13 +7,13 @@
   "name": "🍟 DualSubsYouTube.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "d4fa15a6a3623e7678cac6cc96471c4128e4245baba00226f3cad4edf3ee324c",
+  "revisionId": "28446f849b6a115f0fd62df8a4525bd261f65c56e3e61482dbb17559da2ef324",
   "author": "ClashModule",
-  "updatedAt": 1795093945644,
+  "updatedAt": 1795094243515,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "d4fa15a6a3623e7678cac6cc96471c4128e4245baba00226f3cad4edf3ee324c"
+    "28446f849b6a115f0fd62df8a4525bd261f65c56e3e61482dbb17559da2ef324"
   ]
 }

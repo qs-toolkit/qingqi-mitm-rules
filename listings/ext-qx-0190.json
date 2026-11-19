@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0190",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Sorted",
+  "description": "Sorted日历解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "d3585427a05e653080ff6c87b01da7334bac2139a7a02dd763d6df71a708d7ba",
+  "author": "89996462",
+  "updatedAt": 1795094243538,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "d3585427a05e653080ff6c87b01da7334bac2139a7a02dd763d6df71a708d7ba"
+  ]
+}

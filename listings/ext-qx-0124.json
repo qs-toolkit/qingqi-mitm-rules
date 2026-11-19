@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0124",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "石墨文档解锁",
+  "description": "石墨文档解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "06388a4f5bf086895824b3e57339af985b9fa70ad4f17b3d0d4c9400d34e8231",
+  "author": "litieyin",
+  "updatedAt": 1795094243528,
+  "targets": [],
+  "upstream": "litieyin",
+  "homepage": "",
+  "revisions": [
+    "06388a4f5bf086895824b3e57339af985b9fa70ad4f17b3d0d4c9400d34e8231"
+  ]
+}

@@ -7,13 +7,13 @@
   "name": "哔哩哔哩漫画去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "7bfc2c1a4a0a65c8ab31aa0b41517ebcbbbbfd93185f242eb2a1777640f6bc82",
+  "revisionId": "2af25eb51c0d3e7962879a135309bbec391c22af38e1d9fa6f13713acdb64f45",
   "author": "ClashModule",
-  "updatedAt": 1795093945611,
+  "updatedAt": 1795094243476,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "7bfc2c1a4a0a65c8ab31aa0b41517ebcbbbbfd93185f242eb2a1777640f6bc82"
+    "2af25eb51c0d3e7962879a135309bbec391c22af38e1d9fa6f13713acdb64f45"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0236",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "高德地图去广告",
+  "description": "高德地图去广告 · 来源 重写库",
+  "scope": [],
+  "revisionId": "4f1553fe1ba0ae4036104862927ac430871858c6957d6d6d1ebc22baaff67450",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243542,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "4f1553fe1ba0ae4036104862927ac430871858c6957d6d6d1ebc22baaff67450"
+  ]
+}

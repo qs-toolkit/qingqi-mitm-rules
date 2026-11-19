@@ -7,13 +7,13 @@
   "name": "YouTube去广告[Maasea].official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "2b4254b4652270d7df3fe7d1cba1f754848d6be3b8d7245d0b9327216597328c",
+  "revisionId": "ab1dccdd978a74002c92fdcc250f4a5ced5a1428ae89717af6a595b9792834a4",
   "author": "ClashModule",
-  "updatedAt": 1795093945603,
+  "updatedAt": 1795094243469,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "2b4254b4652270d7df3fe7d1cba1f754848d6be3b8d7245d0b9327216597328c"
+    "ab1dccdd978a74002c92fdcc250f4a5ced5a1428ae89717af6a595b9792834a4"
   ]
 }

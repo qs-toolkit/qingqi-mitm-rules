@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0155",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "有道词典",
+  "description": "有道词典会员解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "c7a1ce7059e7c43199108cd5fe1cf7a15062146b7ba71bdf039980b85814116b",
+  "author": "89996462",
+  "updatedAt": 1795094243534,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "c7a1ce7059e7c43199108cd5fe1cf7a15062146b7ba71bdf039980b85814116b"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0038",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Kika会员解锁",
+  "description": "Kika会员解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "c0fb5ced7696cafa231e30b70a6f72a03196c5ff91cfb79a9a1042ee0d14e625",
+  "author": "Marol62926",
+  "updatedAt": 1795094243519,
+  "targets": [],
+  "upstream": "Marol62926",
+  "homepage": "",
+  "revisions": [
+    "c0fb5ced7696cafa231e30b70a6f72a03196c5ff91cfb79a9a1042ee0d14e625"
+  ]
+}

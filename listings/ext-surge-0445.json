@@ -7,13 +7,13 @@
   "name": "配音秀去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "1d11b971408c872109788f09306991648963d3d503240e1f885ee3f5d5b42f0b",
+  "revisionId": "74612158f9ac585bcb748d3aab8f27781e646bc15ad088d7b0bb731de768a414",
   "author": "ClashModule",
-  "updatedAt": 1795093945639,
+  "updatedAt": 1795094243508,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "1d11b971408c872109788f09306991648963d3d503240e1f885ee3f5d5b42f0b"
+    "74612158f9ac585bcb748d3aab8f27781e646bc15ad088d7b0bb731de768a414"
   ]
 }

@@ -7,13 +7,13 @@
   "name": "TikTok多地区解锁",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "4a1b48f4a057d235db50d27cb0fdec90f0225b13a09a801aabdd1e53ac8f6908",
+  "revisionId": "fa53954320469362b4e6912c0b70a28c5268137db16f6bd8e7b48298bb428ae9",
   "author": "ClashModule",
-  "updatedAt": 1795093945602,
+  "updatedAt": 1795094243467,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "4a1b48f4a057d235db50d27cb0fdec90f0225b13a09a801aabdd1e53ac8f6908"
+    "fa53954320469362b4e6912c0b70a28c5268137db16f6bd8e7b48298bb428ae9"
   ]
 }

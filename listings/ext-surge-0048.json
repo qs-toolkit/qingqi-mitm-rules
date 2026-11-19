@@ -7,13 +7,13 @@
   "name": "Keep 去广告.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "7c19633f7ad6f995bbe10383ce65882daf4c67189a4a6d031ceb3e3b0af766b0",
+  "revisionId": "0cb0af53a7e530df99a4e931ddf0dc3217543eb3626ccf2dc0d45bd89030bd89",
   "author": "ClashModule",
-  "updatedAt": 1795093945598,
+  "updatedAt": 1795094243464,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "7c19633f7ad6f995bbe10383ce65882daf4c67189a4a6d031ceb3e3b0af766b0"
+    "0cb0af53a7e530df99a4e931ddf0dc3217543eb3626ccf2dc0d45bd89030bd89"
   ]
 }

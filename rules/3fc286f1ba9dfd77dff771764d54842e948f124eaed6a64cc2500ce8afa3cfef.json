@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "青柠海报",
+  "description": "青柠海报设计解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=青柠海报\n#!desc=青柠海报设计解锁 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = api.qingning6.com\n\n[Script]\nhttp-response ^https:\\/\\/api\\.qingning6\\.com\\/api\\/user\\/getUserInfo, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/qnhb.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

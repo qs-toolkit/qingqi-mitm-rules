@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "长相思",
+  "description": "长相思解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=长相思\n#!desc=长相思解锁会员 · 来源 重写库\n#!author=lutqhysky\n\n[MITM]\nhostname = poetry.yuan9.cn\n\n[Script]\nhttp-response ^https?:\\/\\/poetry\\.yuan9\\.cn\\/api\\/(order\\/applesuccess|account\\/login|User\\/loginUserInfo), script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/cxs/Script/cxs.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

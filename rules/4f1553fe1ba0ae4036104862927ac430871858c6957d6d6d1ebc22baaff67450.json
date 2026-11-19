@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "高德地图去广告",
+  "description": "高德地图去广告 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=高德地图去广告\n#!desc=高德地图去广告 · 来源 重写库\n#!author=ddgksf2013\n\n[MITM]\nhostname = *amap.com\n\n[Rewrite]\n^https?:\\/\\/.*\\.amap\\.com\\/ws\\/boss\\/order_web\\/\\w{8}_information - reject\n^https?:\\/\\/.*\\.amap\\.com\\/ws\\/asa\\/ads_attribution - reject\n^https?:\\/\\/.*\\.amap\\.com\\/ws\\/shield\\/scene\\/recommend - reject\n^https?:\\/\\/.*\\.amap\\.com\\/uploadimg\\/\\w+\\.gif - reject\n^https?:\\/\\/.*\\.amap\\.com\\/ws\\/valueadded\\/weather - reject\n\n[Script]\nhttp-response ^https?:\\/\\/.*\\.amap\\.com\\/ws\\/faas\\/amap-navigation\\/main-page, script-path=https://github.com/ddgksf2013/Scripts/raw/master/amap.js, requires-body=1, max-size=-1\nhttp-response ^https?:\\/\\/.*\\.amap\\.com\\/ws\\/valueadded\\/alimama\\/splash_screen, script-path=https://github.com/ddgksf2013/Scripts/raw/master/amap.js, requires-body=1, max-size=-1\nhttp-response ^https?:\\/\\/.*\\.amap\\.com\\/ws\\/msgbox\\/pull, script-path=https://github.com/ddgksf2013/Scripts/raw/master/amap.js, requires-body=1, max-size=-1\nhttp-response ^https?:\\/\\/.*\\.amap\\.com\\/ws\\/shield\\/dsp\\/profile\\/index\\/nodefaas, script-path=https://github.com/ddgksf2013/Scripts/raw/master/amap.js, requires-body=1, max-size=-1\nhttp-response ^https?:\\/\\/.*\\.amap\\.com\\/ws\\/shield\\/search\\/new_hotword, script-path=https://github.com/ddgksf2013/Scripts/raw/master/amap.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

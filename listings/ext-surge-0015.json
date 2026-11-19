@@ -7,13 +7,13 @@
   "name": "Bilibili Helper.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "3418f7365a39277ac597bc8e29c5c071f3c395153567271cf7164d4ef5036c17",
+  "revisionId": "a1f27043de98bb671d5197b21339bf65a771a56df7b06b4fa3fa740ebc73543a",
   "author": "ClashModule",
-  "updatedAt": 1795093945595,
+  "updatedAt": 1795094243460,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "3418f7365a39277ac597bc8e29c5c071f3c395153567271cf7164d4ef5036c17"
+    "a1f27043de98bb671d5197b21339bf65a771a56df7b06b4fa3fa740ebc73543a"
   ]
 }

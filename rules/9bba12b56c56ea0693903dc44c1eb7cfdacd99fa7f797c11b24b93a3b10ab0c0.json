@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "配音",
+  "description": "配音解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=配音\n#!desc=配音解锁会员 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = xihongshi.dicallapp.com\n\n[Script]\nhttp-response ^http[s]?:\\/\\/xihongshi.dicallapp.com, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/dicallapp.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

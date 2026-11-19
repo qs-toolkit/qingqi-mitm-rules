@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0101",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "网易蜗牛阅读",
+  "description": "网易蜗牛读书解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "b7cf014177e91a2fc3bf9538d04419f186ebd69d9c1899867a958055a8d6edd7",
+  "author": "yxiaocai & JO2EY",
+  "updatedAt": 1795094243526,
+  "targets": [],
+  "upstream": "yxiaocai & JO2EY",
+  "homepage": "",
+  "revisions": [
+    "b7cf014177e91a2fc3bf9538d04419f186ebd69d9c1899867a958055a8d6edd7"
+  ]
+}

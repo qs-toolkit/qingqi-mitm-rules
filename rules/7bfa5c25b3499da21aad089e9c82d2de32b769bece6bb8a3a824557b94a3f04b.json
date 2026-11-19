@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "即刻运动",
+  "description": "即刻运动解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=即刻运动\n#!desc=即刻运动解锁会员 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = ec.myjkyd.com\n\n[Script]\nhttp-response http:\\/\\/ec\\.myjkyd\\.com\\/ftec, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/jkyd.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

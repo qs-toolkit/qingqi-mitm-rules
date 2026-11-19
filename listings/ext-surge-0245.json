@@ -7,13 +7,13 @@
   "name": "快捷搜索",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "a4c2521caa25a4e5a40764252404cfac02eb04046efec41725055927ec3a2c97",
+  "revisionId": "0811fa1eb805b13a936ba824419aa70ecf9680231826bfe83d53529dd38bc240",
   "author": "ClashModule",
-  "updatedAt": 1795093945618,
+  "updatedAt": 1795094243486,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "a4c2521caa25a4e5a40764252404cfac02eb04046efec41725055927ec3a2c97"
+    "0811fa1eb805b13a936ba824419aa70ecf9680231826bfe83d53529dd38bc240"
   ]
 }

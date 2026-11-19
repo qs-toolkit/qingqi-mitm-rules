@@ -7,13 +7,13 @@
   "name": "薄荷健康去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "06b4fad50862817443987981e667522a9928f6cd755c67708909f0274f174b48",
+  "revisionId": "a6af539a50a763e36be2c2b100fd9ea3a3f05d1723ce895a69141905530f4fe6",
   "author": "ClashModule",
-  "updatedAt": 1795093945636,
+  "updatedAt": 1795094243505,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "06b4fad50862817443987981e667522a9928f6cd755c67708909f0274f174b48"
+    "a6af539a50a763e36be2c2b100fd9ea3a3f05d1723ce895a69141905530f4fe6"
   ]
 }

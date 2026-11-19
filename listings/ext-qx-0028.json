@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0028",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "彩云天气提醒",
+  "description": "自动定位 异常天气预警 实时天气预报 · 来源 重写库",
+  "scope": [],
+  "revisionId": "179264c137281d3764a1024f61184dccecf13ed1b37e2062941ed91a3a7882d0",
+  "author": "Peng-YM",
+  "updatedAt": 1795094243518,
+  "targets": [],
+  "upstream": "Peng-YM",
+  "homepage": "",
+  "revisions": [
+    "179264c137281d3764a1024f61184dccecf13ed1b37e2062941ed91a3a7882d0"
+  ]
+}

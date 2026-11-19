@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "简讯",
+  "description": "简讯机解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=简讯\n#!desc=简讯机解锁会员 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = api.tipsoon.com\n\n[Rewrite]\n^https?:\\/\\/api\\.tipsoon\\.com\\/api\\/v1\\/top\\/ad - reject\n\n[Script]\nhttp-response ^https:\\/\\/api\\.tipsoon\\.com\\/api\\/v1\\/user\\/info, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/JX.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

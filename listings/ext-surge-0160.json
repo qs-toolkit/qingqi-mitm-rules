@@ -7,13 +7,13 @@
   "name": "哔哩哔哩去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "0c4a8f01f20a78da77e70b4a46e8eadea6739c8122ff9b3ea0d6ad978b2c638c",
+  "revisionId": "85678fb35a2265bba795f6cd2a207c48dfd437a349973ca0816423728c2d95af",
   "author": "ClashModule",
-  "updatedAt": 1795093945610,
+  "updatedAt": 1795094243476,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "0c4a8f01f20a78da77e70b4a46e8eadea6739c8122ff9b3ea0d6ad978b2c638c"
+    "85678fb35a2265bba795f6cd2a207c48dfd437a349973ca0816423728c2d95af"
   ]
 }

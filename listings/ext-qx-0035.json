@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0035",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Invideo解锁",
+  "description": "Invideo会员解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "9a0a86ae6b714a91c141b238b42227feb8fd3f8fbe094ddbc9834961a8fdce52",
+  "author": "Marol62926",
+  "updatedAt": 1795094243518,
+  "targets": [],
+  "upstream": "Marol62926",
+  "homepage": "",
+  "revisions": [
+    "9a0a86ae6b714a91c141b238b42227feb8fd3f8fbe094ddbc9834961a8fdce52"
+  ]
+}

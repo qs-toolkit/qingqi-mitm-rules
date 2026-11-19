@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "朴朴超市去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=朴朴超市去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = j1.pupuapi.com\n\n[Rewrite]\n^https:\\/\\/j1\\.pupuapi\\.com\\/client\\/account\\/discount\\/order - reject\n^https:\\/\\/j1\\.pupuapi\\.com\\/client\\/marketing\\/banner\\/v7\\?position_types=100 - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

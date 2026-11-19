@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "看理想",
+  "description": "看理想会员解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=看理想\n#!desc=看理想会员解锁 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = api.vistopia.com.cn\n\n[Script]\nhttp-response ^https:\\/\\/api\\.vistopia\\.com\\.cn\\/api, script-path=hhttps://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/klx.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -7,13 +7,13 @@
   "name": "漫客栈去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "d86ee0a190c1b4a150af4a90bb43cf26b8c58c8e59e04c7231d9baab8ef559c0",
+  "revisionId": "09becf9d55346b5d642c5dcf984543e2e3be92891127fac352ef54a5c4fca085",
   "author": "ClashModule",
-  "updatedAt": 1795093945626,
+  "updatedAt": 1795094243494,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "d86ee0a190c1b4a150af4a90bb43cf26b8c58c8e59e04c7231d9baab8ef559c0"
+    "09becf9d55346b5d642c5dcf984543e2e3be92891127fac352ef54a5c4fca085"
   ]
 }

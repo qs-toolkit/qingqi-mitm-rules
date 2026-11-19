@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "指尖笔记",
+  "description": "指尖笔记解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=指尖笔记\n#!desc=指尖笔记解锁会员 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = data.ufbae.com\n\n[Script]\nhttp-response http:\\/\\/data\\.ufbae\\.com\\/User\\/GetUser, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/zjbj.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

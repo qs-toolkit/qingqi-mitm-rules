@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0107",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "PocketLists解锁",
+  "description": "Pocket Lists解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "af5835a0e1f36b83bc500a60c1aa4275ff2c66f0e1f6844f66d965e72cd36473",
+  "author": "superuv",
+  "updatedAt": 1795094243526,
+  "targets": [],
+  "upstream": "superuv",
+  "homepage": "",
+  "revisions": [
+    "af5835a0e1f36b83bc500a60c1aa4275ff2c66f0e1f6844f66d965e72cd36473"
+  ]
+}

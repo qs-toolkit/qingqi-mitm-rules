@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "万能变声器解锁",
+  "description": "万能变声器解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=万能变声器解锁\n#!desc=万能变声器解锁 · 来源 重写库\n#!author=Marol62926\n\n[MITM]\nhostname = *.40sishi.com\n\n[Script]\nhttp-response https://www.40sishi.com/voice/user/profile, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/voiceChanger.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

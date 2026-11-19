@@ -7,13 +7,13 @@
   "name": "🍟 Apple TestFlight.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "1aa8abc52030140aa691d4242b5dfde8c6f46246be2f6d87fcca21d9c3d4d742",
+  "revisionId": "a66478023e4c697b2b55c60151d2f095a69509c7c1fe7e29cdb0a83230970b76",
   "author": "ClashModule",
-  "updatedAt": 1795093945643,
+  "updatedAt": 1795094243513,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "1aa8abc52030140aa691d4242b5dfde8c6f46246be2f6d87fcca21d9c3d4d742"
+    "a66478023e4c697b2b55c60151d2f095a69509c7c1fe7e29cdb0a83230970b76"
   ]
 }

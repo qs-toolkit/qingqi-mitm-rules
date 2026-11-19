@@ -7,13 +7,13 @@
   "name": "高德地图去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "d56c46cb5005c0a0e7920c487f34d36dc72dcce9bf3fd813cccb428c12237c95",
+  "revisionId": "92fb91a6dfecc8b2a9bc19c9d0f446772c38ece16c963d9b2138fff4f5cadc2d",
   "author": "ClashModule",
-  "updatedAt": 1795093945643,
+  "updatedAt": 1795094243513,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "d56c46cb5005c0a0e7920c487f34d36dc72dcce9bf3fd813cccb428c12237c95"
+    "92fb91a6dfecc8b2a9bc19c9d0f446772c38ece16c963d9b2138fff4f5cadc2d"
   ]
 }

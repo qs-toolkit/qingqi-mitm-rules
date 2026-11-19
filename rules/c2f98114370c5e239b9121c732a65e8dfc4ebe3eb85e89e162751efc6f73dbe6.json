@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "IOS伪装影视APP净化",
+  "description": "去广告配置（自用，持续更新...） · 来源 墨鱼手记",
+  "scope": [],
+  "text": "#!name=IOS伪装影视APP净化\n#!desc=去广告配置（自用，持续更新...） · 来源 墨鱼手记\n#!author=@ddgksf2013\n\n[MITM]\nhostname = app.dsx.ac\n\n[Rewrite]\n^http:\\/\\/[a-zA-Z0-9_-]+(\\.[a-zA-Z0-9_-]+){1,4}(:\\d+)?\\/.*?\\/v\\d\\/(version|notice\\?|top_notice\\?|advert\\?position=[^2]+) - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

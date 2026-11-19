@@ -7,13 +7,13 @@
   "name": "Uki去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "b8fb229d6f77ff112dd44d25140c7094a2e363536c0268d886a0d496c3c9642b",
+  "revisionId": "fd4a6d014905918f8e2c6f8f452867ddafb638045a98042665d89218cce8015e",
   "author": "ClashModule",
-  "updatedAt": 1795093945602,
+  "updatedAt": 1795094243468,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "b8fb229d6f77ff112dd44d25140c7094a2e363536c0268d886a0d496c3c9642b"
+    "fd4a6d014905918f8e2c6f8f452867ddafb638045a98042665d89218cce8015e"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0237",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "好事发生",
+  "description": "好事发生解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "b5f8267ad5926b33100da309b797b7df46ee46a3fc506fa2759868f10ca43489",
+  "author": "89996462",
+  "updatedAt": 1795094243542,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "b5f8267ad5926b33100da309b797b7df46ee46a3fc506fa2759868f10ca43489"
+  ]
+}

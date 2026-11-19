@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "七猫小说解锁",
+  "description": "七猫小说解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=七猫小说解锁\n#!desc=七猫小说解锁 · 来源 重写库\n#!author=I-am-R-E\n\n[MITM]\nhostname = *.wtzw.com\n\n[Script]\nhttp-response ^https?:\\/\\/(api-\\w+|xiaoshuo)\\.wtzw\\.com\\/api\\/v\\d\\/, script-path=https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/QiMaoXiaoShuo.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

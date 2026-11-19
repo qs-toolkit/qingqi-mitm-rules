@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0313",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "知乎网页净化",
+  "description": "毒奶特供 · 知乎网页 UA 替换 + 直读 · 来源 毒奶特供",
+  "scope": [],
+  "revisionId": "ee409c3132781669329fd34dfa55448290d943cf2dcfe157ec52ff808989ad1d",
+  "author": "limbopro",
+  "updatedAt": 1795094243551,
+  "targets": [],
+  "upstream": "limbopro",
+  "homepage": "",
+  "revisions": [
+    "ee409c3132781669329fd34dfa55448290d943cf2dcfe157ec52ff808989ad1d"
+  ]
+}

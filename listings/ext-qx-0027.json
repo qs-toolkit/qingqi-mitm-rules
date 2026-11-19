@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0027",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Alarmy闹钟解锁",
+  "description": "使命闹钟会员解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "c083d65ad50c33091eb17a2592df5e39ec029e1d7406dda2c7c9de95056fa23c",
+  "author": "Marol62926",
+  "updatedAt": 1795094243518,
+  "targets": [],
+  "upstream": "Marol62926",
+  "homepage": "",
+  "revisions": [
+    "c083d65ad50c33091eb17a2592df5e39ec029e1d7406dda2c7c9de95056fa23c"
+  ]
+}

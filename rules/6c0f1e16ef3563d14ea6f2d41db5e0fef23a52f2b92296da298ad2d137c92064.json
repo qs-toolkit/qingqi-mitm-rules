@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "帆书去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=帆书去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = g*.dushu365.com\n\n[Rewrite]\n^https?:\\/\\/popup\\.dushu365\\.com\\/api\\/v2\\/sfo\\/(user_)?popup_(config|display)s - reject\n^https?:\\/\\/g[a-z0-9-]+\\.dushu365\\.com\\/chief-orch\\/config\\/config\\/v\\d+\\/(shortCut|appUpdateUnite|loadingAd) - reject\n^https?:\\/\\/g[a-z0-9-]+\\.dushu365\\.com\\/fs-retain\\/trialVip\\/v\\d+\\/requestTrialVipPopDoNotSendReward - reject\n^https?:\\/\\/g[a-z0-9-]+\\.dushu365\\.com\\/resource-orchestration-system\\/vipLandingPage\\/v\\d+\\/getVipLandingPageApp - reject\n^https?:\\/\\/g[a-z0-9-]+\\.dushu365\\.com\\/fandeng-orch\\/dual2211\\/config - reject\n^https?:\\/\\/g[a-z0-9-]+\\.dushu365\\.com\\/fdtalk-orch\\/newcomerzone\\/v\\d+\\/guide - reject\n^https?:\\/\\/g[a-z0-9-]+\\.dushu365\\.com\\/fandeng-orch\\/bookboy\\/v\\d+\\/vipPagePop - reject\n^https?:\\/\\/g[a-z0-9-]+\\.dushu365\\.com\\/chief-orch\\/config\\/config\\/v\\d+\\/appConfig - reject\n^https?:\\/\\/g[a-z0-9-]+\\.dushu365\\.com\\/order-orchestration\\/orderWeb\\/exchange\\/v100\\/showExchangeButton - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

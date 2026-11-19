@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0000",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "去广告",
+  "description": "APP启动页去广告 · 来源 重写库",
+  "scope": [],
+  "revisionId": "72652fe0591ef6ab68988c30c4510a9654411a2bd26a3b3d24c006ce102c7c2d",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243515,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "72652fe0591ef6ab68988c30c4510a9654411a2bd26a3b3d24c006ce102c7c2d"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "精塾国学",
+  "description": "精塾国学解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=精塾国学\n#!desc=精塾国学解锁会员 · 来源 重写库\n#!author=lutqhysky\n\n[MITM]\nhostname = 47.104.228.152:9100\n\n[Script]\nhttp-response ^https?:\\/\\/47\\.104\\.228\\.152:9100\\/api\\/apiAppUser\\/getUser, script-path=https://raw.githubusercontent.com/lutqhysky/quantumultx/mylove/jingshuguoxue/Script/jingshuguoxue.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "PhotosShop Express会员解锁",
+  "description": "PhotoshopExpress解锁高级订阅 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=PhotosShop Express会员解锁\n#!desc=PhotoshopExpress解锁高级订阅 · 来源 重写库\n#!author=litieyin\n\n[MITM]\nhostname = lcs-mobile-cops.adobe.io\n\n[Script]\nhttp-response ^https:\\/\\/lcs-mobile-cops\\.adobe\\.io\\/mobile_profile, script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/photoshop.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

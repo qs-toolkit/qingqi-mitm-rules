@@ -7,13 +7,13 @@
   "name": "风鸟去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "d903d1f7e1f0bde033d98b178da69a7166bde51e3c1aa0c4a04b600c06dd1e38",
+  "revisionId": "e18e2ccaf96b0ad003fe031ee4bb5296b59eeb6ccca9804b3eb925274e2173cd",
   "author": "ClashModule",
-  "updatedAt": 1795093945641,
+  "updatedAt": 1795094243511,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "d903d1f7e1f0bde033d98b178da69a7166bde51e3c1aa0c4a04b600c06dd1e38"
+    "e18e2ccaf96b0ad003fe031ee4bb5296b59eeb6ccca9804b3eb925274e2173cd"
   ]
 }

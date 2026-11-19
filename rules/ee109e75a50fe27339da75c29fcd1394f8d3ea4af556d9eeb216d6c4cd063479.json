@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Accuweather解锁",
+  "description": "AccuWeather解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=Accuweather解锁\n#!desc=AccuWeather解锁会员 · 来源 重写库\n#!author=Marol62926\n\n[MITM]\nhostname = app-subscription-proxy.accuweather.com\n\n[Script]\nhttp-response https://app-subscription-proxy.accuweather.com/subscriptions/v1/apple/validate, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/accuWeather.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

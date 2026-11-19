@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Notability解锁",
+  "description": "Notability解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=Notability解锁\n#!desc=Notability解锁 · 来源 重写库\n#!author=litieyin\n\n[MITM]\nhostname = notability.com\n\n[Script]\nhttp-response ^https://notability.com/subscriptions, script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/notability.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

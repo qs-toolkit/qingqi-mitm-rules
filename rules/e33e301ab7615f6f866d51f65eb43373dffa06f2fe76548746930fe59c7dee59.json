@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "MEMRISE",
+  "description": "重写库 · Quantumult X 重写脚本 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=MEMRISE\n#!desc=重写库 · Quantumult X 重写脚本 · 来源 重写库\n#!author=deezertidal\n\n[MITM]\nhostname = api.memrise.com\n\n[Script]\nhttp-response ^https:\\/\\/api\\.memrise\\.com\\/v1\\.18, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Memrise.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

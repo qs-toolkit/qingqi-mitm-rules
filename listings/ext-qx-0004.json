@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0004",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "酷我会员",
+  "description": "解锁酷我年费会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "d8fd2e377f7741fb173356bf43a4254d3ca83a832659d70548620dbb9be8c563",
+  "author": "NobyDa",
+  "updatedAt": 1795094243516,
+  "targets": [],
+  "upstream": "NobyDa",
+  "homepage": "",
+  "revisions": [
+    "d8fd2e377f7741fb173356bf43a4254d3ca83a832659d70548620dbb9be8c563"
+  ]
+}

@@ -7,13 +7,13 @@
   "name": "美颜相机去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "b4ece25f495d5801a2bb94b8692ebf46094e8c7a3d8b209c171697c5c5978871",
+  "revisionId": "ea16f16daa3275b3aa1758088f868b609873e7cc1c8d43d7307a4d2eaa1a1490",
   "author": "ClashModule",
-  "updatedAt": 1795093945633,
+  "updatedAt": 1795094243502,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "b4ece25f495d5801a2bb94b8692ebf46094e8c7a3d8b209c171697c5c5978871"
+    "ea16f16daa3275b3aa1758088f868b609873e7cc1c8d43d7307a4d2eaa1a1490"
   ]
 }

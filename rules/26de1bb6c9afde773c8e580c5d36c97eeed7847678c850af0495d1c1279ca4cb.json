@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "YouTube 去广告",
+  "description": "毒奶特供 · YouTube 视频广告屏蔽 · 来源 毒奶特供",
+  "scope": [],
+  "text": "#!name=YouTube 去广告\n#!desc=毒奶特供 · YouTube 视频广告屏蔽 · 来源 毒奶特供\n#!author=limbopro\n\n[MITM]\nhostname = -redirector*.googlevideo.com, *.googlevideo.com, www.youtube.com, s.youtube.com, youtubei.googleapis.com\n\n[Rewrite]\n(^https?:\\/\\/[\\w-]+\\.googlevideo\\.com\\/(?!dclk_video_ads).+?)&ctier=L(&.+?),ctier,(.+) $1$2$3 302\n^https?:\\/\\/[\\w-]+\\.googlevideo\\.com\\/(?!(dclk_video_ads|videoplayback\\?)).+&oad - reject\n^https?:\\/\\/youtubei\\.googleapis\\.com\\/youtubei\\/v\\d\\/player\\/ad_break - reject\n^https?:\\/\\/(www|s)\\.youtube\\.com\\/api\\/stats\\/ads - reject\n^https?:\\/\\/(www|s)\\.youtube\\.com\\/(pagead|ptracking) - reject\n^https?:\\/\\/s\\.youtube\\.com\\/api\\/stats\\/qoe\\?adcontext - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

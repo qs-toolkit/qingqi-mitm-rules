@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0188",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "MoneyThings",
+  "description": "MoneyThings解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "1ec7c9d606c82b5f8e4238b4195da7f72601a58d1993e4ada4fa659b7f33f990",
+  "author": "89996462",
+  "updatedAt": 1795094243537,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "1ec7c9d606c82b5f8e4238b4195da7f72601a58d1993e4ada4fa659b7f33f990"
+  ]
+}

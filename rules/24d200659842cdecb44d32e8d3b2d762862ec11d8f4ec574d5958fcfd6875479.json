@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "TOKCAM解锁",
+  "description": "TOKCAM解锁永久订阅 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=TOKCAM解锁\n#!desc=TOKCAM解锁永久订阅 · 来源 重写库\n#!author=yqc007\n\n[MITM]\nhostname = buy.itunes.apple.com\n\n[Script]\nhttp-response ^https?:\\/\\/buy\\.itunes\\.apple\\.com\\/verifyReceipt$, script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/TokCamFProCrack.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

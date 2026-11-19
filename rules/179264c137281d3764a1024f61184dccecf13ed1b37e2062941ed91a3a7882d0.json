@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "彩云天气提醒",
+  "description": "自动定位 异常天气预警 实时天气预报 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=彩云天气提醒\n#!desc=自动定位 异常天气预警 实时天气预报 · 来源 重写库\n#!author=Peng-YM\n\n[MITM]\nhostname = weather-data.apple.com, api.weather.com\n\n[Script]\nhttp-request https:\\/\\/((weather-data\\.apple)|(api.weather))\\.com, script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

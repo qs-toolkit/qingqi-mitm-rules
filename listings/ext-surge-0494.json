@@ -7,13 +7,13 @@
   "name": "🍟 Apple 天气增强.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "a5f9ec18ec88f7194ea27b2eb9e1632b701cf008ab08a2ff78a35969d293395a",
+  "revisionId": "521eb55273038d037d6c0918f42cf34a68ad01fc70e19f10255bc1ed40c5ef4a",
   "author": "ClashModule",
-  "updatedAt": 1795093945643,
+  "updatedAt": 1795094243514,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "a5f9ec18ec88f7194ea27b2eb9e1632b701cf008ab08a2ff78a35969d293395a"
+    "521eb55273038d037d6c0918f42cf34a68ad01fc70e19f10255bc1ed40c5ef4a"
   ]
 }

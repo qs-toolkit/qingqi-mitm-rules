@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0059",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Bilibili 1080P",
+  "description": "Bilibili解锁高清画质 · 来源 重写库",
+  "scope": [],
+  "revisionId": "704d39eb4b23b86a574ae9fc3f657d81a6f4ab740afbc0bee5dd923b70db2b3a",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243521,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "704d39eb4b23b86a574ae9fc3f657d81a6f4ab740afbc0bee5dd923b70db2b3a"
+  ]
+}

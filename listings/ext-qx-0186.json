@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0186",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Usage",
+  "description": "Usage解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "569f1ec8fd296335e89bc9a0a437dd805957efd7af614b7fd80c5374bdd4e573",
+  "author": "89996462",
+  "updatedAt": 1795094243537,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "569f1ec8fd296335e89bc9a0a437dd805957efd7af614b7fd80c5374bdd4e573"
+  ]
+}

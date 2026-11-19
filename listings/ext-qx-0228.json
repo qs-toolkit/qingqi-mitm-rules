@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0228",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "飞鱼计划",
+  "description": "飞鱼计划解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "415adc21012a7f1236d2ec5cf1d9a9e7bd62e35d3c9ed2141309eb8931e0e482",
+  "author": "89996462",
+  "updatedAt": 1795094243542,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "415adc21012a7f1236d2ec5cf1d9a9e7bd62e35d3c9ed2141309eb8931e0e482"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0210",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Emote",
+  "description": "Emote解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "06e3bcf04a0954a597c52852c1cf270637074dab7ca375dfc784edfb0864abfb",
+  "author": "89996462",
+  "updatedAt": 1795094243540,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "06e3bcf04a0954a597c52852c1cf270637074dab7ca375dfc784edfb0864abfb"
+  ]
+}

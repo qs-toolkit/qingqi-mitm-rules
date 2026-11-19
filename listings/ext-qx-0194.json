@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0194",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "拼图酱",
+  "description": "拼图酱会员解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "fa679eddd8b9326898ad73baa5fed53e153a39c6139becc728b7fc65df80a006",
+  "author": "89996462",
+  "updatedAt": 1795094243538,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "fa679eddd8b9326898ad73baa5fed53e153a39c6139becc728b7fc65df80a006"
+  ]
+}

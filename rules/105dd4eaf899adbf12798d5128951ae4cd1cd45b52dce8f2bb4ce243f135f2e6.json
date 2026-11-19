@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "爱企查",
+  "description": "爱企查vip · 来源 重写库",
+  "scope": [],
+  "text": "#!name=爱企查\n#!desc=爱企查vip · 来源 重写库\n#!author=deezertidal\n\n[MITM]\nhostname = aiqicha.baidu.com\n\n[Script]\nhttp-response ^https:\\//aiqicha.baidu.com\\/usercenter\\/getvipinfoajax, script-path=https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/aiqicha.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

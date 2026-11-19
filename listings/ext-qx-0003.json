@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0003",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Emby",
+  "description": "Emby插件 · 来源 重写库",
+  "scope": [],
+  "revisionId": "31890f5a64608f7d633638ca28a61372e826e977745463df7d968e2ecc65db73",
+  "author": "Tartarus2014",
+  "updatedAt": 1795094243515,
+  "targets": [],
+  "upstream": "Tartarus2014",
+  "homepage": "",
+  "revisions": [
+    "31890f5a64608f7d633638ca28a61372e826e977745463df7d968e2ecc65db73"
+  ]
+}

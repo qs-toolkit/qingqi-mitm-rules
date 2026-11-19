@@ -7,13 +7,13 @@
   "name": "🍟 DualSubsNetflix.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "c03736fe9857eddd4e1aa38c6eda5d2999c37e0902f67ad168ccadfd2cfef294",
+  "revisionId": "b041e37f06b21a7c155215b71b2b611fd26dc1d3f169bc0d0a11e6bdde0e62a6",
   "author": "ClashModule",
-  "updatedAt": 1795093945644,
+  "updatedAt": 1795094243514,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "c03736fe9857eddd4e1aa38c6eda5d2999c37e0902f67ad168ccadfd2cfef294"
+    "b041e37f06b21a7c155215b71b2b611fd26dc1d3f169bc0d0a11e6bdde0e62a6"
   ]
 }

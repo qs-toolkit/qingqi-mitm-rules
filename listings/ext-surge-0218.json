@@ -7,13 +7,13 @@
   "name": "彩云天气去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "81a81a32fa1c62118ff6c427c6bd77e1befb7c5525d251b25d39fc6211c225d3",
+  "revisionId": "b88f69c566dbf5bf886ec04e2ca97c0e1720b0f3a15178e759d51d2296389ac0",
   "author": "ClashModule",
-  "updatedAt": 1795093945616,
+  "updatedAt": 1795094243483,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "81a81a32fa1c62118ff6c427c6bd77e1befb7c5525d251b25d39fc6211c225d3"
+    "b88f69c566dbf5bf886ec04e2ca97c0e1720b0f3a15178e759d51d2296389ac0"
   ]
 }

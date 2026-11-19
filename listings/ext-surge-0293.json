@@ -7,13 +7,13 @@
   "name": "朴朴超市去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "426b5d4fb9c4cff8f6cfe30d238374922ac4f5fe0e5b58ec5323b4f4461b5d2a",
+  "revisionId": "a917c61e1f8058da6b46c05d4bc0dd94b050991d76277600e0ff4cf263130c58",
   "author": "ClashModule",
-  "updatedAt": 1795093945624,
+  "updatedAt": 1795094243491,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "426b5d4fb9c4cff8f6cfe30d238374922ac4f5fe0e5b58ec5323b4f4461b5d2a"
+    "a917c61e1f8058da6b46c05d4bc0dd94b050991d76277600e0ff4cf263130c58"
   ]
 }

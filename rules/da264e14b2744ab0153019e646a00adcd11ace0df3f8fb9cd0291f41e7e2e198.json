@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "微信阅读积分兑换",
+  "description": "微信自动阅读积分兑换 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=微信阅读积分兑换\n#!desc=微信自动阅读积分兑换 · 来源 重写库\n#!author=ddgksf2013\n\n[MITM]\nhostname = mp.weixin.qq.com\n\n[Script]\nhttp-response ^https?://mp\\.weixin\\.qq\\.com/s\\?.*, script-path=https://github.com/deezertidal/private/raw/master/js-backup/Script/wechat_auto_read.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

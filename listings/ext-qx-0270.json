@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0270",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "彩云天气净化",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "scope": [],
+  "revisionId": "346b3194498e733a94b697d07988c8c6358ef83773fa664c3ae53ca0d3bac731",
+  "author": "@ddgksf2013",
+  "updatedAt": 1795094243546,
+  "targets": [],
+  "upstream": "@ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "346b3194498e733a94b697d07988c8c6358ef83773fa664c3ae53ca0d3bac731"
+  ]
+}

@@ -7,13 +7,13 @@
   "name": "🍟 BiliRedirect.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "062eb195c092bfa5b10b6d3a4886975a1fb01b14afe2335185a6f2de91d02625",
+  "revisionId": "a4edcba4791d2ca3d34027228da11e45d5e619a0e8a20836037de41bb7ad1a60",
   "author": "ClashModule",
-  "updatedAt": 1795093945644,
+  "updatedAt": 1795094243514,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "062eb195c092bfa5b10b6d3a4886975a1fb01b14afe2335185a6f2de91d02625"
+    "a4edcba4791d2ca3d34027228da11e45d5e619a0e8a20836037de41bb7ad1a60"
   ]
 }

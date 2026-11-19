@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0197",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "莉景天气",
+  "description": "莉景天气解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "734e429f749ef3d70cb0f1133f413fe216034e2a69eed28619a407170aa2a6f0",
+  "author": "89996462",
+  "updatedAt": 1795094243538,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "734e429f749ef3d70cb0f1133f413fe216034e2a69eed28619a407170aa2a6f0"
+  ]
+}

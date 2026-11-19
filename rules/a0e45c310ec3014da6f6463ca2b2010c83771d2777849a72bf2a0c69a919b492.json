@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "MyFitnessPal解锁",
+  "description": "MyFitnessPal会员解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=MyFitnessPal解锁\n#!desc=MyFitnessPal会员解锁 · 来源 重写库\n#!author=Marol62926\n\n[MITM]\nhostname = premium-api.myfitnesspal.com\n\n[Script]\nhttp-response https://premium-api.myfitnesspal.com/v3/subscriptions/MFP/*, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/myFitnessPal.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

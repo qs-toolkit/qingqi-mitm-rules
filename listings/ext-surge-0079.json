@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-surge-0079",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "TikTok多地区解锁",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "revisionId": "fa53954320469362b4e6912c0b70a28c5268137db16f6bd8e7b48298bb428ae9",
+  "author": "ClashModule",
+  "updatedAt": 1795094243467,
+  "targets": [],
+  "upstream": "ClashModule",
+  "homepage": "",
+  "revisions": [
+    "fa53954320469362b4e6912c0b70a28c5268137db16f6bd8e7b48298bb428ae9"
+  ]
+}

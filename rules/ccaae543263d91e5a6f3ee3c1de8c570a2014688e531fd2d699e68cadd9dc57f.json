@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "BOOM会员解锁",
+  "description": "BOOM会员解锁 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=BOOM会员解锁\n#!desc=BOOM会员解锁 · 来源 重写库\n#!author=ddgksf2013\n\n[MITM]\nhostname = apimboom2.globaldelight.net\n\n[Script]\nhttp-response ^https:\\/\\/apimboom2\\.globaldelight\\.net\\/itunesreceipt_v2\\.php$, script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/boom.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

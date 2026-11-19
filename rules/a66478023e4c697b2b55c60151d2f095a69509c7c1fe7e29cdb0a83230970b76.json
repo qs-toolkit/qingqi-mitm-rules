@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "🍟 Apple TestFlight.official",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=🍟 Apple TestFlight.official\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = testflight.apple.com\n\n[Script]\nhttp-request ^https?:\\/\\/testflight\\.apple\\.com\\/, requires-body=1, script-path=https://github.com/NSRingo/TestFlight/releases/download/v3.4.0/request.bundle.js\nhttp-response ^https?:\\/\\/testflight\\.apple\\.com\\/, requires-body=1, script-path=https://github.com/NSRingo/TestFlight/releases/download/v3.4.0/response.bundle.js\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

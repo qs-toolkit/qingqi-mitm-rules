@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0284",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "百度贴吧净化",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "scope": [],
+  "revisionId": "0b1ac247add84029cafccfa361c029c2dfcd2af6e1d2505b7d4a311f8580cf88",
+  "author": "@app2smile, @ddgksf2013",
+  "updatedAt": 1795094243548,
+  "targets": [],
+  "upstream": "@app2smile, @ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "0b1ac247add84029cafccfa361c029c2dfcd2af6e1d2505b7d4a311f8580cf88"
+  ]
+}

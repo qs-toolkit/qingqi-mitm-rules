@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "新语听书解锁",
+  "description": "新语听书解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=新语听书解锁\n#!desc=新语听书解锁会员 · 来源 重写库\n#!author=yqc007\n\n[MITM]\nhostname = i.xinyulib.com.cn\n\n[Script]\nhttp-response ^https?:\\/\\/i\\.xinyulib\\.com\\.cn\\/api\\/querytoken.+, script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/XinYuLibraryProCrack.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

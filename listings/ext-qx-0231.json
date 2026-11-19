@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0231",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "一书一课",
+  "description": "一书一课解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "877098d10565bc2b5d8f9f398718d07a0d35ce550a9e71198bd3a6a441ebdad3",
+  "author": "89996462",
+  "updatedAt": 1795094243542,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "877098d10565bc2b5d8f9f398718d07a0d35ce550a9e71198bd3a6a441ebdad3"
+  ]
+}

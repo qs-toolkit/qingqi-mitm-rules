@@ -7,13 +7,13 @@
   "name": "斗鱼去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "59b1f62e93c1358c80b293dceae3a96106efd835a3b17b5f12ff50b879c701ad",
+  "revisionId": "cef32001ad6cf21258a91d933cf48061748a28d34b2094c0460b7164ac4d80ce",
   "author": "ClashModule",
-  "updatedAt": 1795093945622,
+  "updatedAt": 1795094243490,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "59b1f62e93c1358c80b293dceae3a96106efd835a3b17b5f12ff50b879c701ad"
+    "cef32001ad6cf21258a91d933cf48061748a28d34b2094c0460b7164ac4d80ce"
   ]
 }

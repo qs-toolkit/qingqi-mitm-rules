@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "布丁锁屏",
+  "description": "布丁锁屏 VIP · 来源 重写库",
+  "scope": [],
+  "text": "#!name=布丁锁屏\n#!desc=布丁锁屏 VIP · 来源 重写库\n#!author=ddgksf2013\n\n[MITM]\nhostname = screen-lock.51wnl-cq.com\n\n[Script]\nhttp-response https?:\\/\\/screen-lock\\.51wnl-cq\\.com\\/userApi\\/saveUser, script-path=https://raw.githubusercontent.com/deezertidal/private/master/js-backup/Crack/budingsuoping.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

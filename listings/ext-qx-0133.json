@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0133",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "幻影相册",
+  "description": "幻影相册VIP · 来源 重写库",
+  "scope": [],
+  "revisionId": "25f7dff5ea2feb11d4c58a537dd2a6b545b10aff28bebf5724f34d43e45c05ec",
+  "author": "89996462",
+  "updatedAt": 1795094243529,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "25f7dff5ea2feb11d4c58a537dd2a6b545b10aff28bebf5724f34d43e45c05ec"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0089",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Grammarly解锁",
+  "description": "Grammarly解锁订阅 subscription.grammarly.com · 来源 重写库",
+  "scope": [],
+  "revisionId": "e525b859dc0675280d1b87a72ca810a1def97def305c930ba5711c946797e0ba",
+  "author": "yqc007",
+  "updatedAt": 1795094243524,
+  "targets": [],
+  "upstream": "yqc007",
+  "homepage": "",
+  "revisions": [
+    "e525b859dc0675280d1b87a72ca810a1def97def305c930ba5711c946797e0ba"
+  ]
+}

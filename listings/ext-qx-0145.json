@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0145",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "1blocker",
+  "description": "1blocker会员解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "e42b291b52132cee71669ee34799c1c4678bed766721bbfc1de526eb7ce1a4d3",
+  "author": "89996462",
+  "updatedAt": 1795094243533,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "e42b291b52132cee71669ee34799c1c4678bed766721bbfc1de526eb7ce1a4d3"
+  ]
+}

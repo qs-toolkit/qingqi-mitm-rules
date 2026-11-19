@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0062",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "彩云天气SVIP",
+  "description": "彩云天气会员解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "d5b300f5cf8dfbdce06818fb4bda5d3f84821c8ea9ac6927688c92870537ef4b",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243522,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "d5b300f5cf8dfbdce06818fb4bda5d3f84821c8ea9ac6927688c92870537ef4b"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "哔哩哔哩漫画净化",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "scope": [],
+  "text": "#!name=哔哩哔哩漫画净化\n#!desc=墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记\n#!author=@ddgksf2013\n\n[MITM]\nhostname = manga.bilibili.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

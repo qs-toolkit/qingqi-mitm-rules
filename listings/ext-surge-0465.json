@@ -7,13 +7,13 @@
   "name": "阿里云盘去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "db0c8f80a1afc65b18bf6a7042dc92339ac6df8373b0b2e84b8808e1d81e1175",
+  "revisionId": "cad9583949032c930f716e9f79906152b309e8955e08aeddbaa96c946511a7b5",
   "author": "ClashModule",
-  "updatedAt": 1795093945640,
+  "updatedAt": 1795094243510,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "db0c8f80a1afc65b18bf6a7042dc92339ac6df8373b0b2e84b8808e1d81e1175"
+    "cad9583949032c930f716e9f79906152b309e8955e08aeddbaa96c946511a7b5"
   ]
 }

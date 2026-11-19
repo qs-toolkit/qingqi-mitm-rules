@@ -7,13 +7,13 @@
   "name": "脉脉去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "08527a4b44036e8007eadae5b8e67bff539c0d588ad09c42cb1e781f690344de",
+  "revisionId": "757fb18e41097d3be392ede8c7de41eee6971fc16b67575e349f8a781d9d0de0",
   "author": "ClashModule",
-  "updatedAt": 1795093945634,
+  "updatedAt": 1795094243503,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "08527a4b44036e8007eadae5b8e67bff539c0d588ad09c42cb1e781f690344de"
+    "757fb18e41097d3be392ede8c7de41eee6971fc16b67575e349f8a781d9d0de0"
   ]
 }

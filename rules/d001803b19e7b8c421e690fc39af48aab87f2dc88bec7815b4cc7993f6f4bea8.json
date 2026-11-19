@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "墨迹天气净化",
+  "description": "墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记",
+  "scope": [],
+  "text": "#!name=墨迹天气净化\n#!desc=墨鱼手记出品的 Quantumult X 重写 · 来源 墨鱼手记\n#!author=@ddgksf2013\n\n[MITM]\nhostname = *.api.moji.com, tnc*-*.zijieapi.com\n\n[Rewrite]\n^https?:\\/\\/.*api\\.moji\\.com\\/flycard\\/flyCard - reject\n^https?:\\/\\/.*api\\.moji\\.com\\/shortvideo - reject\n^https?:\\/\\/.*api\\.moji\\.com\\/json\\/advertising_goods - reject\n^https?:\\/\\/.*api\\.moji\\.com\\/forum - reject\n^https?:\\/\\/.*api\\.moji\\.com\\/user\\/dynamic_v\\d\\/json\\/someone_interest - reject\n^https:\\/\\/tnc.*zijieapi\\.com\\/get_domains - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

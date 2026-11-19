@@ -7,13 +7,13 @@
   "name": "京东去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "380514f29b59440fce6d8ddb0364e708aebb9e12e1f5f82fb6eef3045f6a0ea6",
+  "revisionId": "6d54910e82037dbbe6e432a5396ec39f1792a9398137c966b754f54ff9fc9702",
   "author": "ClashModule",
-  "updatedAt": 1795093945607,
+  "updatedAt": 1795094243473,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "380514f29b59440fce6d8ddb0364e708aebb9e12e1f5f82fb6eef3045f6a0ea6"
+    "6d54910e82037dbbe6e432a5396ec39f1792a9398137c966b754f54ff9fc9702"
   ]
 }

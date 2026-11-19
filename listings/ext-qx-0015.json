@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0015",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "奈飞评分",
+  "description": "奈菲迪士尼评分 · 来源 重写库",
+  "scope": [],
+  "revisionId": "271bf2643004623b424cc239f215a2afc772cb2cf65d6a705440978bf924d59c",
+  "author": "yichahucha",
+  "updatedAt": 1795094243516,
+  "targets": [],
+  "upstream": "yichahucha",
+  "homepage": "",
+  "revisions": [
+    "271bf2643004623b424cc239f215a2afc772cb2cf65d6a705440978bf924d59c"
+  ]
+}

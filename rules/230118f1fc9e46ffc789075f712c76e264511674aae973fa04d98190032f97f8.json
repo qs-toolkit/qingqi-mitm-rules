@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "DailyYoga解锁",
+  "description": "Daily Yoga 解锁 金星会员  显示需要会员的课程，点击成为会员即可观看 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=DailyYoga解锁\n#!desc=Daily Yoga 解锁 金星会员  显示需要会员的课程，点击成为会员即可观看 · 来源 重写库\n#!author=Marol62926\n\n[MITM]\nhostname = pre.dailyyoga.com\n\n[Script]\nhttp-response https://pre.dailyyoga.com/h2oapi/user/getUserDetail, script-path=https://raw.githubusercontent.com/Marol62926/MarScrpt/main/dailyYoga.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

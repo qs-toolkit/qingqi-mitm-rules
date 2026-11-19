@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0175",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Panda小组件",
+  "description": "Panda桌面小组件解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "f16369d335e0c0d7cd3b3f5bd69b663cac9e80dbe73a6803e6969f54edcc50d1",
+  "author": "89996462",
+  "updatedAt": 1795094243536,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "f16369d335e0c0d7cd3b3f5bd69b663cac9e80dbe73a6803e6969f54edcc50d1"
+  ]
+}

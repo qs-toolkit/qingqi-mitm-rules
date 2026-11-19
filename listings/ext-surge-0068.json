@@ -7,13 +7,13 @@
   "name": "Spotify Plus.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "7192112f1116e486898bc434e9b9292505915a716b9029d08bc94035b0959c4b",
+  "revisionId": "79f1c067c6c1d43f7fe7d5315d4001ebf9af43e5e86ca19d742cbdba83bf508c",
   "author": "ClashModule",
-  "updatedAt": 1795093945601,
+  "updatedAt": 1795094243466,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "7192112f1116e486898bc434e9b9292505915a716b9029d08bc94035b0959c4b"
+    "79f1c067c6c1d43f7fe7d5315d4001ebf9af43e5e86ca19d742cbdba83bf508c"
   ]
 }

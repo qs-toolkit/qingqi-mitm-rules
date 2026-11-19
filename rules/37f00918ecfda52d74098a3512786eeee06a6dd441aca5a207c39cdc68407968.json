@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "网易新闻去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=网易新闻去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = nex.163.com, interface.music.163.com, c.m.163.com, client.mail.163.com, g1.163.com, support.you.163.com, interface3?.music.163.com, gw.m.163.com\n\n[Rewrite]\n^https?:\\/\\/interface\\.music\\.163\\.com\\/eapi\\/ad - reject\n^https?:\\/\\/c\\.m\\.163\\.com\\/nc\\/gl\\/ - reject\n^https?:\\/\\/client\\.mail\\.163\\.com\\/apptrack\\/confinfo\\/searchMultiAds - reject\n^https?:\\/\\/g1\\.163\\.com\\/madfeedback - reject\n^https?:\\/\\/interface\\.music\\.163\\.com\\/eapi\\/ad\\/ - reject\n^https?:\\/\\/support\\.you\\.163\\.com\\/xhr\\/boot\\/getBootMedia\\.json - reject\n^https?:\\/\\/interface3?\\.music\\.163\\.com/eapi/(ad|abtest|sp|hot|store|search/(specialkeyword|defaultkeyword|hot)) - reject\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

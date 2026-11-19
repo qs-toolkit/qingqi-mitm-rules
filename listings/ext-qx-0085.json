@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0085",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "My Plate解锁",
+  "description": "My Plate解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "cfb5e04b524767525a37a5677943df0184e01d3ed1ddb387b6c02be1d3ebf9a6",
+  "author": "Marol62926",
+  "updatedAt": 1795094243524,
+  "targets": [],
+  "upstream": "Marol62926",
+  "homepage": "",
+  "revisions": [
+    "cfb5e04b524767525a37a5677943df0184e01d3ed1ddb387b6c02be1d3ebf9a6"
+  ]
+}

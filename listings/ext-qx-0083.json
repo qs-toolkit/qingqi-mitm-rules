@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0083",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "读书笔记解锁",
+  "description": "读书笔记解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "8df8db1221f4d6a5dfebdb0ef53fb02c5356a252e750273c342c6b330aba5874",
+  "author": "ddgksf2013",
+  "updatedAt": 1795094243524,
+  "targets": [],
+  "upstream": "ddgksf2013",
+  "homepage": "",
+  "revisions": [
+    "8df8db1221f4d6a5dfebdb0ef53fb02c5356a252e750273c342c6b330aba5874"
+  ]
+}

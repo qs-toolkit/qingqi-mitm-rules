@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0109",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "有道云笔记解锁",
+  "description": "有道云笔记VIP · 来源 重写库",
+  "scope": [],
+  "revisionId": "63b8048eb6864eff525585d1172736ce68c4822856db431daf86ce12bde6eff6",
+  "author": "Alex0510",
+  "updatedAt": 1795094243526,
+  "targets": [],
+  "upstream": "Alex0510",
+  "homepage": "",
+  "revisions": [
+    "63b8048eb6864eff525585d1172736ce68c4822856db431daf86ce12bde6eff6"
+  ]
+}

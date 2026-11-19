@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "日杂相机",
+  "description": "日杂相机解锁会员 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=日杂相机\n#!desc=日杂相机解锁会员 · 来源 重写库\n#!author=89996462\n\n[MITM]\nhostname = rzres86api.imendon.com, api-access.pangolin-sdk-toutiao.com\n\n[Rewrite]\n^https:\\/\\/rzres86api\\.imendon\\.com\\/v2\\/advert\\/homelist - reject\n^https:\\/\\/api-access\\.pangolin-sdk-toutiao\\.com\\/api\\/ad\\/union\\/sdk\\/stats\\/batch\\/?aid=5000546&version_code=4\\.8\\.0\\.8&device_platform=iphone - reject\n\n[Script]\nhttp-response ^https:\\/\\/rzres86api\\.imendon\\.com\\/v2\\/purchase\\/vip\\/verification, script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/rzxj.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

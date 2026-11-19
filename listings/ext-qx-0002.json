@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0002",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "扫描全能王",
+  "description": "解锁扫描全能王 · 来源 重写库",
+  "scope": [],
+  "revisionId": "5b93535f4c435314466dede141cc4ecb1d977d8545bd4a271c6041ad407ae6bd",
+  "author": "NobyDa",
+  "updatedAt": 1795094243515,
+  "targets": [],
+  "upstream": "NobyDa",
+  "homepage": "",
+  "revisions": [
+    "5b93535f4c435314466dede141cc4ecb1d977d8545bd4a271c6041ad407ae6bd"
+  ]
+}

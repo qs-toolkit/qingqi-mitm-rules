@@ -7,13 +7,13 @@
   "name": "书旗小说去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "b10970018aa92aa5cca43ebbf0a4b7cca50554a4d77ab93b91a1af1f507c91ff",
+  "revisionId": "f4eca09b4bc238722c56417d727edbab1e9478a6de87fd68954e38d6a98f4b77",
   "author": "ClashModule",
-  "updatedAt": 1795093945606,
+  "updatedAt": 1795094243472,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "b10970018aa92aa5cca43ebbf0a4b7cca50554a4d77ab93b91a1af1f507c91ff"
+    "f4eca09b4bc238722c56417d727edbab1e9478a6de87fd68954e38d6a98f4b77"
   ]
 }

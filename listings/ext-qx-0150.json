@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0150",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "微信听书",
+  "description": "微信听书解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "52ea330b658c985dd98ebafca082bfcf5d03045c107a023245c29631e6b09d32",
+  "author": "deezertidal",
+  "updatedAt": 1795094243533,
+  "targets": [],
+  "upstream": "deezertidal",
+  "homepage": "",
+  "revisions": [
+    "52ea330b658c985dd98ebafca082bfcf5d03045c107a023245c29631e6b09d32"
+  ]
+}

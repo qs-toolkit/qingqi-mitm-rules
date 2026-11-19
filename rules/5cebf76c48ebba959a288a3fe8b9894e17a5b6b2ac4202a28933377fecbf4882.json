@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "知音漫客解锁",
+  "description": "解锁知音漫客付费章节 (需登录) · 来源 重写库",
+  "scope": [],
+  "text": "#!name=知音漫客解锁\n#!desc=解锁知音漫客付费章节 (需登录) · 来源 重写库\n#!author=NobyDa\n\n[MITM]\nhostname = apigate.zymk.cn\n\n[Script]\nhttp-response ^https:\\/\\/apigate\\.zymk\\.cn\\/(zymk-getuserinfo-api\\/v1\\/getuserinfo|zymk-userpurchased-api\\/v1\\/userpurchased\\/paychapters)\\/, script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Zymh.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

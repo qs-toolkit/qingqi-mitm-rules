@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0255",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Mondly",
+  "description": "Mondly解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "d041e71e3ef5618fda22c834b81eaa8ebd6b0620341e2db880c85ab2585bae87",
+  "author": "89996462",
+  "updatedAt": 1795094243544,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "d041e71e3ef5618fda22c834b81eaa8ebd6b0620341e2db880c85ab2585bae87"
+  ]
+}

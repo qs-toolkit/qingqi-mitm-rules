@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0106",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "Pillow解锁",
+  "description": "Pillow解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "995e2767d527183fe172e6ab87094bb81addef87b16dc57c07a9663a26ac8558",
+  "author": "CheeryTodo",
+  "updatedAt": 1795094243526,
+  "targets": [],
+  "upstream": "CheeryTodo",
+  "homepage": "",
+  "revisions": [
+    "995e2767d527183fe172e6ab87094bb81addef87b16dc57c07a9663a26ac8558"
+  ]
+}

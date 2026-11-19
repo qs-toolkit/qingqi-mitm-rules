@@ -7,13 +7,13 @@
   "name": "🍟 Apple 定位修改.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "52c16d6bd2c7177e9ebddb85ca56dc6bfbeea10e5228258158984f28835958b0",
+  "revisionId": "a755651e5e55b1600b936d05090aa0ca2a783f6f19222d7bee9d1840b21c0186",
   "author": "ClashModule",
-  "updatedAt": 1795093945644,
+  "updatedAt": 1795094243514,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "52c16d6bd2c7177e9ebddb85ca56dc6bfbeea10e5228258158984f28835958b0"
+    "a755651e5e55b1600b936d05090aa0ca2a783f6f19222d7bee9d1840b21c0186"
   ]
 }

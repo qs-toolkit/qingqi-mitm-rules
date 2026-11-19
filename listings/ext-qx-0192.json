@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0192",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "看理想",
+  "description": "看理想会员解锁 · 来源 重写库",
+  "scope": [],
+  "revisionId": "253fb6a2730f67ef4c1b0db414f5ee17bcd014bf4ea83ca4b5229391ad96b0c5",
+  "author": "89996462",
+  "updatedAt": 1795094243538,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "253fb6a2730f67ef4c1b0db414f5ee17bcd014bf4ea83ca4b5229391ad96b0c5"
+  ]
+}

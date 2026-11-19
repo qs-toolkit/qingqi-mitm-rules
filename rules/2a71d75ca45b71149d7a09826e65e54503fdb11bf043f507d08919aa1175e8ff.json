@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Fimo Pro",
+  "description": "Fimo会员解锁 先登陆再开插件 · 来源 重写库",
+  "scope": [],
+  "text": "#!name=Fimo Pro\n#!desc=Fimo会员解锁 先登陆再开插件 · 来源 重写库\n#!author=ddgksf2013\n\n[MITM]\nhostname = server.yoyiapp.com\n\n[Script]\nhttp-response ^https://server.yoyiapp.com/fimo-user/user$, script-path=https://github.com/deezertidal/private/raw/master/js-backup/Crack/fimo.js, requires-body=1, max-size=-1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

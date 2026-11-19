@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0183",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "多重搜索",
+  "description": "多重搜索 · 来源 重写库",
+  "scope": [],
+  "revisionId": "b5d6437a5f8b6afb961e20bb1a05831f8595aeff20dab5faed7fb2aefa88799f",
+  "author": "deezertidal",
+  "updatedAt": 1795094243537,
+  "targets": [],
+  "upstream": "deezertidal",
+  "homepage": "",
+  "revisions": [
+    "b5d6437a5f8b6afb961e20bb1a05831f8595aeff20dab5faed7fb2aefa88799f"
+  ]
+}

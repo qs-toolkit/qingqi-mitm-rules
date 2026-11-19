@@ -7,13 +7,13 @@
   "name": "百度输入法去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "18ea809589582cf0f6b986372276a8efafed493856442f622981d29fd54ae477",
+  "revisionId": "36a2621baeda2d31e805f48ef7c474b4d69101feb8e478aff5b4557c3bb4898a",
   "author": "ClashModule",
-  "updatedAt": 1795093945629,
+  "updatedAt": 1795094243498,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "18ea809589582cf0f6b986372276a8efafed493856442f622981d29fd54ae477"
+    "36a2621baeda2d31e805f48ef7c474b4d69101feb8e478aff5b4557c3bb4898a"
   ]
 }

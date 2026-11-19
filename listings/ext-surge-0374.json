@@ -7,13 +7,13 @@
   "name": "网易大神去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "35587425fd13608ad8114521e4e950be503dd7bf900b27886f4055aa8be7dc75",
+  "revisionId": "9a6b7910a5f50ee27bd934dc1ad76af89b82b905ba90d69140bbe087503be1fb",
   "author": "ClashModule",
-  "updatedAt": 1795093945632,
+  "updatedAt": 1795094243500,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "35587425fd13608ad8114521e4e950be503dd7bf900b27886f4055aa8be7dc75"
+    "9a6b7910a5f50ee27bd934dc1ad76af89b82b905ba90d69140bbe087503be1fb"
   ]
 }

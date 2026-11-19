@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0132",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "小小优趣",
+  "description": "小小优趣解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "876e1f7d239b2b4f39bd3a324831509c013b9a61069fce68da629d8146ca76d3",
+  "author": "lutqhysky",
+  "updatedAt": 1795094243529,
+  "targets": [],
+  "upstream": "lutqhysky",
+  "homepage": "",
+  "revisions": [
+    "876e1f7d239b2b4f39bd3a324831509c013b9a61069fce68da629d8146ca76d3"
+  ]
+}

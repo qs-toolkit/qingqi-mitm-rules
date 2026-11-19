@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0213",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "私密相册管家",
+  "description": "私密相册管家解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "e6f610c67180b327880939363f4624f0c7b198009d3cc7cb829a380495754c21",
+  "author": "89996462",
+  "updatedAt": 1795094243540,
+  "targets": [],
+  "upstream": "89996462",
+  "homepage": "",
+  "revisions": [
+    "e6f610c67180b327880939363f4624f0c7b198009d3cc7cb829a380495754c21"
+  ]
+}

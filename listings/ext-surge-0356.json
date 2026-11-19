@@ -7,13 +7,13 @@
   "name": "知乎去广告",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "cc59d1b538ec724aa4e87c87c75bb7f52cb1140ffc64469b0372cbe1be23da4a",
+  "revisionId": "73ced6e00d80d718e055445675ab03b5b55c0be3910c45b4d7169fc2fb9eef4b",
   "author": "ClashModule",
-  "updatedAt": 1795093945630,
+  "updatedAt": 1795094243498,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "cc59d1b538ec724aa4e87c87c75bb7f52cb1140ffc64469b0372cbe1be23da4a"
+    "73ced6e00d80d718e055445675ab03b5b55c0be3910c45b4d7169fc2fb9eef4b"
   ]
 }

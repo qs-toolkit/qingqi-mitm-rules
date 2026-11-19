@@ -7,13 +7,13 @@
   "name": "Google搜索重定向",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "99f493d31697b0ea52c6082a02e59b3747d106432f9921f2d5e16fa113993e47",
+  "revisionId": "7ae942c225c3e7fc83476ea77604cacdda551d26d2deb29d5b3d19d9c09df8d3",
   "author": "ClashModule",
-  "updatedAt": 1795093945597,
+  "updatedAt": 1795094243462,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "99f493d31697b0ea52c6082a02e59b3747d106432f9921f2d5e16fa113993e47"
+    "7ae942c225c3e7fc83476ea77604cacdda551d26d2deb29d5b3d19d9c09df8d3"
   ]
 }

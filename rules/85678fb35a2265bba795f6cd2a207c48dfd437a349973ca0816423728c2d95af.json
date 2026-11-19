@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "哔哩哔哩去广告",
+  "description": "Surge 模块 · 来源 Surge",
+  "scope": [],
+  "text": "#!name=哔哩哔哩去广告\n#!desc=Surge 模块 · 来源 Surge\n#!author=ClashModule\n\n[MITM]\nhostname = grpc.biliapi.net, app.bilibili.com, api.bilibili.com, api.live.bilibili.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

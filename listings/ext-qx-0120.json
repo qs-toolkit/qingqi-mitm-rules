@@ -1,0 +1,19 @@
+{
+  "listingId": "ext-qx-0120",
+  "ownerIdentityId": "6c9334bc7d24e2e7dbb6e035db404827af0ca10b9a3711194a215c4a36ff39dd",
+  "ratingSum": 0,
+  "ratingCount": 0,
+  "parentListingId": "",
+  "name": "大蓝鲸",
+  "description": "大蓝鲸解锁会员 · 来源 重写库",
+  "scope": [],
+  "revisionId": "fc38f6e404efa3ab8a74bb006c18dbdb2b6186d98a444fc4f2921870b951b766",
+  "author": "lutqhysky",
+  "updatedAt": 1795094243528,
+  "targets": [],
+  "upstream": "lutqhysky",
+  "homepage": "",
+  "revisions": [
+    "fc38f6e404efa3ab8a74bb006c18dbdb2b6186d98a444fc4f2921870b951b766"
+  ]
+}

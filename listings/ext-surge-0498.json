@@ -7,13 +7,13 @@
   "name": "🍟 BiliGlobal.official",
   "description": "Surge 模块 · 来源 Surge",
   "scope": [],
-  "revisionId": "67c8cb76e7eeea448a4a7b639348bcf01ec533676a9049dc37e4e0bf6c9617f4",
+  "revisionId": "e67c87bd8d5db9a98cf9abc27f61a82e128a426ff43be14ad35922e9e8bea81d",
   "author": "ClashModule",
-  "updatedAt": 1795093945644,
+  "updatedAt": 1795094243514,
   "targets": [],
   "upstream": "ClashModule",
   "homepage": "",
   "revisions": [
-    "67c8cb76e7eeea448a4a7b639348bcf01ec533676a9049dc37e4e0bf6c9617f4"
+    "e67c87bd8d5db9a98cf9abc27f61a82e128a426ff43be14ad35922e9e8bea81d"
   ]
 }
