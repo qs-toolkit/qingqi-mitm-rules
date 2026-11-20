@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "美柚",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=美柚\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partM/Meiyou.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^http:\\/\\/x\\.seeyouyima\\.com\\/adx\\/staticstics\\?/i then reject(404)\nrequest if ${url} ~= /^https:\\/\\/axxd\\.xmseeyouyima\\.com\\/ad\\//i then reject(404)\nrequest if ${url} ~= /^https:\\/\\/axxd\\.xmseeyouyima\\.com\\/ad_statistics\\?/i then reject(404)\nrequest if ${url} ~= /^https:\\/\\/axxd\\.xmseeyouyima\\.com\\/v1\\/getad\\?/i then reject(404)\nrequest if ${url} ~= /^https:\\/\\/axxd\\.xmseeyouyima\\.com\\/pregetad\\?/i then reject(404)\n\n[Rule]\nDOMAIN, ad.seeyouyima.com,REJECT\n\n[MITM]\nhostname = %APPEND% x.seeyouyima.com, axxd.xmseeyouyima.com, config-service.seeyouyima.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

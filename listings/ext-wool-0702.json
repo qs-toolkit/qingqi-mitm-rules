@@ -7,7 +7,7 @@
   "name": "掌上公交",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b8af77427ae49cebf30a054899f29d0a1a7a859c959d96b89a46ba4285bcee8b",
+  "revisionId": "8a2a179723c2f042b7b4a2db42fcfccb5138bf23ac88d5f31f1474177dc3c41e",
   "author": "fmz200",
   "updatedAt": 1795094539281,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b8af77427ae49cebf30a054899f29d0a1a7a859c959d96b89a46ba4285bcee8b"
+    "8a2a179723c2f042b7b4a2db42fcfccb5138bf23ac88d5f31f1474177dc3c41e"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "小Biu智家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8bbf2bd3ee39740d838fc70ca31aad4c8468133d763eab19e5e3d44ca0d43b72",
+  "revisionId": "3fe0c4ce556438989f2ceb9fae73c3b11db4298f120dea01b2b0095db1a0e781",
   "author": "fmz200",
   "updatedAt": 1795094539264,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8bbf2bd3ee39740d838fc70ca31aad4c8468133d763eab19e5e3d44ca0d43b72"
+    "3fe0c4ce556438989f2ceb9fae73c3b11db4298f120dea01b2b0095db1a0e781"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "瑞幸咖啡",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a125887f5a941a222402bd7fcee8887c07e76e3daed07865d0b66c7648ecb17f",
+  "revisionId": "4c3f937d584918a408be917cd0aa989206d5f08b2b13e7c8fda318ce0b40dec3",
   "author": "fmz200",
   "updatedAt": 1795094539241,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a125887f5a941a222402bd7fcee8887c07e76e3daed07865d0b66c7648ecb17f"
+    "4c3f937d584918a408be917cd0aa989206d5f08b2b13e7c8fda318ce0b40dec3"
   ]
 }

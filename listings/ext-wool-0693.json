@@ -7,7 +7,7 @@
   "name": "中国电信",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3efa445a88a4b46ead8df7f226db9277abf2352e120993738509608dab680d3f",
+  "revisionId": "f0f660719adf1e5ddd9458353dafc3728ef91ce27fceb2bc0c658252b400b371",
   "author": "fmz200",
   "updatedAt": 1795094539279,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3efa445a88a4b46ead8df7f226db9277abf2352e120993738509608dab680d3f"
+    "f0f660719adf1e5ddd9458353dafc3728ef91ce27fceb2bc0c658252b400b371"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "云麦",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "41e2125ebb033bd581812e4657680be0c830f9c79892831c84449a142f620240",
+  "revisionId": "98214842ca16f4c659432489fc9aea279d516758134652d11837497b886ca53a",
   "author": "fmz200",
   "updatedAt": 1795094539276,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "41e2125ebb033bd581812e4657680be0c830f9c79892831c84449a142f620240"
+    "98214842ca16f4c659432489fc9aea279d516758134652d11837497b886ca53a"
   ]
 }

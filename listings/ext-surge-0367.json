@@ -7,7 +7,7 @@
   "name": "粉象生活 去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4223b68352a112271ea1da02062c943e55b5f329dba8579ba445eaa654b2b871",
+  "revisionId": "a37d2e273a322ccf5392b5c9af83879824c7ed87c7205e4930b5e6cd503538da",
   "author": "ClashModule",
   "updatedAt": 1795094539087,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "4223b68352a112271ea1da02062c943e55b5f329dba8579ba445eaa654b2b871"
+    "a37d2e273a322ccf5392b5c9af83879824c7ed87c7205e4930b5e6cd503538da"
   ]
 }

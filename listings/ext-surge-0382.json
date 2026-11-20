@@ -7,7 +7,7 @@
   "name": "Connectivity_Test",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "54cc3f5d2904259bd5b41913f08ae34a116ddfda2f1bfbeeb44b6be5d83242c7",
+  "revisionId": "8e5af88d6a46d9c59c6928bcd4c1d19f7b02c0878f2f9c91b5d797f1134f0ae3",
   "author": "ClashModule",
   "updatedAt": 1795094539089,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "54cc3f5d2904259bd5b41913f08ae34a116ddfda2f1bfbeeb44b6be5d83242c7"
+    "8e5af88d6a46d9c59c6928bcd4c1d19f7b02c0878f2f9c91b5d797f1134f0ae3"
   ]
 }

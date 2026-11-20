@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "书香门第签到",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!format=sgmodule\n\n#!name=书香门第签到\n#!desc=请配置账号密码，默认签到时间为晚上0点0分。\n#!author=bgcode🅥[https://github.com/bgvioletsky/ios_rule/tree/main/Loon/plugin]\n#!icon=https://raw.githubusercontent.com/bgvioletsky/ios_rule/refs/heads/main/src/src.png\n#!category=iKeLee\n#!homepage=https://github.com/bgvioletsky/ios_rule/tree/main/Loon/plugin\n#!openUrl=http://www.txtnovel.vip/\n#!date=2024-10-25 15:16:38\n#!tag=签到\n\n[Script]\n# 定时签到\n书香门第每日签到 = type=cron, cronexp={CRONEXP}, script-path=https://raw.githubusercontent.com/bgvioletsky/ios_rule/refs/heads/main/Loon/Script/sxmd.js, timeout=120, argument=\"[{account},{password}]\"\n\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

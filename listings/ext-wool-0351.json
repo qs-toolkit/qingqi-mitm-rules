@@ -7,7 +7,7 @@
   "name": "美柚",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4922b44eda8d1640aec033f81ccf4f80cb1e91d0971126e20854706f0605edee",
+  "revisionId": "91d97df7f0b509d66df2ba850bf1b126e27d49948286c9f37e619d1c01720528",
   "author": "fmz200",
   "updatedAt": 1795094539232,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4922b44eda8d1640aec033f81ccf4f80cb1e91d0971126e20854706f0605edee"
+    "91d97df7f0b509d66df2ba850bf1b126e27d49948286c9f37e619d1c01720528"
   ]
 }

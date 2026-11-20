@@ -7,7 +7,7 @@
   "name": "京东",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2497092ebde8874bc8e901b8f71026053559a7f092cc27f56b971658d9a6ed8b",
+  "revisionId": "1c90faa5a3c2ebfad6f9ef9237ad755ef57589e3aad658e6fc78ae7b47924b91",
   "author": "fmz200",
   "updatedAt": 1795094539219,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2497092ebde8874bc8e901b8f71026053559a7f092cc27f56b971658d9a6ed8b"
+    "1c90faa5a3c2ebfad6f9ef9237ad755ef57589e3aad658e6fc78ae7b47924b91"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "飞客茶馆",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0e6d836b446d2e7dbbc059a70fad6503a6ab91f157b92d55cb25f6154eabf928",
+  "revisionId": "946a973110e5e8dc9d71934e0fc00defe1a70c6696cdc6a78c320a05f35bf048",
   "author": "fmz200",
   "updatedAt": 1795094539203,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0e6d836b446d2e7dbbc059a70fad6503a6ab91f157b92d55cb25f6154eabf928"
+    "946a973110e5e8dc9d71934e0fc00defe1a70c6696cdc6a78c320a05f35bf048"
   ]
 }

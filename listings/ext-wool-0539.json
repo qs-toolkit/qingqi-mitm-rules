@@ -7,7 +7,7 @@
   "name": "蜗牛睡眠",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6db44172b83356269683aebdac134d8c87513df7518253642bbef0b5d233e2f0",
+  "revisionId": "61435ac1b01d268000b6f64b77b166f54b6683168e368ca8586d0e8e655a5c39",
   "author": "fmz200",
   "updatedAt": 1795094539257,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6db44172b83356269683aebdac134d8c87513df7518253642bbef0b5d233e2f0"
+    "61435ac1b01d268000b6f64b77b166f54b6683168e368ca8586d0e8e655a5c39"
   ]
 }

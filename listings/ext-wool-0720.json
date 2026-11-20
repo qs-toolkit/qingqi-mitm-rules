@@ -7,7 +7,7 @@
   "name": "中油优途",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6f6f129e67bcfb62ff7727a84f5a072b36f4a92c0c965b1bed392582f5022f41",
+  "revisionId": "3476ec487a399b183b0e3ba3e8636c375f1ebaf275c9cf0441e185f66a967393",
   "author": "fmz200",
   "updatedAt": 1795094539283,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6f6f129e67bcfb62ff7727a84f5a072b36f4a92c0c965b1bed392582f5022f41"
+    "3476ec487a399b183b0e3ba3e8636c375f1ebaf275c9cf0441e185f66a967393"
   ]
 }

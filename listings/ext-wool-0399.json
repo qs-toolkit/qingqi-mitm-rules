@@ -7,7 +7,7 @@
   "name": "前程无忧 51Job",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "41bd08df018f1a49eab928b4351d5c08935d0623f3135771b20fefe394549a93",
+  "revisionId": "ef11c50be53748359be442b7446be77add319b489510e8f82821d67540499fe7",
   "author": "fmz200",
   "updatedAt": 1795094539238,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "41bd08df018f1a49eab928b4351d5c08935d0623f3135771b20fefe394549a93"
+    "ef11c50be53748359be442b7446be77add319b489510e8f82821d67540499fe7"
   ]
 }

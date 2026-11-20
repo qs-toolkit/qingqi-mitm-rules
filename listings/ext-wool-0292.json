@@ -7,7 +7,7 @@
   "name": "酷我音乐",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "33224015b9ed76d4c9f91e39e0dce45d7465e4d40988b4666eef09a012d6228d",
+  "revisionId": "570b96a8171251d9db0dd7cd4d2324ca8a1ca122fdb9a2b33363a0024794a226",
   "author": "fmz200",
   "updatedAt": 1795094539224,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "33224015b9ed76d4c9f91e39e0dce45d7465e4d40988b4666eef09a012d6228d"
+    "570b96a8171251d9db0dd7cd4d2324ca8a1ca122fdb9a2b33363a0024794a226"
   ]
 }

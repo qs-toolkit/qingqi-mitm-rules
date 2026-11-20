@@ -7,7 +7,7 @@
   "name": "爱思助手",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ecb207fd763ad6003ef1efee39ecb65b3f58db573dca0042dfdbcb79e670c94e",
+  "revisionId": "ba2500ba9c0b0a7e32b5f946c71d63e3c838a97e11f76959f9cf8f7a78c43528",
   "author": "fmz200",
   "updatedAt": 1795094539186,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ecb207fd763ad6003ef1efee39ecb65b3f58db573dca0042dfdbcb79e670c94e"
+    "ba2500ba9c0b0a7e32b5f946c71d63e3c838a97e11f76959f9cf8f7a78c43528"
   ]
 }

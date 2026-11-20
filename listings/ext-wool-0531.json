@@ -7,7 +7,7 @@
   "name": "网易考拉",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cfde025d4d2a00e7e189dfe3b5d73e137c3c04b3f7ca7e5d134a3138be34beb1",
+  "revisionId": "0ad9e899b6fdc6c5ba0924401ac4269f09a4297b1edc9169b8fc379365456f08",
   "author": "fmz200",
   "updatedAt": 1795094539256,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "cfde025d4d2a00e7e189dfe3b5d73e137c3c04b3f7ca7e5d134a3138be34beb1"
+    "0ad9e899b6fdc6c5ba0924401ac4269f09a4297b1edc9169b8fc379365456f08"
   ]
 }

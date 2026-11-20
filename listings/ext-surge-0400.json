@@ -7,7 +7,7 @@
   "name": "腾讯新闻App去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "7548691d76bfb234061c3b97f545e4d374c8b82739c53afb9b783de68e5b0fbc",
+  "revisionId": "460a35079021c2bf72c60a9aa0728bae0425e43fc23532d4569a5e18cd5494d6",
   "author": "ClashModule",
   "updatedAt": 1795094539091,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "7548691d76bfb234061c3b97f545e4d374c8b82739c53afb9b783de68e5b0fbc"
+    "460a35079021c2bf72c60a9aa0728bae0425e43fc23532d4569a5e18cd5494d6"
   ]
 }

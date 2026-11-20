@@ -7,7 +7,7 @@
   "name": "SRSS",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "f7fd7c52cdedc1ae60551a62eb2d3908e27701fbbbe28032c1ffad1ee60a694b",
+  "revisionId": "8577279ee1d0145b1f470f13542bd9f50644b275c75dc1b28183859a0f428b5b",
   "author": "ClashModule",
   "updatedAt": 1795094539060,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "f7fd7c52cdedc1ae60551a62eb2d3908e27701fbbbe28032c1ffad1ee60a694b"
+    "8577279ee1d0145b1f470f13542bd9f50644b275c75dc1b28183859a0f428b5b"
   ]
 }

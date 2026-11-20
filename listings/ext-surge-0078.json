@@ -7,7 +7,7 @@
   "name": "TikTok解锁",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "bc0c3cdfec85d99d422024fcc35fa11ee20f4b82a3ee640efadf4f1a4d9f16ae",
+  "revisionId": "91344bc6d8fef6bf08686881c166f3f9887257186f7be1f4010d6a4f296aa9c8",
   "author": "ClashModule",
   "updatedAt": 1795094539044,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "bc0c3cdfec85d99d422024fcc35fa11ee20f4b82a3ee640efadf4f1a4d9f16ae"
+    "91344bc6d8fef6bf08686881c166f3f9887257186f7be1f4010d6a4f296aa9c8"
   ]
 }

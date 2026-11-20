@@ -7,7 +7,7 @@
   "name": "去哒",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bc415ec8cfaa818a805fa19bdc993e4b7ac2de6f6c8be8be61bf31cad0f95974",
+  "revisionId": "8ee12d96eb31da41c71d91b1c855fd6466620e1b0434c86b67123e8db930797a",
   "author": "fmz200",
   "updatedAt": 1795094539241,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bc415ec8cfaa818a805fa19bdc993e4b7ac2de6f6c8be8be61bf31cad0f95974"
+    "8ee12d96eb31da41c71d91b1c855fd6466620e1b0434c86b67123e8db930797a"
   ]
 }

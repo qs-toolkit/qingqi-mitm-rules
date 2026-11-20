@@ -7,7 +7,7 @@
   "name": "全球购骑士卡",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "869ec7545327d9b8350de5cb0eed54928edb59d3a2754254e12ee0bcdd51a6b5",
+  "revisionId": "7a1192e8aa2179d1ab4c626f2c02362014cf990ce1729bc6e58143a06a5688a4",
   "author": "fmz200",
   "updatedAt": 1795094539239,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "869ec7545327d9b8350de5cb0eed54928edb59d3a2754254e12ee0bcdd51a6b5"
+    "7a1192e8aa2179d1ab4c626f2c02362014cf990ce1729bc6e58143a06a5688a4"
   ]
 }

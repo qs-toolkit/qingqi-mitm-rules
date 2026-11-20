@@ -7,7 +7,7 @@
   "name": "BoxJs",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "bfac12e298c607f9ed2a4381b28976f8e3f10c46342caccab572d039b9b14cdf",
+  "revisionId": "8d042466dbae1c5a573e545e836770377b3b98254c4fb4b19b5b8913f342e4b9",
   "author": "ClashModule",
   "updatedAt": 1795094539048,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "bfac12e298c607f9ed2a4381b28976f8e3f10c46342caccab572d039b9b14cdf"
+    "8d042466dbae1c5a573e545e836770377b3b98254c4fb4b19b5b8913f342e4b9"
   ]
 }

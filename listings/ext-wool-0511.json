@@ -7,7 +7,7 @@
   "name": "途牛",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "44633358f0f9c9c47dd5c20a5e615060d080402993cd999236d57b445d390c13",
+  "revisionId": "7e783399546c7cf426005fa095a43b4d2e0f09f3afe5f7256f988c5031485d7c",
   "author": "fmz200",
   "updatedAt": 1795094539254,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "44633358f0f9c9c47dd5c20a5e615060d080402993cd999236d57b445d390c13"
+    "7e783399546c7cf426005fa095a43b4d2e0f09f3afe5f7256f988c5031485d7c"
   ]
 }

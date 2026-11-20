@@ -7,7 +7,7 @@
   "name": "建行生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "07a63a603e984010d6b35b739beec229e69748c0bcbb6fe8860f5fb5fa3a3c02",
+  "revisionId": "7a262bd0a3c1cc048e99260b19a3af73639e2124fc515af00ecbc6e3362dbd8f",
   "author": "fmz200",
   "updatedAt": 1795094539218,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "07a63a603e984010d6b35b739beec229e69748c0bcbb6fe8860f5fb5fa3a3c02"
+    "7a262bd0a3c1cc048e99260b19a3af73639e2124fc515af00ecbc6e3362dbd8f"
   ]
 }

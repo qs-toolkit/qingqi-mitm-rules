@@ -7,7 +7,7 @@
   "name": "TT语音",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b1f3af9d4694aac8dea6ac6204a1a1771d01578652866d9eab6f0bb3a8abc4da",
+  "revisionId": "65e6c070050cd32eafcbef3486a228b8a600206a2d557406dacadecf205b3448",
   "author": "fmz200",
   "updatedAt": 1795094539249,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b1f3af9d4694aac8dea6ac6204a1a1771d01578652866d9eab6f0bb3a8abc4da"
+    "65e6c070050cd32eafcbef3486a228b8a600206a2d557406dacadecf205b3448"
   ]
 }

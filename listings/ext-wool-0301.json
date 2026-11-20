@@ -7,7 +7,7 @@
   "name": "拦截100",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c71635caea682a301467a0970e5e6e2e15c13d9ccf5906fa37be9209dec4b95e",
+  "revisionId": "6ef5ef696158489766fef345972dbbee8c610a3853a55c8bc3336e4cb8b41bed",
   "author": "fmz200",
   "updatedAt": 1795094539225,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c71635caea682a301467a0970e5e6e2e15c13d9ccf5906fa37be9209dec4b95e"
+    "6ef5ef696158489766fef345972dbbee8c610a3853a55c8bc3336e4cb8b41bed"
   ]
 }

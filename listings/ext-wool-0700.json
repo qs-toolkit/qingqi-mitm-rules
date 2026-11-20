@@ -7,7 +7,7 @@
   "name": "涨乐财富通",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4f9c4cbf5f5fa573e7d1021b808863a280a2c209d70fd5fc9844dea25b42afdd",
+  "revisionId": "da103282213e14ec24e4a1a343e32bd609ca9a6471023d765e889385b347784e",
   "author": "fmz200",
   "updatedAt": 1795094539281,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4f9c4cbf5f5fa573e7d1021b808863a280a2c209d70fd5fc9844dea25b42afdd"
+    "da103282213e14ec24e4a1a343e32bd609ca9a6471023d765e889385b347784e"
   ]
 }

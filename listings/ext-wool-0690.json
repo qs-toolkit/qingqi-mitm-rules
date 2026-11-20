@@ -7,7 +7,7 @@
   "name": "招商证券",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fa7e5b28b860ab54973d81edd83dfb0a224c50cbac3c161a15a2ccb299ee711d",
+  "revisionId": "3c05ebd9f4918b85b68fd4036535b4f8764b6517480e634bf2984cbe26950f31",
   "author": "fmz200",
   "updatedAt": 1795094539279,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fa7e5b28b860ab54973d81edd83dfb0a224c50cbac3c161a15a2ccb299ee711d"
+    "3c05ebd9f4918b85b68fd4036535b4f8764b6517480e634bf2984cbe26950f31"
   ]
 }

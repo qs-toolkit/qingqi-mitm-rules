@@ -7,7 +7,7 @@
   "name": "360儿童卫士",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "90ca495ca5a82c59a9a1ca250a9a21078d571e35cdb6337d1f8f5fe357589ece",
+  "revisionId": "8537c83f382c276888dd88279b46a3c41558604f8bb00b972ffc88a898f38114",
   "author": "fmz200",
   "updatedAt": 1795094539183,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "90ca495ca5a82c59a9a1ca250a9a21078d571e35cdb6337d1f8f5fe357589ece"
+    "8537c83f382c276888dd88279b46a3c41558604f8bb00b972ffc88a898f38114"
   ]
 }

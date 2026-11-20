@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "猎聘",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=猎聘\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/LiePin.png\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partL/LiePin.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api-ac\\.liepin\\.com\\/api\\/com\\.liepin\\.cyclops\\.live\\.get-ad-cards/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/api-wanda\\.liepin\\.com\\/api\\/com\\.liepin\\.cbp\\.baizhong\\.op\\.v2-show-4app/i then reject(200)\n\n[MITM]\nhostname = %APPEND% api-ac.liepin.com, api-wanda.liepin.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

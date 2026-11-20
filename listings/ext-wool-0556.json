@@ -7,7 +7,7 @@
   "name": "我爱卡社区管家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1dfcc6026ab00e7f4e0c7701bdaaa4ed21c6a8dba64c30322aa3cc73c1214ac3",
+  "revisionId": "2a7bcf2c91f3d343134cff21cab6a28e6ea169e216ecfc3cb7796b03296eaa4c",
   "author": "fmz200",
   "updatedAt": 1795094539260,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1dfcc6026ab00e7f4e0c7701bdaaa4ed21c6a8dba64c30322aa3cc73c1214ac3"
+    "2a7bcf2c91f3d343134cff21cab6a28e6ea169e216ecfc3cb7796b03296eaa4c"
   ]
 }

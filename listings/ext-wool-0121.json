@@ -7,7 +7,7 @@
   "name": "当当阅读",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b1a2bbdd07b0afdf299046422c868d7d5470497309157990ab304c49ea35c583",
+  "revisionId": "b8a95224986feb6fdbb97313879a3e3e7a11ad94b25f035be897709bad301568",
   "author": "fmz200",
   "updatedAt": 1795094539199,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b1a2bbdd07b0afdf299046422c868d7d5470497309157990ab304c49ea35c583"
+    "b8a95224986feb6fdbb97313879a3e3e7a11ad94b25f035be897709bad301568"
   ]
 }

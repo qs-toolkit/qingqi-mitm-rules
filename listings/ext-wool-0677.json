@@ -7,7 +7,7 @@
   "name": "中国国际航空",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2acf89d5366f66bc6173425aafbe363f9f2846392cb6e164da4fc5c6f6ffd7bd",
+  "revisionId": "453f86d1e0df7eea1cdd24dccf43eb2e4522d9c47fcbe8a203dde55da41361cf",
   "author": "fmz200",
   "updatedAt": 1795094539277,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2acf89d5366f66bc6173425aafbe363f9f2846392cb6e164da4fc5c6f6ffd7bd"
+    "453f86d1e0df7eea1cdd24dccf43eb2e4522d9c47fcbe8a203dde55da41361cf"
   ]
 }

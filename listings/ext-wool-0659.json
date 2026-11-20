@@ -7,7 +7,7 @@
   "name": "永安行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "00d53ead93c31d2f4badb52368c2f9ce5a6ddbff4ac3ff5bda7e3550fdf4e3d9",
+  "revisionId": "0809d92c71cbc5f7ceac2ac662663cec75998f8e22019d1c26d88812f75ad1cc",
   "author": "fmz200",
   "updatedAt": 1795094539274,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "00d53ead93c31d2f4badb52368c2f9ce5a6ddbff4ac3ff5bda7e3550fdf4e3d9"
+    "0809d92c71cbc5f7ceac2ac662663cec75998f8e22019d1c26d88812f75ad1cc"
   ]
 }

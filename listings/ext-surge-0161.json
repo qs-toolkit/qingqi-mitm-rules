@@ -7,7 +7,7 @@
   "name": "bilibili去广告8.13(>=iOS15)",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "85f17ba06ead8eadd43e67a37b3e47198a43654752367c695c1d32ceb0f22448",
+  "revisionId": "77ef5850c217f5e5b751766259879e18a3b4bc31158a5538a3406a73a468520c",
   "author": "ClashModule",
   "updatedAt": 1795094539056,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "85f17ba06ead8eadd43e67a37b3e47198a43654752367c695c1d32ceb0f22448"
+    "77ef5850c217f5e5b751766259879e18a3b4bc31158a5538a3406a73a468520c"
   ]
 }

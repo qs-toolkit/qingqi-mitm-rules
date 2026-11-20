@@ -7,7 +7,7 @@
   "name": "获取cookie&token合集",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "971d9ff3ec1a4953bb585427d7da5dbec338ba13fbdc4c04d28c801d86f1b835",
+  "revisionId": "97415ef6879b37087f0744676d40df02c4522e36b6c83088533190c324d63009",
   "author": "fmz200",
   "updatedAt": 1795094539182,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "971d9ff3ec1a4953bb585427d7da5dbec338ba13fbdc4c04d28c801d86f1b835"
+    "97415ef6879b37087f0744676d40df02c4522e36b6c83088533190c324d63009"
   ]
 }

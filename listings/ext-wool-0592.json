@@ -7,7 +7,7 @@
   "name": "小兔充充",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "745a102876a4ff804876f0a327ca13d0ee8ae2567d1ba7b3ef2255180396c94c",
+  "revisionId": "b28d250f9027ca2c6fef1a6757b3692496eb84e2056d5d2e7ee8345553edc3a2",
   "author": "fmz200",
   "updatedAt": 1795094539265,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "745a102876a4ff804876f0a327ca13d0ee8ae2567d1ba7b3ef2255180396c94c"
+    "b28d250f9027ca2c6fef1a6757b3692496eb84e2056d5d2e7ee8345553edc3a2"
   ]
 }

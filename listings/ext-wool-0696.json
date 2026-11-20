@@ -7,7 +7,7 @@
   "name": "中国人保",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5a0a5c69284489f8f872c7d545e42959531149db6448e399d385ab22b971a4b8",
+  "revisionId": "1c7d45a50ea99d43cc84947311320837a0102f79513403cf3f6f2769cdeedfc3",
   "author": "fmz200",
   "updatedAt": 1795094539280,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5a0a5c69284489f8f872c7d545e42959531149db6448e399d385ab22b971a4b8"
+    "1c7d45a50ea99d43cc84947311320837a0102f79513403cf3f6f2769cdeedfc3"
   ]
 }

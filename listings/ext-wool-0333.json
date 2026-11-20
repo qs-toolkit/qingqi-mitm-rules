@@ -7,7 +7,7 @@
   "name": "脉脉",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7465d759dd72cfe4c22e7b9d318f9d7c5bbe3be85cb4f68b89757fd73aea4eae",
+  "revisionId": "3bf614f9ca857ac0d2e7d488a082944c5c083bfaab2b3acf58e38352d9ad3a60",
   "author": "fmz200",
   "updatedAt": 1795094539230,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7465d759dd72cfe4c22e7b9d318f9d7c5bbe3be85cb4f68b89757fd73aea4eae"
+    "3bf614f9ca857ac0d2e7d488a082944c5c083bfaab2b3acf58e38352d9ad3a60"
   ]
 }

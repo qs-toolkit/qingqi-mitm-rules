@@ -7,7 +7,7 @@
   "name": "百度翻译",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "013cc8ee8b3559e064137b885c798f4d863bbe6cedaebca09914e869afd44037",
+  "revisionId": "ac3c200f939a367a126e6790915164e1c75400f81061de8e830c07e42d49d103",
   "author": "fmz200",
   "updatedAt": 1795094539190,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "013cc8ee8b3559e064137b885c798f4d863bbe6cedaebca09914e869afd44037"
+    "ac3c200f939a367a126e6790915164e1c75400f81061de8e830c07e42d49d103"
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "YouTube双语翻译",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=YouTube双语翻译\n#!desc=字幕增强及双语翻译，支持Youtube Music歌词翻译。此插件需要置于YouTube去广告插件之下，且和YouTube去广告插件的歌词翻译冲突，不支持tvOS设备。\n#!author=VirgilClyne[https://github.com/VirgilClyne]\n#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/YouTube.png\n#!category=BetaModule\n#!openUrl=https://apps.apple.com/app/id544007664\n#!tag=功能增强\n#!loon_version=3.2.1(749)\n#!homepage=https://github.com/luestr/ProxyResource/blob/main/README.md\n#!date=2024-09-24 23:06:40\n#!format=sgmodule\n\n[Script]\nYouTube定时文本请求 = type=http-request, pattern=^https?:\\/\\/(www|m)\\.youtube\\.com\\/api\\/timedtext\\?(.*), script-path=https://kelee.one/Resource/Script/YouTube/YouTube_Subtitles_Translate/YouTube_Subtitles_request.js, argument=\"[{Type},{AutoCC},{ShowOnly},{Position}]\"\nYouTube合成定时文本响应 = type=http-response, pattern=^https?:\\/\\/(www|m)\\.youtube\\.com\\/api\\/timedtext\\?(.*)subtype=(Official|External), script-path=https://kelee.one/Resource/Script/YouTube/YouTube_Subtitles_Translate/YouTube_Composite_Subtitles_response.js, requires-body=true\nYouTube翻译定时文本响应 = type=http-response, pattern=^https?:\\/\\/(www|m)\\.youtube\\.com\\/api\\/timedtext\\?(.*)subtype=Translate, script-path=https://kelee.one/Resource/Script/YouTube/YouTube_Subtitles_Translate/YouTube_Subtitles_Translate_response.js, requires-body=true\n\n[MITM]\nhostname = %APPEND% www.youtube.com, m.youtube.com, tv.youtube.com, music.youtube.com, youtubei.googleapis.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

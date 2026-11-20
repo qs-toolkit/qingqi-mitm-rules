@@ -7,7 +7,7 @@
   "name": "故宫博物馆小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4bd7bf3d5b75348aad3cbbb16cd2b30dfd1c440cf36e6ac426e8552a0dc6840e",
+  "revisionId": "b31cae7a338d8899aae061f47371912ee3f5fb06bf742aa1fc7a8e9a1dc3a938",
   "author": "fmz200",
   "updatedAt": 1795094539211,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4bd7bf3d5b75348aad3cbbb16cd2b30dfd1c440cf36e6ac426e8552a0dc6840e"
+    "b31cae7a338d8899aae061f47371912ee3f5fb06bf742aa1fc7a8e9a1dc3a938"
   ]
 }

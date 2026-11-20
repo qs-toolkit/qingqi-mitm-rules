@@ -7,7 +7,7 @@
   "name": "埋堆堆",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "38f76f78fb9d03457091ca0fad14bb69c9718de662f7628f49b8018ebd1f0468",
+  "revisionId": "1a4e816eb0611c571b30c64cb60d5db7b8314cd9e2cc108a8519ae900333c59c",
   "author": "fmz200",
   "updatedAt": 1795094539230,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "38f76f78fb9d03457091ca0fad14bb69c9718de662f7628f49b8018ebd1f0468"
+    "1a4e816eb0611c571b30c64cb60d5db7b8314cd9e2cc108a8519ae900333c59c"
   ]
 }

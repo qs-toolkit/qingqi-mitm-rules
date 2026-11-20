@@ -7,7 +7,7 @@
   "name": "宁聚",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a06bd887f76f74ceebffe174a2b38524a4a328b745e7223032e1153a633ff4b7",
+  "revisionId": "b25654bcdfb6787b449b568b73641d69a10bd0072c487585dd3caf5d48875448",
   "author": "fmz200",
   "updatedAt": 1795094539235,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a06bd887f76f74ceebffe174a2b38524a4a328b745e7223032e1153a633ff4b7"
+    "b25654bcdfb6787b449b568b73641d69a10bd0072c487585dd3caf5d48875448"
   ]
 }

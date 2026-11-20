@@ -7,7 +7,7 @@
   "name": "爱阅书香",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "34fa0caa29def57e5f8881686de8fe7a815b4719d8e8640c89a4ec78d7205400",
+  "revisionId": "9b75da490a25a72736f0001ee0e0162aef0aae2fde4c51b0a504ee30b6a059f1",
   "author": "fmz200",
   "updatedAt": 1795094539186,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "34fa0caa29def57e5f8881686de8fe7a815b4719d8e8640c89a4ec78d7205400"
+    "9b75da490a25a72736f0001ee0e0162aef0aae2fde4c51b0a504ee30b6a059f1"
   ]
 }

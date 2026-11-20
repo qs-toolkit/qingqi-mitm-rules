@@ -7,7 +7,7 @@
   "name": "极简汇率",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "44674ac8c3af0b16b740781d6ad2b1fa45db39fff83f135df31b637492aac865",
+  "revisionId": "bd0798c84ad47cf51b480460f4bb08d4836f8a8b1d25caacc3d5054526ee7c35",
   "author": "fmz200",
   "updatedAt": 1795094539219,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "44674ac8c3af0b16b740781d6ad2b1fa45db39fff83f135df31b637492aac865"
+    "bd0798c84ad47cf51b480460f4bb08d4836f8a8b1d25caacc3d5054526ee7c35"
   ]
 }

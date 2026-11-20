@@ -7,7 +7,7 @@
   "name": "哔哩哔哩",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6e9b919b77f99dd376c039f380549a3c658d795adf41620ef2def860a48f98da",
+  "revisionId": "9d431c0ac6d8d7aff92d2c03fc9cee96795de11c1c4ae93f22a83af5c3a5b5a6",
   "author": "fmz200",
   "updatedAt": 1795094539194,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6e9b919b77f99dd376c039f380549a3c658d795adf41620ef2def860a48f98da"
+    "9d431c0ac6d8d7aff92d2c03fc9cee96795de11c1c4ae93f22a83af5c3a5b5a6"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "发现精彩",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e944d708e91e53dff70f1e567705c56f9f423c124dbbec2b4a17d1eb4b61af19",
+  "revisionId": "5ff1a5e361d4fe9b37009e900fc6f56140fd4cd1c303ea0ca97028a9d32b8972",
   "author": "fmz200",
   "updatedAt": 1795094539203,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e944d708e91e53dff70f1e567705c56f9f423c124dbbec2b4a17d1eb4b61af19"
+    "5ff1a5e361d4fe9b37009e900fc6f56140fd4cd1c303ea0ca97028a9d32b8972"
   ]
 }

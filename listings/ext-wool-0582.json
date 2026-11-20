@@ -7,7 +7,7 @@
   "name": "小电充电",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "21fa89725ab6d3e689f7f071335163e501b3d14ceed1fa662130bba5468911fb",
+  "revisionId": "be3f50c8e9c7ec55ac31647e8dc842e650cc639962e70c20069b1be8e5b14145",
   "author": "fmz200",
   "updatedAt": 1795094539264,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "21fa89725ab6d3e689f7f071335163e501b3d14ceed1fa662130bba5468911fb"
+    "be3f50c8e9c7ec55ac31647e8dc842e650cc639962e70c20069b1be8e5b14145"
   ]
 }

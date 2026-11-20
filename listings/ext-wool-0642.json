@@ -7,7 +7,7 @@
   "name": "曜影医疗",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0d4c9991e1853e2fdf3ceb3b55e634a6c81c5c416f35e1cd4bbb41980ceb7bef",
+  "revisionId": "96afa4d9b923bb71d4224f8e69eb9a4da08969919166e071d3f203fac4227c65",
   "author": "fmz200",
   "updatedAt": 1795094539272,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0d4c9991e1853e2fdf3ceb3b55e634a6c81c5c416f35e1cd4bbb41980ceb7bef"
+    "96afa4d9b923bb71d4224f8e69eb9a4da08969919166e071d3f203fac4227c65"
   ]
 }

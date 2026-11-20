@@ -7,7 +7,7 @@
   "name": "腾讯广告",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "227559df911ffa1caac0674d3f89a0e40aa1fbe45ea71639bc27578336d6b340",
+  "revisionId": "f8e897de72e276c132b8474bd8aae636055d8651bffe27a7cb8fa56865c73e6e",
   "author": "fmz200",
   "updatedAt": 1795094539250,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "227559df911ffa1caac0674d3f89a0e40aa1fbe45ea71639bc27578336d6b340"
+    "f8e897de72e276c132b8474bd8aae636055d8651bffe27a7cb8fa56865c73e6e"
   ]
 }

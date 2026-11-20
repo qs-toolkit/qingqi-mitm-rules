@@ -7,7 +7,7 @@
   "name": "平安壹钱包",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "dc8ce6e57ad805a7dfa0d0e7b78377b7a98007c0d0b544cda717f329f00d420c",
+  "revisionId": "f47b293aeac74f0411e1bf88c3f070c376db0e16ef723eda2b4891ca6acd3a99",
   "author": "fmz200",
   "updatedAt": 1795094539237,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "dc8ce6e57ad805a7dfa0d0e7b78377b7a98007c0d0b544cda717f329f00d420c"
+    "f47b293aeac74f0411e1bf88c3f070c376db0e16ef723eda2b4891ca6acd3a99"
   ]
 }

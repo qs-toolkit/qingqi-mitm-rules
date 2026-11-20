@@ -7,7 +7,7 @@
   "name": "心悦俱乐部",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d5d7b0d9a3cc37f1083d79efab40eda4386516a48d78742ba52f2afdc7f1d191",
+  "revisionId": "6ec3ee6f18a15f2e5ba8c70ba4030ca7c8acc9c9658839e6c5d0badf64cb516f",
   "author": "fmz200",
   "updatedAt": 1795094539268,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d5d7b0d9a3cc37f1083d79efab40eda4386516a48d78742ba52f2afdc7f1d191"
+    "6ec3ee6f18a15f2e5ba8c70ba4030ca7c8acc9c9658839e6c5d0badf64cb516f"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "易校园",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9a8a7d5a63fdbdbd0b0bcc7292a5fbb28716d4da0c3c496db1069fb9217a9791",
+  "revisionId": "686c5010f2675078a48d430e774a754fb75b4bb15eb0dec6f5bf58c0ccdb9953",
   "author": "fmz200",
   "updatedAt": 1795094539273,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9a8a7d5a63fdbdbd0b0bcc7292a5fbb28716d4da0c3c496db1069fb9217a9791"
+    "686c5010f2675078a48d430e774a754fb75b4bb15eb0dec6f5bf58c0ccdb9953"
   ]
 }

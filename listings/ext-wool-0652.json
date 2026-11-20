@@ -7,7 +7,7 @@
   "name": "易车",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0dfe0eb7144eacb6507f8412f2fe4b7b54a9117b910c7beb2c7a1bf3ed4c63e3",
+  "revisionId": "7cbe272809033daa5da0c00b44806f259a8cd01c9aa9cfcb85b7da061cc13ea9",
   "author": "fmz200",
   "updatedAt": 1795094539273,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0dfe0eb7144eacb6507f8412f2fe4b7b54a9117b910c7beb2c7a1bf3ed4c63e3"
+    "7cbe272809033daa5da0c00b44806f259a8cd01c9aa9cfcb85b7da061cc13ea9"
   ]
 }

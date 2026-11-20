@@ -7,7 +7,7 @@
   "name": "浦大喜奔",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3848338e87e22d4e6ab61aaa96e76eda561e12e53db1019ecf6d5bf5f36d4983",
+  "revisionId": "06dbd4eecf39d0b47fa8e5b573b3ccd8981edb65f1c2c425490c3f07c3a58ff2",
   "author": "fmz200",
   "updatedAt": 1795094539238,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3848338e87e22d4e6ab61aaa96e76eda561e12e53db1019ecf6d5bf5f36d4983"
+    "06dbd4eecf39d0b47fa8e5b573b3ccd8981edb65f1c2c425490c3f07c3a58ff2"
   ]
 }

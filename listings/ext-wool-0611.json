@@ -7,7 +7,7 @@
   "name": "星火英语",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e92f06e9d71a7037114e0a10c506b8a742fc04bef241b86141c9a970621789b2",
+  "revisionId": "426c0290e68d96b8290591ad5e2679ce22f7be0a367f5057d1e7a8081aa27e9d",
   "author": "fmz200",
   "updatedAt": 1795094539268,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e92f06e9d71a7037114e0a10c506b8a742fc04bef241b86141c9a970621789b2"
+    "426c0290e68d96b8290591ad5e2679ce22f7be0a367f5057d1e7a8081aa27e9d"
   ]
 }

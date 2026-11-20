@@ -7,7 +7,7 @@
   "name": "日日煮",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4c5a5ade44abba2dc4a7c598620f67891df8d1832bf4c37a80aeda66a7ef13c0",
+  "revisionId": "865799e371399c1b9a84d5c9880c8a42790262dac54c4af4d39f58128668a0d7",
   "author": "fmz200",
   "updatedAt": 1795094539242,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4c5a5ade44abba2dc4a7c598620f67891df8d1832bf4c37a80aeda66a7ef13c0"
+    "865799e371399c1b9a84d5c9880c8a42790262dac54c4af4d39f58128668a0d7"
   ]
 }

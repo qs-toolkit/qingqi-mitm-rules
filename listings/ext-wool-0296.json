@@ -7,7 +7,7 @@
   "name": "莱充",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a549ce169077cfa65f78049450a5a14580c32962997618b091a6abac9d8b3def",
+  "revisionId": "e5ba3964434fb1bfff394faa11aeffbd50613e32f2173f3d38392a47bf69ea24",
   "author": "fmz200",
   "updatedAt": 1795094539224,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a549ce169077cfa65f78049450a5a14580c32962997618b091a6abac9d8b3def"
+    "e5ba3964434fb1bfff394faa11aeffbd50613e32f2173f3d38392a47bf69ea24"
   ]
 }

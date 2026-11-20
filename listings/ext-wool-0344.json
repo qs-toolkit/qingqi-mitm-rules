@@ -7,7 +7,7 @@
   "name": "美味不用等",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e942288b8d2f16aa1fcbb536bc6b4a587cd37a51543a4f2cca433e694a0a304a",
+  "revisionId": "68fc26d7ef1db9beaf9f1c357bc88822a04e1c22737644d4a3c357e9d9eb88a8",
   "author": "fmz200",
   "updatedAt": 1795094539232,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e942288b8d2f16aa1fcbb536bc6b4a587cd37a51543a4f2cca433e694a0a304a"
+    "68fc26d7ef1db9beaf9f1c357bc88822a04e1c22737644d4a3c357e9d9eb88a8"
   ]
 }

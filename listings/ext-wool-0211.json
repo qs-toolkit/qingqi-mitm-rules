@@ -7,7 +7,7 @@
   "name": "韩剧TV",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cfdd080bd063cc32c094ef796a81cde83c448d518be654e05e8e8d393365bc7b",
+  "revisionId": "a84ff8de5f77db71e7c8ca4d6885470b33c5853ba378d1a83edc3e348d0d36a5",
   "author": "fmz200",
   "updatedAt": 1795094539213,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "cfdd080bd063cc32c094ef796a81cde83c448d518be654e05e8e8d393365bc7b"
+    "a84ff8de5f77db71e7c8ca4d6885470b33c5853ba378d1a83edc3e348d0d36a5"
   ]
 }

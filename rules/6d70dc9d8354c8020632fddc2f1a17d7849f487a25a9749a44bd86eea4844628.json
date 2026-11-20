@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "懒人听书",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=懒人听书\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partL/LanRenTingShu.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/118\\.178\\.214\\.118\\/yyting\\/advertclient\\/ClientAdvertList\\.action/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/dapis\\.mting\\.info\\/yyting\\/advertclient\\/ClientAdvertList\\.action/i then reject_img(200)\nrequest if ${url} ~= /^https?:\\/\\/.*\\/yyting\\/advertclient\\/ClientAdvertList.action/i then reject(404)\nrequest if ${url} ~= /^https?:\\/\\/display\\.wting\\.info\\/.*.jpeg/i then reject(200)\n\n[MITM]\nhostname = %APPEND% 118.178.214.118, dapis.mting.info, display.wting.info\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

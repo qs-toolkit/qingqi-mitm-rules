@@ -7,7 +7,7 @@
   "name": "Script Hub: 重写 & 规则集转换",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a972efab75c542416dc65062f37943651f111500833e422f84c15c3edcaf3d1c",
+  "revisionId": "c53ad34a7a034c546a2d33674debdf4db33bd16615fbcc739380b3079a8c4e66",
   "author": "ClashModule",
   "updatedAt": 1795094539048,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "a972efab75c542416dc65062f37943651f111500833e422f84c15c3edcaf3d1c"
+    "c53ad34a7a034c546a2d33674debdf4db33bd16615fbcc739380b3079a8c4e66"
   ]
 }

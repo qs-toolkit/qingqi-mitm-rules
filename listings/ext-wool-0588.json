@@ -7,7 +7,7 @@
   "name": "小佩宠物",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "360569466ecdc45b88baa3d5939e727936f6a5df01574129beb982fd8a3893ac",
+  "revisionId": "185b47338bdbba3be2ccb0746853e8e829ee847c93dc5ff576a3fed0975b3067",
   "author": "fmz200",
   "updatedAt": 1795094539265,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "360569466ecdc45b88baa3d5939e727936f6a5df01574129beb982fd8a3893ac"
+    "185b47338bdbba3be2ccb0746853e8e829ee847c93dc5ff576a3fed0975b3067"
   ]
 }

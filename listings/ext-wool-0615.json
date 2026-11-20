@@ -7,7 +7,7 @@
   "name": "熊猫直播",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3726519082ed1e3923dca808d025d12731b4b5852abc4fe6230daf6dbafff563",
+  "revisionId": "971443bf49861894b92c5d93672e696f25fada6337e594c785ba0c08ec29980a",
   "author": "fmz200",
   "updatedAt": 1795094539268,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3726519082ed1e3923dca808d025d12731b4b5852abc4fe6230daf6dbafff563"
+    "971443bf49861894b92c5d93672e696f25fada6337e594c785ba0c08ec29980a"
   ]
 }

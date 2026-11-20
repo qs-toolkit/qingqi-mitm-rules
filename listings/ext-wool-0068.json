@@ -7,7 +7,7 @@
   "name": "北京银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3bcaa929f7adc4882c254e24acf675299460f6d1bc9865b57548e0cce52f6821",
+  "revisionId": "f4260f0b3d3aa760f232ed56c63adc1f8e87a60f4a6b3a2407bbf4bb8b6078f4",
   "author": "fmz200",
   "updatedAt": 1795094539190,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3bcaa929f7adc4882c254e24acf675299460f6d1bc9865b57548e0cce52f6821"
+    "f4260f0b3d3aa760f232ed56c63adc1f8e87a60f4a6b3a2407bbf4bb8b6078f4"
   ]
 }

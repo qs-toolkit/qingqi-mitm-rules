@@ -7,7 +7,7 @@
   "name": "万词王",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a14fff29cce7a9eff2a67f628fab111706f87a205d7a5ec67daed7f22ff88e19",
+  "revisionId": "87ba0e00da85e91a12b879f161671b3d0384c96bc87e21c516fd4a8f7b530f6f",
   "author": "fmz200",
   "updatedAt": 1795094539258,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a14fff29cce7a9eff2a67f628fab111706f87a205d7a5ec67daed7f22ff88e19"
+    "87ba0e00da85e91a12b879f161671b3d0384c96bc87e21c516fd4a8f7b530f6f"
   ]
 }

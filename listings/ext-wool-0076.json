@@ -7,7 +7,7 @@
   "name": "比特球云盘",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "90e5525b1c58c9ffd74ad54bb6cd1a5b67a76cf3b229bf674fe3ae9e9c663f6f",
+  "revisionId": "a160a828327cd43012b8098f3b7865bfd2d4087361835154a4b8b113adbcb12b",
   "author": "fmz200",
   "updatedAt": 1795094539191,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "90e5525b1c58c9ffd74ad54bb6cd1a5b67a76cf3b229bf674fe3ae9e9c663f6f"
+    "a160a828327cd43012b8098f3b7865bfd2d4087361835154a4b8b113adbcb12b"
   ]
 }

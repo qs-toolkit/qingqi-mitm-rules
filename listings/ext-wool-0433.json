@@ -7,7 +7,7 @@
   "name": "顺丰优选",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7073e6918d92f7690e7384de8bc4244d88eb950b1c1f301e3c75ef18cc001feb",
+  "revisionId": "a720e8d656f88669f259fa635803802fff2f19bcea7b718efc863036babec6c0",
   "author": "fmz200",
   "updatedAt": 1795094539243,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7073e6918d92f7690e7384de8bc4244d88eb950b1c1f301e3c75ef18cc001feb"
+    "a720e8d656f88669f259fa635803802fff2f19bcea7b718efc863036babec6c0"
   ]
 }

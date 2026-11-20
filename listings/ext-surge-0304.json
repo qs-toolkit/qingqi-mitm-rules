@@ -7,7 +7,7 @@
   "name": "流媒体解锁检测Lite",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "6defcdbd5a164113ef1b7c9404fc789382b1030ed7f2cc89cb369bfbfee78a6f",
+  "revisionId": "aed04a54a3214ba2438ce0d92bbfb80fe14cee4a797516924348935475caee11",
   "author": "ClashModule",
   "updatedAt": 1795094539078,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "6defcdbd5a164113ef1b7c9404fc789382b1030ed7f2cc89cb369bfbfee78a6f"
+    "aed04a54a3214ba2438ce0d92bbfb80fe14cee4a797516924348935475caee11"
   ]
 }

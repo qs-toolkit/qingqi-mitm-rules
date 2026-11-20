@@ -7,7 +7,7 @@
   "name": "起点读书",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "10b538d82c3138bd8e3cae1fd632efc248f98d42b34633096557ac6621b1a51b",
+  "revisionId": "022599b41f28c1f53d53764c69cdd7d189f643dd086de3dfc6b4d3928c06eda4",
   "author": "fmz200",
   "updatedAt": 1795094539240,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "10b538d82c3138bd8e3cae1fd632efc248f98d42b34633096557ac6621b1a51b"
+    "022599b41f28c1f53d53764c69cdd7d189f643dd086de3dfc6b4d3928c06eda4"
   ]
 }

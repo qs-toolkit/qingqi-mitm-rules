@@ -7,7 +7,7 @@
   "name": "国泰君安",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "69d2fa3c61f67bcf50a361eb2e75a3d1d028698a62a2512235234b552aa7793a",
+  "revisionId": "63f8f0e2dbaf70fc784598be96155a9087beecc13e18e2be154e89ed58e2d5e3",
   "author": "fmz200",
   "updatedAt": 1795094539211,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "69d2fa3c61f67bcf50a361eb2e75a3d1d028698a62a2512235234b552aa7793a"
+    "63f8f0e2dbaf70fc784598be96155a9087beecc13e18e2be154e89ed58e2d5e3"
   ]
 }

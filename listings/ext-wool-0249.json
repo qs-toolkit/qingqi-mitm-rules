@@ -7,7 +7,7 @@
   "name": "江苏银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "593956d2aefec16df34133871175bab3bb7458184d76f693b65ce5bd8aa845e7",
+  "revisionId": "742a0f4227aa1d2fd1c39cefb499478722fedbcd3e7ca3abd909875e0288cd92",
   "author": "fmz200",
   "updatedAt": 1795094539218,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "593956d2aefec16df34133871175bab3bb7458184d76f693b65ce5bd8aa845e7"
+    "742a0f4227aa1d2fd1c39cefb499478722fedbcd3e7ca3abd909875e0288cd92"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "电视家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "63aeb91b2d7163b41e82d84be3a84c1ca3ea641e09dc403873bb2316afb32954",
+  "revisionId": "0db33d5dc512df5b12ebe12c413f01af597f52ba6f0f060baebe35514b4f1f53",
   "author": "fmz200",
   "updatedAt": 1795094539200,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "63aeb91b2d7163b41e82d84be3a84c1ca3ea641e09dc403873bb2316afb32954"
+    "0db33d5dc512df5b12ebe12c413f01af597f52ba6f0f060baebe35514b4f1f53"
   ]
 }

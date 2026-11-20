@@ -7,7 +7,7 @@
   "name": "腾讯手机管家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9f1f1260e70906f23aeda555cb70b99714d2e07698dac5b64cc3fef6c9ffac6d",
+  "revisionId": "428e7ef1c799d168c394e108101cb8623b0d5fb1a39e7713a8a70418e26ce746",
   "author": "fmz200",
   "updatedAt": 1795094539250,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9f1f1260e70906f23aeda555cb70b99714d2e07698dac5b64cc3fef6c9ffac6d"
+    "428e7ef1c799d168c394e108101cb8623b0d5fb1a39e7713a8a70418e26ce746"
   ]
 }

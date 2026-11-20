@@ -7,7 +7,7 @@
   "name": "🐻 携程旅行 [签到]",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4450a7a045133c24a5788b765afac7775208c9d22c3b89fa6662e152921a83fb",
+  "revisionId": "23ede0c0676ab22a6d96319eed6b625feaa7a7a5128704ba6d24d3cb2f63f7c5",
   "author": "ClashModule",
   "updatedAt": 1795094539074,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "4450a7a045133c24a5788b765afac7775208c9d22c3b89fa6662e152921a83fb"
+    "23ede0c0676ab22a6d96319eed6b625feaa7a7a5128704ba6d24d3cb2f63f7c5"
   ]
 }

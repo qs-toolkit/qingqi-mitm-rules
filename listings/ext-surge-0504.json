@@ -7,7 +7,7 @@
   "name": "🍟 DualSubsYouTube.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "bcd768660790e918087a1b92ea2cdc5a96055c0836107afd2fda219b6f53a9d1",
+  "revisionId": "be5a22dfc0443e18151157d37e0c91d3279ba3f959141033ce2eecd5272ae705",
   "author": "ClashModule",
   "updatedAt": 1795094539107,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "bcd768660790e918087a1b92ea2cdc5a96055c0836107afd2fda219b6f53a9d1"
+    "be5a22dfc0443e18151157d37e0c91d3279ba3f959141033ce2eecd5272ae705"
   ]
 }

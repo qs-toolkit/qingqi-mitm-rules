@@ -7,7 +7,7 @@
   "name": "浦发银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c16d5a81a67d6206792e91c9392a773bfa3f4ffdbae7ef435229a71ff454a3ca",
+  "revisionId": "61452d56269bd708471fbca7e93ef7af48bcd7ca21cac0a58fa231ec02d51fbc",
   "author": "fmz200",
   "updatedAt": 1795094539238,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c16d5a81a67d6206792e91c9392a773bfa3f4ffdbae7ef435229a71ff454a3ca"
+    "61452d56269bd708471fbca7e93ef7af48bcd7ca21cac0a58fa231ec02d51fbc"
   ]
 }

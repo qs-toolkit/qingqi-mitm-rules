@@ -7,7 +7,7 @@
   "name": "中国联通 去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9416bf90667194e34dd7570f3eace7f32aaf38b03389bbd72b8a7136ab2301a6",
+  "revisionId": "ebd6ba2f09504fa92ecf8153f53703668fe53c7fdf8bf2dd7b6e4ea4b467c365",
   "author": "ClashModule",
   "updatedAt": 1795094539050,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "9416bf90667194e34dd7570f3eace7f32aaf38b03389bbd72b8a7136ab2301a6"
+    "ebd6ba2f09504fa92ecf8153f53703668fe53c7fdf8bf2dd7b6e4ea4b467c365"
   ]
 }

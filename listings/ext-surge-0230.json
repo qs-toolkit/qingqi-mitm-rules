@@ -7,7 +7,7 @@
   "name": "微信阅读精简",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "a6232418419c3376eb7f320e7a7fdbb89fc7a94b17d5ed456fbd556e0b595552",
+  "revisionId": "8c2d334d4833a3b9924d623588d5f83e3c3d51b8a77a6cb5877b110921cfddd2",
   "author": "ClashModule",
   "updatedAt": 1795094539068,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "a6232418419c3376eb7f320e7a7fdbb89fc7a94b17d5ed456fbd556e0b595552"
+    "8c2d334d4833a3b9924d623588d5f83e3c3d51b8a77a6cb5877b110921cfddd2"
   ]
 }

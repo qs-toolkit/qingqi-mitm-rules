@@ -7,7 +7,7 @@
   "name": "凤凰秀",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "85cca18a9629a75b7d25bf8f381cc84e4645169084adc35e209a21f6dd4bc96b",
+  "revisionId": "10dfd0227d626bede8cab7398ea1b0016c807370b2c471174d57d8d784549621",
   "author": "fmz200",
   "updatedAt": 1795094539204,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "85cca18a9629a75b7d25bf8f381cc84e4645169084adc35e209a21f6dd4bc96b"
+    "10dfd0227d626bede8cab7398ea1b0016c807370b2c471174d57d8d784549621"
   ]
 }

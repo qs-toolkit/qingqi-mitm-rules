@@ -7,7 +7,7 @@
   "name": "粉笔",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "03b9387e7f6a69d9935aca7bb89a7144d2ed04f75930f84779566d79b3663880",
+  "revisionId": "b9eac1309cc5c13b633a2813ff4362c3447f88b0276bd3efc3f93fea24b8697b",
   "author": "fmz200",
   "updatedAt": 1795094539204,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "03b9387e7f6a69d9935aca7bb89a7144d2ed04f75930f84779566d79b3663880"
+    "b9eac1309cc5c13b633a2813ff4362c3447f88b0276bd3efc3f93fea24b8697b"
   ]
 }

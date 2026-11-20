@@ -7,7 +7,7 @@
   "name": "挂号网（微医）",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3d465c80ee579234b84ba2d1494aed1640dbbcffac7825c7fb84ab40a4afd895",
+  "revisionId": "3a81c92e01b257c3ab066056bf4ff9f32596cf8ba6095f8072b37898bb4a1074",
   "author": "fmz200",
   "updatedAt": 1795094539208,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3d465c80ee579234b84ba2d1494aed1640dbbcffac7825c7fb84ab40a4afd895"
+    "3a81c92e01b257c3ab066056bf4ff9f32596cf8ba6095f8072b37898bb4a1074"
   ]
 }

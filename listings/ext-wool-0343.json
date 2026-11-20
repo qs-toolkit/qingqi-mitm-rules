@@ -7,7 +7,7 @@
   "name": "每日优鲜",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6ca72bf2deff03a84861dd7c08d1667051e9773d9618bd557c289bc88cc74645",
+  "revisionId": "73b0bd2ad9937de85262ec0b7e993835e2837f8296cbb50c58d326a13f45f5f1",
   "author": "fmz200",
   "updatedAt": 1795094539231,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6ca72bf2deff03a84861dd7c08d1667051e9773d9618bd557c289bc88cc74645"
+    "73b0bd2ad9937de85262ec0b7e993835e2837f8296cbb50c58d326a13f45f5f1"
   ]
 }

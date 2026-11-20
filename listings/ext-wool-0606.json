@@ -7,7 +7,7 @@
   "name": "小米有品",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b5d3ed4049cca0b7497ee87f217fcb22beefc9b265eb978347fe9ece55c3d73c",
+  "revisionId": "fc59bb1639a98148e3b946d9eda7c5b7c4210080162e2ce74b7f8f39f188efda",
   "author": "fmz200",
   "updatedAt": 1795094539267,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b5d3ed4049cca0b7497ee87f217fcb22beefc9b265eb978347fe9ece55c3d73c"
+    "fc59bb1639a98148e3b946d9eda7c5b7c4210080162e2ce74b7f8f39f188efda"
   ]
 }

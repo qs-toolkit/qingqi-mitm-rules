@@ -7,7 +7,7 @@
   "name": "希尔顿",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a4c08b7ca823d650af20775e1dbd111dd01d9c84b69412b593ba458dc8b77740",
+  "revisionId": "6cf092cb8a49a2de690f71c44d91e3b8c3d1d7c41d20456429a23000b0f33700",
   "author": "fmz200",
   "updatedAt": 1795094539261,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a4c08b7ca823d650af20775e1dbd111dd01d9c84b69412b593ba458dc8b77740"
+    "6cf092cb8a49a2de690f71c44d91e3b8c3d1d7c41d20456429a23000b0f33700"
   ]
 }

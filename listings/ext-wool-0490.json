@@ -7,7 +7,7 @@
   "name": "天府银行小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5fdda33eade5f797f33b1d0ec7bd06dd874e991b7a1a14fa208636d163829595",
+  "revisionId": "3599e7811228ca51330dc6dd84704b0d56937bb8be9bd270fdd924d75942d1d3",
   "author": "fmz200",
   "updatedAt": 1795094539251,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5fdda33eade5f797f33b1d0ec7bd06dd874e991b7a1a14fa208636d163829595"
+    "3599e7811228ca51330dc6dd84704b0d56937bb8be9bd270fdd924d75942d1d3"
   ]
 }

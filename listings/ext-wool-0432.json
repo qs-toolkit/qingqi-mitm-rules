@@ -7,7 +7,7 @@
   "name": "上汽大众",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "817261e4b92a3c1c363ee93c8d4e04b489150507eb7bb68ff263ae828ade31d8",
+  "revisionId": "6873087a6fb97d2f38bcd5fce7d8447a7c05cc0c612810951783fc76d9d24850",
   "author": "fmz200",
   "updatedAt": 1795094539243,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "817261e4b92a3c1c363ee93c8d4e04b489150507eb7bb68ff263ae828ade31d8"
+    "6873087a6fb97d2f38bcd5fce7d8447a7c05cc0c612810951783fc76d9d24850"
   ]
 }

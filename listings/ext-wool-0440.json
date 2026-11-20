@@ -7,7 +7,7 @@
   "name": "闪动校园",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "71f9038f652ed4c07fbecbed399d71c5055893a5c6db21ab7901239dc6a10a81",
+  "revisionId": "7e4aa92ddf2d3d3548ea9b6b54d64bac50281e6f0fbde3641ac4a0405dd80e7f",
   "author": "fmz200",
   "updatedAt": 1795094539244,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "71f9038f652ed4c07fbecbed399d71c5055893a5c6db21ab7901239dc6a10a81"
+    "7e4aa92ddf2d3d3548ea9b6b54d64bac50281e6f0fbde3641ac4a0405dd80e7f"
   ]
 }

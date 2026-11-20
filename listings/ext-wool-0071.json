@@ -7,7 +7,7 @@
   "name": "贝壳找房",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "595686c02d50ddd21445d733b398b25f685f7b29dfc0285c74feb57bf8ec2341",
+  "revisionId": "8dd3b1ef885fb1dfa3f54dca4021e674fe2e6b0e3bbbe5acd4619b460cc167b4",
   "author": "fmz200",
   "updatedAt": 1795094539191,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "595686c02d50ddd21445d733b398b25f685f7b29dfc0285c74feb57bf8ec2341"
+    "8dd3b1ef885fb1dfa3f54dca4021e674fe2e6b0e3bbbe5acd4619b460cc167b4"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "ofo共享单车",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8cf7305e78b7733f397fc8561782c4bbdfbd19a8a8fb30a5bebe5fe37dd30f22",
+  "revisionId": "dd507a67dcef821280ec1bd5deecd30a1da0d86751b9be385ee011c51df21342",
   "author": "fmz200",
   "updatedAt": 1795094539236,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8cf7305e78b7733f397fc8561782c4bbdfbd19a8a8fb30a5bebe5fe37dd30f22"
+    "dd507a67dcef821280ec1bd5deecd30a1da0d86751b9be385ee011c51df21342"
   ]
 }

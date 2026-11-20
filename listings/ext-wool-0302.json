@@ -7,7 +7,7 @@
   "name": "懒人听书",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e98700c9bc7afef614d30b69f53726b12dd7a450c810650e61fbf3e091aa8702",
+  "revisionId": "6d70dc9d8354c8020632fddc2f1a17d7849f487a25a9749a44bd86eea4844628",
   "author": "fmz200",
   "updatedAt": 1795094539225,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e98700c9bc7afef614d30b69f53726b12dd7a450c810650e61fbf3e091aa8702"
+    "6d70dc9d8354c8020632fddc2f1a17d7849f487a25a9749a44bd86eea4844628"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "银盛通",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "14ad59a4296c79497bb065592a1d36571d582b4457f685b653fdfd484ddea421",
+  "revisionId": "555bec494e0807968e07b5c1f616ea0630e428955c84ba95ee598f1c6c1f5f0f",
   "author": "fmz200",
   "updatedAt": 1795094539273,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "14ad59a4296c79497bb065592a1d36571d582b4457f685b653fdfd484ddea421"
+    "555bec494e0807968e07b5c1f616ea0630e428955c84ba95ee598f1c6c1f5f0f"
   ]
 }

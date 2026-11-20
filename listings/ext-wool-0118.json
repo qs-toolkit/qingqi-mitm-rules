@@ -7,7 +7,7 @@
   "name": "大智慧",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4615dffb423d10dae4ba2fdd6038bc5da872cdc1e6cc78fbed479ddd384051f3",
+  "revisionId": "d21f04d11c5478e6ff84b93ca38849d1f6f14a63666f063c56db4a6dca739f40",
   "author": "fmz200",
   "updatedAt": 1795094539198,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4615dffb423d10dae4ba2fdd6038bc5da872cdc1e6cc78fbed479ddd384051f3"
+    "d21f04d11c5478e6ff84b93ca38849d1f6f14a63666f063c56db4a6dca739f40"
   ]
 }

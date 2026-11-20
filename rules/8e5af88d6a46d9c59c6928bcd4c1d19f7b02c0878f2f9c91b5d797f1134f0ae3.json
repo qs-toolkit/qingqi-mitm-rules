@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "Connectivity_Test",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!format=sgmodule\n\n#!name=Connectivity_Test\n#!desc=网络连通性测试\n# 由整点猫咪群重庆佬和key共同修改提供 脚本完善由薯条进行指导\n[Script]\n\nConnectivity_Test = type=generic,timeout=3,script-path= https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/script/ConnectivityTest.js,argument=title=Connectivity Test&icon=icloud.and.arrow.down&color=#FF9F0A&server=false\n\n[Panel]\n#网络连通性测试\nConnectivity_Test = script-name=Connectivity_Test,update-interval=1\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

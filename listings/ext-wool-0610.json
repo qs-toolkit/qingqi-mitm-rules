@@ -7,7 +7,7 @@
   "name": "星财富",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "146ce52a2d904e8d4a6d42de8906e86c27879f1af853445de02d37f94dd565d5",
+  "revisionId": "4b3fef0d35a32f68ee8c4b4b126e78c47de8751f9ceadbfcc7284494510f9807",
   "author": "fmz200",
   "updatedAt": 1795094539268,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "146ce52a2d904e8d4a6d42de8906e86c27879f1af853445de02d37f94dd565d5"
+    "4b3fef0d35a32f68ee8c4b4b126e78c47de8751f9ceadbfcc7284494510f9807"
   ]
 }

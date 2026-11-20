@@ -7,7 +7,7 @@
   "name": "游戏时光",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "27e1c26f55fccc92fbbd4c7c3e3a1b5335634c0f8a32aa754873f485ca6598d3",
+  "revisionId": "1971de82a521731bd51910a61e5c1f34b4866049bab7e84b6524251978ab9e55",
   "author": "fmz200",
   "updatedAt": 1795094539271,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "27e1c26f55fccc92fbbd4c7c3e3a1b5335634c0f8a32aa754873f485ca6598d3"
+    "1971de82a521731bd51910a61e5c1f34b4866049bab7e84b6524251978ab9e55"
   ]
 }

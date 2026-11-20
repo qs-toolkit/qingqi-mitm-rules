@@ -7,7 +7,7 @@
   "name": "推栏",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2554871f771a9d0636be481ce03042f9a13527fefb82fc0dee44ade8b4359157",
+  "revisionId": "572d9bd7f375b602ab3bbc6811fed07b8492e2ba4d9a28e45e1136b5db9c22f7",
   "author": "fmz200",
   "updatedAt": 1795094539253,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "2554871f771a9d0636be481ce03042f9a13527fefb82fc0dee44ade8b4359157"
+    "572d9bd7f375b602ab3bbc6811fed07b8492e2ba4d9a28e45e1136b5db9c22f7"
   ]
 }

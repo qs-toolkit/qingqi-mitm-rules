@@ -7,7 +7,7 @@
   "name": "同程旅行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "54709b0e2193751c4630e5b9568d95b40956beed8f17965b23857fca390acc20",
+  "revisionId": "8107f2174b277da5e7ecf94aaf56968359a6a01ebad1c9aa2f932fd0361185ee",
   "author": "fmz200",
   "updatedAt": 1795094539253,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "54709b0e2193751c4630e5b9568d95b40956beed8f17965b23857fca390acc20"
+    "8107f2174b277da5e7ecf94aaf56968359a6a01ebad1c9aa2f932fd0361185ee"
   ]
 }

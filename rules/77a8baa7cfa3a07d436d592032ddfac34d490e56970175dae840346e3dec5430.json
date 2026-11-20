@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "央视网",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=央视网\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partY/CCTV.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/www\\.cntv\\.cn\\/nettv\\/adp\\//i then reject(200)\n\n[Rule]\nDOMAIN, galaxy.bjcathay.com,REJECT\nDOMAIN, mdrecv.app.cntvwb.cn,REJECT\nDOMAIN, sdapprecv.app.cntvwb.cn,REJECT\nDOMAIN, vdapprecv.app.cntvwb.cn,REJECT\nDOMAIN-SUFFIX, a.cctv.com,REJECT\nDOMAIN-SUFFIX, ad.cctv.com,REJECT\nDOMAIN-SUFFIX, ad.cntv.cn,REJECT\nDOMAIN-SUFFIX, ad-cdn.cctv.com,REJECT\nDOMAIN-SUFFIX, ad-cdn_core.cctv.com,REJECT\nDOMAIN-SUFFIX, ad_core.cctv.com,REJECT\nDOMAIN-SUFFIX, ad_m.cctv.com,REJECT\nDOMAIN-SUFFIX, adguanggao.eee114.com,REJECT\nDOMAIN-SUFFIX, afp.qiyi.com,REJECT\nDOMAIN-SUFFIX, cctv.adsunion.com,REJECT\nDOMAIN-SUFFIX, d.cntv.cn,REJECT\nDOMAIN-SUFFIX, de.pandora.xiaomi.com,REJECT\nDOMAIN-SUFFIX, mishop.pandora.xiaomi.com,REJECT\nDOMAIN-SUFFIX, cws-cctv.conviva.com,REJECT\nDOMAIN-SUFFIX, mdrecv.app.cntvwb.cn,REJECT\nDOMAIN-SUFFIX, sdapprecv.app.cntvwb.cn,REJECT\nDOMAIN-SUFFIX, vdapprecv.app.cntvwb.cn,REJECT\n\n[MITM]\nhostname = %APPEND% www.cntv.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

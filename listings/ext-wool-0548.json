@@ -7,7 +7,7 @@
   "name": "微信公众号",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d08c0bdc88f1b80adb0226bfba23885bb2edddc9880d7018ca051e25169cd3c6",
+  "revisionId": "0a140f9e6ec68e8d2fef855d422e06ecfbbb2fb9a910df465896dc29539f2ef0",
   "author": "fmz200",
   "updatedAt": 1795094539259,
   "targets": [],
@@ -19,6 +19,6 @@
     "QuantumultX"
   ],
   "revisions": [
-    "d08c0bdc88f1b80adb0226bfba23885bb2edddc9880d7018ca051e25169cd3c6"
+    "0a140f9e6ec68e8d2fef855d422e06ecfbbb2fb9a910df465896dc29539f2ef0"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "众邦银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0936a246bae6d06e87a040d62716a31a56f56ce9c433d6153597b33ab7abbc69",
+  "revisionId": "dd3de3e87ba40ab1a79ab052c58e5500f7d6ef6f7185111a3b1b8f1397bdcae3",
   "author": "fmz200",
   "updatedAt": 1795094539283,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0936a246bae6d06e87a040d62716a31a56f56ce9c433d6153597b33ab7abbc69"
+    "dd3de3e87ba40ab1a79ab052c58e5500f7d6ef6f7185111a3b1b8f1397bdcae3"
   ]
 }

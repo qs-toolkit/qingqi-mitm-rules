@@ -7,7 +7,7 @@
   "name": "罗森点点",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2046603a2d66cf41e3e07745babc14b0403d584cc3cb8456e4c5ae407b4a710f",
+  "revisionId": "9bf7556e2810167723c5ddf4306ce0898242b3357c28beef51f35a59f406d3cf",
   "author": "fmz200",
   "updatedAt": 1795094539228,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2046603a2d66cf41e3e07745babc14b0403d584cc3cb8456e4c5ae407b4a710f"
+    "9bf7556e2810167723c5ddf4306ce0898242b3357c28beef51f35a59f406d3cf"
   ]
 }

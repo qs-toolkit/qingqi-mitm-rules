@@ -7,7 +7,7 @@
   "name": "顺丰快递小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c25cec51ad8a1461ade7f54fad7291ae8ce9ddb9ca58ca121088e4bbffc639f4",
+  "revisionId": "0c368fc8a78cecc95fa1814b5dd700695ab04a6ae9d31322c4cccb83c06a41ad",
   "author": "fmz200",
   "updatedAt": 1795094539244,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c25cec51ad8a1461ade7f54fad7291ae8ce9ddb9ca58ca121088e4bbffc639f4"
+    "0c368fc8a78cecc95fa1814b5dd700695ab04a6ae9d31322c4cccb83c06a41ad"
   ]
 }

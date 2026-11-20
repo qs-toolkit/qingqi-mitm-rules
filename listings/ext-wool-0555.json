@@ -7,7 +7,7 @@
   "name": "温尼伯站",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c168342b5a19bc47ac8d5e6f5d2e1bfcf11f7d5a220435bfe296edc52862d8b7",
+  "revisionId": "6ad411582f0e3d63cfa5899be222cc9f9014dfd4f5d7cdd0ba2c51229114ed24",
   "author": "fmz200",
   "updatedAt": 1795094539260,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c168342b5a19bc47ac8d5e6f5d2e1bfcf11f7d5a220435bfe296edc52862d8b7"
+    "6ad411582f0e3d63cfa5899be222cc9f9014dfd4f5d7cdd0ba2c51229114ed24"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "秒拍",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "47b1d6add6daeb5da5594b134c3cb3bf7098337707c66836fb5cd35ce9a18439",
+  "revisionId": "bc59baceb932bf8a2c075b1442f35bc074ec6185c6bfacb635a23b1a278e20fb",
   "author": "fmz200",
   "updatedAt": 1795094539233,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "47b1d6add6daeb5da5594b134c3cb3bf7098337707c66836fb5cd35ce9a18439"
+    "bc59baceb932bf8a2c075b1442f35bc074ec6185c6bfacb635a23b1a278e20fb"
   ]
 }

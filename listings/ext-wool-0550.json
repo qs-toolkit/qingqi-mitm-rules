@@ -7,7 +7,7 @@
   "name": "威锋",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6228e05223ba391813a3751cfe92e72499e7ef24690bdbcc51a5c5b02b4d0090",
+  "revisionId": "fb7685f610427b2ed7d48742197b3202a918cdc5beda81485811b891d67196e9",
   "author": "fmz200",
   "updatedAt": 1795094539259,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "6228e05223ba391813a3751cfe92e72499e7ef24690bdbcc51a5c5b02b4d0090"
+    "fb7685f610427b2ed7d48742197b3202a918cdc5beda81485811b891d67196e9"
   ]
 }

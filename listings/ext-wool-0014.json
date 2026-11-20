@@ -7,7 +7,7 @@
   "name": "21经济网",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "15a23ef05f36f67289120f2f197332174191f86e914d0d662cb8035d58dc1f6d",
+  "revisionId": "3b90ab3bd467fc865217e7e237e4658745194d67b4984f38c7a7ef11c6f1ce27",
   "author": "fmz200",
   "updatedAt": 1795094539183,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "15a23ef05f36f67289120f2f197332174191f86e914d0d662cb8035d58dc1f6d"
+    "3b90ab3bd467fc865217e7e237e4658745194d67b4984f38c7a7ef11c6f1ce27"
   ]
 }

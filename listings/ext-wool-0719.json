@@ -7,7 +7,7 @@
   "name": "中油好客e站小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "23d9971a7c85880794cb7356562c420082383379c1114ac294320366e989a4bb",
+  "revisionId": "2fd555cdafe36f10fdc6117d9d62cdf0277ee33a2c3a678c65c29cc6f074f721",
   "author": "fmz200",
   "updatedAt": 1795094539283,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "23d9971a7c85880794cb7356562c420082383379c1114ac294320366e989a4bb"
+    "2fd555cdafe36f10fdc6117d9d62cdf0277ee33a2c3a678c65c29cc6f074f721"
   ]
 }

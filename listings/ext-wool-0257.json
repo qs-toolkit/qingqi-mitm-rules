@@ -7,7 +7,7 @@
   "name": "京东健康",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "83fee9746afba84506eb4dd0a789f9f8072370e3157f819cb7c20fd0e646ace2",
+  "revisionId": "ca7c35fb73a17ae06ddfa715ea63c8b9aa8844cfad629dad6642b58d25bc873f",
   "author": "fmz200",
   "updatedAt": 1795094539219,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "83fee9746afba84506eb4dd0a789f9f8072370e3157f819cb7c20fd0e646ace2"
+    "ca7c35fb73a17ae06ddfa715ea63c8b9aa8844cfad629dad6642b58d25bc873f"
   ]
 }

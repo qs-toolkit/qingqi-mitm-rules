@@ -7,7 +7,7 @@
   "name": "半月谈",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fac07ea39dc231e71c614a7c9c07c59ef443cf7d9fcf8937cd3b4dc300bf6d5d",
+  "revisionId": "6f21eeea39a7d3bdc159159db51a77e0a15fd31301db36438537503d428e8337",
   "author": "fmz200",
   "updatedAt": 1795094539190,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fac07ea39dc231e71c614a7c9c07c59ef443cf7d9fcf8937cd3b4dc300bf6d5d"
+    "6f21eeea39a7d3bdc159159db51a77e0a15fd31301db36438537503d428e8337"
   ]
 }

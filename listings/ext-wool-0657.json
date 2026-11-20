@@ -7,7 +7,7 @@
   "name": "盈立智投",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3a3981ba5db42ff5f4de8d896bd1fd6e59966e18247c59c42d65ccd38ee0ba83",
+  "revisionId": "478456a976072e3eafa0069cb5d5e78733cce75b2c19b5a4541914c20f6057b4",
   "author": "fmz200",
   "updatedAt": 1795094539274,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3a3981ba5db42ff5f4de8d896bd1fd6e59966e18247c59c42d65ccd38ee0ba83"
+    "478456a976072e3eafa0069cb5d5e78733cce75b2c19b5a4541914c20f6057b4"
   ]
 }

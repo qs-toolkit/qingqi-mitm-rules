@@ -7,7 +7,7 @@
   "name": "西窗烛",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c7feee9f82cd0761473f70714da344174743a9f2639f9b8d2237ad699556f149",
+  "revisionId": "ec741f214206a78659a63c1e3fdac097509a33e26f128a2d247b0e515f608fcf",
   "author": "fmz200",
   "updatedAt": 1795094539262,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c7feee9f82cd0761473f70714da344174743a9f2639f9b8d2237ad699556f149"
+    "ec741f214206a78659a63c1e3fdac097509a33e26f128a2d247b0e515f608fcf"
   ]
 }

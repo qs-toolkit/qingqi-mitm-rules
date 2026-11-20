@@ -7,7 +7,7 @@
   "name": "安徽掌上10000",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "437c6cf64fe96fba68a7ddd112c761b9f250c9d82dd9aefc23f2b16aed1387a4",
+  "revisionId": "dd2efea2bc9cfe94d70602873542c0f7bb4998a3398841dc0bb8b55889f0a455",
   "author": "fmz200",
   "updatedAt": 1795094539187,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "437c6cf64fe96fba68a7ddd112c761b9f250c9d82dd9aefc23f2b16aed1387a4"
+    "dd2efea2bc9cfe94d70602873542c0f7bb4998a3398841dc0bb8b55889f0a455"
   ]
 }

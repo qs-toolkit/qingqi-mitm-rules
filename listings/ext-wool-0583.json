@@ -7,7 +7,7 @@
   "name": "小合拓展",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7c4f9aa1c87f7b43f228551edf68f17b8128ce71c1c5ad3539f5062450b28935",
+  "revisionId": "ef56ea4028e2ea3cc6ce0762f0707935f5ed3d693f60a50c9aa0639314224718",
   "author": "fmz200",
   "updatedAt": 1795094539264,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7c4f9aa1c87f7b43f228551edf68f17b8128ce71c1c5ad3539f5062450b28935"
+    "ef56ea4028e2ea3cc6ce0762f0707935f5ed3d693f60a50c9aa0639314224718"
   ]
 }

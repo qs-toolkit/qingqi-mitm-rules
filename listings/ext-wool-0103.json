@@ -7,7 +7,7 @@
   "name": "长城炼金术",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "64dba9d66eddb0892d7303545dddf4a7de6983a5928b112e6f7d585a4f4b7568",
+  "revisionId": "da98a9bc951b442da576ca01fa57c25ce04bd0882a81dc6266197f5be9a06f8c",
   "author": "fmz200",
   "updatedAt": 1795094539196,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "64dba9d66eddb0892d7303545dddf4a7de6983a5928b112e6f7d585a4f4b7568"
+    "da98a9bc951b442da576ca01fa57c25ce04bd0882a81dc6266197f5be9a06f8c"
   ]
 }

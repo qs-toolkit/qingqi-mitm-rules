@@ -7,7 +7,7 @@
   "name": "🍟 Apple TV 增强.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "70199a4fef41e3c8f880c4106d1f8af482935b867888baba657954b069228794",
+  "revisionId": "8ea1e1458bbf26b61e4ec57aabce0222a3fa4196d37ba912356c26c511ac9dcf",
   "author": "ClashModule",
   "updatedAt": 1795094539105,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "70199a4fef41e3c8f880c4106d1f8af482935b867888baba657954b069228794"
+    "8ea1e1458bbf26b61e4ec57aabce0222a3fa4196d37ba912356c26c511ac9dcf"
   ]
 }

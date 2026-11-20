@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "小红书",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=小红书\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partX/Xiaohongshu.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-10-01 22:20:00\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https:\\/\\/edith\\.(xiaohongshu|rnote)\\.com\\/api\\/sns\\/v1\\/surprisebox\\/(?:get_style|open|submit_action)/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/www\\.(xiaohongshu|rnote)\\.com\\/api\\/marketing\\/box\\/trigger\\?/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/edith\\.(xiaohongshu|rnote)\\.com\\/api\\/sns\\/v\\d+\\/note\\/guide\\?/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/edith\\.(xiaohongshu|rnote)\\.com\\/api\\/sns\\/v\\d+\\/note\\/detailfeed\\/preload\\?/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/edith\\.(xiaohongshu|rnote)\\.com\\/api\\/sns\\/v\\d+\\/guide\\/user_banner/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/www\\.(xiaohongshu|rnote)\\.com\\/api\\/sns\\/(v\\d+\\/ads\\/resource|v\\d+\\/hey\\/\\w+\\/hey_gallery)/i then reject_dict(200)\nrequest if ${url} ~= /^https?:\\/\\/ci\\.(xiaohongshu|rnote)\\.com\\/system_config\\/watermark/i then reject_img(200)\n\n[Rule]\nDOMAIN, ads-img-qc.xhscdn.com,REJECT\nDOMAIN, ads-video-al.xhscdn.com,REJECT\nDOMAIN, ads-video-qc.xhscdn.com,REJECT\nDOMAIN, t-ads.xiaohongshu.com,REJECT\nAND, ((PROTOCOL, QUIC), (DOMAIN-SUFFIX, xiaohongshu.com)),REJECT\n\n[MITM]\nhostname = %APPEND% edith.xiaohongshu.com, www.xiaohongshu.com, ci.xiaohongshu.com, rec.xiaohongshu.com, so.xiaohongshu.com, edith.rnote.com, www.rnote.com, ci.rnote.com, so.rnote.com, rec.rnote.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

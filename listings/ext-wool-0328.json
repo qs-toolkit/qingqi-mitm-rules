@@ -7,7 +7,7 @@
   "name": "妈妈网孕育",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1c5c2c0642b6f8ecb464ed2c1223aa5b8c3d56dd062d6b3c6bc283d44b5e0174",
+  "revisionId": "749b83760d72cec27f705b446d200decc2621c72cf7a153997a9a405367096c5",
   "author": "fmz200",
   "updatedAt": 1795094539229,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1c5c2c0642b6f8ecb464ed2c1223aa5b8c3d56dd062d6b3c6bc283d44b5e0174"
+    "749b83760d72cec27f705b446d200decc2621c72cf7a153997a9a405367096c5"
   ]
 }

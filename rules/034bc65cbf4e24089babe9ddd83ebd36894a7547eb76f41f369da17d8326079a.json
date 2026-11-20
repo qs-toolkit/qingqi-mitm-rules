@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "联想",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=联想\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partL/Lenovo.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/api\\.club\\.lenovo\\.cn\\/common\\/open_ad/i then reject(404)\n\n[Rule]\nDOMAIN-SUFFIX, adapi.lenovogame.com,REJECT\nDOMAIN-SUFFIX, adcore.lenovomm.com,REJECT\nDOMAIN-SUFFIX, ams.lenovomm.com,REJECT\nDOMAIN-SUFFIX, fsr.lenovomm.com,REJECT\nDOMAIN-SUFFIX, fus.lenovomm.com,REJECT\nDOMAIN-SUFFIX, imfsr.lenovomm.com,REJECT\nDOMAIN-SUFFIX, lds.lenovomm.com,REJECT\nDOMAIN-SUFFIX, mfsr.lenovomm.com,REJECT\nDOMAIN-SUFFIX, pbs.lenovomm.com,REJECT\nDOMAIN-SUFFIX, prw.lenovomm.com,REJECT\nDOMAIN-SUFFIX, psb.lenovomm.com,REJECT\nDOMAIN-SUFFIX, pushapi.lenovomm.com,REJECT\nDOMAIN-SUFFIX, sdac.lenovomm.com,REJECT\nDOMAIN-SUFFIX, susapi.lenovomm.com,REJECT\nDOMAIN-SUFFIX, uss-pid.lenovomm.com,REJECT\nDOMAIN-SUFFIX, wth.lenovomm.com,REJECT\nDOMAIN-SUFFIX, yx.lenovomm.com,REJECT\n\n[MITM]\nhostname = %APPEND% api.club.lenovo.cn\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

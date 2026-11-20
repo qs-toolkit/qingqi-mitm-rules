@@ -7,7 +7,7 @@
   "name": "牛听听",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3e8ed7e854d51b59f68982f5eceed7707262964c1ff9d79475a3abb7db9d1c1f",
+  "revisionId": "688f429e689ff1c96f636aef1c80741c146dabdb19d46e6f9f77b7c9d20310d8",
   "author": "fmz200",
   "updatedAt": 1795094539235,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3e8ed7e854d51b59f68982f5eceed7707262964c1ff9d79475a3abb7db9d1c1f"
+    "688f429e689ff1c96f636aef1c80741c146dabdb19d46e6f9f77b7c9d20310d8"
   ]
 }

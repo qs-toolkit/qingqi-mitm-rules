@@ -7,7 +7,7 @@
   "name": "夸克",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "84e74b8d431a8b3256612677957734155d2a2babb842cd8f11a22f96040dd44a",
+  "revisionId": "2d89bdab767a03d36208aba1b524ccfd09c96d28e6af1e72b90d9b05ca0b80cb",
   "author": "fmz200",
   "updatedAt": 1795094539224,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "84e74b8d431a8b3256612677957734155d2a2babb842cd8f11a22f96040dd44a"
+    "2d89bdab767a03d36208aba1b524ccfd09c96d28e6af1e72b90d9b05ca0b80cb"
   ]
 }

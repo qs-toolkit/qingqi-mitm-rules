@@ -7,7 +7,7 @@
   "name": "下厨房",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e10023a91642a1eaf54e389d8da77e9a0561eadd210cc895752e5e0d8af26e10",
+  "revisionId": "0ee6a5f4a415812664aea11705fee3befacbf3d18cf3af9d23e21c46e1a00b1c",
   "author": "fmz200",
   "updatedAt": 1795094539263,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e10023a91642a1eaf54e389d8da77e9a0561eadd210cc895752e5e0d8af26e10"
+    "0ee6a5f4a415812664aea11705fee3befacbf3d18cf3af9d23e21c46e1a00b1c"
   ]
 }

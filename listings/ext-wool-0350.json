@@ -7,7 +7,7 @@
   "name": "美团众包",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "92ba9208de0cc194869f8855d0429c98663a2560ab882d300df614cf97412ff9",
+  "revisionId": "09fc82ab523f96aa58371cb69ec40345df8298b74f66d78c51c299fc441f3452",
   "author": "fmz200",
   "updatedAt": 1795094539232,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "92ba9208de0cc194869f8855d0429c98663a2560ab882d300df614cf97412ff9"
+    "09fc82ab523f96aa58371cb69ec40345df8298b74f66d78c51c299fc441f3452"
   ]
 }

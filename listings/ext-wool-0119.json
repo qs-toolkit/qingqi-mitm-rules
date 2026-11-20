@@ -7,7 +7,7 @@
   "name": "大麦",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7a5b147466575531c4e4ac683f03bffa8f90e0832bc7767574aeea92f376a05a",
+  "revisionId": "1f0ca2314707217e1e88fe73f0f844a25901659686dc126005ae6076259bcd89",
   "author": "fmz200",
   "updatedAt": 1795094539198,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7a5b147466575531c4e4ac683f03bffa8f90e0832bc7767574aeea92f376a05a"
+    "1f0ca2314707217e1e88fe73f0f844a25901659686dc126005ae6076259bcd89"
   ]
 }

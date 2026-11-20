@@ -7,7 +7,7 @@
   "name": "今日头条",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8bd7eef13ad6455317b9cdc2b00aba47f2e93569737d478e16d304a0faa0d1c3",
+  "revisionId": "f77cd43020ffda44ca62472823b6ae3f15e803251278a7fa040c1e9e200fa4c1",
   "author": "fmz200",
   "updatedAt": 1795094539221,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8bd7eef13ad6455317b9cdc2b00aba47f2e93569737d478e16d304a0faa0d1c3"
+    "f77cd43020ffda44ca62472823b6ae3f15e803251278a7fa040c1e9e200fa4c1"
   ]
 }

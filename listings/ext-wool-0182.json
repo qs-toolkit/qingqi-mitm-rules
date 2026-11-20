@@ -7,7 +7,7 @@
   "name": "高铁管家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "948a956c8f14982750a654a0537c1e1b9c7c4c678dbc80f5036e8124bdf7bd4f",
+  "revisionId": "05be037638467b1b9c2c4f740b40a11c1e05acef7c8ea242b581914d96495e6a",
   "author": "fmz200",
   "updatedAt": 1795094539206,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "948a956c8f14982750a654a0537c1e1b9c7c4c678dbc80f5036e8124bdf7bd4f"
+    "05be037638467b1b9c2c4f740b40a11c1e05acef7c8ea242b581914d96495e6a"
   ]
 }

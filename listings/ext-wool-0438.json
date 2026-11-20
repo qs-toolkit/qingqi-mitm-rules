@@ -7,7 +7,7 @@
   "name": "三联中读",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e98be190a980c91c4a6a4ad117849d4239df3aeae7c5942341a02f6ceb2eb701",
+  "revisionId": "7391eede304b5d1eafbfc6eeac647ccc79f3be150bcad5fc5820268134f7ffff",
   "author": "fmz200",
   "updatedAt": 1795094539244,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e98be190a980c91c4a6a4ad117849d4239df3aeae7c5942341a02f6ceb2eb701"
+    "7391eede304b5d1eafbfc6eeac647ccc79f3be150bcad5fc5820268134f7ffff"
   ]
 }

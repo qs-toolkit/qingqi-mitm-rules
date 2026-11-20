@@ -7,7 +7,7 @@
   "name": "悠洗APP",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "13297f3f53455beba9cc4cc9e14b57d7c79627499159133d81709351cea734b1",
+  "revisionId": "b2eeeeb359089301017cc0c0a881d85b1fcb530eb7b2ad2e032f0a205efd93a3",
   "author": "fmz200",
   "updatedAt": 1795094539275,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "13297f3f53455beba9cc4cc9e14b57d7c79627499159133d81709351cea734b1"
+    "b2eeeeb359089301017cc0c0a881d85b1fcb530eb7b2ad2e032f0a205efd93a3"
   ]
 }

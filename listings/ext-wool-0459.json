@@ -7,7 +7,7 @@
   "name": "搜狐",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f788bb28bffae48a22a6b286f29f9bcb3f5728db64237f4599199af7a29a10a3",
+  "revisionId": "40ba606d70b86d238cf81f9e7d6542ca626d5f7f84603fbef8986995307aa00e",
   "author": "fmz200",
   "updatedAt": 1795094539247,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f788bb28bffae48a22a6b286f29f9bcb3f5728db64237f4599199af7a29a10a3"
+    "40ba606d70b86d238cf81f9e7d6542ca626d5f7f84603fbef8986995307aa00e"
   ]
 }

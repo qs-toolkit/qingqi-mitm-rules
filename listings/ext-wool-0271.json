@@ -7,7 +7,7 @@
   "name": "京喜",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5868776f90adbe0e7dba723658d9914fa5bbdbb9f66e4b8a4d963b879b27bf15",
+  "revisionId": "13fa6c42887a94a9a59c2abdb109134b7b6757336f6443a0107d8b33936304c9",
   "author": "fmz200",
   "updatedAt": 1795094539221,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5868776f90adbe0e7dba723658d9914fa5bbdbb9f66e4b8a4d963b879b27bf15"
+    "13fa6c42887a94a9a59c2abdb109134b7b6757336f6443a0107d8b33936304c9"
   ]
 }

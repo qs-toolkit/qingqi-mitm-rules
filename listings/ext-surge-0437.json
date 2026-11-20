@@ -7,7 +7,7 @@
   "name": "贴吧去广告(>=iOS15)",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "5522afdb08d017c69105b1aa64bff9f7325b0fbbde0e8c3d1c3cbfa5c24dd5f7",
+  "revisionId": "3fe051e9b32b8277b94f08be757c7631cf441f33b19980c37e763cd1f2ea004c",
   "author": "ClashModule",
   "updatedAt": 1795094539097,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "5522afdb08d017c69105b1aa64bff9f7325b0fbbde0e8c3d1c3cbfa5c24dd5f7"
+    "3fe051e9b32b8277b94f08be757c7631cf441f33b19980c37e763cd1f2ea004c"
   ]
 }

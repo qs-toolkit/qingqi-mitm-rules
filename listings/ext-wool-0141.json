@@ -7,7 +7,7 @@
   "name": "动画疯",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4da17f8951322803d2b781a15a1eb76321affd57686bfc16e614c4125b9307b1",
+  "revisionId": "6edbd65e1691ebec472816f137dff7928d798f698443c0021204099eb6381898",
   "author": "fmz200",
   "updatedAt": 1795094539201,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4da17f8951322803d2b781a15a1eb76321affd57686bfc16e614c4125b9307b1"
+    "6edbd65e1691ebec472816f137dff7928d798f698443c0021204099eb6381898"
   ]
 }

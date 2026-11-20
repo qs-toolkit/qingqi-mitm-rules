@@ -7,7 +7,7 @@
   "name": "来电",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3b4f7846705d32b756184f870c5e39f4986ee1eac020dd825a2800433a72ce19",
+  "revisionId": "080efcfe048537cee1d31cc40999318d2d8ddd78567afc17f68e1b85b5fc3456",
   "author": "fmz200",
   "updatedAt": 1795094539224,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3b4f7846705d32b756184f870c5e39f4986ee1eac020dd825a2800433a72ce19"
+    "080efcfe048537cee1d31cc40999318d2d8ddd78567afc17f68e1b85b5fc3456"
   ]
 }

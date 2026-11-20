@@ -7,7 +7,7 @@
   "name": "🐻 百度贴吧 [签到]",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "09f6e56009d55899f452833d492e12f994f2d597e1762507165e20e1704e9659",
+  "revisionId": "eeb92577bd112d9fe9da2e4b94865c66ec3f6b573a720502c16a4188d75c6385",
   "author": "ClashModule",
   "updatedAt": 1795094539084,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "09f6e56009d55899f452833d492e12f994f2d597e1762507165e20e1704e9659"
+    "eeb92577bd112d9fe9da2e4b94865c66ec3f6b573a720502c16a4188d75c6385"
   ]
 }

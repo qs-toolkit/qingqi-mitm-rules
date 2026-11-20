@@ -7,7 +7,7 @@
   "name": "币安",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fe632a6638076acf5dec6039690608c05c4f3162c9a75894164d1d9613f27dcc",
+  "revisionId": "cfb0cfce709efc0c83c9372dd816bc4da39a792fb7ff402af1d74cc17169a87f",
   "author": "fmz200",
   "updatedAt": 1795094539192,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fe632a6638076acf5dec6039690608c05c4f3162c9a75894164d1d9613f27dcc"
+    "cfb0cfce709efc0c83c9372dd816bc4da39a792fb7ff402af1d74cc17169a87f"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "e代驾",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5f9cf34ded17cfd24b5363e95d96cc5cd508b639e4d78695db1d2aac54871815",
+  "revisionId": "e13aba24652e1a58780d15d6e87cd26fa7d88aaf1ab35ad050f6bcdc670b77e5",
   "author": "fmz200",
   "updatedAt": 1795094539203,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5f9cf34ded17cfd24b5363e95d96cc5cd508b639e4d78695db1d2aac54871815"
+    "e13aba24652e1a58780d15d6e87cd26fa7d88aaf1ab35ad050f6bcdc670b77e5"
   ]
 }

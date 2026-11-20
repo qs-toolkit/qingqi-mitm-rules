@@ -7,7 +7,7 @@
   "name": "加油广东",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "adac282e757d95eb2e06eaa3998bea08529ff20477a250a6103859edc580ee10",
+  "revisionId": "e10e0c19917a12a9a73cb9303e2f8a850096fb273ceb16e43daf2aeea4d965e2",
   "author": "fmz200",
   "updatedAt": 1795094539220,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "adac282e757d95eb2e06eaa3998bea08529ff20477a250a6103859edc580ee10"
+    "e10e0c19917a12a9a73cb9303e2f8a850096fb273ceb16e43daf2aeea4d965e2"
   ]
 }

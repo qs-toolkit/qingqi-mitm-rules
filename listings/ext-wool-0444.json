@@ -7,7 +7,7 @@
   "name": "神马",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d952812c97695d194d4c6decc7f426abac9612149b90d740996d4c1da892c695",
+  "revisionId": "7bac095369b0cab8467fc2387efabe8663d5dbed8fc36ede6baa24e1511891f8",
   "author": "fmz200",
   "updatedAt": 1795094539245,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d952812c97695d194d4c6decc7f426abac9612149b90d740996d4c1da892c695"
+    "7bac095369b0cab8467fc2387efabe8663d5dbed8fc36ede6baa24e1511891f8"
   ]
 }

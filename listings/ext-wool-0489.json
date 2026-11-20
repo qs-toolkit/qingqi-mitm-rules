@@ -7,7 +7,7 @@
   "name": "迅雷",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9e1a7a78950230da2075cdd9335fdf7eba7af2671eb0cc220dfbe559bd1071fa",
+  "revisionId": "dea7018fb5173ef4080c68cb908f65f8509230c813a9ec53e36b8c80976b0136",
   "author": "fmz200",
   "updatedAt": 1795094539251,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9e1a7a78950230da2075cdd9335fdf7eba7af2671eb0cc220dfbe559bd1071fa"
+    "dea7018fb5173ef4080c68cb908f65f8509230c813a9ec53e36b8c80976b0136"
   ]
 }

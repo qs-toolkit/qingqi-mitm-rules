@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "薄荷健康",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=薄荷健康\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partB/BoHeHealth.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https:\\/\\/api\\.boohee\\.com\\/meta-interface\\/v1\\/index\\/page_float_bubbles\\?/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/api\\.boohee\\.com\\/meta-interface\\/v1\\/index\\/tool_buttons\\?/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/api\\.boohee\\.com\\/app-interface\\/v1\\/search\\/search\\?/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/status\\.boohee\\.com\\/api\\/v1\\/merged_messages$/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/bohe\\.sfo-tx-shanghai-01\\.saas\\.sensorsdata\\.cn\\/api\\/v2\\/sfo\\/user_popup_configs\\?/i then reject_dict(200)\nrequest if ${url} ~= /^https:\\/\\/api\\.boohee\\.com\\/meta-interface\\/v1\\/index\\/sensor-banners\\?/i then reject_dict(200)\n\n[MITM]\nhostname = %APPEND% api.boohee.com, bohe.sfo-tx-shanghai-01.saas.sensorsdata.cn, lego.boohee.com, status.boohee.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

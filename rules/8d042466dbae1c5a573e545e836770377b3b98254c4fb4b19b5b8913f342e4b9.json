@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "BoxJs",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=BoxJs\n#!desc=http://boxjs.com\n#!author=ChavyLeung\n#!homepage=https://docs.boxjs.app/\n#!icon=https://raw.githubusercontent.com/chavyleung/scripts/master/box/icons/BoxJs.png\n#!category=BoxJs\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% boxjs.com, boxjs.net, *.boxjs.com, *.boxjs.net\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

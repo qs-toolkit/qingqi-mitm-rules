@@ -7,7 +7,7 @@
   "name": "网易蜗牛读书",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "91319f57c72d60e481415127c46121d99e62ab8f327638541aafa6a85441f249",
+  "revisionId": "9b169bd01f8e1b186805f36ca37780fbbb5e714b61df8a3e297401f289424730",
   "author": "fmz200",
   "updatedAt": 1795094539257,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "91319f57c72d60e481415127c46121d99e62ab8f327638541aafa6a85441f249"
+    "9b169bd01f8e1b186805f36ca37780fbbb5e714b61df8a3e297401f289424730"
   ]
 }

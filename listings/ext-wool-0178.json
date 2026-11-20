@@ -7,7 +7,7 @@
   "name": "广汽本田",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1cb8dd50b7089e930c99b5345ff1c626d3aa7098ffdf9a55bf72e325e1a76825",
+  "revisionId": "d096719f24e26c69d4308274faa0340a5ce1af7ac969b751b83c1b1c2bf70a90",
   "author": "fmz200",
   "updatedAt": 1795094539206,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1cb8dd50b7089e930c99b5345ff1c626d3aa7098ffdf9a55bf72e325e1a76825"
+    "d096719f24e26c69d4308274faa0340a5ce1af7ac969b751b83c1b1c2bf70a90"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "全民K歌",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "053f685e27f3d4af860a4b5683bd7627631aaadfe2ade18fada558d7d8262fa5",
+  "revisionId": "cb0d00f76bbe8d510e3dd6988d705865c0d75acacd733b9fa3c4243065934b0a",
   "author": "fmz200",
   "updatedAt": 1795094539241,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "053f685e27f3d4af860a4b5683bd7627631aaadfe2ade18fada558d7d8262fa5"
+    "cb0d00f76bbe8d510e3dd6988d705865c0d75acacd733b9fa3c4243065934b0a"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "稿定设计",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "291c58b0a97376990e5afa573bc3196d1af5b870c9284cffa791c85563032358",
+  "revisionId": "656b26849e1972fc4c5106990460904708f59c45f4ca21b61bd736ceb1bf9cee",
   "author": "fmz200",
   "updatedAt": 1795094539256,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "291c58b0a97376990e5afa573bc3196d1af5b870c9284cffa791c85563032358"
+    "656b26849e1972fc4c5106990460904708f59c45f4ca21b61bd736ceb1bf9cee"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "蘑菇租房",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b3cdad50f2bd99efda50b535b0decdbd69814adf5a6f8ac29b5df12df24318cb",
+  "revisionId": "fec479fd7e496125f512ad484272487c98c9b19bd315d95306e2e653acd4d9dd",
   "author": "fmz200",
   "updatedAt": 1795094539233,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b3cdad50f2bd99efda50b535b0decdbd69814adf5a6f8ac29b5df12df24318cb"
+    "fec479fd7e496125f512ad484272487c98c9b19bd315d95306e2e653acd4d9dd"
   ]
 }

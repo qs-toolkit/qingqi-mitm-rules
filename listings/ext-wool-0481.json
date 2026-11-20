@@ -7,7 +7,7 @@
   "name": "腾讯游戏社区",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e7de045ced076ab6dbbd43b6cc1cb937740dbdbf256a5b781c68f7f8ae346d13",
+  "revisionId": "a8efbc3915b85e35acf10288b967f770b8719932583dd6d2e0a7583c02b090f2",
   "author": "fmz200",
   "updatedAt": 1795094539250,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e7de045ced076ab6dbbd43b6cc1cb937740dbdbf256a5b781c68f7f8ae346d13"
+    "a8efbc3915b85e35acf10288b967f770b8719932583dd6d2e0a7583c02b090f2"
   ]
 }

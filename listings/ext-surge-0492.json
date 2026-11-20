@@ -7,7 +7,7 @@
   "name": "🍟 Apple TestFlight.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "24fb67799cf96856a13594c4750953151213f6a0988369314e7f262fa4f49db9",
+  "revisionId": "de28d2fb94bccdbe11fc8182d3d481a2edc925eb0b3bc9c0760479848fba1935",
   "author": "ClashModule",
   "updatedAt": 1795094539105,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "24fb67799cf96856a13594c4750953151213f6a0988369314e7f262fa4f49db9"
+    "de28d2fb94bccdbe11fc8182d3d481a2edc925eb0b3bc9c0760479848fba1935"
   ]
 }

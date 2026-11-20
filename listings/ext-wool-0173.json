@@ -7,7 +7,7 @@
   "name": "飞常准",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f96af5625b06673e0391c133daef07108deba46cd34f578330b5066d30df8d17",
+  "revisionId": "8835a64b3686917bd3df113140ef7bd75d035e1e2709bfa5203d8f2ac671c6f1",
   "author": "fmz200",
   "updatedAt": 1795094539205,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f96af5625b06673e0391c133daef07108deba46cd34f578330b5066d30df8d17"
+    "8835a64b3686917bd3df113140ef7bd75d035e1e2709bfa5203d8f2ac671c6f1"
   ]
 }

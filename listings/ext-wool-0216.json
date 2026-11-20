@@ -7,7 +7,7 @@
   "name": "好好住",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6a82e815599c259a965ea12420e4c1a2b564dc91acfc75ea7855c90e49a60ea7",
+  "revisionId": "96f1482ef2a3dc5918ca4fe5d15b31d2ffadcb81a38bbeecc5648269e891cb59",
   "author": "fmz200",
   "updatedAt": 1795094539214,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6a82e815599c259a965ea12420e4c1a2b564dc91acfc75ea7855c90e49a60ea7"
+    "96f1482ef2a3dc5918ca4fe5d15b31d2ffadcb81a38bbeecc5648269e891cb59"
   ]
 }

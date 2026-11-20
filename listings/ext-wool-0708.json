@@ -7,7 +7,7 @@
   "name": "浙里办",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "20273cd5d4b0ce70dc27e987a194e8ee1ca99adcc362a49242b47db6f81cb162",
+  "revisionId": "afa5acb13a13973e6b59d521805fda945aa9b29b09f318afe2358a31cef9c4ce",
   "author": "fmz200",
   "updatedAt": 1795094539282,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "20273cd5d4b0ce70dc27e987a194e8ee1ca99adcc362a49242b47db6f81cb162"
+    "afa5acb13a13973e6b59d521805fda945aa9b29b09f318afe2358a31cef9c4ce"
   ]
 }

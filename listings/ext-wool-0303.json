@@ -7,7 +7,7 @@
   "name": "懒投资",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cec2d01bfcab8cf14ba689e57eaa6e89be3d424733e7c498e223142eb79917d1",
+  "revisionId": "8fdef6a7dc077e40cebe3a2933e689fac2f1f523a41e6a5a4a9fb92231082699",
   "author": "fmz200",
   "updatedAt": 1795094539225,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "cec2d01bfcab8cf14ba689e57eaa6e89be3d424733e7c498e223142eb79917d1"
+    "8fdef6a7dc077e40cebe3a2933e689fac2f1f523a41e6a5a4a9fb92231082699"
   ]
 }

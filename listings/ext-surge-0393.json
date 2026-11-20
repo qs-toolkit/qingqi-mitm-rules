@@ -7,7 +7,7 @@
   "name": "联通余量(v4)",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "bbb4d4c0016b45b894670dc395688b91ee949195d41641491096df0a8d475205",
+  "revisionId": "5027fa90e81df0e84043a0d403e1737fcd3f81fd9e207ec85275ada4335cf826",
   "author": "ClashModule",
   "updatedAt": 1795094539090,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "bbb4d4c0016b45b894670dc395688b91ee949195d41641491096df0a8d475205"
+    "5027fa90e81df0e84043a0d403e1737fcd3f81fd9e207ec85275ada4335cf826"
   ]
 }

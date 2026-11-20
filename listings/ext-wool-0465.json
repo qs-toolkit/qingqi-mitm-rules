@@ -7,7 +7,7 @@
   "name": "苏周到",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "aacfae763ac3dda7422659163e9342495627804ee04bd9072714a3a7b02b4084",
+  "revisionId": "78f6ca69087441d27274a98067824c5e6f84170db1078d4388fd947c1e972b9e",
   "author": "fmz200",
   "updatedAt": 1795094539248,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "aacfae763ac3dda7422659163e9342495627804ee04bd9072714a3a7b02b4084"
+    "78f6ca69087441d27274a98067824c5e6f84170db1078d4388fd947c1e972b9e"
   ]
 }

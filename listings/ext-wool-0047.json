@@ -7,7 +7,7 @@
   "name": "澳觅",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b12d829da90738afcbe86d4632a278a75cbc41ce3ac956f135e9bedefa0e527c",
+  "revisionId": "896d1fb854bd156ec91f1e8b3826e8eb107d85143f926038ee308f573c8bb27a",
   "author": "fmz200",
   "updatedAt": 1795094539187,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b12d829da90738afcbe86d4632a278a75cbc41ce3ac956f135e9bedefa0e527c"
+    "896d1fb854bd156ec91f1e8b3826e8eb107d85143f926038ee308f573c8bb27a"
   ]
 }

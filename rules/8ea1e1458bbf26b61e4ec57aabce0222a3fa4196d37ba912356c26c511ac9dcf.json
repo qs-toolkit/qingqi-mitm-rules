@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "🍟 Apple TV 增强.official",
+  "description": " Surge",
+  "scope": [],
+  "text": "#!name=🍟 Apple TV 增强.official\n#!desc=Surge 模块 · Surge\n#!author=ClashModule\n#!name =  iRingo: 📺 TV app\n#!desc = 全面自定义「TV app」功能\n#!openUrl = http://boxjs.com/#/app/iRingo.TV\n#!author = VirgilClyne[https://github.com/VirgilClyne]\n#!homepage = https://NSRingo.github.io/guide/apple-tv\n#!icon = https://developer.apple.com/assets/elements/icons/apple-tv/apple-tv-128x128.png\n#!category =  iRingo\n#!date = 2025-04-17 03:19:05\n#!arguments = ThirdParty:false,isWorkaroundSSLPinning:true,LogLevel:\"WARN\"\n#!arguments-desc = ThirdParty: 启用第三方 App 与 TV app 关联功能\\n是否将桌面版/macOS版/app版等平台的 TV app 转换至 iPad 版，以启用第三方 App 与 TV app 关联功能(如: Disney+, Prime Video 等)。\\n\\nisWorkaroundSSLPinning: 启用绕过 SSL 证书固定校验\\n是否绕过播放列表所使用域名的证书固定校验功能，从而恢复对DualSubs的双语字幕支持。\\n\\nLogLevel: [调试] 日志等级\\n    ├ OFF: 🔴 关闭\\n    ├ ERROR: ❌ 错误\\n    ├ WARN: ⚠️ 警告\\n    ├ INFO: ℹ️ 信息\\n    ├ DEBUG: 🅱️ 调试\\n    └ ALL: 全部\\n选择脚本日志的输出等级，低于所选等级的日志将全部输出。\\n\n#!format=sgmodule\n\n[URL Rewrite]\n^https?:\\/\\/play-cdn\\.itunes\\.apple\\.com https://play.itunes.apple.com header\n^https?:\\/\\/play-edge-cdn\\.itunes\\.apple\\.com https://play-edge.itunes.apple.com header\n\n[Rule]\nDOMAIN,known-issues.apple.com,REJECT\n\n[MITM]\nhostname = %APPEND% uts-api.itunes.apple.com, umc-tempo-api.apple.com, play-cdn.itunes.apple.com, play-edge-cdn.itunes.apple.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

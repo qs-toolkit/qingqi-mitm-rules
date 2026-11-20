@@ -7,7 +7,7 @@
   "name": "台铃智能",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "77e369a00602dbd7ce92925ad262ff54de0110bb86b5ee5192223b864fc0bb0f",
+  "revisionId": "667f81b68854c3b6c2ac0f3f18a089cab3ba1622f0f525980a54c449c92dbd56",
   "author": "fmz200",
   "updatedAt": 1795094539249,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "77e369a00602dbd7ce92925ad262ff54de0110bb86b5ee5192223b864fc0bb0f"
+    "667f81b68854c3b6c2ac0f3f18a089cab3ba1622f0f525980a54c449c92dbd56"
   ]
 }

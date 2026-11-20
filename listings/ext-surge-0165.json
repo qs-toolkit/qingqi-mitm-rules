@@ -7,7 +7,7 @@
   "name": "🐻 哔哩哔哩漫画 [签到]",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "9120929b9b4ec4cfa579a2a952fc687bcb8834b5a8a4a474ee6d6d69b7a1ae47",
+  "revisionId": "773ebda271e91434a0388d3541f41a15f0877a59744ec612b347a1f3db2d069c",
   "author": "ClashModule",
   "updatedAt": 1795094539057,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "9120929b9b4ec4cfa579a2a952fc687bcb8834b5a8a4a474ee6d6d69b7a1ae47"
+    "773ebda271e91434a0388d3541f41a15f0877a59744ec612b347a1f3db2d069c"
   ]
 }

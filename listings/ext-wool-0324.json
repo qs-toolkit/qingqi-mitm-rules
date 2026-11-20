@@ -7,7 +7,7 @@
   "name": "民生银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9d8c0deb6c824956e072f3dfc14a7922e5d188401042b27bf4393e518e4541d3",
+  "revisionId": "8f94da1263ecdc64607c7841da72233d9f0fef1b86b85e8c4476d11247afe420",
   "author": "fmz200",
   "updatedAt": 1795094539228,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9d8c0deb6c824956e072f3dfc14a7922e5d188401042b27bf4393e518e4541d3"
+    "8f94da1263ecdc64607c7841da72233d9f0fef1b86b85e8c4476d11247afe420"
   ]
 }

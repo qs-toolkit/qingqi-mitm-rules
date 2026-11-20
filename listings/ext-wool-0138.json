@@ -7,7 +7,7 @@
   "name": "丁香医生",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "aa5e648545a106092287f703d22d08c7748d801cee729da598befd1a8fdb026c",
+  "revisionId": "1064dc75160784bd3f705f101f0c46df41006639a9e0493630e0da396f7ceda7",
   "author": "fmz200",
   "updatedAt": 1795094539201,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "aa5e648545a106092287f703d22d08c7748d801cee729da598befd1a8fdb026c"
+    "1064dc75160784bd3f705f101f0c46df41006639a9e0493630e0da396f7ceda7"
   ]
 }

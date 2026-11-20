@@ -7,7 +7,7 @@
   "name": "猫耳FM",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "79c22923e460b10cc575d591e59ffaa74575d5c0ad2e59525e980aead1fc1124",
+  "revisionId": "5686d1c175a6d40cb56032083b5e357be50ec79642f329b8491d609713f94804",
   "author": "fmz200",
   "updatedAt": 1795094539231,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "79c22923e460b10cc575d591e59ffaa74575d5c0ad2e59525e980aead1fc1124"
+    "5686d1c175a6d40cb56032083b5e357be50ec79642f329b8491d609713f94804"
   ]
 }

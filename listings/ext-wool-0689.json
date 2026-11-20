@@ -7,7 +7,7 @@
   "name": "招商银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cece2989af2c002d77910191a9df906a93a8d9c4b389d9b06f4e93e26f4cf043",
+  "revisionId": "4821be7f5a69e2efd1241b6fb67bbf1aab60f5b695f9d994e100f673f169d94f",
   "author": "fmz200",
   "updatedAt": 1795094539279,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "cece2989af2c002d77910191a9df906a93a8d9c4b389d9b06f4e93e26f4cf043"
+    "4821be7f5a69e2efd1241b6fb67bbf1aab60f5b695f9d994e100f673f169d94f"
   ]
 }

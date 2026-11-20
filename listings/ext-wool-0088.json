@@ -7,7 +7,7 @@
   "name": "必胜客",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3e1b2ee65962092c01316b7ec5047467772a0d7a16e52c821b170a071a728bc4",
+  "revisionId": "b46bc5a200e42df8d3ff6212c7d44a1697b6482c79938155f814bb794de40b5c",
   "author": "fmz200",
   "updatedAt": 1795094539193,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3e1b2ee65962092c01316b7ec5047467772a0d7a16e52c821b170a071a728bc4"
+    "b46bc5a200e42df8d3ff6212c7d44a1697b6482c79938155f814bb794de40b5c"
   ]
 }

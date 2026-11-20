@@ -7,7 +7,7 @@
   "name": "网络信息 𝕏",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "8a040b61af9c3dccef67e8bad16e5c1291090d8d86ddbc270b3109737376dca1",
+  "revisionId": "925c4af6d1f7380501fb5cf1c717afa9dd9e7f2f9c791e8cfb27b187f49c4a8a",
   "author": "ClashModule",
   "updatedAt": 1795094539089,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "8a040b61af9c3dccef67e8bad16e5c1291090d8d86ddbc270b3109737376dca1"
+    "925c4af6d1f7380501fb5cf1c717afa9dd9e7f2f9c791e8cfb27b187f49c4a8a"
   ]
 }

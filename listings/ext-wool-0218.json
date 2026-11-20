@@ -7,7 +7,7 @@
   "name": "好型体重秤",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1dfb728c50f6f0b8f6941c7d41d69d2c5b4d1b2d42680651d072cb53542556cf",
+  "revisionId": "6ddf0c591823b164a5b36b0bd57276616fbf9bb527b5be5c2aaeebdd0a95c6a5",
   "author": "fmz200",
   "updatedAt": 1795094539214,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1dfb728c50f6f0b8f6941c7d41d69d2c5b4d1b2d42680651d072cb53542556cf"
+    "6ddf0c591823b164a5b36b0bd57276616fbf9bb527b5be5c2aaeebdd0a95c6a5"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "天猫精灵",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "12009214add2d08a06f659eddc8fda58a899aae30e156f1f9679f79941f5af81",
+  "revisionId": "d386ca951ff658a074a8a2c79dc16297c04162d89983384246467d4fa388987e",
   "author": "fmz200",
   "updatedAt": 1795094539253,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "12009214add2d08a06f659eddc8fda58a899aae30e156f1f9679f79941f5af81"
+    "d386ca951ff658a074a8a2c79dc16297c04162d89983384246467d4fa388987e"
   ]
 }

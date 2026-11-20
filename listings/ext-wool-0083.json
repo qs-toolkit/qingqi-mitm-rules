@@ -7,7 +7,7 @@
   "name": "菠萝包轻小说",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5d953ff29a0d9926574c9b8b488929ab0c498df8720da6d9cc20f76ba6e59899",
+  "revisionId": "458c71a15787052fbe2262f62b383c1bfcd1a4fc8a78051d121861dbd4dbea2d",
   "author": "fmz200",
   "updatedAt": 1795094539192,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5d953ff29a0d9926574c9b8b488929ab0c498df8720da6d9cc20f76ba6e59899"
+    "458c71a15787052fbe2262f62b383c1bfcd1a4fc8a78051d121861dbd4dbea2d"
   ]
 }

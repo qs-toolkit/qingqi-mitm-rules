@@ -7,7 +7,7 @@
   "name": "马卡龙玩图",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7b09931e0754cde4ef6eb4bcc431518e0af9d8f8a1dfd30a0145e45f3611ca90",
+  "revisionId": "9b347a530e544107012ddfb972da13f63cc4044b75b73ce1e78086f100c6c1ff",
   "author": "fmz200",
   "updatedAt": 1795094539229,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7b09931e0754cde4ef6eb4bcc431518e0af9d8f8a1dfd30a0145e45f3611ca90"
+    "9b347a530e544107012ddfb972da13f63cc4044b75b73ce1e78086f100c6c1ff"
   ]
 }

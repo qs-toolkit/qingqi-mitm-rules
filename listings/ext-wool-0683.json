@@ -7,7 +7,7 @@
   "name": "中国知网",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5eba1dd77b45dae004835d1faec986f9c289b8e4e28c62f74041c9bbd8cfff89",
+  "revisionId": "97bc8b6c42b019938c5a76ff7250d30cd797340bb6c65c1e9e44ff5546d271bf",
   "author": "fmz200",
   "updatedAt": 1795094539278,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5eba1dd77b45dae004835d1faec986f9c289b8e4e28c62f74041c9bbd8cfff89"
+    "97bc8b6c42b019938c5a76ff7250d30cd797340bb6c65c1e9e44ff5546d271bf"
   ]
 }

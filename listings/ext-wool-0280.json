@@ -7,7 +7,7 @@
   "name": "看天下",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c5965409aea9715f146a9ebf8a21934f8ef86d8e86049e767d708333d7481925",
+  "revisionId": "3e40b0ba8ebb5b57cabf17a4f30615a37da8402fa3d3ad64423088d976d8dd25",
   "author": "fmz200",
   "updatedAt": 1795094539222,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c5965409aea9715f146a9ebf8a21934f8ef86d8e86049e767d708333d7481925"
+    "3e40b0ba8ebb5b57cabf17a4f30615a37da8402fa3d3ad64423088d976d8dd25"
   ]
 }

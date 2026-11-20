@@ -7,7 +7,7 @@
   "name": "小米金融",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bfb3e971120c9b6fbb269bf67dbfc08fbdb12aa1a31d8213cfc3fed384526192",
+  "revisionId": "1746cc607175e3b624515b41ceb8a8bd0224f48ee35e8c9849b1919346e0c8c7",
   "author": "fmz200",
   "updatedAt": 1795094539267,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bfb3e971120c9b6fbb269bf67dbfc08fbdb12aa1a31d8213cfc3fed384526192"
+    "1746cc607175e3b624515b41ceb8a8bd0224f48ee35e8c9849b1919346e0c8c7"
   ]
 }

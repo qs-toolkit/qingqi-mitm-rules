@@ -7,7 +7,7 @@
   "name": "Flush DNS",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "0326cec5d09f9832094056fe66c933582a85f8b18e9d06558cf526c337fc45f3",
+  "revisionId": "0186cace2e70286439d0cfbaf78e957a297db914c8f9bec9cb370c12b9ea5643",
   "author": "ClashModule",
   "updatedAt": 1795094539037,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "0326cec5d09f9832094056fe66c933582a85f8b18e9d06558cf526c337fc45f3"
+    "0186cace2e70286439d0cfbaf78e957a297db914c8f9bec9cb370c12b9ea5643"
   ]
 }

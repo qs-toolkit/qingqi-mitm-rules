@@ -7,7 +7,7 @@
   "name": "中羽在线",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "307c562b3a0418b80d1f9bf65bb3445387e40d87fc31b5d8577b8af5748c05ca",
+  "revisionId": "818548b0b8bdd7c363d675104df42a0ff75b3ca3196519544757dc7566b8b644",
   "author": "fmz200",
   "updatedAt": 1795094539283,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "307c562b3a0418b80d1f9bf65bb3445387e40d87fc31b5d8577b8af5748c05ca"
+    "818548b0b8bdd7c363d675104df42a0ff75b3ca3196519544757dc7566b8b644"
   ]
 }

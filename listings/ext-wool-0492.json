@@ -7,7 +7,7 @@
   "name": "天府市民云",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8d794818868d90f7fa37d661a853d5ba892e6df85fe61885ed7c7cbd81de6649",
+  "revisionId": "854810ba4473135ad7fd10f5de6567c8817facd8f2379d9229594f1c9ea19e0a",
   "author": "fmz200",
   "updatedAt": 1795094539251,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8d794818868d90f7fa37d661a853d5ba892e6df85fe61885ed7c7cbd81de6649"
+    "854810ba4473135ad7fd10f5de6567c8817facd8f2379d9229594f1c9ea19e0a"
   ]
 }

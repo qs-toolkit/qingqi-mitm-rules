@@ -7,7 +7,7 @@
   "name": "汽车之家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "24a8f115178dcbedc41e73e93610cb19ed5118f2e04090ee75106fe02984b9d9",
+  "revisionId": "579f78b3d6b82415ea9c837465f9547fb568b1bc620ce66637e406455ee7e818",
   "author": "fmz200",
   "updatedAt": 1795094539239,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "24a8f115178dcbedc41e73e93610cb19ed5118f2e04090ee75106fe02984b9d9"
+    "579f78b3d6b82415ea9c837465f9547fb568b1bc620ce66637e406455ee7e818"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "菜鸟裹裹",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0c06a46c3917408639f180fe64252ce10e79c7e4433f6e4af6acd7357399ea08",
+  "revisionId": "39fcaf41ef03f23bf35db950485aaa14436f21a4edbcd20766ab6771aafd346e",
   "author": "fmz200",
   "updatedAt": 1795094539195,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0c06a46c3917408639f180fe64252ce10e79c7e4433f6e4af6acd7357399ea08"
+    "39fcaf41ef03f23bf35db950485aaa14436f21a4edbcd20766ab6771aafd346e"
   ]
 }

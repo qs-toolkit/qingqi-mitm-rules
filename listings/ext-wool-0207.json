@@ -7,7 +7,7 @@
   "name": "海马爸比",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "cd7a25fe5390fd3d57d9973597562ccfd48371484399a84fb8e8cc145a511929",
+  "revisionId": "15151db9a350cc24acb723ba0cdefaaf92543c37a4a7dc78e3c0742fd1608548",
   "author": "fmz200",
   "updatedAt": 1795094539212,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "cd7a25fe5390fd3d57d9973597562ccfd48371484399a84fb8e8cc145a511929"
+    "15151db9a350cc24acb723ba0cdefaaf92543c37a4a7dc78e3c0742fd1608548"
   ]
 }

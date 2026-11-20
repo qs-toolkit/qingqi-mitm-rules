@@ -7,7 +7,7 @@
   "name": "腾讯地图",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "40e85c79994c3ee7313d35aa753c2e9a2426dd1b2b5054d54de663ddb9b2eddd",
+  "revisionId": "23f4de9100261eb427550a3be160804280056b8d0a960c3db310dc3576c7f4cb",
   "author": "fmz200",
   "updatedAt": 1795094539250,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "40e85c79994c3ee7313d35aa753c2e9a2426dd1b2b5054d54de663ddb9b2eddd"
+    "23f4de9100261eb427550a3be160804280056b8d0a960c3db310dc3576c7f4cb"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "万达电影",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "316aa4213503e9b819cd6e1f530881ddeaaceeb38ae9fd109a48ee72eb2efaef",
+  "revisionId": "e557277f1adf360dcbfcbe033aa97b1d88754e6a4ed805b0635a8085986a1be5",
   "author": "fmz200",
   "updatedAt": 1795094539258,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "316aa4213503e9b819cd6e1f530881ddeaaceeb38ae9fd109a48ee72eb2efaef"
+    "e557277f1adf360dcbfcbe033aa97b1d88754e6a4ed805b0635a8085986a1be5"
   ]
 }

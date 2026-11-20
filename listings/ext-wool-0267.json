@@ -7,7 +7,7 @@
   "name": "界面新闻",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8304d2685de8b93ad26c3b8c12678799587d0a9e53b547652e69b2562b03fd92",
+  "revisionId": "a3da638052e6591c26e49fd5a33f6c2192134bb392bbcb625e4ea2b44b2ad807",
   "author": "fmz200",
   "updatedAt": 1795094539220,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8304d2685de8b93ad26c3b8c12678799587d0a9e53b547652e69b2562b03fd92"
+    "a3da638052e6591c26e49fd5a33f6c2192134bb392bbcb625e4ea2b44b2ad807"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "🐻 爱奇艺 [会员签到]",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "cd5b0020940515194a07754e298744c39585233f160771ef51a7f71e4fc7bba8",
+  "revisionId": "fc3a8f6204bad01895a336e68c7a4ee8cb14a733387d5207bec57888b225ad10",
   "author": "ClashModule",
   "updatedAt": 1795094539081,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "cd5b0020940515194a07754e298744c39585233f160771ef51a7f71e4fc7bba8"
+    "fc3a8f6204bad01895a336e68c7a4ee8cb14a733387d5207bec57888b225ad10"
   ]
 }

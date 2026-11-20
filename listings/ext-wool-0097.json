@@ -7,7 +7,7 @@
   "name": "财联社",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ecab893c7151d6c359e9192dcbd3630aedcefb1038124b12f7d09df41352c56f",
+  "revisionId": "52ecfd0d7b5e399eeb66855c80358161b5c40c76e6754877929d6651a384f1d0",
   "author": "fmz200",
   "updatedAt": 1795094539195,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ecab893c7151d6c359e9192dcbd3630aedcefb1038124b12f7d09df41352c56f"
+    "52ecfd0d7b5e399eeb66855c80358161b5c40c76e6754877929d6651a384f1d0"
   ]
 }

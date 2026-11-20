@@ -7,7 +7,7 @@
   "name": "途虎养车",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7d6566da58411ced3bf0224bbd0c9272d4d34595eae14f0f1dc98e243cbb6674",
+  "revisionId": "b4630f30b440bd46bcec348129c663ee46e175f63c171ceb6cfa214919e36f3c",
   "author": "fmz200",
   "updatedAt": 1795094539253,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7d6566da58411ced3bf0224bbd0c9272d4d34595eae14f0f1dc98e243cbb6674"
+    "b4630f30b440bd46bcec348129c663ee46e175f63c171ceb6cfa214919e36f3c"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "平安证券",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "83b45eb4fb6e2b3475fcb5e4b37f032eecc8b12a4a3fdff335fcb0e93adcdc57",
+  "revisionId": "c73aac061b25544e7a0a21aa52634e81757021a84ce0d0fa8de6f9bd90611f65",
   "author": "fmz200",
   "updatedAt": 1795094539237,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "83b45eb4fb6e2b3475fcb5e4b37f032eecc8b12a4a3fdff335fcb0e93adcdc57"
+    "c73aac061b25544e7a0a21aa52634e81757021a84ce0d0fa8de6f9bd90611f65"
   ]
 }

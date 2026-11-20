@@ -7,7 +7,7 @@
   "name": "人民日报",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "44584c2df2d0b615b276b055e7f07f688ea256db3b0fd2861d38cd64a035b42e",
+  "revisionId": "2c4a3c7264c4bccdfa94803ade000ef056828341d31eb674f58b20e1ad25532b",
   "author": "fmz200",
   "updatedAt": 1795094539242,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "44584c2df2d0b615b276b055e7f07f688ea256db3b0fd2861d38cd64a035b42e"
+    "2c4a3c7264c4bccdfa94803ade000ef056828341d31eb674f58b20e1ad25532b"
   ]
 }

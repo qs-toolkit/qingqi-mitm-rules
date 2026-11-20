@@ -7,7 +7,7 @@
   "name": "国美电器",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d4e13edd3efc9836f010e964ea933281f7e1e7a4071b594345742ca52f274fe4",
+  "revisionId": "71ec53167a2fead4c3a0d8ba5e93e8c81450084fe9149d66f21e5f170eacdea3",
   "author": "fmz200",
   "updatedAt": 1795094539207,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d4e13edd3efc9836f010e964ea933281f7e1e7a4071b594345742ca52f274fe4"
+    "71ec53167a2fead4c3a0d8ba5e93e8c81450084fe9149d66f21e5f170eacdea3"
   ]
 }

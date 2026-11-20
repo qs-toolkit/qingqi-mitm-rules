@@ -7,7 +7,7 @@
   "name": "微博轻享版去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "aeb2a68bc3d149a38e2fdab069660b42a354b79550ccb2ed6cb1d9d66a28fd0e",
+  "revisionId": "9205211b72313add49c0fe0f5256464720b24ed53d05e3788ea233f8c74da739",
   "author": "ClashModule",
   "updatedAt": 1795094539068,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "aeb2a68bc3d149a38e2fdab069660b42a354b79550ccb2ed6cb1d9d66a28fd0e"
+    "9205211b72313add49c0fe0f5256464720b24ed53d05e3788ea233f8c74da739"
   ]
 }

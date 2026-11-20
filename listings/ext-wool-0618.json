@@ -7,7 +7,7 @@
   "name": "迅游加速器",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f6e51f937548369da6e1737aa1c03f01fd5f92bd9fd7b9e0d630f9629f66fbf4",
+  "revisionId": "7a39e45797d85bb5e8ef6bbba3353abf19b28dff05afb3679de6b955286562fd",
   "author": "fmz200",
   "updatedAt": 1795094539269,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f6e51f937548369da6e1737aa1c03f01fd5f92bd9fd7b9e0d630f9629f66fbf4"
+    "7a39e45797d85bb5e8ef6bbba3353abf19b28dff05afb3679de6b955286562fd"
   ]
 }

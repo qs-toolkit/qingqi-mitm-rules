@@ -7,7 +7,7 @@
   "name": "豆瓣",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6ba4c059686582e5d35abdf36a165b8e974480abfcf9e6e1f2efd32ac2bd8eb6",
+  "revisionId": "c9790885c45f6e7085821d630fb364caa67d70fc5cdc183413df9e55598742d2",
   "author": "fmz200",
   "updatedAt": 1795094539201,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6ba4c059686582e5d35abdf36a165b8e974480abfcf9e6e1f2efd32ac2bd8eb6"
+    "c9790885c45f6e7085821d630fb364caa67d70fc5cdc183413df9e55598742d2"
   ]
 }

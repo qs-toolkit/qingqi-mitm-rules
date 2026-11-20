@@ -7,7 +7,7 @@
   "name": "盯盯拍",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bf920d68c9020b66050d3fcae616422f11894b6dd1918e886e7216cdf1c64b09",
+  "revisionId": "12e7824b881d66652a4fa8c792b330da6d5bd987d4a06608b6748ccc24fcdd82",
   "author": "fmz200",
   "updatedAt": 1795094539200,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bf920d68c9020b66050d3fcae616422f11894b6dd1918e886e7216cdf1c64b09"
+    "12e7824b881d66652a4fa8c792b330da6d5bd987d4a06608b6748ccc24fcdd82"
   ]
 }

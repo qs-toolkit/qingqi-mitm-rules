@@ -7,7 +7,7 @@
   "name": "腾讯新闻",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a6975784efcdfcca2b1d8b5d2f7fd3aabee46949ee5eff8ffd7d327e16864076",
+  "revisionId": "a54dee0c1a3a5a3f2f078d93ad91e945e8c73bff82fd42960d9fb0a645c3f725",
   "author": "fmz200",
   "updatedAt": 1795094539251,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a6975784efcdfcca2b1d8b5d2f7fd3aabee46949ee5eff8ffd7d327e16864076"
+    "a54dee0c1a3a5a3f2f078d93ad91e945e8c73bff82fd42960d9fb0a645c3f725"
   ]
 }

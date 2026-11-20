@@ -7,7 +7,7 @@
   "name": "全民生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "de56cf99720f9fea0152600b236536e6c19a36bc87859b412a121788acffe6a4",
+  "revisionId": "93b27a0ca4b697d623fa826386d157bd6b72bd66b5341517b91f5ead0ed5af0b",
   "author": "fmz200",
   "updatedAt": 1795094539234,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "de56cf99720f9fea0152600b236536e6c19a36bc87859b412a121788acffe6a4"
+    "93b27a0ca4b697d623fa826386d157bd6b72bd66b5341517b91f5ead0ed5af0b"
   ]
 }

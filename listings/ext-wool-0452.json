@@ -7,7 +7,7 @@
   "name": "书旗小说",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3653d1c8430d0aa15aa2c2c69ec9d9ffa7adc4e7fb9ec98de05b266d24f1412a",
+  "revisionId": "607b13fe58ff29b27e390a3193ebc771f1149d1fdfbf28cba6c7ec9e9400e834",
   "author": "fmz200",
   "updatedAt": 1795094539246,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3653d1c8430d0aa15aa2c2c69ec9d9ffa7adc4e7fb9ec98de05b266d24f1412a"
+    "607b13fe58ff29b27e390a3193ebc771f1149d1fdfbf28cba6c7ec9e9400e834"
   ]
 }

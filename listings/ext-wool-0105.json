@@ -7,7 +7,7 @@
   "name": "潮玩宇宙",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "19a547929b8d0dd93c5183eb4c3b54cb9ba577a31dacaae3f41e3b4796408897",
+  "revisionId": "fb3334ce7207149ce8c82651ea13e2a48f67d3dd98633f58db275c696d228209",
   "author": "fmz200",
   "updatedAt": 1795094539196,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "19a547929b8d0dd93c5183eb4c3b54cb9ba577a31dacaae3f41e3b4796408897"
+    "fb3334ce7207149ce8c82651ea13e2a48f67d3dd98633f58db275c696d228209"
   ]
 }

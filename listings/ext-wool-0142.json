@@ -7,7 +7,7 @@
   "name": "动卡空间",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0323cccbd4972edd0ccd9de79940f3c045ba3c17211e7ed06a2d145443838e48",
+  "revisionId": "2c15b588a1ef39afded780c4058b0cf28af9c9c6045d7a07deeb3d4f157f72ab",
   "author": "fmz200",
   "updatedAt": 1795094539201,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0323cccbd4972edd0ccd9de79940f3c045ba3c17211e7ed06a2d145443838e48"
+    "2c15b588a1ef39afded780c4058b0cf28af9c9c6045d7a07deeb3d4f157f72ab"
   ]
 }

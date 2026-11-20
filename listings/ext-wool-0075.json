@@ -7,7 +7,7 @@
   "name": "币世界",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0e3424a489d14f32380731b8f666a57de8aa2b8273056947fd17aaddff6059fc",
+  "revisionId": "5620ff8a1acc25b00e1e290b6a2097bdb740bbc23afd23c26358203f464d7e34",
   "author": "fmz200",
   "updatedAt": 1795094539191,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0e3424a489d14f32380731b8f666a57de8aa2b8273056947fd17aaddff6059fc"
+    "5620ff8a1acc25b00e1e290b6a2097bdb740bbc23afd23c26358203f464d7e34"
   ]
 }

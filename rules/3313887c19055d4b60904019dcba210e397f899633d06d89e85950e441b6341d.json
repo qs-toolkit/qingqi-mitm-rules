@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "流量统计",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!format=sgmodule\n\n#!name=流量统计\n#!desc=Update-2023.2.20\n#!system=ios\n\n[Panel]\n# > 流量统计\nTrafficStatistics = script-name=TrafficStatistics, update-interval=1\n\n[Script]\n# > 流量统计 点击以切换网络界面\nTrafficStatistics = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/fishingworld/something/main/PanelScripts/trafficstatistics.js, argument=icon=bonjour&color=#007aff\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

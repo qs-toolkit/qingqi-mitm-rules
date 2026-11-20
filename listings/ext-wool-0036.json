@@ -7,7 +7,7 @@
   "name": "爱牵挂care",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "698afcdcbcc22c7e6bc81abd6c3cf736828dea1b6106f2f1daa7d0c112fd49b6",
+  "revisionId": "107a7600ac72465789c51b0c3142f2f5e4c3a3ee121a8d5b5fc8eb07e6a20f19",
   "author": "fmz200",
   "updatedAt": 1795094539186,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "698afcdcbcc22c7e6bc81abd6c3cf736828dea1b6106f2f1daa7d0c112fd49b6"
+    "107a7600ac72465789c51b0c3142f2f5e4c3a3ee121a8d5b5fc8eb07e6a20f19"
   ]
 }

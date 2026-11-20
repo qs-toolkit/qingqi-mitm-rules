@@ -7,7 +7,7 @@
   "name": "飞猪",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8ce3ccc39f486e58b390764e81cc441d41269f6fd9b16d2eaaec51e2005f7b16",
+  "revisionId": "c7298e3d305d7a68e5459e6cb971988153dcbd2252c9a85630165ff2a0333b90",
   "author": "fmz200",
   "updatedAt": 1795094539204,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8ce3ccc39f486e58b390764e81cc441d41269f6fd9b16d2eaaec51e2005f7b16"
+    "c7298e3d305d7a68e5459e6cb971988153dcbd2252c9a85630165ff2a0333b90"
   ]
 }

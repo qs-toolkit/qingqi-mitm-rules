@@ -7,7 +7,7 @@
   "name": "追剧达人",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e21d9beed00488e87070c50b206f3e5e264dbdcad3ce38c3b514cb026eba5e7e",
+  "revisionId": "bfab0c29a676505ba9ce40c319730ab4d3fa6f319bb45d0f76802f24f3be1620",
   "author": "fmz200",
   "updatedAt": 1795094539284,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e21d9beed00488e87070c50b206f3e5e264dbdcad3ce38c3b514cb026eba5e7e"
+    "bfab0c29a676505ba9ce40c319730ab4d3fa6f319bb45d0f76802f24f3be1620"
   ]
 }

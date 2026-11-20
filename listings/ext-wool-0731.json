@@ -7,7 +7,7 @@
   "name": "掌阅",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4368f867094190dee37fea95b5d7618983894c55b7eea4be8870237bf442bb75",
+  "revisionId": "cb176ff55bb2474f21d8feeb23d474ca2356dd2fdf77cb5d130c5c082d6c2d5e",
   "author": "fmz200",
   "updatedAt": 1795094539284,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4368f867094190dee37fea95b5d7618983894c55b7eea4be8870237bf442bb75"
+    "cb176ff55bb2474f21d8feeb23d474ca2356dd2fdf77cb5d130c5c082d6c2d5e"
   ]
 }

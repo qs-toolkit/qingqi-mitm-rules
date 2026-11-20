@@ -7,7 +7,7 @@
   "name": "阿里巴巴",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d1e20f5b7da8330c51b05c37e9782205ee71d14e7e17a1a568d50a842a80894a",
+  "revisionId": "4adb74ad938030941ead1446d649fbe4e80046649e141fa704a0e16c60d9de6c",
   "author": "fmz200",
   "updatedAt": 1795094539187,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d1e20f5b7da8330c51b05c37e9782205ee71d14e7e17a1a568d50a842a80894a"
+    "4adb74ad938030941ead1446d649fbe4e80046649e141fa704a0e16c60d9de6c"
   ]
 }

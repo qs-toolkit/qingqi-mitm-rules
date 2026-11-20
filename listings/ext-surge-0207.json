@@ -7,7 +7,7 @@
   "name": "🐻 巴哈姆特 [签到]",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "524b39fc02e259dcbdc13f197eba1997d9636b7dd9d8350663e91242a48bb369",
+  "revisionId": "ecd71729ea82b82c79d05043afecd7f4f1111225f27abe2344995a21e84879b4",
   "author": "ClashModule",
   "updatedAt": 1795094539064,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "524b39fc02e259dcbdc13f197eba1997d9636b7dd9d8350663e91242a48bb369"
+    "ecd71729ea82b82c79d05043afecd7f4f1111225f27abe2344995a21e84879b4"
   ]
 }

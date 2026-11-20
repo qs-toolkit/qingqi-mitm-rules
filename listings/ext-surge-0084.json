@@ -7,7 +7,7 @@
   "name": "Server Info",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "ba4e9f5ed667fbc3248d6044cf2ffd313ad206e9921b0b461fcd9857e03fbe20",
+  "revisionId": "3fcfac90c6cc04feb1a21abeb2e7b4d6f789c9f51bccc7f5ede4e8132f9386e0",
   "author": "ClashModule",
   "updatedAt": 1795094539045,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "ba4e9f5ed667fbc3248d6044cf2ffd313ad206e9921b0b461fcd9857e03fbe20"
+    "3fcfac90c6cc04feb1a21abeb2e7b4d6f789c9f51bccc7f5ede4e8132f9386e0"
   ]
 }

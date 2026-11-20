@@ -7,7 +7,7 @@
   "name": "Bilibili增强",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "4a07a97d2f6a427c172c43c6c89539aefb4c8488f711711372bbf93f88e78dd5",
+  "revisionId": "03343ed3a090d87eb778ffb5befd63e74bd1846c2d726d6ae49f8491b75520d2",
   "author": "ClashModule",
   "updatedAt": 1795094539048,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "4a07a97d2f6a427c172c43c6c89539aefb4c8488f711711372bbf93f88e78dd5"
+    "03343ed3a090d87eb778ffb5befd63e74bd1846c2d726d6ae49f8491b75520d2"
   ]
 }

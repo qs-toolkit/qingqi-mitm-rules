@@ -7,7 +7,7 @@
   "name": "驾校一点通",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b02ee9292f6af99966234c3fe749f6a84afc97da51c7e95896e7c4e72e9f499a",
+  "revisionId": "ac5321e94d44884087aa9aef70e8b8ed731cf336ebcf672ac277c5deb63862f6",
   "author": "fmz200",
   "updatedAt": 1795094539220,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b02ee9292f6af99966234c3fe749f6a84afc97da51c7e95896e7c4e72e9f499a"
+    "ac5321e94d44884087aa9aef70e8b8ed731cf336ebcf672ac277c5deb63862f6"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "大众点评",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fe81cc727adf300f990d410f723d97f4974ee42f51a7dcee99c911da26968f7b",
+  "revisionId": "dc7f352da18bfd8a03d459e7157f51236c229ea2a9d49ba44743df6893d13bea",
   "author": "fmz200",
   "updatedAt": 1795094539200,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fe81cc727adf300f990d410f723d97f4974ee42f51a7dcee99c911da26968f7b"
+    "dc7f352da18bfd8a03d459e7157f51236c229ea2a9d49ba44743df6893d13bea"
   ]
 }

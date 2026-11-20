@@ -7,7 +7,7 @@
   "name": "简讯",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "addb0c4b76c200db1e2ed7694c100aad4d437db82bf5ba7b398d91477161352f",
+  "revisionId": "da7e6aae9641e0a397b107ed129befaf60c207af9b0658b6e268878cc98f3773",
   "author": "fmz200",
   "updatedAt": 1795094539220,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "addb0c4b76c200db1e2ed7694c100aad4d437db82bf5ba7b398d91477161352f"
+    "da7e6aae9641e0a397b107ed129befaf60c207af9b0658b6e268878cc98f3773"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "京东金融",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a0450962f210993dd0615878eb6b7e4e1a1ea7b2a439d784225380a66cb3b08c",
+  "revisionId": "5c97af52ba845bc44ca1085808c7d692fa3480a666656385263480cd296dd274",
   "author": "fmz200",
   "updatedAt": 1795094539219,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a0450962f210993dd0615878eb6b7e4e1a1ea7b2a439d784225380a66cb3b08c"
+    "5c97af52ba845bc44ca1085808c7d692fa3480a666656385263480cd296dd274"
   ]
 }

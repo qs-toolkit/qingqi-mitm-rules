@@ -7,7 +7,7 @@
   "name": "嗨学",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "05d374f5eff9e48d42e1a64d9268e004fb077e62f02f5c6703b95ea6d34ce61f",
+  "revisionId": "0c3117bd4bf14dd2cd07a9f2cfcedc8d8705bd3db79259b7a91ae3b3fb890336",
   "author": "fmz200",
   "updatedAt": 1795094539213,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "05d374f5eff9e48d42e1a64d9268e004fb077e62f02f5c6703b95ea6d34ce61f"
+    "0c3117bd4bf14dd2cd07a9f2cfcedc8d8705bd3db79259b7a91ae3b3fb890336"
   ]
 }

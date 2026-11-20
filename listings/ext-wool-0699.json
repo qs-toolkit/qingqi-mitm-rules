@@ -7,7 +7,7 @@
   "name": "中关村在线",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "abd32bdd2fafc650a6ca3df6b839f448bb25c5ab4ea4e6a54bf2dcc41f06a63f",
+  "revisionId": "d83c19847987fda9a54f70ce1aef1208ac4d8f43026d5613c21a847bcd24adde",
   "author": "fmz200",
   "updatedAt": 1795094539280,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "abd32bdd2fafc650a6ca3df6b839f448bb25c5ab4ea4e6a54bf2dcc41f06a63f"
+    "d83c19847987fda9a54f70ce1aef1208ac4d8f43026d5613c21a847bcd24adde"
   ]
 }

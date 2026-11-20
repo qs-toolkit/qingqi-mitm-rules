@@ -7,7 +7,7 @@
   "name": "本来生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "638bfe09f184931851f9196076ed86b12bbd7fcabbbaab78bc741dad08f0f3a9",
+  "revisionId": "68193f80f07feee131721fb5aae6b6f836bdd2613bf1bc0995b665b67d00f964",
   "author": "fmz200",
   "updatedAt": 1795094539256,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "638bfe09f184931851f9196076ed86b12bbd7fcabbbaab78bc741dad08f0f3a9"
+    "68193f80f07feee131721fb5aae6b6f836bdd2613bf1bc0995b665b67d00f964"
   ]
 }

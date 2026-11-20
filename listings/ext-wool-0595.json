@@ -7,7 +7,7 @@
   "name": "晓晓优选",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0be6145d9e1fdd101ae5fe0c12a4dcd9632f8268b4a9cda5cca94842c823ba3d",
+  "revisionId": "149c96163e4b8aa512900c87d3eab245459e3a6cacee6cabb492f9949e3bccf5",
   "author": "fmz200",
   "updatedAt": 1795094539266,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0be6145d9e1fdd101ae5fe0c12a4dcd9632f8268b4a9cda5cca94842c823ba3d"
+    "149c96163e4b8aa512900c87d3eab245459e3a6cacee6cabb492f9949e3bccf5"
   ]
 }

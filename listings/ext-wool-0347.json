@@ -7,7 +7,7 @@
   "name": "美团 & 美团外卖",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "23185dec26e4115456a6adc72466e4ac911de373e21d98552282e2aa7047a277",
+  "revisionId": "9db1ff31cb5b5884bbc3e036e8629acb2997f3566186c41e8508b6aec64de4fb",
   "author": "fmz200",
   "updatedAt": 1795094539232,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "23185dec26e4115456a6adc72466e4ac911de373e21d98552282e2aa7047a277"
+    "9db1ff31cb5b5884bbc3e036e8629acb2997f3566186c41e8508b6aec64de4fb"
   ]
 }

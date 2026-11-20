@@ -7,7 +7,7 @@
   "name": "苏打校园APP",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "3c838201424aeb396d72e545eb6abe7c90b9f03b49819f13bfa90a259da18ccc",
+  "revisionId": "d776e824bdb5e5d6399a235db5471944ed4b91ce9173e048f6c3c7ee4b620070",
   "author": "fmz200",
   "updatedAt": 1795094539248,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "3c838201424aeb396d72e545eb6abe7c90b9f03b49819f13bfa90a259da18ccc"
+    "d776e824bdb5e5d6399a235db5471944ed4b91ce9173e048f6c3c7ee4b620070"
   ]
 }

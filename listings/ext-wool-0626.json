@@ -7,7 +7,7 @@
   "name": "央视频",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bd008373582390ef55624b97eba2aee00fccbc70bc7c8e1217c579ccd2ceb8e6",
+  "revisionId": "033a38462aefa17372a4465376e891afda1b5c02e1714f146425316687afa7e0",
   "author": "fmz200",
   "updatedAt": 1795094539270,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "bd008373582390ef55624b97eba2aee00fccbc70bc7c8e1217c579ccd2ceb8e6"
+    "033a38462aefa17372a4465376e891afda1b5c02e1714f146425316687afa7e0"
   ]
 }

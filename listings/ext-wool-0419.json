@@ -7,7 +7,7 @@
   "name": "去哪儿",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8955a7d14b1a534a615dc2e7491d7bcd2ccdbd45409baac9b5a21ced4158513f",
+  "revisionId": "b3fd69115ed315a50ce757487e62db9f3b789cb89fa035b75c6c169045191c69",
   "author": "fmz200",
   "updatedAt": 1795094539241,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8955a7d14b1a534a615dc2e7491d7bcd2ccdbd45409baac9b5a21ced4158513f"
+    "b3fd69115ed315a50ce757487e62db9f3b789cb89fa035b75c6c169045191c69"
   ]
 }

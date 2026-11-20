@@ -7,7 +7,7 @@
   "name": "拼多多",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a3587c4a234c6294ffa48804b2773f60f97b3296693f0ee8726371b331908154",
+  "revisionId": "017b83f90a3686d8777d706d72a6cb1b77bb94df9dde1f0a95d21958a515e7e3",
   "author": "fmz200",
   "updatedAt": 1795094539237,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a3587c4a234c6294ffa48804b2773f60f97b3296693f0ee8726371b331908154"
+    "017b83f90a3686d8777d706d72a6cb1b77bb94df9dde1f0a95d21958a515e7e3"
   ]
 }

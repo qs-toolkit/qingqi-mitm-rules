@@ -7,7 +7,7 @@
   "name": "四季線上影視",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "32078af2f95613240d30674e3c778781cdd53bd89c12f5afd1bb2eadf3470aa5",
+  "revisionId": "94c3bdefda158cf550b4649705890eae2c1b19dc712cfb506350980727ebcc69",
   "author": "fmz200",
   "updatedAt": 1795094539247,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "32078af2f95613240d30674e3c778781cdd53bd89c12f5afd1bb2eadf3470aa5"
+    "94c3bdefda158cf550b4649705890eae2c1b19dc712cfb506350980727ebcc69"
   ]
 }

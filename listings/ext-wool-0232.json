@@ -7,7 +7,7 @@
   "name": "花小猪",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e41d67d960886010b22d4d87ee5dc6196bd9da6dde5d2e7efd514143c7f1dc2c",
+  "revisionId": "cf79e428b6ddc1d8e4f522d9dec601d59ab50d266204dde366e3ca8fdef3e076",
   "author": "fmz200",
   "updatedAt": 1795094539216,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e41d67d960886010b22d4d87ee5dc6196bd9da6dde5d2e7efd514143c7f1dc2c"
+    "cf79e428b6ddc1d8e4f522d9dec601d59ab50d266204dde366e3ca8fdef3e076"
   ]
 }

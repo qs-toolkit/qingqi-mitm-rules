@@ -7,7 +7,7 @@
   "name": "百度地图",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ae3f01b1b3ca2500427e558b9f355559f9c968157c16d811963a08a318ff7407",
+  "revisionId": "b6a5d3cadb0a941a9740f2df1bd64282f9653e0807996e998a48313ea20d9d7a",
   "author": "fmz200",
   "updatedAt": 1795094539189,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ae3f01b1b3ca2500427e558b9f355559f9c968157c16d811963a08a318ff7407"
+    "b6a5d3cadb0a941a9740f2df1bd64282f9653e0807996e998a48313ea20d9d7a"
   ]
 }

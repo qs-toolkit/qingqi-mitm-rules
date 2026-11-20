@@ -7,7 +7,7 @@
   "name": "滴滴代驾",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "fef1540cc9b9954fd9b94f0b016dfd0ef3b9d575af28080f9c8e82a2a3fd5f42",
+  "revisionId": "37c4b008ee45b753cfdce607927b9f02cf69f4a6e011d8a480af10205487bc94",
   "author": "fmz200",
   "updatedAt": 1795094539199,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "fef1540cc9b9954fd9b94f0b016dfd0ef3b9d575af28080f9c8e82a2a3fd5f42"
+    "37c4b008ee45b753cfdce607927b9f02cf69f4a6e011d8a480af10205487bc94"
   ]
 }

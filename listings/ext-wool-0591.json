@@ -7,7 +7,7 @@
   "name": "小特 - 首选特斯拉中文社区",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "ec1c07d4b6f957457afb36e56a8f5dbae6ec06c0dc696915f5356dd580f1a8dd",
+  "revisionId": "fd8f43b9397589b0180816c4907cdd49714669544b3853ebe909ed507fe2232a",
   "author": "fmz200",
   "updatedAt": 1795094539265,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "ec1c07d4b6f957457afb36e56a8f5dbae6ec06c0dc696915f5356dd580f1a8dd"
+    "fd8f43b9397589b0180816c4907cdd49714669544b3853ebe909ed507fe2232a"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "蓝基因",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6909663626a995be0eded9df4199cf0cc909ef928440cef8d51e30ef07e6b477",
+  "revisionId": "cfebd8ab18b93c237f2e794f4ebf2a27ae1c48f4725651cc6f9b28353897e2e8",
   "author": "fmz200",
   "updatedAt": 1795094539225,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6909663626a995be0eded9df4199cf0cc909ef928440cef8d51e30ef07e6b477"
+    "cfebd8ab18b93c237f2e794f4ebf2a27ae1c48f4725651cc6f9b28353897e2e8"
   ]
 }

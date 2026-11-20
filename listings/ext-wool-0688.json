@@ -7,7 +7,7 @@
   "name": "中国人寿",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8bf1c203fc7d3c09302b2420f2273c67fb52f9170882b6bd9ec2aa8213411f6d",
+  "revisionId": "02d76b715d249b617002147d171c1708935899b64578ac0ba83952f62bb375e9",
   "author": "fmz200",
   "updatedAt": 1795094539278,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8bf1c203fc7d3c09302b2420f2273c67fb52f9170882b6bd9ec2aa8213411f6d"
+    "02d76b715d249b617002147d171c1708935899b64578ac0ba83952f62bb375e9"
   ]
 }

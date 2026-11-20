@@ -7,7 +7,7 @@
   "name": "华宝智投",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "46605ee13305e73d8d3c876a00d5be86fcf92a5a5b84f84de02d2b42449878ca",
+  "revisionId": "4572656fbbf840b9c9d3a23285a18fc0c560018253c111b61487de2c9f1da2a7",
   "author": "fmz200",
   "updatedAt": 1795094539215,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "46605ee13305e73d8d3c876a00d5be86fcf92a5a5b84f84de02d2b42449878ca"
+    "4572656fbbf840b9c9d3a23285a18fc0c560018253c111b61487de2c9f1da2a7"
   ]
 }

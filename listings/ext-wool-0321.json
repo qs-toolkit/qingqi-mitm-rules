@@ -7,7 +7,7 @@
   "name": "旅途随身听",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "607876a1024d16cc45d002cec4b7433250ecfc5ca649c12e6a4442465fce50b3",
+  "revisionId": "272696f85b891b7514602d2cd71350873ae3acd697236c3117f18fc146c40137",
   "author": "fmz200",
   "updatedAt": 1795094539228,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "607876a1024d16cc45d002cec4b7433250ecfc5ca649c12e6a4442465fce50b3"
+    "272696f85b891b7514602d2cd71350873ae3acd697236c3117f18fc146c40137"
   ]
 }

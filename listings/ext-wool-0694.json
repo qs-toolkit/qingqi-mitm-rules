@@ -7,7 +7,7 @@
   "name": "中国联通",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "480b33fc09e52de488d311bc8b3770f52e886029559d8adc96dc931eacd2030f",
+  "revisionId": "63e70eddd005e388e3b6253b1e7f12c2bf26bf8ab3e431cbc5becea80ba6caad",
   "author": "fmz200",
   "updatedAt": 1795094539279,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "480b33fc09e52de488d311bc8b3770f52e886029559d8adc96dc931eacd2030f"
+    "63e70eddd005e388e3b6253b1e7f12c2bf26bf8ab3e431cbc5becea80ba6caad"
   ]
 }

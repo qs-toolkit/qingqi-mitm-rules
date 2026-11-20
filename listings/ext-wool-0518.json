@@ -7,7 +7,7 @@
   "name": "U净",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "139460f25c03fb6665a64845bd5e0fdb59ee1385c29b3b17431f9817006673d6",
+  "revisionId": "11a9bd9248daf4cdc2a3a95de78339df0a993212134acd1855124b13127789d1",
   "author": "fmz200",
   "updatedAt": 1795094539255,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "139460f25c03fb6665a64845bd5e0fdb59ee1385c29b3b17431f9817006673d6"
+    "11a9bd9248daf4cdc2a3a95de78339df0a993212134acd1855124b13127789d1"
   ]
 }

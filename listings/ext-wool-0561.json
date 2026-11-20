@@ -7,7 +7,7 @@
   "name": "携程",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0bab0faded0da984a3c6b7fa43c4483b44e5a965e260a88aa8e050e63c3f0bec",
+  "revisionId": "a4fcfbeca158f4a9b2acf7beef33375dfa609225b4e97ee30ec5e937b63f2bfd",
   "author": "fmz200",
   "updatedAt": 1795094539261,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0bab0faded0da984a3c6b7fa43c4483b44e5a965e260a88aa8e050e63c3f0bec"
+    "a4fcfbeca158f4a9b2acf7beef33375dfa609225b4e97ee30ec5e937b63f2bfd"
   ]
 }

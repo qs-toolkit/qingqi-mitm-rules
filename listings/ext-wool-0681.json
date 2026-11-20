@@ -7,7 +7,7 @@
   "name": "字节跳动",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4c4decff8b7359722082a73da5349bd341d919c2e7902ca2aed6698c2b411b47",
+  "revisionId": "294cf6bac918de1dc323542b85a2a4f32b1c57fa326612501956c39497dafb2a",
   "author": "fmz200",
   "updatedAt": 1795094539277,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4c4decff8b7359722082a73da5349bd341d919c2e7902ca2aed6698c2b411b47"
+    "294cf6bac918de1dc323542b85a2a4f32b1c57fa326612501956c39497dafb2a"
   ]
 }

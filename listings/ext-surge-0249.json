@@ -7,7 +7,7 @@
   "name": "🐻 快看漫画 [签到]",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "6991eb95bd6ed7ac7c283954ce53a70c9b01413d53a0d53de9fe7459089b366c",
+  "revisionId": "cb3ac89b06ffa059be22ab6cf081ccdcf3c165d4efffe650f211ec46ed19856b",
   "author": "ClashModule",
   "updatedAt": 1795094539070,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "6991eb95bd6ed7ac7c283954ce53a70c9b01413d53a0d53de9fe7459089b366c"
+    "cb3ac89b06ffa059be22ab6cf081ccdcf3c165d4efffe650f211ec46ed19856b"
   ]
 }

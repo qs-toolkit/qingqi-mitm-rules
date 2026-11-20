@@ -7,7 +7,7 @@
   "name": "酷安",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c5abf4682f432fe25764b3aab752a6853f212b2c98af46eec2861d802e2aba5c",
+  "revisionId": "3ae15336fc2bac060445633e30f9a5b7b0af965c93784f2885ba661ef03bdd8b",
   "author": "fmz200",
   "updatedAt": 1795094539221,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c5abf4682f432fe25764b3aab752a6853f212b2c98af46eec2861d802e2aba5c"
+    "3ae15336fc2bac060445633e30f9a5b7b0af965c93784f2885ba661ef03bdd8b"
   ]
 }

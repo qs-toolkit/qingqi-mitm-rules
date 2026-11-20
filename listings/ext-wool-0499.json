@@ -7,7 +7,7 @@
   "name": "天翼云盘",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7bb7cd12ce55d8266efc4ba3a6fc0c41ac12297a3096f49fb60acbdc9995f8ad",
+  "revisionId": "6d01d45b029c3ec6fd29305b51c5eafca6f3f3ab811add3a3c6c05e4e3d005de",
   "author": "fmz200",
   "updatedAt": 1795094539252,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7bb7cd12ce55d8266efc4ba3a6fc0c41ac12297a3096f49fb60acbdc9995f8ad"
+    "6d01d45b029c3ec6fd29305b51c5eafca6f3f3ab811add3a3c6c05e4e3d005de"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "印象笔记",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f565cc94b606b00c8555a0623c994b8019802d664a28748a131a85c8a1e89f26",
+  "revisionId": "1239464b9c838342657f16a735c9bd3e60e931cfa026075299b47cba6d1c721d",
   "author": "fmz200",
   "updatedAt": 1795094539270,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f565cc94b606b00c8555a0623c994b8019802d664a28748a131a85c8a1e89f26"
+    "1239464b9c838342657f16a735c9bd3e60e931cfa026075299b47cba6d1c721d"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "爱奇艺",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1751183918c8851cc80223b2a29a817da1d8fd900278f5aa97209330aa02a160",
+  "revisionId": "cb2b6f53cdc37b34082191e936d2db1f71ffba6e6df9dc7bc6b81371900bac1e",
   "author": "fmz200",
   "updatedAt": 1795094539188,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "1751183918c8851cc80223b2a29a817da1d8fd900278f5aa97209330aa02a160"
+    "cb2b6f53cdc37b34082191e936d2db1f71ffba6e6df9dc7bc6b81371900bac1e"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "得物",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b12f50b138f9cdd28d4b65bc33e76d228fdef1500302060e86b00a6249b7f39f",
+  "revisionId": "2632846e8eda5b133f171ff8ab6ec36ae40b0086226d433bcd35d8e78271e65a",
   "author": "fmz200",
   "updatedAt": 1795094539199,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b12f50b138f9cdd28d4b65bc33e76d228fdef1500302060e86b00a6249b7f39f"
+    "2632846e8eda5b133f171ff8ab6ec36ae40b0086226d433bcd35d8e78271e65a"
   ]
 }

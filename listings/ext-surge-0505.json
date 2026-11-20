@@ -7,7 +7,7 @@
   "name": "🍟 Fries: 🌐 General Enhanced",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "2a6427ac07468c33c60a4046c8b5481ce70b81120a641d4f414dc9f4f24e0865",
+  "revisionId": "57625d9e64745549da2bbc83ff3ed6e118e1335b8776a7578ef6f9c9916b8b8d",
   "author": "ClashModule",
   "updatedAt": 1795094539107,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "2a6427ac07468c33c60a4046c8b5481ce70b81120a641d4f414dc9f4f24e0865"
+    "57625d9e64745549da2bbc83ff3ed6e118e1335b8776a7578ef6f9c9916b8b8d"
   ]
 }

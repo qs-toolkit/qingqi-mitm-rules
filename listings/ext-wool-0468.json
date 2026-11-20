@@ -7,7 +7,7 @@
   "name": "太平洋知科技",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "50c9dd0c30e4b7619cd8e5a07c6ea6c3293d83bffd62dd3a536cd2fd90109984",
+  "revisionId": "1f48c7ed39391648eb5c3f6754a0732267a6647f1cc73bbbd05078ae92c46b90",
   "author": "fmz200",
   "updatedAt": 1795094539248,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "50c9dd0c30e4b7619cd8e5a07c6ea6c3293d83bffd62dd3a536cd2fd90109984"
+    "1f48c7ed39391648eb5c3f6754a0732267a6647f1cc73bbbd05078ae92c46b90"
   ]
 }

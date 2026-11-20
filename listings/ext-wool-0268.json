@@ -7,7 +7,7 @@
   "name": "今日水印相机",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "8c019e24593bd0cf00d8dfa91dce771a9cc066527cc9775b6db1f5c2feb08a4f",
+  "revisionId": "b003098cf786c72a46bb259363db56063afa9c1f5a31ae4928c08a8ee594b40a",
   "author": "fmz200",
   "updatedAt": 1795094539220,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "8c019e24593bd0cf00d8dfa91dce771a9cc066527cc9775b6db1f5c2feb08a4f"
+    "b003098cf786c72a46bb259363db56063afa9c1f5a31ae4928c08a8ee594b40a"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "安吉星",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d21929f8116e2487c8509a43096e6b12d105bcd022ecfbbc557f989027c7aa47",
+  "revisionId": "6afff24387e2a93cff40ff8a071c7a2c161e81d4d329356c28e1898ffbf1eaa7",
   "author": "fmz200",
   "updatedAt": 1795094539188,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d21929f8116e2487c8509a43096e6b12d105bcd022ecfbbc557f989027c7aa47"
+    "6afff24387e2a93cff40ff8a071c7a2c161e81d4d329356c28e1898ffbf1eaa7"
   ]
 }

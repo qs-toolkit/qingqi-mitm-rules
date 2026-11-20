@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "优酷",
+  "description": "fmz200/wool_scripts",
+  "scope": [],
+  "text": "#!name=优酷\n#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！\n#!author=奶思\n#!homepage=https://github.com/fmz200/wool_scripts\n#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif\n#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/split/partY/Youku.lpx\n#!tg-channel=https://t.me/inaisi\n#!date=2026-11-11 21:17:23\n#!format=sgmodule\n\n[URL Rewrite]\nrequest if ${url} ~= /^https?:\\/\\/acs\\.youku\\.com\\/gw\\/mtop\\.youku\\.(pisp\\.scripts\\.get|xspace\\.play\\.position\\.preload\\.query|xspace\\.poplayer\\.position\\.query)/i then reject_dict(200)\n\n[Rule]\nDOMAIN-SUFFIX, partner.uc.cn,REJECT\nDOMAIN-SUFFIX, ubixioe.com,REJECT\nDOMAIN-SUFFIX, uczzd.cn,REJECT\nDOMAIN-SUFFIX, ranfenghd.com,REJECT\nDOMAIN-SUFFIX, zconfig.alibabausercontent.com,REJECT\nDOMAIN-SUFFIX, bgg.baidu.com,REJECT\nDOMAIN-SUFFIX, adx-core.youku.com,REJECT\nDOMAIN-SUFFIX, adx-open-service.youku.com,REJECT\nDOMAIN-SUFFIX, rhdc-acs.youku.com,REJECT\nDOMAIN, httpdns.alicdn.com,REJECT\nDOMAIN, adsmind.ugdtimg.com,REJECT\nDOMAIN, amdc.m.youku.com,REJECT\nDOMAIN, apiv4-iyes.youku.com,REJECT\nDOMAIN, yk-ssp.ad.youku.com,REJECT\nDOMAIN, ykad-data.youku.com,REJECT\nDOMAIN, ad.mobile.youku.com,REJECT\nDOMAIN-SUFFIX, ad.api.3g.tudou.com,REJECT\nDOMAIN-SUFFIX, ad.api.3g.youku.com,REJECT\nDOMAIN-SUFFIX, ad.api.mobile.youku.com,REJECT\nDOMAIN-SUFFIX, gamex.mobile.youku.com,REJECT\nDOMAIN-SUFFIX, p.l.youku.com,REJECT\nDOMAIN-SUFFIX, r.l.youku.com,REJECT\nDOMAIN-SUFFIX, v.l.youku.com,REJECT\nDOMAIN-SUFFIX, l.ykimg.com,REJECT\nDOMAIN-SUFFIX, p-log.ykimg.com,REJECT\nDOMAIN-SUFFIX, s.p.youku.com,REJECT\nDOMAIN-SUFFIX, tdrec.youku.com,REJECT\nDOMAIN-SUFFIX, test.ott.youku.com,REJECT\n\n[MITM]\nhostname = %APPEND% acs.youku.com, push.m.youku.com, un-acs.youku.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

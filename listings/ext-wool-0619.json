@@ -7,7 +7,7 @@
   "name": "讯飞",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "dbd52942be939f1b7b10403f4cc4c22949bca3e8ab49390d545e393c75e17a77",
+  "revisionId": "7060e0ab26ebd851ce8141f177ead2035a4de808c88d67d32743a32a0098f173",
   "author": "fmz200",
   "updatedAt": 1795094539269,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "dbd52942be939f1b7b10403f4cc4c22949bca3e8ab49390d545e393c75e17a77"
+    "7060e0ab26ebd851ce8141f177ead2035a4de808c88d67d32743a32a0098f173"
   ]
 }

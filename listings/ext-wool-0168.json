@@ -7,7 +7,7 @@
   "name": "复游会微信小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7b5ac4d0732439f9641967bea0094634f1e257d804bdd88d508fceac58695df8",
+  "revisionId": "8dc7b9ae60f7a4a2281f0f36b980269125f74967b929c3cb883f026d191a95f7",
   "author": "fmz200",
   "updatedAt": 1795094539205,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7b5ac4d0732439f9641967bea0094634f1e257d804bdd88d508fceac58695df8"
+    "8dc7b9ae60f7a4a2281f0f36b980269125f74967b929c3cb883f026d191a95f7"
   ]
 }

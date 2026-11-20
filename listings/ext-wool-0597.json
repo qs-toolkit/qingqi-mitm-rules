@@ -7,7 +7,7 @@
   "name": "小熊拦截",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c8590f4b0f10e19322d282770d43ca99c7b545024928f9a377c54d093d088474",
+  "revisionId": "90a79fdf09b595fcdfbd64fd1d559f03ca226a5f8cc76dcf38975c7702a2eb87",
   "author": "fmz200",
   "updatedAt": 1795094539266,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c8590f4b0f10e19322d282770d43ca99c7b545024928f9a377c54d093d088474"
+    "90a79fdf09b595fcdfbd64fd1d559f03ca226a5f8cc76dcf38975c7702a2eb87"
   ]
 }

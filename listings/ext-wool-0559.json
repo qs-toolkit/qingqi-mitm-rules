@@ -7,7 +7,7 @@
   "name": "无他相机",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "14453a0ec798c7ad2ae0d6f424c26a5204ee90056aa4af20abbb668c54acd144",
+  "revisionId": "dec5172618123f7818136510bd05b04e8056ad96014ba3957f7f04f819a3a454",
   "author": "fmz200",
   "updatedAt": 1795094539260,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "14453a0ec798c7ad2ae0d6f424c26a5204ee90056aa4af20abbb668c54acd144"
+    "dec5172618123f7818136510bd05b04e8056ad96014ba3957f7f04f819a3a454"
   ]
 }

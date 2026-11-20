@@ -7,7 +7,7 @@
   "name": "穷游",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7e2e30606e13b2df951d217cde7b5ebe1f22a668317c0763320d1a234b3a9923",
+  "revisionId": "27e03a0af3be7e37526330b6d20dac628170394fd6fbb6773a1b552f61968d6c",
   "author": "fmz200",
   "updatedAt": 1795094539241,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7e2e30606e13b2df951d217cde7b5ebe1f22a668317c0763320d1a234b3a9923"
+    "27e03a0af3be7e37526330b6d20dac628170394fd6fbb6773a1b552f61968d6c"
   ]
 }

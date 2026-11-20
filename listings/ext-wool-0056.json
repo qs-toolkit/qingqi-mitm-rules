@@ -7,7 +7,7 @@
   "name": "宝宝树孕育",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0b284a8e079d976829897d9ccc454af223ae4aac87175ebb76d214f2ddab95d2",
+  "revisionId": "e1e8fa7c542d36817035dfa944f01118ee0d456237acc352edca7dd686571e4b",
   "author": "fmz200",
   "updatedAt": 1795094539189,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0b284a8e079d976829897d9ccc454af223ae4aac87175ebb76d214f2ddab95d2"
+    "e1e8fa7c542d36817035dfa944f01118ee0d456237acc352edca7dd686571e4b"
   ]
 }

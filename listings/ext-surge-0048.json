@@ -7,7 +7,7 @@
   "name": "去除 keep 广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "95a797a8ff12b79144d3b278dd8580a75f7ff84583068d9e0ddb26791ec97c28",
+  "revisionId": "f2388f6c11c31b6d7bc29a20fc2cd5c5a98d39db518f2f6a6a4562a6a58619af",
   "author": "ClashModule",
   "updatedAt": 1795094539040,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "95a797a8ff12b79144d3b278dd8580a75f7ff84583068d9e0ddb26791ec97c28"
+    "f2388f6c11c31b6d7bc29a20fc2cd5c5a98d39db518f2f6a6a4562a6a58619af"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "大师兄",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b4f46c3e6acc84208953952fe0a85a33f0215d1030d2c8032583846854dc4bf9",
+  "revisionId": "4efc196713ac7946a8ac881079981b0a7716aa1ee08bc1987fd72952b969b88b",
   "author": "fmz200",
   "updatedAt": 1795094539198,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b4f46c3e6acc84208953952fe0a85a33f0215d1030d2c8032583846854dc4bf9"
+    "4efc196713ac7946a8ac881079981b0a7716aa1ee08bc1987fd72952b969b88b"
   ]
 }

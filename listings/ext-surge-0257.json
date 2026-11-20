@@ -7,7 +7,7 @@
   "name": "🍟 Fries: 🚫 Block HTTPDNS",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "07711b95bba27d3b8b9f42eb12ce2889eed60a628a75c5e4e7b1bc9f84e61382",
+  "revisionId": "3911a23ff30167e6384297b194cf939f66f7f9a1985be0a5ccd9c3c4123d5598",
   "author": "ClashModule",
   "updatedAt": 1795094539071,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "07711b95bba27d3b8b9f42eb12ce2889eed60a628a75c5e4e7b1bc9f84e61382"
+    "3911a23ff30167e6384297b194cf939f66f7f9a1985be0a5ccd9c3c4123d5598"
   ]
 }

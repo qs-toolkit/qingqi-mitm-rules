@@ -7,7 +7,7 @@
   "name": "小利生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "e3cab84ad8c6407804125ab220a0189e692d514384f200b46d9dc032d5a54d2c",
+  "revisionId": "6973fef930a50a8c00323ff020a1b517591df6031adb45c1060efe9eb7bcefbd",
   "author": "fmz200",
   "updatedAt": 1795094539264,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "e3cab84ad8c6407804125ab220a0189e692d514384f200b46d9dc032d5a54d2c"
+    "6973fef930a50a8c00323ff020a1b517591df6031adb45c1060efe9eb7bcefbd"
   ]
 }

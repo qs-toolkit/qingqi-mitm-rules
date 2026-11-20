@@ -7,7 +7,7 @@
   "name": "滴滴青桔",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a8c2a1ca9f6fe994391c96df1b32b98dc901e8c5892a8cd21010a47d6b12bb72",
+  "revisionId": "55773b49c2ba59fc3304b7fd0f82cf9f63d79be738a048ac41afabd918a95d6d",
   "author": "fmz200",
   "updatedAt": 1795094539199,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a8c2a1ca9f6fe994391c96df1b32b98dc901e8c5892a8cd21010a47d6b12bb72"
+    "55773b49c2ba59fc3304b7fd0f82cf9f63d79be738a048ac41afabd918a95d6d"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "招财猫直聘",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "7a6bc4c398f46dd3cb22131cf6893c9a51a601cfb5ff9eff28e82f7682a5fba0",
+  "revisionId": "f906a093efe755487c9094249eb2d0c9a57b1df4d53dd51aaf430fa13059de77",
   "author": "fmz200",
   "updatedAt": 1795094539281,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "7a6bc4c398f46dd3cb22131cf6893c9a51a601cfb5ff9eff28e82f7682a5fba0"
+    "f906a093efe755487c9094249eb2d0c9a57b1df4d53dd51aaf430fa13059de77"
   ]
 }

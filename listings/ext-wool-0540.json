@@ -7,7 +7,7 @@
   "name": "唯品会",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "5c21ef33f76d1c2cdd4c90675c986d246cfae2fc7933a7eb572ca4e2a92184c5",
+  "revisionId": "50192e9c32892d2dbe02c10d708ef7a3c572f453951c749745b5deb4291d42a1",
   "author": "fmz200",
   "updatedAt": 1795094539258,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "5c21ef33f76d1c2cdd4c90675c986d246cfae2fc7933a7eb572ca4e2a92184c5"
+    "50192e9c32892d2dbe02c10d708ef7a3c572f453951c749745b5deb4291d42a1"
   ]
 }

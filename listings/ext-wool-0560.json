@@ -7,7 +7,7 @@
   "name": "香蕉是一种水果",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b1a1cb8de346dd72f9465a5302b118d37582eeed4f0b01a2a58c2dcfff56c3e1",
+  "revisionId": "272b886839b00d683301a7d32247047962147c9ebb11b29c453d0f617f1e8f6f",
   "author": "fmz200",
   "updatedAt": 1795094539260,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b1a1cb8de346dd72f9465a5302b118d37582eeed4f0b01a2a58c2dcfff56c3e1"
+    "272b886839b00d683301a7d32247047962147c9ebb11b29c453d0f617f1e8f6f"
   ]
 }

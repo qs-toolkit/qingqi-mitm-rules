@@ -7,7 +7,7 @@
   "name": "美丽修行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "bf0c41f4739c71aa23d71dd3bb9ee746ce844ead6feac2000ba8e89592411cda",
+  "revisionId": "6dff94c81126c0075fb087a3f4299eb371a4f70ad60ed7c3e001b7fdbe825e3d",
   "author": "fmz200",
   "updatedAt": 1795094539231,
   "targets": [],
@@ -18,6 +18,6 @@
     "Surge"
   ],
   "revisions": [
-    "bf0c41f4739c71aa23d71dd3bb9ee746ce844ead6feac2000ba8e89592411cda"
+    "6dff94c81126c0075fb087a3f4299eb371a4f70ad60ed7c3e001b7fdbe825e3d"
   ]
 }

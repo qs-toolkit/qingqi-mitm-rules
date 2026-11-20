@@ -7,7 +7,7 @@
   "name": "起点App去广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "7f933d058d9baaf1433c9ecb1071cda68cdad007a09358985cea03f030be8117",
+  "revisionId": "c3552766a1f55065d1d5d78a287be72657eefb1598f73cfe332676c22b99e1da",
   "author": "ClashModule",
   "updatedAt": 1795094539097,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "7f933d058d9baaf1433c9ecb1071cda68cdad007a09358985cea03f030be8117"
+    "c3552766a1f55065d1d5d78a287be72657eefb1598f73cfe332676c22b99e1da"
   ]
 }

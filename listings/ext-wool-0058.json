@@ -7,7 +7,7 @@
   "name": "百度",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "4b56e1a6f9d2a68dc7673356fe352eaf98d29322d6d022225b4c580212fa4aed",
+  "revisionId": "b42b97eed2424257f39c35eb4d82ca84f8132bda3784c4b25ed80f83f4e884bc",
   "author": "fmz200",
   "updatedAt": 1795094539189,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "4b56e1a6f9d2a68dc7673356fe352eaf98d29322d6d022225b4c580212fa4aed"
+    "b42b97eed2424257f39c35eb4d82ca84f8132bda3784c4b25ed80f83f4e884bc"
   ]
 }

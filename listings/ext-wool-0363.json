@@ -7,7 +7,7 @@
   "name": "南方航空",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "769112c8a6c3105565926cb960d57d52d49eb0de45861de8d9baa3ec9764c956",
+  "revisionId": "2d7c2c3ea655078effb56cfe339c42bc9a8396c6c2c39dbd16ff8cdd7a1031c1",
   "author": "fmz200",
   "updatedAt": 1795094539234,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "769112c8a6c3105565926cb960d57d52d49eb0de45861de8d9baa3ec9764c956"
+    "2d7c2c3ea655078effb56cfe339c42bc9a8396c6c2c39dbd16ff8cdd7a1031c1"
   ]
 }

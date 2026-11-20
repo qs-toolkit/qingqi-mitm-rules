@@ -7,7 +7,7 @@
   "name": "稀饭动漫",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "78978bb46466013fe8924b5aaa3140fce1d0c11eef1d86bfffa9f2eececc4924",
+  "revisionId": "69e1202308989ed3614ca4e154e2e4b07ddd0ebf680285df1aca47fcd5932bbd",
   "author": "fmz200",
   "updatedAt": 1795094539262,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "78978bb46466013fe8924b5aaa3140fce1d0c11eef1d86bfffa9f2eececc4924"
+    "69e1202308989ed3614ca4e154e2e4b07ddd0ebf680285df1aca47fcd5932bbd"
   ]
 }

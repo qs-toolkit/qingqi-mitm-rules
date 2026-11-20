@@ -7,7 +7,7 @@
   "name": "鸭奈飞",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "88b6e1ff3a19a61aaaf0cbab506c4008317d8c4de22402372607b34369aaf689",
+  "revisionId": "450b65a307507bedee5e58d19b75cf301d715f2f156e9517c26219afc288e5c8",
   "author": "fmz200",
   "updatedAt": 1795094539272,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "88b6e1ff3a19a61aaaf0cbab506c4008317d8c4de22402372607b34369aaf689"
+    "450b65a307507bedee5e58d19b75cf301d715f2f156e9517c26219afc288e5c8"
   ]
 }

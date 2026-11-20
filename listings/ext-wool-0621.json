@@ -7,7 +7,7 @@
   "name": "友邦",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "adb13f1855704f4ec1530dd872457e3a7b996e6a95833a2fa25ef73eaaeeab18",
+  "revisionId": "371f8ad56a41c9eb2e491cb6a28b72eceeee239c6481ac54499c8cc2720d0915",
   "author": "fmz200",
   "updatedAt": 1795094539269,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "adb13f1855704f4ec1530dd872457e3a7b996e6a95833a2fa25ef73eaaeeab18"
+    "371f8ad56a41c9eb2e491cb6a28b72eceeee239c6481ac54499c8cc2720d0915"
   ]
 }

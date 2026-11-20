@@ -7,7 +7,7 @@
   "name": "🍟 DualSubsNetflix.official",
   "description": " Surge",
   "scope": [],
-  "revisionId": "da84f493a326ac19e74452831bc72e83e2e586f9de116c72bb51a7bf7e5950c2",
+  "revisionId": "689e77751ca534987c296212d9c58d63fbdf641eabd36e7e8a08418ffd99bb2a",
   "author": "ClashModule",
   "updatedAt": 1795094539106,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "da84f493a326ac19e74452831bc72e83e2e586f9de116c72bb51a7bf7e5950c2"
+    "689e77751ca534987c296212d9c58d63fbdf641eabd36e7e8a08418ffd99bb2a"
   ]
 }

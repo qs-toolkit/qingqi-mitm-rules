@@ -7,7 +7,7 @@
   "name": "苏e行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0a58a007bd5ac4045527c38b28fce7e4ce9e35e429b13af54ecff6b8d81ae93b",
+  "revisionId": "e733f2071e314ec861601549b8eb7860b3f3cbd177c6946541bfd441d7e4887b",
   "author": "fmz200",
   "updatedAt": 1795094539248,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0a58a007bd5ac4045527c38b28fce7e4ce9e35e429b13af54ecff6b8d81ae93b"
+    "e733f2071e314ec861601549b8eb7860b3f3cbd177c6946541bfd441d7e4887b"
   ]
 }

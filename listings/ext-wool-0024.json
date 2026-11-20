@@ -7,7 +7,7 @@
   "name": "51信用卡管家",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b81e4c48e361a5848b5280f0f776ac1f0df78a8119ddab8122601fc6e90da874",
+  "revisionId": "cac4bdf48b5c3ec9f1d64d1e507c97e1e41f31acf4c81db59a5b9b6f3c0e8cca",
   "author": "fmz200",
   "updatedAt": 1795094539184,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b81e4c48e361a5848b5280f0f776ac1f0df78a8119ddab8122601fc6e90da874"
+    "cac4bdf48b5c3ec9f1d64d1e507c97e1e41f31acf4c81db59a5b9b6f3c0e8cca"
   ]
 }

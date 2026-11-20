@@ -7,7 +7,7 @@
   "name": "票根",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "db63dbc89386906fc4c1272431253787697345d18793bc4e873d42454c8fc500",
+  "revisionId": "5c0b814a89995596247aea4454e21a33941598f9ff1da7239b9a0cf3ea29ee32",
   "author": "fmz200",
   "updatedAt": 1795094539237,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "db63dbc89386906fc4c1272431253787697345d18793bc4e873d42454c8fc500"
+    "5c0b814a89995596247aea4454e21a33941598f9ff1da7239b9a0cf3ea29ee32"
   ]
 }

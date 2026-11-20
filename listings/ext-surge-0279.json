@@ -7,7 +7,7 @@
   "name": "1.去除常用软件广告",
   "description": "Surge 模块",
   "scope": [],
-  "revisionId": "2ca0723d858d4693cb5c9550ca7f4cf2dd30c0d0b8fb2e91eb773d8bdc489943",
+  "revisionId": "aeb0da4c5189b9de537933fbf6e323233505026caa1f97ddff36e20604f98010",
   "author": "ClashModule",
   "updatedAt": 1795094539075,
   "targets": [],
@@ -17,6 +17,6 @@
     "Surge"
   ],
   "revisions": [
-    "2ca0723d858d4693cb5c9550ca7f4cf2dd30c0d0b8fb2e91eb773d8bdc489943"
+    "aeb0da4c5189b9de537933fbf6e323233505026caa1f97ddff36e20604f98010"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "邮储银行",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "6dc3161ef3f23ece9e56c0a0c44c2d98bc4f0aeb8712ac0b51d7374f30d3db28",
+  "revisionId": "491e0a45ca270b4fbfe716f850088fc5a7b30704ba30e89713f783bfe86ce28c",
   "author": "fmz200",
   "updatedAt": 1795094539271,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "6dc3161ef3f23ece9e56c0a0c44c2d98bc4f0aeb8712ac0b51d7374f30d3db28"
+    "491e0a45ca270b4fbfe716f850088fc5a7b30704ba30e89713f783bfe86ce28c"
   ]
 }

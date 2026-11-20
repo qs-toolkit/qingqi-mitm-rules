@@ -7,7 +7,7 @@
   "name": "朴朴超市",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9473e970299ad28ae799c88b409d2abced7d4bf14631eca688242e737a9bac83",
+  "revisionId": "1b56cee2fdee4ef2fa8667a5d15ae9041875bd849134b0acc7572097f72bd9b9",
   "author": "fmz200",
   "updatedAt": 1795094539238,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9473e970299ad28ae799c88b409d2abced7d4bf14631eca688242e737a9bac83"
+    "1b56cee2fdee4ef2fa8667a5d15ae9041875bd849134b0acc7572097f72bd9b9"
   ]
 }

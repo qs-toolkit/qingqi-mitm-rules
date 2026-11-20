@@ -7,7 +7,7 @@
   "name": "杭州市民",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "db300ba2c029ad957e60e9e9f4887d8b34d3ee7d153d5c03ffff974b95328d20",
+  "revisionId": "111dffb44c844aeea1527dfe741f0fcdb90022fe8a67d7a256a875a9520ac4f7",
   "author": "fmz200",
   "updatedAt": 1795094539214,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "db300ba2c029ad957e60e9e9f4887d8b34d3ee7d153d5c03ffff974b95328d20"
+    "111dffb44c844aeea1527dfe741f0fcdb90022fe8a67d7a256a875a9520ac4f7"
   ]
 }

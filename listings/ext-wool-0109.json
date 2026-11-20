@@ -7,7 +7,7 @@
   "name": "刺猬猫阅读",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "a5acdc50b120a752fb36d7f93f53dfa73d4d4890b684b331cbe90f56ca738721",
+  "revisionId": "65f7b98d7657c22fb50a4e3f3a41d86f2e37eb4fbb56e4b0f37ea06a0ba002c7",
   "author": "fmz200",
   "updatedAt": 1795094539197,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "a5acdc50b120a752fb36d7f93f53dfa73d4d4890b684b331cbe90f56ca738721"
+    "65f7b98d7657c22fb50a4e3f3a41d86f2e37eb4fbb56e4b0f37ea06a0ba002c7"
   ]
 }

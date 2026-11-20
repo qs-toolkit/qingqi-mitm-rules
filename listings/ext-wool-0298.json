@@ -7,7 +7,7 @@
   "name": "来疯",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "40e704be84aa01f7d51a3b650fcc5f03bd7b386b0c7be0bf5b074d83dbdc45c6",
+  "revisionId": "4c2733d00937bb69495de93dff50c8fbe6dbf0f77e69dac2beedac36e095798e",
   "author": "fmz200",
   "updatedAt": 1795094539224,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "40e704be84aa01f7d51a3b650fcc5f03bd7b386b0c7be0bf5b074d83dbdc45c6"
+    "4c2733d00937bb69495de93dff50c8fbe6dbf0f77e69dac2beedac36e095798e"
   ]
 }

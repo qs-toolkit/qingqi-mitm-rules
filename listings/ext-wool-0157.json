@@ -7,7 +7,7 @@
   "name": "返利网",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f446005bb9d5e5898f3d90b6afda4d95ea8a04eca7b2192890efeb4429ab2a12",
+  "revisionId": "7c4a8bf70de6a375dc381863ed39684f8f5ccd00cc43d23560961160b2dee3d7",
   "author": "fmz200",
   "updatedAt": 1795094539203,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f446005bb9d5e5898f3d90b6afda4d95ea8a04eca7b2192890efeb4429ab2a12"
+    "7c4a8bf70de6a375dc381863ed39684f8f5ccd00cc43d23560961160b2dee3d7"
   ]
 }

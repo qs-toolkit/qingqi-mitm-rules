@@ -7,7 +7,7 @@
   "name": "网易有钱",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "f4120cb0d88bf6f22d1c2bc746c1d04b54d693c72f1122fbac9425f4394b3e1d",
+  "revisionId": "c8bb0861a38962ef8d1485d7828e8e20141bf6f0d5cc0cadb77586aaaf5c70d5",
   "author": "fmz200",
   "updatedAt": 1795094539257,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "f4120cb0d88bf6f22d1c2bc746c1d04b54d693c72f1122fbac9425f4394b3e1d"
+    "c8bb0861a38962ef8d1485d7828e8e20141bf6f0d5cc0cadb77586aaaf5c70d5"
   ]
 }

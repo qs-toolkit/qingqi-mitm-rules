@@ -7,7 +7,7 @@
   "name": "工银E生活",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "9a7972683aa711df980abfbca553599b917f875c10c727de1db5296f26ce50c2",
+  "revisionId": "ebc06622482c39a38a460f2f38192308383b922ad3adc511daae58fd446fd8e1",
   "author": "fmz200",
   "updatedAt": 1795094539211,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "9a7972683aa711df980abfbca553599b917f875c10c727de1db5296f26ce50c2"
+    "ebc06622482c39a38a460f2f38192308383b922ad3adc511daae58fd446fd8e1"
   ]
 }

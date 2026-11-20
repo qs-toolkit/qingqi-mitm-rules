@@ -7,7 +7,7 @@
   "name": "顺丰快递",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "d3b9f5696a855f31c6d22020fa29b57cccaafb7242a8658cbbb38b28c3ea3a67",
+  "revisionId": "94aee6f686583037885281f429a866b7e0fd87e63da1b6d6c92a048f8f2e7f09",
   "author": "fmz200",
   "updatedAt": 1795094539244,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "d3b9f5696a855f31c6d22020fa29b57cccaafb7242a8658cbbb38b28c3ea3a67"
+    "94aee6f686583037885281f429a866b7e0fd87e63da1b6d6c92a048f8f2e7f09"
   ]
 }

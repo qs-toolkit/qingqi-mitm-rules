@@ -7,7 +7,7 @@
   "name": "猫眼",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "405f44c4e1318e63b04e20d4b55469a4266300750d575dcf6b9fd8aa18908504",
+  "revisionId": "5c872d0ac30f2258a6e03e8a2fce3bf676061f636704fdb11707a7e963c2b699",
   "author": "fmz200",
   "updatedAt": 1795094539231,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "405f44c4e1318e63b04e20d4b55469a4266300750d575dcf6b9fd8aa18908504"
+    "5c872d0ac30f2258a6e03e8a2fce3bf676061f636704fdb11707a7e963c2b699"
   ]
 }

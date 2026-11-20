@@ -7,7 +7,7 @@
   "name": "澎湃新闻",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "c859009f1d84db15f3d7b3a0f9f703c3e160d4e1b2420e1ff6413a84845b5a3e",
+  "revisionId": "c5acc563dc1d038b995c2f1bae6151ac4f109a8ebb2ed86163d13f58f8e6a925",
   "author": "fmz200",
   "updatedAt": 1795094539238,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "c859009f1d84db15f3d7b3a0f9f703c3e160d4e1b2420e1ff6413a84845b5a3e"
+    "c5acc563dc1d038b995c2f1bae6151ac4f109a8ebb2ed86163d13f58f8e6a925"
   ]
 }

@@ -7,7 +7,7 @@
   "name": "美团充电宝小程序",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "380eb26e716ace55d95ca83ae615d1beefa505db5146678685eed1b8904234c1",
+  "revisionId": "b14902cc9ad9aea60d1525891bb60f7221966096999fd25000d53021403da90d",
   "author": "fmz200",
   "updatedAt": 1795094539232,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "380eb26e716ace55d95ca83ae615d1beefa505db5146678685eed1b8904234c1"
+    "b14902cc9ad9aea60d1525891bb60f7221966096999fd25000d53021403da90d"
   ]
 }

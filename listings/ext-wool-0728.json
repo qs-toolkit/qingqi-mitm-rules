@@ -7,7 +7,7 @@
   "name": "自如",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "0ff79db8170a415f5648addfcfdad46d291c28c5e75d609438ca98a35b681b3e",
+  "revisionId": "52ef2be422cf02d94d7d20726b7134cef1f95f764f2059a47b0e318d5b848583",
   "author": "fmz200",
   "updatedAt": 1795094539284,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "0ff79db8170a415f5648addfcfdad46d291c28c5e75d609438ca98a35b681b3e"
+    "52ef2be422cf02d94d7d20726b7134cef1f95f764f2059a47b0e318d5b848583"
   ]
 }

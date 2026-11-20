@@ -7,7 +7,7 @@
   "name": "黄油相机",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "da1d9096495a78106078a42358f0ed541c0aa97bf3691a86eb61315bee2c750d",
+  "revisionId": "e2dfd488021a01531a490de2a7e36387e3f641a3d21751adbae0f1f72af81cda",
   "author": "fmz200",
   "updatedAt": 1795094539216,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "da1d9096495a78106078a42358f0ed541c0aa97bf3691a86eb61315bee2c750d"
+    "e2dfd488021a01531a490de2a7e36387e3f641a3d21751adbae0f1f72af81cda"
   ]
 }

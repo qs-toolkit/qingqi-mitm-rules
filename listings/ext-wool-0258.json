@@ -7,7 +7,7 @@
   "name": "京东读书",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "2b02147e6694b519575ece9803e6e56383a4f2569520f0283d0a3e845285d4d4",
+  "revisionId": "e34e7494a7436d1c3c4a6e82e2b824c59486432518511fe80cae15813448d654",
   "author": "fmz200",
   "updatedAt": 1795094539219,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "2b02147e6694b519575ece9803e6e56383a4f2569520f0283d0a3e845285d4d4"
+    "e34e7494a7436d1c3c4a6e82e2b824c59486432518511fe80cae15813448d654"
   ]
 }

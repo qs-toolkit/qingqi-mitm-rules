@@ -7,7 +7,7 @@
   "name": "彩云天气",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "b94b84d37bd89a2323a9ed9b70ab6e42836d5fdb17c124741470d58bd36432e8",
+  "revisionId": "9795bc420143ad140e27743d984e7f9fae9083e0b8f90c8094943847229f3fa3",
   "author": "fmz200",
   "updatedAt": 1795094539195,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "b94b84d37bd89a2323a9ed9b70ab6e42836d5fdb17c124741470d58bd36432e8"
+    "9795bc420143ad140e27743d984e7f9fae9083e0b8f90c8094943847229f3fa3"
   ]
 }

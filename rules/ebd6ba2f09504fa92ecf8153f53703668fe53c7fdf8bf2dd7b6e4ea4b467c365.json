@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "name": "中国联通 去广告",
+  "description": "Surge 模块",
+  "scope": [],
+  "text": "#!name=中国联通 去广告\n#!desc=去开屏\n#!category=xream\n#!format=sgmodule\n\n[Map Local]\n^https?:\\/\\/m\\.client\\.10010\\.com\\/mobileService\\/customer\\/accountListData\\.htm data-type=text data='{\"imgIndex\":\"0\",\"adv\":{\"startup_adv\":{\"advCntList\":[],\"buttonList\":[]}},\"respCode\":\"0000\"}' header='Content-Type:application/json'\n\n[MITM]\nhostname = %APPEND% m.client.10010.com\n",
+  "scriptResources": [],
+  "dataResources": [],
+  "scriptsEnabled": false,
+  "scriptScope": "*",
+  "argumentsJson": "{}",
+  "jsonPackage": ""
+}

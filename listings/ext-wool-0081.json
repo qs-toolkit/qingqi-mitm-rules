@@ -7,7 +7,7 @@
   "name": "波点音乐",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "33279c273db90b1560624fb88df01e705218810577c531afee2c7d79017b77ee",
+  "revisionId": "5a8c8c5f0e567aac5580214916f99fb2865d500bb96ecee98c2743d7ea603a8f",
   "author": "fmz200",
   "updatedAt": 1795094539192,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "33279c273db90b1560624fb88df01e705218810577c531afee2c7d79017b77ee"
+    "5a8c8c5f0e567aac5580214916f99fb2865d500bb96ecee98c2743d7ea603a8f"
   ]
 }

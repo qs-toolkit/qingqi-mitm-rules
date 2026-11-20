@@ -7,7 +7,7 @@
   "name": "樊登读书",
   "description": "fmz200/wool_scripts",
   "scope": [],
-  "revisionId": "1d9f067588dc0c21dd7719b7ffcb6bbff24cd64ebf6768cb96dd3c3fd834016a",
+  "revisionId": "5062eadacf9234ddb8f0608d2517381dc236522d711b34ec1ec3dccad86aa529",
   "author": "fmz200",
   "updatedAt": 1795094539203,
   "targets": [],
@@ -17,6 +17,6 @@
     "wool_scripts"
   ],
   "revisions": [
-    "1d9f067588dc0c21dd7719b7ffcb6bbff24cd64ebf6768cb96dd3c3fd834016a"
+    "5062eadacf9234ddb8f0608d2517381dc236522d711b34ec1ec3dccad86aa529"
   ]
 }
