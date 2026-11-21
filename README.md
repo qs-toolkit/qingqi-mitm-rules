@@ -16,6 +16,8 @@ GitHub 是规则、身份公钥、评论和评分的唯一权威。VPS 的 HTTPS
 ```text
 catalog/index.json                     条目摘要数组，不含 revisions 历史数组
 catalog/user/index.json                当前用户上传条目的独立目录
+scripts/<sha256>.js                   按原始字节摘要保存的脚本
+scripts/index.json                     脚本摘要、大小和来源索引
 listings/<listingId>.json               完整条目与 revisions 历史数组
 rules/<revisionId>.json                 规则包 JSON，文件名必须与正文摘要一致
 identities/<identityId>.json            publicKey（SPKI base64）、nickname、identityId
@@ -30,6 +32,10 @@ reviews/<listingId>/index.json          当前评论记录数组，与单份记�
 合并条目通过 `mergedFrom` 记录原条目及版本。被合并的原条目保存 `supersededBy`，原版本和评价仍可查询。
 
 `iconBundleName` 用于显示已核对的应用图标。默认使用鸿蒙原生图标，可通过 `iconMarketType` 指定应用市场的安卓同款（0）或元服务（21）。规则作用范围由 `scope` 决定。
+
+目录显示可包含 `appName`、`ruleCount`、`rewriteCount`、`scriptCount`。计数针对模块中去重后的声明。脚本资源记录独立于执行开关。
+
+可归档的远程脚本保存在 `scripts/`。模块中引用其公开仓地址，文件名对应原始脚本字节的 SHA-256，来源见 `scripts/index.json`。
 
 规则包的基本格式：
 
