@@ -15,6 +15,7 @@ GitHub 是规则、身份公钥、评论和评分的唯一权威。VPS 的 HTTPS
 
 ```text
 catalog/index.json                     条目摘要数组，不含 revisions 历史数组
+catalog/user/index.json                当前用户上传条目的独立目录
 listings/<listingId>.json               完整条目与 revisions 历史数组
 rules/<revisionId>.json                 规则包 JSON，文件名必须与正文摘要一致
 identities/<identityId>.json            publicKey（SPKI base64）、nickname、identityId
@@ -23,6 +24,12 @@ reviews/<listingId>/index.json          当前评论记录数组，与单份记�
 ```
 
 一个条目含 `listingId`、`ownerIdentityId`、`revisionId`、`revisions`、`name`、`description`、`scope`、`author`、`updatedAt`、`ratingSum`、`ratingCount`、`parentListingId`。`scope: []` 代表全局应用，非空数组为应用包名列表。评分为 1–5 星，同一身份的新评价覆盖自己的旧评分。
+
+`catalog/user/index.json` 仅显示当前上架的用户上传模块，上传、更新、评价与下架时随主目录更新。模块按原条目 ID 查找版本、规则与评价。
+
+合并条目通过 `mergedFrom` 记录原条目及版本。被合并的原条目保存 `supersededBy`，原版本和评价仍可查询。
+
+`iconBundleName` 用于显示已核对的应用图标。默认使用鸿蒙原生图标，可通过 `iconMarketType` 指定应用市场的安卓同款（0）或元服务（21）。规则作用范围由 `scope` 决定。
 
 规则包的基本格式：
 
