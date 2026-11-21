@@ -1,0 +1,1 @@
+{"schema":1,"name":"IT之家","description":"","scope":[],"text":"#!name=IT之家\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% napi.ithome.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

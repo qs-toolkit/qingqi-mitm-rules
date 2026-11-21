@@ -1,0 +1,1 @@
+{"schema":1,"name":"去哒","description":"","scope":[],"text":"#!name=去哒\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% iqushangwang.8quan.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

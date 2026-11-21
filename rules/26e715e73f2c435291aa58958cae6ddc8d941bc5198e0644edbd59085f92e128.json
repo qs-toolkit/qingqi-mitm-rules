@@ -1,0 +1,1 @@
+{"schema":1,"name":"微信解除链接限制","description":"","scope":[],"text":"#!name=微信解除链接限制\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% weixin110.qq.com, security.wechat.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

@@ -1,0 +1,1 @@
+{"schema":1,"name":"汇付天下","description":"","scope":[],"text":"#!name=汇付天下\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% mcsp.cloudpnr.com, saas-ad.cloudpnr.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

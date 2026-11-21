@@ -1,0 +1,1 @@
+{"schema":1,"name":"电影猎手","description":"","scope":[],"text":"#!name=电影猎手\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% app-v1.ecoliving168.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

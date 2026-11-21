@@ -1,0 +1,1 @@
+{"schema":1,"name":"韭菜公社","description":"","scope":[],"text":"#!name=韭菜公社\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% jiucaigongshe.oss-cn-beijing.aliyuncs.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

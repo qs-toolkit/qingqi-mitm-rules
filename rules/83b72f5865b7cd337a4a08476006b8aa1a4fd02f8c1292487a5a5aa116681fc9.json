@@ -1,0 +1,1 @@
+{"schema":1,"name":"粉笔","description":"","scope":[],"text":"#!name=粉笔\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% tiku.fenbi.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

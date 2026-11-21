@@ -1,0 +1,1 @@
+{"schema":1,"name":"香蕉是一种水果","description":"","scope":[],"text":"#!name=香蕉是一种水果\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% *.pipiapps.com, *.fuliapps.com, *.xiangjiaoapps.com, *.xiangxiangapps.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

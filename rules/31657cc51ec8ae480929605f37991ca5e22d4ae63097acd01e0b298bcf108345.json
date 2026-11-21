@@ -1,0 +1,1 @@
+{"schema":1,"name":"vgTime","description":"","scope":[],"text":"#!name=vgTime\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% app02.vgtime.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

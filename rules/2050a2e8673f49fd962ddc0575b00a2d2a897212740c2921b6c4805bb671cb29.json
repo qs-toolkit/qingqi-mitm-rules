@@ -1,0 +1,1 @@
+{"schema":1,"name":"招商证券","description":"","scope":[],"text":"#!name=招商证券\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% marketing.cmschina.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

@@ -1,0 +1,1 @@
+{"schema":1,"name":"36kr","description":"","scope":[],"text":"#!name=36kr\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% gateway.36kr.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

@@ -1,0 +1,1 @@
+{"schema":1,"name":"上汽大众","description":"","scope":[],"text":"#!name=上汽大众\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% api.mos.csvw.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

@@ -1,0 +1,1 @@
+{"schema":1,"name":"12306","description":"","scope":[],"text":"#!name=12306\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% ad.12306.cn\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

@@ -1,0 +1,1 @@
+{"schema":1,"name":"X(Twitter)网页版去广告","description":"移除网页版 X (Twitter) 广告。","scope":[],"text":"#!name=X(Twitter)网页版去广告\n#!author=queitstart pro\n#!date=2026-11-21\n#!desc=移除网页版 X (Twitter) 广告。\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% x.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

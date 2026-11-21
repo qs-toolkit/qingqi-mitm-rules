@@ -1,0 +1,1 @@
+{"schema":1,"name":"收钱吧","description":"","scope":[],"text":"#!name=收钱吧\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[Rule]\nDOMAIN, ads-shopping.shouqianba.com,REJECT\n\n[MITM]\nhostname = %APPEND% api.pinduoduo.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

@@ -1,0 +1,1 @@
+{"schema":1,"name":"酷安","description":"","scope":[],"text":"#!name=酷安\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% api.coolapk.com, www.coolapk.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

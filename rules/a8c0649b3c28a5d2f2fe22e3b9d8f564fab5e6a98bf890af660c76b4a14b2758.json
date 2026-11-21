@@ -1,0 +1,1 @@
+{"schema":1,"name":"复游会微信小程序","description":"","scope":[],"text":"#!name=复游会微信小程序\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% apis.folidaymall.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

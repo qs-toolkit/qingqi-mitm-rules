@@ -1,0 +1,1 @@
+{"schema":1,"name":"小米商城","description":"","scope":[],"text":"#!name=小米商城\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% api.m.mi.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

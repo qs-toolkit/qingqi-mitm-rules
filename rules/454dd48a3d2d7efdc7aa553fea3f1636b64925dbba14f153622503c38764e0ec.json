@@ -1,0 +1,1 @@
+{"schema":1,"name":"腾讯视频","description":"","scope":[],"text":"#!name=腾讯视频\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% vv.video.qq.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}

@@ -1,0 +1,1 @@
+{"schema":1,"name":"四川航空","description":"","scope":[],"text":"#!name=四川航空\n#!author=queitstart pro\n#!date=2026-11-21\n#!format=sgmodule\n\n[MITM]\nhostname = %APPEND% mapi.sichuanair.com\n","scriptResources":[],"dataResources":[],"scriptsEnabled":false,"scriptScope":"*","argumentsJson":"{}","jsonPackage":""}
